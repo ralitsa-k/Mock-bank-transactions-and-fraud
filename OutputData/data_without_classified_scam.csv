@@ -1,0 +1,1407 @@
+,customer_id,Descriptions,Amount,Category,date,bank_from,bank_to,transac_prob,customer_prob
+0,12782,,1838.13,Housing,2023-10-01,bank_D,bank_A,0.78,0.6
+1,12782,,15.47,Utilities,2023-10-01,bank_D,bank_D,0.33,0.6
+2,12782,,13678.16,Income,2023-10-01,bank_A,bank_D,,0.6
+3,12782,,121.06,Groceries,2023-10-02,bank_D,bank_C,0.65,0.6
+4,12782,,26.61,Utilities,2023-10-02,bank_D,bank_D,0.35,0.6
+5,12782,,186.79,Online Shopping,2023-10-02,bank_D,bank_D,0.5,0.6
+6,12782,,33.68,Dining Out,2023-10-02,bank_D,bank_E,0.58,0.6
+7,12782,,42.04,Cash Withdrawal,2023-10-02,bank_D,,0.2,0.6
+8,12782,,181.36,Transfers,2023-10-02,bank_D,bank_B,0.42,0.6
+9,12782,,707.59,Transfers,2023-10-03,bank_D,bank_A,0.66,0.6
+10,12782,,12.08,Utilities,2023-10-03,bank_D,bank_D,0.31,0.6
+11,12782,,16.84,Healthcare,2023-10-05,bank_D,bank_E,0.25,0.6
+12,12782,,66.24,Credit Card Payment,2023-10-06,bank_D,bank_E,0.42,0.6
+13,12782,,16.53,Cash Withdrawal,2023-10-06,bank_D,,0.11,0.6
+14,12782,,54.06,Healthcare,2023-10-06,bank_D,bank_E,0.56,0.6
+15,12782,,8.36,Charity,2023-10-06,bank_D,bank_D,0.28,0.6
+16,12782,,179.16,Online Shopping,2023-10-06,bank_D,bank_D,0.61,0.6
+17,12782,,82.22,Cash Withdrawal,2023-10-07,bank_D,,0.24,0.6
+18,12782,,137.93,Groceries,2023-10-07,bank_D,bank_B,0.69,0.6
+19,12782,,1.24,Bank Fees,2023-10-09,bank_D,bank_B,0.25,0.6
+20,12782,,759.36,Holiday,2023-10-10,bank_D,bank_B,0.66,0.6
+21,12782,,14.16,Dining Out,2023-10-10,bank_D,bank_E,0.11,0.6
+22,12782,,27.91,Entertainment,2023-10-10,bank_D,bank_B,0.53,0.6
+23,12782,,25.46,Personal care,2023-10-10,bank_D,bank_E,0.35,0.6
+24,12782,,26.28,Cash Withdrawal,2023-10-10,bank_D,,0.18,0.6
+25,12782,,131.73,Transfers,2023-10-11,bank_D,bank_B,0.67,0.6
+26,12782,,23.28,Transfers,2023-10-11,bank_D,bank_D,0.28,0.6
+27,12782,,224.54,Online Shopping,2023-10-11,bank_D,bank_A,0.55,0.6
+28,12782,,69.24,Cash Withdrawal,2023-10-11,bank_D,,0.21,0.6
+29,12782,,567.93,Home Improvement,2023-10-11,bank_D,bank_A,0.51,0.6
+30,12782,,3.67,Dining Out,2023-10-12,bank_D,bank_B,0.11,0.6
+31,12782,,24.16,Personal care,2023-10-12,bank_D,bank_D,0.23,0.6
+32,12782,,64.79,Cash Withdrawal,2023-10-12,bank_D,,0.14,0.6
+33,12782,,239.03,Credit Card Payment,2023-10-12,bank_D,bank_D,0.63,0.6
+34,12782,,50.57,Cash Withdrawal,2023-10-13,bank_D,,0.23,0.6
+35,12782,,32.83,Entertainment,2023-10-14,bank_D,bank_C,0.48,0.6
+36,12782,,52.36,Groceries,2023-10-14,bank_D,bank_D,0.33,0.6
+37,12782,,40.95,Entertainment,2023-10-14,bank_D,bank_C,0.42,0.6
+38,12782,,22.41,Personal care,2023-10-15,bank_D,bank_E,0.27,0.6
+39,12782,,148.04,Cash Withdrawal,2023-10-16,bank_D,,0.19,0.6
+40,12782,,275.63,Transfers,2023-10-17,bank_D,bank_A,0.74,0.6
+41,12782,,13.49,Groceries,2023-10-17,bank_D,bank_B,0.1,0.6
+42,12782,,16.56,Groceries,2023-10-17,bank_D,bank_E,0.38,0.6
+43,12782,,614.59,Transfers,2023-10-17,bank_D,bank_E,0.59,0.6
+44,12782,,3.79,Dining Out,2023-10-17,bank_D,bank_A,0.4,0.6
+45,12782,,61.23,Online Shopping,2023-10-17,bank_D,bank_B,0.51,0.6
+46,12782,,57.29,Groceries,2023-10-18,bank_D,bank_D,0.43,0.6
+48,12782,,374.79,Credit Card Payment,2023-10-20,bank_D,bank_D,0.57,0.6
+49,12782,,75.81,Cash Withdrawal,2023-10-20,bank_D,,0.19,0.6
+50,12782,,58.31,Transfers,2023-10-20,bank_D,bank_D,0.49,0.6
+51,12782,,92.02,Cash Withdrawal,2023-10-21,bank_D,,0.21,0.6
+52,12782,,157.13,Shopping,2023-10-21,bank_D,bank_C,0.53,0.6
+53,12782,,22.08,Dining Out,2023-10-21,bank_D,bank_B,0.39,0.6
+54,12782,,753.29,Transfers,2023-10-22,bank_D,bank_B,0.54,0.6
+55,12782,,35.94,Groceries,2023-10-22,bank_D,bank_D,0.31,0.6
+56,12782,,12.87,Transportation,2023-10-22,bank_D,bank_B,0.14,0.6
+57,12782,,57.09,Entertainment,2023-10-22,bank_D,bank_E,0.39,0.6
+58,12782,,47.35,Groceries,2023-10-22,bank_D,bank_B,0.45,0.6
+59,12782,,3.49,Interest,2023-10-23,bank_D,bank_C,0.17,0.6
+60,12782,,30.27,Cash Withdrawal,2023-10-23,bank_D,,0.14,0.6
+61,12782,,174.49,Investment,2023-10-25,bank_D,bank_E,0.66,0.6
+62,12782,,201.24,Online Shopping,2023-10-25,bank_D,bank_A,0.73,0.6
+63,12782,,489.39,Credit Card Payment,2023-10-26,bank_D,bank_D,0.7,0.6
+64,12782,,70.11,Groceries,2023-10-26,bank_D,bank_C,0.69,0.6
+65,12782,,983.04,Shopping,2023-10-27,bank_D,bank_B,0.6,0.6
+66,12782,,185.04,Healthcare,2023-10-27,bank_D,bank_C,0.65,0.6
+67,12782,,37.74,Transportation,2023-10-27,bank_D,bank_A,0.45,0.6
+68,12782,,55.29,Groceries,2023-10-27,bank_D,bank_A,0.57,0.6
+69,12782,,139.51,Shopping,2023-10-28,bank_D,bank_C,0.58,0.6
+70,12782,,88.8,Transfers,2023-10-28,bank_D,bank_C,0.62,0.6
+71,12782,,1838.13,Housing,2023-11-01,bank_D,bank_D,0.74,0.6
+72,12782,,13678.16,Income,2023-11-01,bank_A,bank_D,,0.6
+73,12782,,15.47,Utilities,2023-11-01,bank_D,bank_D,0.36,0.6
+74,12782,,613.42,Transfers,2023-11-01,bank_D,bank_B,0.75,0.6
+75,12782,,92.07,Groceries,2023-11-02,bank_D,bank_C,0.69,0.6
+76,12782,,912.35,Home Improvement,2023-11-02,bank_D,bank_D,0.55,0.6
+77,12782,,42.43,Groceries,2023-11-02,bank_D,bank_B,0.38,0.6
+78,12782,,84.34,Entertainment,2023-11-02,bank_D,bank_E,0.63,0.6
+79,12782,,24.66,Entertainment,2023-11-02,bank_D,bank_B,0.22,0.6
+80,12782,,68.65,Groceries,2023-11-02,bank_D,bank_D,0.48,0.6
+81,12782,,13.15,Groceries,2023-11-02,bank_D,bank_B,0.37,0.6
+82,12782,,26.61,Utilities,2023-11-02,bank_D,bank_D,0.34,0.6
+83,12782,,12.35,Personal care,2023-11-03,bank_D,bank_E,0.18,0.6
+84,12782,,77.22,Cash Withdrawal,2023-11-03,bank_D,,0.17,0.6
+85,12782,,16.88,Cash Withdrawal,2023-11-03,bank_D,,0.12,0.6
+86,12782,,36.38,Credit Card Payment,2023-11-03,bank_D,bank_A,0.55,0.6
+87,12782,,12.08,Utilities,2023-11-03,bank_D,bank_D,0.36,0.6
+88,12782,,1578.17,Home Improvement,2023-11-04,bank_D,bank_C,0.59,0.6
+89,12782,,32.17,Dining Out,2023-11-05,bank_D,bank_D,0.55,0.6
+90,12782,,19.07,Personal care,2023-11-05,bank_D,bank_B,0.3,0.6
+91,12782,,146.01,Credit Card Payment,2023-11-05,bank_D,bank_E,0.56,0.6
+92,12782,,314.25,Transfers,2023-11-05,bank_D,bank_C,0.68,0.6
+93,12782,,44.34,Cash Withdrawal,2023-11-05,bank_D,,0.27,0.6
+94,12782,,29.93,Cash Withdrawal,2023-11-05,bank_D,,0.18,0.6
+95,12782,,62.62,Healthcare,2023-11-06,bank_D,bank_A,0.68,0.6
+96,12782,,796.36,Transfers,2023-11-06,bank_D,bank_A,0.76,0.6
+97,12782,,43.0,Entertainment,2023-11-06,bank_D,bank_A,0.32,0.6
+98,12782,,23.66,Cash Withdrawal,2023-11-06,bank_D,,0.16,0.6
+99,12782,,83.85,Groceries,2023-11-06,bank_D,bank_A,0.51,0.6
+100,12782,,287.81,Shopping,2023-11-06,bank_D,bank_D,0.52,0.6
+101,12782,,4.64,Dining Out,2023-11-07,bank_D,bank_B,0.29,0.6
+102,12782,,39.56,Entertainment,2023-11-08,bank_D,bank_D,0.34,0.6
+103,12782,,1940.62,Shopping,2023-11-10,bank_D,bank_C,0.78,0.6
+104,12782,,29.5,Dining Out,2023-11-11,bank_D,bank_C,0.48,0.6
+105,12782,,8.97,Interest,2023-11-12,bank_D,bank_A,0.32,0.6
+106,12782,,129.01,Online Shopping,2023-11-12,bank_D,bank_A,0.63,0.6
+107,12782,,282.93,Online Shopping,2023-11-15,bank_D,bank_A,0.77,0.6
+108,12782,,1419.69,Shopping,2023-11-15,bank_D,bank_C,0.53,0.6
+109,12782,,111.14,Healthcare,2023-11-15,bank_D,bank_D,0.42,0.6
+110,12782,,17.31,Groceries,2023-11-16,bank_D,bank_E,0.1,0.6
+111,12782,,34.84,Transfers,2023-11-18,bank_D,bank_E,0.37,0.6
+112,12782,,23.04,Personal care,2023-11-18,bank_D,bank_C,0.12,0.6
+113,12782,,158.1,Electronics,2023-11-18,bank_D,bank_D,0.42,0.6
+114,12782,,183.51,Investment,2023-11-19,bank_D,bank_C,0.5,0.6
+115,12782,,63.13,Credit Card Payment,2023-11-21,bank_D,bank_A,0.53,0.6
+116,12782,,65.13,Cash Withdrawal,2023-11-21,bank_D,,0.21,0.6
+117,12782,,7.3,Dining Out,2023-11-22,bank_D,bank_B,0.15,0.6
+118,12782,,972.66,Transfers,2023-11-23,bank_D,bank_B,0.71,0.6
+119,12782,,30.35,Groceries,2023-11-23,bank_D,bank_E,0.57,0.6
+120,12782,,55.1,Online Shopping,2023-11-23,bank_D,bank_E,0.5,0.6
+121,12782,,66.9,Online Shopping,2023-11-23,bank_D,bank_B,0.41,0.6
+122,12782,,23.34,Charity,2023-11-23,bank_D,bank_E,0.34,0.6
+123,12782,,310.8,Credit Card Payment,2023-11-23,bank_D,bank_C,0.73,0.6
+124,12782,,1195.3,Transfers,2023-11-24,bank_D,bank_B,0.69,0.6
+125,12782,,600.68,Transfers,2023-11-24,bank_D,bank_D,0.76,0.6
+126,12782,,80.0,Groceries,2023-11-25,bank_D,bank_B,0.64,0.6
+127,12782,,7.96,Cash Withdrawal,2023-11-25,bank_D,,0.16,0.6
+128,12782,,461.42,Transfers,2023-11-25,bank_D,bank_C,0.66,0.6
+129,12782,,1040.06,Transfers,2023-11-25,bank_D,bank_A,0.52,0.6
+130,12782,,103.5,Transportation,2023-11-25,bank_D,bank_B,0.58,0.6
+131,12782,,3.99,Dining Out,2023-11-25,bank_D,bank_D,0.22,0.6
+132,12782,,212.47,Credit Card Payment,2023-11-26,bank_D,bank_B,0.54,0.6
+133,12782,,89.06,Cash Withdrawal,2023-11-26,bank_D,,0.27,0.6
+134,12782,,47.67,Cash Withdrawal,2023-11-28,bank_D,,0.15,0.6
+135,12782,,67.5,Cash Withdrawal,2023-11-28,bank_D,,0.17,0.6
+136,12782,,307.18,Transfers,2023-11-28,bank_D,bank_D,0.75,0.6
+137,12782,,49.2,Groceries,2023-11-28,bank_D,bank_A,0.3,0.6
+138,12782,,167.67,Healthcare,2023-11-28,bank_D,bank_C,0.54,0.6
+139,12782,,103.12,Cash Withdrawal,2023-11-29,bank_D,,0.11,0.6
+140,12782,,16.54,Transportation,2023-11-30,bank_D,bank_E,0.22,0.6
+142,12782,,50.35,Cash Withdrawal,2023-11-30,bank_D,,0.27,0.6
+143,12782,eBay securitng item payment,24.59,Shopping,2023-10-22,bank_D,bank_C,0.15,0.6
+144,12782,Payment for Outstanding Tax Fine,46.51,Utilities,2023-11-22,bank_D,bank_C,0.31,0.6
+145,12782,InvestToday initial amount,22.8,Utilities,2023-10-22,bank_D,bank_A,0.15,0.6
+146,12782,Air bnb extra cleaning fees,8.22,Holiday,2023-11-23,bank_D,bank_D,0.36,0.6
+147,12782,NOW TV,30.17,Utilities,2023-10-16,bank_D,bank_C,0.4,0.6
+148,12782,Binary Options Investment - Instant Profits,30.5,Investment,2023-10-20,bank_D,bank_D,0.49,0.6
+149,16400,,19.66,Utilities,2023-10-01,bank_A,bank_B,0.13,0.42
+150,16400,,64.22,Transportation,2023-10-01,bank_A,bank_D,0.48,0.42
+151,16400,,53.92,Groceries,2023-10-01,bank_A,bank_A,0.58,0.42
+152,16400,,4.4,Dining Out,2023-10-01,bank_A,bank_C,0.18,0.42
+153,16400,,343.53,Holiday,2023-10-01,bank_A,bank_E,0.58,0.42
+154,16400,,1230.96,Housing,2023-10-01,bank_A,bank_B,0.63,0.42
+155,16400,,258.19,Credit Card Payment,2023-10-01,bank_A,bank_E,0.69,0.42
+156,16400,,124.03,Cash Withdrawal,2023-10-01,bank_A,,0.29,0.42
+157,16400,,140.79,Loan Payment,2023-10-01,bank_A,bank_C,0.69,0.42
+158,16400,,14243.65,Income,2023-10-01,bank_C,bank_A,,0.42
+159,16400,,11.47,Charity,2023-10-01,bank_A,bank_B,0.34,0.42
+160,16400,,106.55,Utilities,2023-10-02,bank_A,bank_B,0.6,0.42
+161,16400,,378.48,Transfers,2023-10-02,bank_A,bank_C,0.73,0.42
+162,16400,,16.23,Utilities,2023-10-03,bank_A,bank_B,0.13,0.42
+163,16400,,52.58,Cash Withdrawal,2023-10-03,bank_A,,0.1,0.42
+164,16400,,4.84,Dining Out,2023-10-03,bank_A,bank_E,0.34,0.42
+165,16400,,98.09,Cash Withdrawal,2023-10-04,bank_A,,0.3,0.42
+166,16400,,17.6,Healthcare,2023-10-05,bank_A,bank_D,0.1,0.42
+167,16400,,30.99,Groceries,2023-10-05,bank_A,bank_A,0.3,0.42
+168,16400,,18.52,Transportation,2023-10-05,bank_A,bank_C,0.2,0.42
+169,16400,,140.33,Shopping,2023-10-05,bank_A,bank_D,0.66,0.42
+170,16400,,191.08,Transfers,2023-10-06,bank_A,bank_E,0.72,0.42
+171,16400,,8.19,Cash Withdrawal,2023-10-08,bank_A,,0.22,0.42
+172,16400,,40.01,Cash Withdrawal,2023-10-08,bank_A,,0.23,0.42
+173,16400,,32.77,Cash Withdrawal,2023-10-08,bank_A,,0.23,0.42
+174,16400,,663.51,Transfers,2023-10-08,bank_A,bank_C,0.51,0.42
+175,16400,,290.26,Credit Card Payment,2023-10-11,bank_A,bank_E,0.66,0.42
+176,16400,,455.73,Transfers,2023-10-12,bank_A,bank_C,0.72,0.42
+177,16400,,76.7,Cash Withdrawal,2023-10-12,bank_A,,0.15,0.42
+178,16400,,78.46,Groceries,2023-10-13,bank_A,bank_A,0.43,0.42
+179,16400,,76.04,Cash Withdrawal,2023-10-14,bank_A,,0.19,0.42
+180,16400,,475.24,Credit Card Payment,2023-10-14,bank_A,bank_C,0.56,0.42
+181,16400,,77.41,Groceries,2023-10-15,bank_A,bank_D,0.47,0.42
+182,16400,,46.54,Cash Withdrawal,2023-10-15,bank_A,,0.27,0.42
+183,16400,,77.63,Healthcare,2023-10-15,bank_A,bank_A,0.61,0.42
+184,16400,,773.58,Transfers,2023-10-15,bank_A,bank_C,0.77,0.42
+185,16400,,52.17,Groceries,2023-10-17,bank_A,bank_E,0.34,0.42
+186,16400,,3.14,Interest,2023-10-17,bank_A,bank_C,0.37,0.42
+187,16400,,300.22,Electronics,2023-10-18,bank_A,bank_A,0.76,0.42
+188,16400,,59.87,Cash Withdrawal,2023-10-20,bank_A,,0.24,0.42
+189,16400,,41.46,Cash Withdrawal,2023-10-20,bank_A,,0.14,0.42
+190,16400,,66.75,Home Improvement,2023-10-20,bank_A,bank_E,0.37,0.42
+191,16400,,117.85,Shopping,2023-10-20,bank_A,bank_A,0.63,0.42
+192,16400,,22.4,Personal care,2023-10-20,bank_A,bank_E,0.35,0.42
+193,16400,,154.78,Credit Card Payment,2023-10-22,bank_A,bank_E,0.62,0.42
+194,16400,,21.41,Dining Out,2023-10-22,bank_A,bank_D,0.18,0.42
+195,16400,,395.99,Transfers,2023-10-22,bank_A,bank_B,0.78,0.42
+196,16400,,32.01,Groceries,2023-10-22,bank_A,bank_A,0.13,0.42
+197,16400,,101.81,Transfers,2023-10-24,bank_A,bank_A,0.61,0.42
+198,16400,,45.57,Groceries,2023-10-24,bank_A,bank_B,0.32,0.42
+199,16400,,23.91,Cash Withdrawal,2023-10-24,bank_A,,0.3,0.42
+200,16400,,34.12,Groceries,2023-10-25,bank_A,bank_E,0.53,0.42
+201,16400,,216.63,Shopping,2023-10-25,bank_A,bank_E,0.78,0.42
+202,16400,,343.77,Home Improvement,2023-10-25,bank_A,bank_C,0.56,0.42
+203,16400,,96.32,Online Shopping,2023-10-26,bank_A,bank_C,0.63,0.42
+205,16400,,186.21,Healthcare,2023-10-27,bank_A,bank_E,0.54,0.42
+206,16400,,43.96,Groceries,2023-10-29,bank_A,bank_E,0.44,0.42
+207,16400,,258.42,Transfers,2023-10-29,bank_A,bank_E,0.75,0.42
+208,16400,,34.9,Personal care,2023-10-29,bank_A,bank_C,0.51,0.42
+209,16400,,251.99,Transfers,2023-10-29,bank_A,bank_A,0.72,0.42
+210,16400,,10.38,Dining Out,2023-10-29,bank_A,bank_C,0.11,0.42
+211,16400,,31.76,Entertainment,2023-10-30,bank_A,bank_B,0.31,0.42
+212,16400,,17.01,Transportation,2023-10-30,bank_A,bank_A,0.1,0.42
+213,16400,,46.91,Entertainment,2023-10-30,bank_A,bank_D,0.4,0.42
+214,16400,,24.77,Entertainment,2023-10-31,bank_A,bank_A,0.31,0.42
+215,16400,,98.6,Online Shopping,2023-10-31,bank_A,bank_A,0.52,0.42
+216,16400,,20.83,Groceries,2023-10-31,bank_A,bank_A,0.16,0.42
+217,16400,,58.31,Online Shopping,2023-10-31,bank_A,bank_B,0.54,0.42
+218,16400,,1230.96,Housing,2023-11-01,bank_A,bank_B,0.56,0.42
+219,16400,,19.66,Utilities,2023-11-01,bank_A,bank_B,0.29,0.42
+220,16400,,708.25,Transfers,2023-11-01,bank_A,bank_A,0.71,0.42
+221,16400,,207.81,Shopping,2023-11-01,bank_A,bank_D,0.63,0.42
+222,16400,,87.31,Cash Withdrawal,2023-11-01,bank_A,,0.15,0.42
+223,16400,,14243.65,Income,2023-11-01,bank_C,bank_A,,0.42
+224,16400,,106.55,Utilities,2023-11-02,bank_A,bank_B,0.6,0.42
+225,16400,,16.23,Utilities,2023-11-03,bank_A,bank_B,0.15,0.42
+226,16400,,79.93,Cash Withdrawal,2023-11-03,bank_A,,0.13,0.42
+227,16400,,75.99,Cash Withdrawal,2023-11-03,bank_A,,0.29,0.42
+228,16400,,690.57,Transfers,2023-11-04,bank_A,bank_D,0.58,0.42
+229,16400,,272.59,Home Improvement,2023-11-04,bank_A,bank_D,0.61,0.42
+230,16400,,76.16,Groceries,2023-11-05,bank_A,bank_E,0.49,0.42
+231,16400,,33.02,Credit Card Payment,2023-11-06,bank_A,bank_B,0.53,0.42
+232,16400,,58.45,Online Shopping,2023-11-07,bank_A,bank_B,0.57,0.42
+233,16400,,16.89,Entertainment,2023-11-07,bank_A,bank_A,0.18,0.42
+234,16400,,12.2,Interest,2023-11-07,bank_A,bank_A,0.4,0.42
+235,16400,,32.91,Groceries,2023-11-07,bank_A,bank_A,0.32,0.42
+236,16400,,266.06,Online Shopping,2023-11-08,bank_A,bank_D,0.71,0.42
+237,16400,,90.54,Cash Withdrawal,2023-11-08,bank_A,,0.21,0.42
+238,16400,,40.25,Groceries,2023-11-08,bank_A,bank_E,0.44,0.42
+240,16400,,93.91,Groceries,2023-11-09,bank_A,bank_C,0.62,0.42
+241,16400,,134.59,Healthcare,2023-11-09,bank_A,bank_B,0.64,0.42
+242,16400,,21.95,Dining Out,2023-11-09,bank_A,bank_B,0.18,0.42
+243,16400,,532.16,Home Improvement,2023-11-10,bank_A,bank_A,0.54,0.42
+244,16400,,30.97,Groceries,2023-11-10,bank_A,bank_D,0.11,0.42
+245,16400,,14.53,Personal care,2023-11-11,bank_A,bank_C,0.39,0.42
+246,16400,,85.71,Groceries,2023-11-11,bank_A,bank_B,0.42,0.42
+247,16400,,117.45,Transfers,2023-11-11,bank_A,bank_C,0.45,0.42
+248,16400,,60.8,Cash Withdrawal,2023-11-11,bank_A,,0.16,0.42
+249,16400,,535.76,Credit Card Payment,2023-11-11,bank_A,bank_E,0.6,0.42
+250,16400,,577.12,Transfers,2023-11-11,bank_A,bank_B,0.69,0.42
+251,16400,,15.94,Entertainment,2023-11-11,bank_A,bank_E,0.1,0.42
+252,16400,,75.94,Credit Card Payment,2023-11-12,bank_A,bank_D,0.65,0.42
+253,16400,,33.33,Personal care,2023-11-12,bank_A,bank_A,0.54,0.42
+254,16400,,36.41,Cash Withdrawal,2023-11-12,bank_A,,0.22,0.42
+255,16400,,77.79,Transfers,2023-11-13,bank_A,bank_D,0.62,0.42
+256,16400,,14.29,Dining Out,2023-11-13,bank_A,bank_D,0.27,0.42
+257,16400,,300.34,Transfers,2023-11-14,bank_A,bank_C,0.69,0.42
+258,16400,,26.0,Personal care,2023-11-14,bank_A,bank_A,0.15,0.42
+259,16400,,41.34,Entertainment,2023-11-14,bank_A,bank_A,0.35,0.42
+260,16400,,17.2,Dining Out,2023-11-15,bank_A,bank_D,0.3,0.42
+261,16400,,1295.8,Transfers,2023-11-15,bank_A,bank_B,0.77,0.42
+262,16400,,91.39,Groceries,2023-11-15,bank_A,bank_E,0.53,0.42
+263,16400,,78.03,Cash Withdrawal,2023-11-15,bank_A,,0.21,0.42
+264,16400,,49.59,Cash Withdrawal,2023-11-16,bank_A,,0.29,0.42
+265,16400,,75.23,Transfers,2023-11-16,bank_A,bank_D,0.58,0.42
+266,16400,,63.01,Groceries,2023-11-16,bank_A,bank_E,0.44,0.42
+267,16400,,16.38,Cash Withdrawal,2023-11-17,bank_A,,0.24,0.42
+268,16400,,570.17,Shopping,2023-11-17,bank_A,bank_E,0.75,0.42
+269,16400,,111.05,Transfers,2023-11-17,bank_A,bank_B,0.63,0.42
+270,16400,,109.59,Healthcare,2023-11-17,bank_A,bank_D,0.46,0.42
+271,16400,,262.32,Online Shopping,2023-11-17,bank_A,bank_A,0.6,0.42
+272,16400,,63.68,Cash Withdrawal,2023-11-17,bank_A,,0.26,0.42
+273,16400,,9.11,Interest,2023-11-17,bank_A,bank_C,0.25,0.42
+274,16400,,34.25,Dining Out,2023-11-17,bank_A,bank_C,0.38,0.42
+275,16400,,18.62,Charity,2023-11-17,bank_A,bank_D,0.22,0.42
+276,16400,,39.16,Groceries,2023-11-18,bank_A,bank_E,0.58,0.42
+277,16400,,209.52,Online Shopping,2023-11-19,bank_A,bank_D,0.74,0.42
+278,16400,,60.67,Transportation,2023-11-19,bank_A,bank_C,0.47,0.42
+279,16400,,233.7,Transfers,2023-11-21,bank_A,bank_B,0.55,0.42
+280,16400,,38.53,Shopping,2023-11-21,bank_A,bank_E,0.45,0.42
+281,16400,,100.39,Cash Withdrawal,2023-11-21,bank_A,,0.1,0.42
+282,16400,,3.21,Dining Out,2023-11-22,bank_A,bank_E,0.25,0.42
+283,16400,,152.03,Credit Card Payment,2023-11-23,bank_A,bank_B,0.57,0.42
+284,16400,,145.11,Loan Payment,2023-11-24,bank_A,bank_B,0.64,0.42
+285,16400,,43.13,Shopping,2023-11-25,bank_A,bank_A,0.41,0.42
+286,16400,,104.71,Transportation,2023-11-27,bank_A,bank_A,0.68,0.42
+287,16400,,44.85,Cash Withdrawal,2023-11-27,bank_A,,0.24,0.42
+288,16400,,11.69,Transportation,2023-11-28,bank_A,bank_D,0.33,0.42
+289,17216,,31.41,Utilities,2023-10-01,bank_B,bank_C,0.11,0.55
+290,17216,,51.41,Healthcare,2023-10-01,bank_B,bank_B,0.5,0.55
+291,17216,,336.34,Transfers,2023-10-01,bank_B,bank_B,0.72,0.55
+292,17216,,1195.59,Housing,2023-10-01,bank_B,bank_E,0.79,0.55
+293,17216,,48.5,Cash Withdrawal,2023-10-01,bank_B,,0.1,0.55
+294,17216,,23214.46,Income,2023-10-01,bank_C,bank_B,,0.55
+295,17216,,22.41,Personal care,2023-10-01,bank_B,bank_A,0.23,0.55
+296,17216,,8.61,Interest,2023-10-01,bank_B,bank_A,0.34,0.55
+297,17216,,118.49,Utilities,2023-10-02,bank_B,bank_C,0.56,0.55
+298,17216,,28.04,Groceries,2023-10-02,bank_B,bank_D,0.28,0.55
+299,17216,,2.65,Dining Out,2023-10-02,bank_B,bank_A,0.15,0.55
+300,17216,,26.0,Utilities,2023-10-03,bank_B,bank_C,0.1,0.55
+301,17216,,176.99,Utilities,2023-10-04,bank_B,bank_C,0.69,0.55
+302,17216,,95.41,Groceries,2023-10-04,bank_B,bank_C,0.43,0.55
+303,17216,,57.36,Cash Withdrawal,2023-10-05,bank_B,,0.25,0.55
+304,17216,,3.67,Dining Out,2023-10-05,bank_B,bank_E,0.1,0.55
+305,17216,,537.8,Transfers,2023-10-05,bank_B,bank_D,0.65,0.55
+306,17216,,122.66,Transportation,2023-10-05,bank_B,bank_D,0.46,0.55
+307,17216,,1641.1,Shopping,2023-10-07,bank_B,bank_A,0.67,0.55
+308,17216,,690.37,Transfers,2023-10-07,bank_B,bank_A,0.53,0.55
+309,17216,,36.2,Groceries,2023-10-07,bank_B,bank_B,0.55,0.55
+310,17216,,23.29,Entertainment,2023-10-07,bank_B,bank_E,0.11,0.55
+311,17216,,752.71,Transfers,2023-10-08,bank_B,bank_E,0.71,0.55
+312,17216,,136.47,Online Shopping,2023-10-09,bank_B,bank_D,0.42,0.55
+313,17216,,1777.1,Shopping,2023-10-09,bank_B,bank_B,0.73,0.55
+314,17216,,45.45,Groceries,2023-10-10,bank_B,bank_C,0.58,0.55
+315,17216,,15.18,Personal care,2023-10-10,bank_B,bank_A,0.18,0.55
+316,17216,,5.19,Bank Fees,2023-10-10,bank_B,bank_D,0.31,0.55
+317,17216,,127.43,Cash Withdrawal,2023-10-10,bank_B,,0.21,0.55
+318,17216,,55.52,Cash Withdrawal,2023-10-10,bank_B,,0.26,0.55
+319,17216,,134.36,Cash Withdrawal,2023-10-10,bank_B,,0.22,0.55
+320,17216,,78.69,Healthcare,2023-10-11,bank_B,bank_A,0.7,0.55
+321,17216,,32.96,Cash Withdrawal,2023-10-11,bank_B,,0.24,0.55
+322,17216,,6.81,Cash Withdrawal,2023-10-11,bank_B,,0.23,0.55
+324,17216,,51.26,Online Shopping,2023-10-11,bank_B,bank_E,0.43,0.55
+325,17216,,53.65,Transfers,2023-10-12,bank_B,bank_E,0.59,0.55
+326,17216,,3.54,Interest,2023-10-13,bank_B,bank_C,0.29,0.55
+327,17216,,1868.88,Home Improvement,2023-10-14,bank_B,bank_B,0.52,0.55
+328,17216,,24.23,Groceries,2023-10-14,bank_B,bank_C,0.18,0.55
+329,17216,,130.02,Shopping,2023-10-14,bank_B,bank_D,0.45,0.55
+330,17216,,115.53,Online Shopping,2023-10-16,bank_B,bank_D,0.44,0.55
+331,17216,,155.25,Online Shopping,2023-10-16,bank_B,bank_E,0.42,0.55
+332,17216,,565.89,Transfers,2023-10-18,bank_B,bank_C,0.56,0.55
+333,17216,,4.36,Dining Out,2023-10-19,bank_B,bank_C,0.18,0.55
+334,17216,,29.2,Cash Withdrawal,2023-10-20,bank_B,,0.28,0.55
+335,17216,,96.08,Groceries,2023-10-20,bank_B,bank_E,0.52,0.55
+336,17216,,11.96,Dining Out,2023-10-20,bank_B,bank_C,0.38,0.55
+337,17216,,54.5,Entertainment,2023-10-20,bank_B,bank_B,0.48,0.55
+338,17216,,121.54,Loan Payment,2023-10-20,bank_B,bank_B,0.45,0.55
+340,17216,,73.09,Groceries,2023-10-20,bank_B,bank_D,0.52,0.55
+341,17216,,66.79,Cash Withdrawal,2023-10-21,bank_B,,0.12,0.55
+342,17216,,179.51,Credit Card Payment,2023-10-22,bank_B,bank_B,0.71,0.55
+343,17216,,1048.74,Shopping,2023-10-23,bank_B,bank_C,0.62,0.55
+344,17216,,42.32,Entertainment,2023-10-23,bank_B,bank_E,0.37,0.55
+345,17216,,588.37,Transfers,2023-10-24,bank_B,bank_E,0.68,0.55
+346,17216,,15.4,Transportation,2023-10-24,bank_B,bank_B,0.26,0.55
+347,17216,,424.01,Holiday,2023-10-24,bank_B,bank_C,0.53,0.55
+348,17216,,604.02,Transfers,2023-10-25,bank_B,bank_E,0.58,0.55
+349,17216,,289.04,Credit Card Payment,2023-10-25,bank_B,bank_B,0.53,0.55
+350,17216,,80.75,Groceries,2023-10-26,bank_B,bank_D,0.58,0.55
+351,17216,,20.32,Cash Withdrawal,2023-10-26,bank_B,,0.15,0.55
+352,17216,,198.6,Credit Card Payment,2023-10-27,bank_B,bank_B,0.77,0.55
+353,17216,,74.02,Cash Withdrawal,2023-10-27,bank_B,,0.24,0.55
+354,17216,,54.5,Groceries,2023-10-27,bank_B,bank_E,0.32,0.55
+355,17216,,55.43,Transportation,2023-10-27,bank_B,bank_C,0.47,0.55
+356,17216,,51.5,Groceries,2023-10-28,bank_B,bank_D,0.48,0.55
+357,17216,,329.7,Transfers,2023-10-29,bank_B,bank_A,0.61,0.55
+358,17216,,26.38,Cash Withdrawal,2023-10-29,bank_B,,0.25,0.55
+359,17216,,1195.59,Housing,2023-11-01,bank_B,bank_E,0.73,0.55
+360,17216,,34.54,Groceries,2023-11-01,bank_B,bank_E,0.54,0.55
+361,17216,,23214.46,Income,2023-11-01,bank_C,bank_B,,0.55
+362,17216,,62.29,Cash Withdrawal,2023-11-01,bank_B,,0.2,0.55
+363,17216,,31.41,Utilities,2023-11-01,bank_B,bank_C,0.19,0.55
+364,17216,,141.23,Credit Card Payment,2023-11-01,bank_B,bank_E,0.52,0.55
+365,17216,,114.41,Online Shopping,2023-11-02,bank_B,bank_C,0.56,0.55
+366,17216,,38.79,Entertainment,2023-11-02,bank_B,bank_A,0.42,0.55
+367,17216,,118.49,Utilities,2023-11-02,bank_B,bank_C,0.57,0.55
+368,17216,,154.72,Groceries,2023-11-03,bank_B,bank_B,0.55,0.55
+369,17216,,757.8,Shopping,2023-11-03,bank_B,bank_E,0.7,0.55
+370,17216,,26.0,Utilities,2023-11-03,bank_B,bank_C,0.18,0.55
+371,17216,,84.74,Transfers,2023-11-04,bank_B,bank_E,0.62,0.55
+372,17216,,121.63,Credit Card Payment,2023-11-04,bank_B,bank_A,0.48,0.55
+373,17216,,74.47,Transportation,2023-11-04,bank_B,bank_C,0.46,0.55
+374,17216,,176.99,Utilities,2023-11-04,bank_B,bank_C,0.56,0.55
+375,17216,,51.95,Transportation,2023-11-04,bank_B,bank_A,0.51,0.55
+376,17216,,504.29,Transfers,2023-11-04,bank_B,bank_C,0.53,0.55
+377,17216,,27.38,Transportation,2023-11-05,bank_B,bank_A,0.22,0.55
+378,17216,,674.78,Transfers,2023-11-05,bank_B,bank_E,0.63,0.55
+380,17216,,56.97,Cash Withdrawal,2023-11-06,bank_B,,0.21,0.55
+381,17216,,32.51,Cash Withdrawal,2023-11-06,bank_B,,0.12,0.55
+382,17216,,115.43,Cash Withdrawal,2023-11-06,bank_B,,0.16,0.55
+383,17216,,75.79,Groceries,2023-11-08,bank_B,bank_A,0.51,0.55
+384,17216,,45.54,Groceries,2023-11-09,bank_B,bank_B,0.5,0.55
+385,17216,,22.35,Personal care,2023-11-09,bank_B,bank_C,0.21,0.55
+386,17216,,36.63,Groceries,2023-11-09,bank_B,bank_D,0.44,0.55
+387,17216,,26.17,Entertainment,2023-11-09,bank_B,bank_C,0.15,0.55
+388,17216,,717.57,Shopping,2023-11-10,bank_B,bank_B,0.51,0.55
+389,17216,,16.15,Dining Out,2023-11-10,bank_B,bank_E,0.4,0.55
+390,17216,,117.82,Online Shopping,2023-11-10,bank_B,bank_E,0.63,0.55
+391,17216,,87.18,Shopping,2023-11-11,bank_B,bank_D,0.48,0.55
+392,17216,,104.67,Cash Withdrawal,2023-11-12,bank_B,,0.21,0.55
+393,17216,,71.62,Cash Withdrawal,2023-11-14,bank_B,,0.16,0.55
+394,17216,,390.01,Transfers,2023-11-14,bank_B,bank_A,0.7,0.55
+395,17216,,195.15,Transfers,2023-11-14,bank_B,bank_B,0.75,0.55
+396,17216,,88.75,Groceries,2023-11-14,bank_B,bank_C,0.62,0.55
+397,17216,,98.31,Transfers,2023-11-15,bank_B,bank_D,0.5,0.55
+398,17216,,3.7,Interest,2023-11-15,bank_B,bank_D,0.19,0.55
+399,17216,,1947.15,Shopping,2023-11-15,bank_B,bank_A,0.78,0.55
+400,17216,,21.42,Cash Withdrawal,2023-11-15,bank_B,,0.12,0.55
+401,17216,,3.26,Dining Out,2023-11-15,bank_B,bank_E,0.19,0.55
+402,17216,,808.78,Transfers,2023-11-16,bank_B,bank_A,0.77,0.55
+403,17216,,27.65,Cash Withdrawal,2023-11-16,bank_B,,0.16,0.55
+405,17216,,94.43,Online Shopping,2023-11-17,bank_B,bank_B,0.53,0.55
+406,17216,,123.18,Healthcare,2023-11-18,bank_B,bank_A,0.59,0.55
+407,17216,,20.97,Dining Out,2023-11-19,bank_B,bank_A,0.39,0.55
+408,17216,,112.61,Loan Payment,2023-11-20,bank_B,bank_A,0.43,0.55
+409,17216,,14.99,Dining Out,2023-11-20,bank_B,bank_D,0.27,0.55
+410,17216,,32.59,Groceries,2023-11-22,bank_B,bank_D,0.46,0.55
+411,17216,,44.66,Groceries,2023-11-22,bank_B,bank_B,0.52,0.55
+412,17216,,471.74,Home Improvement,2023-11-22,bank_B,bank_D,0.53,0.55
+413,17216,,458.36,Transfers,2023-11-22,bank_B,bank_C,0.76,0.55
+414,17216,,44.72,Entertainment,2023-11-23,bank_B,bank_A,0.48,0.55
+415,17216,,78.58,Credit Card Payment,2023-11-23,bank_B,bank_C,0.64,0.55
+416,17216,,107.03,Investment,2023-11-23,bank_B,bank_B,0.57,0.55
+417,17216,,95.11,Cash Withdrawal,2023-11-23,bank_B,,0.19,0.55
+418,17216,,14.71,Personal care,2023-11-24,bank_B,bank_E,0.3,0.55
+419,17216,,14.95,Entertainment,2023-11-24,bank_B,bank_E,0.23,0.55
+420,17216,,36.54,Healthcare,2023-11-25,bank_B,bank_E,0.55,0.55
+421,17216,,40.87,Cash Withdrawal,2023-11-26,bank_B,,0.12,0.55
+422,17216,,41.05,Cash Withdrawal,2023-11-26,bank_B,,0.21,0.55
+423,17216,,330.29,Transfers,2023-11-27,bank_B,bank_E,0.6,0.55
+424,17216,,51.36,Cash Withdrawal,2023-11-27,bank_B,,0.22,0.55
+425,17216,,713.19,Home Improvement,2023-11-28,bank_B,bank_A,0.6,0.55
+426,17216,,27.45,Dining Out,2023-11-29,bank_B,bank_B,0.16,0.55
+427,17216,,14.39,Personal care,2023-11-29,bank_B,bank_D,0.35,0.55
+428,17216,,7.84,Interest,2023-11-30,bank_B,bank_B,0.31,0.55
+429,17216,,71.06,Groceries,2023-11-30,bank_B,bank_B,0.32,0.55
+430,17216,,336.4,Holiday,2023-11-30,bank_B,bank_B,0.78,0.55
+431,16898,,129.16,Utilities,2023-10-01,bank_E,bank_E,0.67,0.4
+432,16898,,534.27,Transfers,2023-10-01,bank_E,bank_D,0.56,0.4
+433,16898,,278.31,Online Shopping,2023-10-01,bank_E,bank_C,0.77,0.4
+434,16898,,16332.34,Income,2023-10-01,bank_A,bank_E,,0.4
+435,16898,,1081.4,Housing,2023-10-01,bank_E,bank_B,0.51,0.4
+436,16898,,102.97,Groceries,2023-10-01,bank_E,bank_A,0.53,0.4
+437,16898,,53.65,Groceries,2023-10-02,bank_E,bank_C,0.59,0.4
+438,16898,,30.79,Utilities,2023-10-02,bank_E,bank_E,0.42,0.4
+439,16898,,77.45,Cash Withdrawal,2023-10-02,bank_E,,0.28,0.4
+440,16898,,34.12,Dining Out,2023-10-02,bank_E,bank_A,0.54,0.4
+441,16898,,47.5,Dining Out,2023-10-02,bank_E,bank_A,0.32,0.4
+442,16898,,13.25,Cash Withdrawal,2023-10-03,bank_E,,0.15,0.4
+443,16898,,90.5,Utilities,2023-10-03,bank_E,bank_E,0.48,0.4
+444,16898,,62.0,Credit Card Payment,2023-10-03,bank_E,bank_B,0.35,0.4
+445,16898,,328.43,Online Shopping,2023-10-04,bank_E,bank_B,0.61,0.4
+446,16898,,142.19,Utilities,2023-10-04,bank_E,bank_E,0.49,0.4
+447,16898,,49.02,Groceries,2023-10-05,bank_E,bank_A,0.39,0.4
+448,16898,,1143.62,Shopping,2023-10-07,bank_E,bank_D,0.74,0.4
+449,16898,,10.62,Interest,2023-10-07,bank_E,bank_E,0.36,0.4
+451,16898,,76.08,Shopping,2023-10-08,bank_E,bank_A,0.4,0.4
+452,16898,,380.6,Transfers,2023-10-09,bank_E,bank_C,0.7,0.4
+453,16898,,15.07,Groceries,2023-10-09,bank_E,bank_B,0.24,0.4
+454,16898,,1198.81,Transfers,2023-10-09,bank_E,bank_A,0.55,0.4
+455,16898,,381.76,Transfers,2023-10-09,bank_E,bank_A,0.62,0.4
+456,16898,,57.18,Groceries,2023-10-09,bank_E,bank_C,0.59,0.4
+458,16898,,508.71,Transfers,2023-10-11,bank_E,bank_E,0.58,0.4
+459,16898,,18.64,Dining Out,2023-10-12,bank_E,bank_C,0.24,0.4
+460,16898,,19.6,Dining Out,2023-10-12,bank_E,bank_E,0.17,0.4
+461,16898,,41.71,Transportation,2023-10-12,bank_E,bank_C,0.43,0.4
+462,16898,,20.67,Cash Withdrawal,2023-10-12,bank_E,,0.18,0.4
+463,16898,,405.47,Credit Card Payment,2023-10-13,bank_E,bank_D,0.72,0.4
+464,16898,,98.17,Groceries,2023-10-13,bank_E,bank_B,0.45,0.4
+465,16898,,9.73,Healthcare,2023-10-14,bank_E,bank_C,0.13,0.4
+466,16898,,559.39,Transfers,2023-10-17,bank_E,bank_A,0.73,0.4
+467,16898,,68.2,Cash Withdrawal,2023-10-17,bank_E,,0.3,0.4
+468,16898,,83.89,Cash Withdrawal,2023-10-17,bank_E,,0.12,0.4
+469,16898,,36.54,Healthcare,2023-10-17,bank_E,bank_C,0.51,0.4
+470,16898,,105.89,Cash Withdrawal,2023-10-19,bank_E,,0.11,0.4
+471,16898,,53.16,Entertainment,2023-10-19,bank_E,bank_E,0.43,0.4
+472,16898,,221.05,Investment,2023-10-22,bank_E,bank_E,0.64,0.4
+473,16898,,66.9,Cash Withdrawal,2023-10-22,bank_E,,0.3,0.4
+474,16898,,24.14,Personal care,2023-10-23,bank_E,bank_C,0.26,0.4
+475,16898,,779.94,Transfers,2023-10-23,bank_E,bank_E,0.59,0.4
+476,16898,,165.18,Credit Card Payment,2023-10-24,bank_E,bank_D,0.69,0.4
+477,16898,,86.71,Groceries,2023-10-24,bank_E,bank_D,0.48,0.4
+478,16898,,30.31,Cash Withdrawal,2023-10-25,bank_E,,0.15,0.4
+479,16898,,38.09,Transfers,2023-10-25,bank_E,bank_B,0.33,0.4
+480,16898,,29.79,Entertainment,2023-10-25,bank_E,bank_D,0.52,0.4
+481,16898,,95.9,Transportation,2023-10-26,bank_E,bank_A,0.43,0.4
+482,16898,,616.47,Home Improvement,2023-10-26,bank_E,bank_D,0.54,0.4
+483,16898,,25.27,Personal care,2023-10-26,bank_E,bank_A,0.28,0.4
+484,16898,,121.34,Online Shopping,2023-10-26,bank_E,bank_D,0.63,0.4
+485,16898,,913.5,Shopping,2023-10-28,bank_E,bank_E,0.52,0.4
+486,16898,,27.05,Charity,2023-10-28,bank_E,bank_E,0.38,0.4
+487,16898,,70.04,Entertainment,2023-10-29,bank_E,bank_B,0.56,0.4
+488,16898,,30.48,Entertainment,2023-10-29,bank_E,bank_A,0.36,0.4
+489,16898,,14.25,Cash Withdrawal,2023-10-29,bank_E,,0.14,0.4
+490,16898,,7.14,Cash Withdrawal,2023-10-29,bank_E,,0.19,0.4
+491,16898,,35.56,Groceries,2023-10-30,bank_E,bank_C,0.32,0.4
+492,16898,,4.2,Dining Out,2023-10-30,bank_E,bank_C,0.14,0.4
+493,16898,,185.62,Credit Card Payment,2023-10-30,bank_E,bank_C,0.68,0.4
+494,16898,,5.46,Cash Withdrawal,2023-10-30,bank_E,,0.19,0.4
+495,16898,,54.36,Groceries,2023-10-31,bank_E,bank_A,0.44,0.4
+496,16898,,246.5,Transfers,2023-10-31,bank_E,bank_B,0.66,0.4
+497,16898,,1081.4,Housing,2023-11-01,bank_E,bank_D,0.54,0.4
+498,16898,,83.27,Groceries,2023-11-01,bank_E,bank_D,0.57,0.4
+499,16898,,129.16,Utilities,2023-11-01,bank_E,bank_E,0.48,0.4
+500,16898,,16332.34,Income,2023-11-01,bank_A,bank_E,,0.4
+501,16898,,47.92,Cash Withdrawal,2023-11-01,bank_E,,0.18,0.4
+502,16898,,447.94,Credit Card Payment,2023-11-01,bank_E,bank_C,0.59,0.4
+503,16898,,30.79,Utilities,2023-11-02,bank_E,bank_E,0.44,0.4
+504,16898,,57.57,Healthcare,2023-11-02,bank_E,bank_A,0.35,0.4
+506,16898,,9.28,Interest,2023-11-03,bank_E,bank_B,0.34,0.4
+507,16898,,16.07,Entertainment,2023-11-03,bank_E,bank_D,0.26,0.4
+508,16898,,260.46,Transfers,2023-11-03,bank_E,bank_C,0.56,0.4
+509,16898,,90.5,Utilities,2023-11-03,bank_E,bank_E,0.41,0.4
+510,16898,,66.64,Cash Withdrawal,2023-11-03,bank_E,,0.11,0.4
+511,16898,,10.11,Interest,2023-11-04,bank_E,bank_E,0.25,0.4
+512,16898,,27.01,Transfers,2023-11-04,bank_E,bank_B,0.13,0.4
+513,16898,,269.86,Transfers,2023-11-04,bank_E,bank_B,0.51,0.4
+514,16898,,142.19,Utilities,2023-11-04,bank_E,bank_E,0.5,0.4
+515,16898,,16.37,Personal care,2023-11-04,bank_E,bank_E,0.12,0.4
+516,16898,,5.34,Bank Fees,2023-11-04,bank_E,bank_B,0.18,0.4
+517,16898,,375.56,Credit Card Payment,2023-11-04,bank_E,bank_E,0.76,0.4
+518,16898,,103.36,Healthcare,2023-11-05,bank_E,bank_E,0.57,0.4
+520,16898,,62.33,Cash Withdrawal,2023-11-05,bank_E,,0.13,0.4
+521,16898,,196.3,Home Improvement,2023-11-05,bank_E,bank_E,0.62,0.4
+522,16898,,62.93,Groceries,2023-11-05,bank_E,bank_A,0.59,0.4
+523,16898,,28.24,Dining Out,2023-11-09,bank_E,bank_C,0.17,0.4
+524,16898,,650.87,Transfers,2023-11-10,bank_E,bank_B,0.66,0.4
+525,16898,,284.7,Transfers,2023-11-10,bank_E,bank_E,0.6,0.4
+526,16898,,19.68,Charity,2023-11-11,bank_E,bank_D,0.15,0.4
+527,16898,,193.55,Transfers,2023-11-11,bank_E,bank_D,0.48,0.4
+528,16898,,902.7,Shopping,2023-11-12,bank_E,bank_D,0.72,0.4
+529,16898,,174.36,Online Shopping,2023-11-12,bank_E,bank_A,0.64,0.4
+530,16898,,90.75,Cash Withdrawal,2023-11-12,bank_E,,0.18,0.4
+531,16898,,7.44,Cash Withdrawal,2023-11-12,bank_E,,0.22,0.4
+532,16898,,67.46,Groceries,2023-11-13,bank_E,bank_C,0.32,0.4
+533,16898,,28.73,Personal care,2023-11-14,bank_E,bank_D,0.19,0.4
+534,16898,,6.44,Cash Withdrawal,2023-11-16,bank_E,,0.19,0.4
+535,16898,,212.86,Online Shopping,2023-11-16,bank_E,bank_D,0.41,0.4
+536,16898,,44.85,Groceries,2023-11-16,bank_E,bank_E,0.33,0.4
+537,16898,,718.47,Transfers,2023-11-17,bank_E,bank_D,0.65,0.4
+538,16898,,28.23,Cash Withdrawal,2023-11-17,bank_E,,0.13,0.4
+539,16898,,84.99,Cash Withdrawal,2023-11-17,bank_E,,0.22,0.4
+540,16898,,45.58,Groceries,2023-11-18,bank_E,bank_D,0.33,0.4
+541,16898,,3.43,Dining Out,2023-11-18,bank_E,bank_C,0.35,0.4
+542,16898,,34.64,Cash Withdrawal,2023-11-18,bank_E,,0.11,0.4
+543,16898,,307.64,Shopping,2023-11-19,bank_E,bank_E,0.78,0.4
+544,16898,,11.38,Personal care,2023-11-20,bank_E,bank_D,0.13,0.4
+545,16898,,79.96,Groceries,2023-11-20,bank_E,bank_C,0.6,0.4
+546,16898,,29.59,Cash Withdrawal,2023-11-20,bank_E,,0.19,0.4
+547,16898,,70.17,Cash Withdrawal,2023-11-23,bank_E,,0.18,0.4
+548,16898,,1072.32,Shopping,2023-11-23,bank_E,bank_E,0.68,0.4
+549,16898,,21.56,Groceries,2023-11-24,bank_E,bank_D,0.24,0.4
+550,16898,,452.56,Transfers,2023-11-25,bank_E,bank_A,0.77,0.4
+551,16898,,14.79,Transportation,2023-11-25,bank_E,bank_E,0.32,0.4
+552,16898,,54.33,Groceries,2023-11-25,bank_E,bank_E,0.37,0.4
+553,16898,,64.7,Groceries,2023-11-25,bank_E,bank_E,0.49,0.4
+554,16898,,545.29,Credit Card Payment,2023-11-25,bank_E,bank_D,0.7,0.4
+555,16898,,400.89,Home Improvement,2023-11-26,bank_E,bank_C,0.68,0.4
+556,16898,,1280.67,Transfers,2023-11-27,bank_E,bank_A,0.64,0.4
+557,16898,,56.66,Groceries,2023-11-27,bank_E,bank_A,0.35,0.4
+558,16898,,53.7,Entertainment,2023-11-27,bank_E,bank_D,0.43,0.4
+559,16898,,8.45,Dining Out,2023-11-27,bank_E,bank_E,0.25,0.4
+560,16898,,16.05,Entertainment,2023-11-27,bank_E,bank_C,0.21,0.4
+561,16898,,16.51,Dining Out,2023-11-28,bank_E,bank_D,0.25,0.4
+562,16898,,49.0,Entertainment,2023-11-29,bank_E,bank_C,0.59,0.4
+563,16898,,96.39,Transportation,2023-11-29,bank_E,bank_D,0.56,0.4
+565,16898,,195.17,Credit Card Payment,2023-11-30,bank_E,bank_A,0.61,0.4
+566,16898,,291.76,Online Shopping,2023-11-30,bank_E,bank_B,0.8,0.4
+567,13021,,53.95,Groceries,2023-10-01,bank_B,bank_B,0.53,0.39
+568,13021,,107.32,Groceries,2023-10-01,bank_B,bank_E,0.48,0.39
+569,13021,,195.96,Utilities,2023-10-01,bank_B,bank_A,0.64,0.39
+570,13021,,334.98,Transfers,2023-10-01,bank_B,bank_A,0.71,0.39
+571,13021,,7.35,Cash Withdrawal,2023-10-01,bank_B,,0.24,0.39
+572,13021,,33.61,Dining Out,2023-10-01,bank_B,bank_A,0.33,0.39
+573,13021,,15568.07,Income,2023-10-01,bank_C,bank_B,,0.39
+574,13021,,1120.26,Housing,2023-10-01,bank_B,bank_C,0.67,0.39
+575,13021,,73.72,Utilities,2023-10-02,bank_B,bank_A,0.61,0.39
+576,13021,,56.72,Cash Withdrawal,2023-10-02,bank_B,,0.13,0.39
+577,13021,,769.73,Transfers,2023-10-02,bank_B,bank_B,0.66,0.39
+578,13021,,65.71,Cash Withdrawal,2023-10-02,bank_B,,0.14,0.39
+579,13021,,18.84,Entertainment,2023-10-02,bank_B,bank_C,0.14,0.39
+580,13021,,177.22,Home Improvement,2023-10-02,bank_B,bank_A,0.69,0.39
+581,13021,,109.0,Utilities,2023-10-03,bank_B,bank_A,0.54,0.39
+582,13021,,210.9,Shopping,2023-10-03,bank_B,bank_C,0.6,0.39
+583,13021,,70.54,Cash Withdrawal,2023-10-03,bank_B,,0.21,0.39
+584,13021,,66.53,Cash Withdrawal,2023-10-03,bank_B,,0.12,0.39
+585,13021,,1184.47,Shopping,2023-10-04,bank_B,bank_A,0.75,0.39
+586,13021,,16.4,Utilities,2023-10-04,bank_B,bank_A,0.23,0.39
+587,13021,,33.45,Groceries,2023-10-05,bank_B,bank_E,0.44,0.39
+588,13021,,18.57,Personal care,2023-10-05,bank_B,bank_C,0.17,0.39
+589,13021,,46.04,Groceries,2023-10-06,bank_B,bank_C,0.35,0.39
+590,13021,,60.99,Cash Withdrawal,2023-10-06,bank_B,,0.24,0.39
+591,13021,,170.53,Credit Card Payment,2023-10-06,bank_B,bank_D,0.52,0.39
+592,13021,,17.59,Cash Withdrawal,2023-10-06,bank_B,,0.27,0.39
+593,13021,,429.08,Transfers,2023-10-08,bank_B,bank_A,0.75,0.39
+594,13021,,100.38,Online Shopping,2023-10-08,bank_B,bank_B,0.54,0.39
+595,13021,,49.38,Cash Withdrawal,2023-10-08,bank_B,,0.23,0.39
+596,13021,,174.17,Credit Card Payment,2023-10-08,bank_B,bank_A,0.66,0.39
+597,13021,,10.31,Personal care,2023-10-09,bank_B,bank_C,0.23,0.39
+598,13021,,37.12,Groceries,2023-10-10,bank_B,bank_D,0.45,0.39
+599,13021,,85.97,Online Shopping,2023-10-11,bank_B,bank_D,0.58,0.39
+600,13021,,55.56,Credit Card Payment,2023-10-11,bank_B,bank_A,0.34,0.39
+601,13021,,643.66,Shopping,2023-10-11,bank_B,bank_A,0.64,0.39
+602,13021,,74.93,Online Shopping,2023-10-11,bank_B,bank_D,0.43,0.39
+603,13021,,7.84,Cash Withdrawal,2023-10-11,bank_B,,0.27,0.39
+604,13021,,474.22,Transfers,2023-10-11,bank_B,bank_D,0.71,0.39
+605,13021,,17.19,Personal care,2023-10-12,bank_B,bank_E,0.17,0.39
+606,13021,,2.64,Dining Out,2023-10-13,bank_B,bank_D,0.15,0.39
+607,13021,,232.15,Transfers,2023-10-13,bank_B,bank_D,0.76,0.39
+608,13021,,177.87,Investment,2023-10-13,bank_B,bank_D,0.6,0.39
+609,13021,,28.29,Groceries,2023-10-13,bank_B,bank_B,0.35,0.39
+610,13021,,176.6,Groceries,2023-10-17,bank_B,bank_D,0.68,0.39
+611,13021,,752.14,Transfers,2023-10-20,bank_B,bank_B,0.6,0.39
+612,13021,,58.73,Transportation,2023-10-20,bank_B,bank_A,0.34,0.39
+613,13021,,27.91,Entertainment,2023-10-20,bank_B,bank_C,0.14,0.39
+614,13021,,158.55,Online Shopping,2023-10-20,bank_B,bank_E,0.55,0.39
+615,13021,,20.04,Dining Out,2023-10-22,bank_B,bank_E,0.22,0.39
+616,13021,,39.15,Entertainment,2023-10-25,bank_B,bank_A,0.31,0.39
+617,13021,,26.8,Dining Out,2023-10-25,bank_B,bank_E,0.2,0.39
+618,13021,,74.88,Transportation,2023-10-25,bank_B,bank_C,0.57,0.39
+619,13021,,137.51,Online Shopping,2023-10-25,bank_B,bank_D,0.69,0.39
+620,13021,,115.46,Groceries,2023-10-25,bank_B,bank_B,0.66,0.39
+621,13021,,474.14,Transfers,2023-10-26,bank_B,bank_B,0.64,0.39
+622,13021,,166.49,Credit Card Payment,2023-10-27,bank_B,bank_D,0.58,0.39
+623,13021,,15.42,Dining Out,2023-10-29,bank_B,bank_E,0.3,0.39
+624,13021,,36.78,Groceries,2023-10-29,bank_B,bank_D,0.39,0.39
+625,13021,,48.1,Groceries,2023-10-29,bank_B,bank_A,0.47,0.39
+626,13021,,485.02,Transfers,2023-10-29,bank_B,bank_D,0.69,0.39
+627,13021,,4.96,Interest,2023-10-29,bank_B,bank_E,0.31,0.39
+628,13021,,110.14,Credit Card Payment,2023-10-30,bank_B,bank_B,0.55,0.39
+629,13021,,27.02,Cash Withdrawal,2023-10-30,bank_B,,0.12,0.39
+630,13021,,64.6,Healthcare,2023-10-30,bank_B,bank_D,0.46,0.39
+631,13021,,86.84,Healthcare,2023-10-30,bank_B,bank_B,0.63,0.39
+632,13021,,68.91,Cash Withdrawal,2023-10-31,bank_B,,0.24,0.39
+633,13021,,384.66,Transfers,2023-10-31,bank_B,bank_B,0.58,0.39
+634,13021,,270.01,Holiday,2023-10-31,bank_B,bank_D,0.63,0.39
+635,13021,,1120.26,Housing,2023-11-01,bank_B,bank_A,0.59,0.39
+636,13021,,195.96,Utilities,2023-11-01,bank_B,bank_A,0.55,0.39
+637,13021,,15568.07,Income,2023-11-01,bank_C,bank_B,,0.39
+638,13021,,37.0,Entertainment,2023-11-01,bank_B,bank_E,0.41,0.39
+639,13021,,64.24,Cash Withdrawal,2023-11-01,bank_B,,0.13,0.39
+640,13021,,73.72,Utilities,2023-11-02,bank_B,bank_A,0.42,0.39
+641,13021,,72.8,Groceries,2023-11-02,bank_B,bank_B,0.6,0.39
+642,13021,,104.53,Online Shopping,2023-11-02,bank_B,bank_E,0.6,0.39
+643,13021,,31.92,Personal care,2023-11-02,bank_B,bank_A,0.38,0.39
+644,13021,,109.0,Utilities,2023-11-03,bank_B,bank_A,0.62,0.39
+645,13021,,16.4,Utilities,2023-11-04,bank_B,bank_A,0.34,0.39
+646,13021,,13.87,Cash Withdrawal,2023-11-05,bank_B,,0.14,0.39
+647,13021,,139.57,Online Shopping,2023-11-06,bank_B,bank_A,0.55,0.39
+648,13021,,18.99,Personal care,2023-11-06,bank_B,bank_D,0.29,0.39
+649,13021,,26.12,Groceries,2023-11-06,bank_B,bank_E,0.28,0.39
+650,13021,,828.21,Transfers,2023-11-06,bank_B,bank_D,0.52,0.39
+651,13021,,277.21,Credit Card Payment,2023-11-07,bank_B,bank_E,0.76,0.39
+652,13021,,17.26,Dining Out,2023-11-07,bank_B,bank_D,0.26,0.39
+653,13021,,20.66,Entertainment,2023-11-07,bank_B,bank_E,0.38,0.39
+654,13021,,111.58,Transportation,2023-11-07,bank_B,bank_D,0.67,0.39
+655,13021,,15.23,Groceries,2023-11-08,bank_B,bank_C,0.38,0.39
+656,13021,,28.51,Cash Withdrawal,2023-11-08,bank_B,,0.25,0.39
+657,13021,,148.77,Credit Card Payment,2023-11-08,bank_B,bank_C,0.45,0.39
+658,13021,,68.77,Transfers,2023-11-09,bank_B,bank_E,0.4,0.39
+659,13021,,26.12,Groceries,2023-11-09,bank_B,bank_D,0.27,0.39
+660,13021,,31.73,Transportation,2023-11-12,bank_B,bank_E,0.22,0.39
+661,13021,,69.42,Entertainment,2023-11-13,bank_B,bank_E,0.44,0.39
+662,13021,,44.56,Transfers,2023-11-14,bank_B,bank_B,0.31,0.39
+663,13021,,2.67,Bank Fees,2023-11-14,bank_B,bank_D,0.29,0.39
+664,13021,,65.7,Entertainment,2023-11-14,bank_B,bank_B,0.35,0.39
+665,13021,,63.47,Cash Withdrawal,2023-11-14,bank_B,,0.2,0.39
+666,13021,,95.91,Home Improvement,2023-11-15,bank_B,bank_A,0.41,0.39
+667,13021,,42.66,Cash Withdrawal,2023-11-15,bank_B,,0.29,0.39
+668,13021,,16.53,Cash Withdrawal,2023-11-15,bank_B,,0.23,0.39
+669,13021,,35.32,Transfers,2023-11-16,bank_B,bank_A,0.35,0.39
+670,13021,,48.19,Cash Withdrawal,2023-11-16,bank_B,,0.18,0.39
+671,13021,,370.82,Transfers,2023-11-16,bank_B,bank_D,0.61,0.39
+672,13021,,299.79,Transfers,2023-11-16,bank_B,bank_C,0.8,0.39
+673,13021,,112.44,Groceries,2023-11-17,bank_B,bank_A,0.51,0.39
+674,13021,,112.17,Transfers,2023-11-17,bank_B,bank_B,0.47,0.39
+675,13021,,267.66,Transfers,2023-11-17,bank_B,bank_E,0.51,0.39
+676,13021,,19.1,Dining Out,2023-11-17,bank_B,bank_E,0.36,0.39
+677,13021,,5.11,Dining Out,2023-11-17,bank_B,bank_A,0.36,0.39
+678,13021,,354.97,Transfers,2023-11-19,bank_B,bank_B,0.54,0.39
+679,13021,,689.77,Shopping,2023-11-20,bank_B,bank_E,0.64,0.39
+680,13021,,212.86,Online Shopping,2023-11-20,bank_B,bank_C,0.78,0.39
+681,13021,,38.35,Groceries,2023-11-20,bank_B,bank_A,0.55,0.39
+682,13021,,74.28,Cash Withdrawal,2023-11-20,bank_B,,0.14,0.39
+683,13021,,7.1,Interest,2023-11-22,bank_B,bank_E,0.35,0.39
+684,13021,,39.34,Cash Withdrawal,2023-11-22,bank_B,,0.11,0.39
+685,13021,,20.79,Personal care,2023-11-22,bank_B,bank_B,0.3,0.39
+686,13021,,191.43,Credit Card Payment,2023-11-25,bank_B,bank_A,0.54,0.39
+687,13021,,91.22,Groceries,2023-11-25,bank_B,bank_C,0.69,0.39
+688,13021,,183.72,Credit Card Payment,2023-11-25,bank_B,bank_E,0.48,0.39
+689,13021,,60.91,Groceries,2023-11-25,bank_B,bank_B,0.5,0.39
+690,13021,,274.52,Transfers,2023-11-28,bank_B,bank_C,0.77,0.39
+691,13021,,169.38,Healthcare,2023-11-28,bank_B,bank_A,0.51,0.39
+692,13021,,203.97,Shopping,2023-11-28,bank_B,bank_A,0.78,0.39
+693,13021,,239.39,Online Shopping,2023-11-28,bank_B,bank_A,0.74,0.39
+694,13021,,616.98,Home Improvement,2023-11-28,bank_B,bank_D,0.54,0.39
+695,13021,,5.58,Dining Out,2023-11-29,bank_B,bank_E,0.19,0.39
+696,13021,,247.25,Online Shopping,2023-11-29,bank_B,bank_D,0.67,0.39
+697,13021,,115.23,Healthcare,2023-11-29,bank_B,bank_D,0.44,0.39
+698,13021,,38.26,Cash Withdrawal,2023-11-29,bank_B,,0.15,0.39
+699,13021,,259.37,Shopping,2023-11-29,bank_B,bank_E,0.62,0.39
+700,13021,,103.15,Cash Withdrawal,2023-11-30,bank_B,,0.24,0.39
+701,13021,,42.0,Groceries,2023-11-30,bank_B,bank_E,0.41,0.39
+702,16239,,30.75,Utilities,2023-10-01,bank_A,bank_D,0.11,0.65
+703,16239,,477.37,Transfers,2023-10-01,bank_A,bank_B,0.58,0.65
+704,16239,,311.6,Transfers,2023-10-01,bank_A,bank_E,0.56,0.65
+705,16239,,96.05,Cash Withdrawal,2023-10-01,bank_A,,0.16,0.65
+706,16239,,1449.7,Housing,2023-10-01,bank_A,bank_E,0.63,0.65
+707,16239,,15588.0,Income,2023-10-01,bank_D,bank_A,,0.65
+708,16239,,96.13,Groceries,2023-10-02,bank_A,bank_D,0.47,0.65
+709,16239,,976.11,Transfers,2023-10-02,bank_A,bank_C,0.6,0.65
+710,16239,,10.65,Utilities,2023-10-02,bank_A,bank_D,0.1,0.65
+711,16239,,113.7,Utilities,2023-10-03,bank_A,bank_D,0.69,0.65
+712,16239,,11.41,Transportation,2023-10-03,bank_A,bank_C,0.29,0.65
+713,16239,,34.62,Entertainment,2023-10-03,bank_A,bank_A,0.59,0.65
+714,16239,,534.81,Transfers,2023-10-04,bank_A,bank_D,0.52,0.65
+715,16239,,82.74,Groceries,2023-10-07,bank_A,bank_A,0.52,0.65
+716,16239,,27.61,Healthcare,2023-10-08,bank_A,bank_C,0.35,0.65
+717,16239,,7.16,Dining Out,2023-10-08,bank_A,bank_D,0.24,0.65
+718,16239,,30.86,Cash Withdrawal,2023-10-08,bank_A,,0.12,0.65
+719,16239,,112.33,Investment,2023-10-09,bank_A,bank_C,0.57,0.65
+720,16239,,29.27,Groceries,2023-10-09,bank_A,bank_D,0.17,0.65
+721,16239,,9.41,Cash Withdrawal,2023-10-09,bank_A,,0.13,0.65
+722,16239,,74.93,Online Shopping,2023-10-10,bank_A,bank_A,0.36,0.65
+723,16239,,14.76,Groceries,2023-10-10,bank_A,bank_C,0.35,0.65
+724,16239,,51.29,Groceries,2023-10-10,bank_A,bank_C,0.52,0.65
+725,16239,,6.8,Interest,2023-10-10,bank_A,bank_B,0.21,0.65
+726,16239,,66.05,Groceries,2023-10-10,bank_A,bank_B,0.57,0.65
+727,16239,,143.4,Credit Card Payment,2023-10-11,bank_A,bank_D,0.67,0.65
+728,16239,,229.01,Shopping,2023-10-11,bank_A,bank_A,0.56,0.65
+729,16239,,479.86,Transfers,2023-10-11,bank_A,bank_D,0.54,0.65
+730,16239,,38.91,Shopping,2023-10-11,bank_A,bank_B,0.35,0.65
+731,16239,,12.44,Dining Out,2023-10-12,bank_A,bank_E,0.12,0.65
+732,16239,,105.1,Transfers,2023-10-13,bank_A,bank_C,0.62,0.65
+733,16239,,111.82,Loan Payment,2023-10-13,bank_A,bank_D,0.61,0.65
+734,16239,,119.91,Cash Withdrawal,2023-10-13,bank_A,,0.26,0.65
+735,16239,,4.47,Dining Out,2023-10-14,bank_A,bank_E,0.38,0.65
+736,16239,,4.84,Dining Out,2023-10-14,bank_A,bank_B,0.18,0.65
+737,16239,,845.16,Transfers,2023-10-14,bank_A,bank_C,0.67,0.65
+738,16239,,99.44,Home Improvement,2023-10-14,bank_A,bank_C,0.6,0.65
+739,16239,,106.46,Credit Card Payment,2023-10-15,bank_A,bank_B,0.65,0.65
+740,16239,,85.23,Online Shopping,2023-10-16,bank_A,bank_C,0.63,0.65
+741,16239,,47.26,Cash Withdrawal,2023-10-17,bank_A,,0.29,0.65
+742,16239,,14.22,Dining Out,2023-10-17,bank_A,bank_D,0.19,0.65
+743,16239,,8.05,Cash Withdrawal,2023-10-17,bank_A,,0.2,0.65
+744,16239,,709.83,Shopping,2023-10-17,bank_A,bank_A,0.77,0.65
+745,16239,,25.49,Entertainment,2023-10-17,bank_A,bank_C,0.23,0.65
+746,16239,,52.13,Cash Withdrawal,2023-10-18,bank_A,,0.13,0.65
+747,16239,,17.75,Personal care,2023-10-18,bank_A,bank_E,0.33,0.65
+748,16239,,80.41,Cash Withdrawal,2023-10-18,bank_A,,0.19,0.65
+749,16239,,73.93,Entertainment,2023-10-18,bank_A,bank_A,0.39,0.65
+750,16239,,78.98,Groceries,2023-10-18,bank_A,bank_B,0.5,0.65
+751,16239,,86.3,Transportation,2023-10-19,bank_A,bank_C,0.61,0.65
+752,16239,,36.86,Healthcare,2023-10-19,bank_A,bank_C,0.31,0.65
+753,16239,,87.27,Groceries,2023-10-19,bank_A,bank_D,0.55,0.65
+754,16239,,91.62,Credit Card Payment,2023-10-21,bank_A,bank_D,0.63,0.65
+755,16239,,726.77,Shopping,2023-10-24,bank_A,bank_A,0.63,0.65
+756,16239,,18.63,Personal care,2023-10-25,bank_A,bank_A,0.16,0.65
+757,16239,,33.16,Entertainment,2023-10-25,bank_A,bank_A,0.35,0.65
+758,16239,,77.8,Transportation,2023-10-25,bank_A,bank_E,0.43,0.65
+759,16239,,241.71,Transfers,2023-10-25,bank_A,bank_D,0.64,0.65
+760,16239,,98.42,Cash Withdrawal,2023-10-25,bank_A,,0.11,0.65
+761,16239,,122.58,Credit Card Payment,2023-10-29,bank_A,bank_C,0.46,0.65
+762,16239,,99.31,Online Shopping,2023-10-29,bank_A,bank_B,0.69,0.65
+763,16239,,11.8,Bank Fees,2023-10-29,bank_A,bank_B,0.1,0.65
+764,16239,,146.8,Online Shopping,2023-10-30,bank_A,bank_B,0.79,0.65
+765,16239,,560.95,Transfers,2023-10-30,bank_A,bank_E,0.73,0.65
+766,16239,,62.72,Cash Withdrawal,2023-10-30,bank_A,,0.11,0.65
+767,16239,,73.8,Groceries,2023-10-30,bank_A,bank_A,0.56,0.65
+768,16239,,36.12,Groceries,2023-10-31,bank_A,bank_D,0.35,0.65
+769,16239,,542.82,Transfers,2023-10-31,bank_A,bank_D,0.79,0.65
+770,16239,,28.97,Cash Withdrawal,2023-10-31,bank_A,,0.18,0.65
+771,16239,,1449.7,Housing,2023-11-01,bank_A,bank_B,0.73,0.65
+772,16239,,15588.0,Income,2023-11-01,bank_D,bank_A,,0.65
+773,16239,,176.25,Online Shopping,2023-11-01,bank_A,bank_A,0.58,0.65
+774,16239,,30.75,Utilities,2023-11-01,bank_A,bank_D,0.39,0.65
+775,16239,,59.68,Cash Withdrawal,2023-11-01,bank_A,,0.29,0.65
+776,16239,,72.88,Cash Withdrawal,2023-11-02,bank_A,,0.11,0.65
+777,16239,,52.2,Cash Withdrawal,2023-11-02,bank_A,,0.12,0.65
+778,16239,,10.65,Utilities,2023-11-02,bank_A,bank_D,0.2,0.65
+779,16239,,6.79,Interest,2023-11-02,bank_A,bank_C,0.32,0.65
+780,16239,,62.62,Healthcare,2023-11-02,bank_A,bank_D,0.51,0.65
+781,16239,,12.77,Transportation,2023-11-03,bank_A,bank_B,0.34,0.65
+782,16239,,584.92,Transfers,2023-11-03,bank_A,bank_A,0.77,0.65
+783,16239,,113.7,Utilities,2023-11-03,bank_A,bank_D,0.67,0.65
+784,16239,,28.18,Healthcare,2023-11-03,bank_A,bank_B,0.38,0.65
+785,16239,,59.85,Cash Withdrawal,2023-11-03,bank_A,,0.2,0.65
+786,16239,,7.97,Interest,2023-11-04,bank_A,bank_D,0.14,0.65
+787,16239,,79.32,Groceries,2023-11-06,bank_A,bank_E,0.4,0.65
+788,16239,,12.43,Personal care,2023-11-07,bank_A,bank_D,0.25,0.65
+789,16239,,4.32,Dining Out,2023-11-07,bank_A,bank_A,0.22,0.65
+790,16239,,229.43,Online Shopping,2023-11-07,bank_A,bank_A,0.68,0.65
+791,16239,,283.12,Transfers,2023-11-08,bank_A,bank_D,0.77,0.65
+792,16239,,143.26,Online Shopping,2023-11-09,bank_A,bank_D,0.44,0.65
+793,16239,,874.79,Shopping,2023-11-09,bank_A,bank_B,0.52,0.65
+794,16239,,133.7,Groceries,2023-11-09,bank_A,bank_B,0.67,0.65
+795,16239,,20.46,Entertainment,2023-11-09,bank_A,bank_B,0.16,0.65
+796,16239,,2.75,Bank Fees,2023-11-09,bank_A,bank_A,0.11,0.65
+797,16239,,444.72,Credit Card Payment,2023-11-09,bank_A,bank_D,0.5,0.65
+798,16239,,31.96,Groceries,2023-11-10,bank_A,bank_B,0.36,0.65
+799,16239,,25.01,Cash Withdrawal,2023-11-10,bank_A,,0.17,0.65
+800,16239,,392.75,Transfers,2023-11-11,bank_A,bank_B,0.52,0.65
+801,16239,,90.41,Transfers,2023-11-11,bank_A,bank_B,0.66,0.65
+802,16239,,107.42,Shopping,2023-11-12,bank_A,bank_A,0.56,0.65
+803,16239,,30.22,Personal care,2023-11-12,bank_A,bank_D,0.32,0.65
+804,16239,,9.89,Dining Out,2023-11-12,bank_A,bank_D,0.33,0.65
+805,16239,,33.17,Dining Out,2023-11-13,bank_A,bank_E,0.44,0.65
+806,16239,,34.63,Personal care,2023-11-13,bank_A,bank_C,0.31,0.65
+807,16239,,107.95,Groceries,2023-11-14,bank_A,bank_C,0.44,0.65
+808,16239,,392.43,Transfers,2023-11-15,bank_A,bank_E,0.51,0.65
+809,16239,,683.24,Credit Card Payment,2023-11-15,bank_A,bank_B,0.62,0.65
+810,16239,,127.78,Loan Payment,2023-11-15,bank_A,bank_C,0.61,0.65
+811,16239,,74.49,Transportation,2023-11-15,bank_A,bank_C,0.6,0.65
+812,16239,,65.58,Groceries,2023-11-16,bank_A,bank_A,0.32,0.65
+813,16239,,407.13,Credit Card Payment,2023-11-16,bank_A,bank_C,0.56,0.65
+814,16239,,57.2,Cash Withdrawal,2023-11-16,bank_A,,0.25,0.65
+815,16239,,48.88,Cash Withdrawal,2023-11-17,bank_A,,0.24,0.65
+816,16239,,107.92,Transportation,2023-11-17,bank_A,bank_A,0.43,0.65
+817,16239,,27.75,Entertainment,2023-11-18,bank_A,bank_E,0.2,0.65
+818,16239,,58.43,Groceries,2023-11-19,bank_A,bank_A,0.44,0.65
+819,16239,,683.82,Transfers,2023-11-19,bank_A,bank_B,0.54,0.65
+820,16239,,92.87,Groceries,2023-11-20,bank_A,bank_D,0.51,0.65
+821,16239,,74.21,Online Shopping,2023-11-20,bank_A,bank_D,0.58,0.65
+822,16239,,73.24,Cash Withdrawal,2023-11-20,bank_A,,0.18,0.65
+823,16239,,138.11,Groceries,2023-11-20,bank_A,bank_A,0.43,0.65
+824,16239,,371.92,Shopping,2023-11-23,bank_A,bank_C,0.74,0.65
+825,16239,,55.48,Cash Withdrawal,2023-11-23,bank_A,,0.26,0.65
+826,16239,,713.72,Transfers,2023-11-24,bank_A,bank_B,0.71,0.65
+827,16239,,29.51,Entertainment,2023-11-24,bank_A,bank_D,0.4,0.65
+828,16239,,54.96,Cash Withdrawal,2023-11-24,bank_A,,0.14,0.65
+829,16239,,91.74,Credit Card Payment,2023-11-24,bank_A,bank_E,0.51,0.65
+830,16239,,59.17,Groceries,2023-11-24,bank_A,bank_E,0.5,0.65
+831,16239,,59.87,Dining Out,2023-11-27,bank_A,bank_C,0.35,0.65
+832,16239,,25.1,Dining Out,2023-11-27,bank_A,bank_B,0.23,0.65
+833,16239,,85.78,Cash Withdrawal,2023-11-27,bank_A,,0.11,0.65
+834,16239,,35.02,Cash Withdrawal,2023-11-27,bank_A,,0.28,0.65
+835,16239,,374.46,Credit Card Payment,2023-11-28,bank_A,bank_A,0.71,0.65
+836,16239,,767.57,Transfers,2023-11-29,bank_A,bank_D,0.59,0.65
+837,16239,,140.06,Transfers,2023-11-29,bank_A,bank_B,0.48,0.65
+838,16239,,344.5,Home Improvement,2023-11-29,bank_A,bank_C,0.61,0.65
+839,16239,,824.61,Transfers,2023-11-29,bank_A,bank_A,0.74,0.65
+840,19746,,17024.22,Income,2023-10-01,bank_D,bank_B,,0.68
+841,19746,,44.53,Utilities,2023-10-01,bank_B,bank_C,0.57,0.68
+842,19746,,10.75,Groceries,2023-10-01,bank_B,bank_E,0.19,0.68
+843,19746,,557.94,Home Improvement,2023-10-01,bank_B,bank_E,0.72,0.68
+844,19746,,1343.5,Housing,2023-10-01,bank_B,bank_B,0.55,0.68
+845,19746,,130.53,Utilities,2023-10-02,bank_B,bank_C,0.6,0.68
+846,19746,,38.39,Healthcare,2023-10-02,bank_B,bank_B,0.32,0.68
+847,19746,,14.48,Groceries,2023-10-03,bank_B,bank_B,0.3,0.68
+848,19746,,26.71,Groceries,2023-10-03,bank_B,bank_A,0.5,0.68
+849,19746,,18.3,Utilities,2023-10-03,bank_B,bank_C,0.37,0.68
+850,19746,,1081.92,Transfers,2023-10-03,bank_B,bank_D,0.66,0.68
+851,19746,,43.6,Transportation,2023-10-03,bank_B,bank_B,0.33,0.68
+852,19746,,132.43,Healthcare,2023-10-05,bank_B,bank_B,0.44,0.68
+853,19746,,54.09,Online Shopping,2023-10-05,bank_B,bank_A,0.46,0.68
+854,19746,,52.99,Transfers,2023-10-07,bank_B,bank_E,0.55,0.68
+855,19746,,22.36,Dining Out,2023-10-07,bank_B,bank_D,0.13,0.68
+856,19746,,26.08,Online Shopping,2023-10-08,bank_B,bank_D,0.38,0.68
+857,19746,,9.04,Dining Out,2023-10-08,bank_B,bank_E,0.34,0.68
+858,19746,,108.73,Shopping,2023-10-08,bank_B,bank_C,0.54,0.68
+859,19746,,161.85,Shopping,2023-10-08,bank_B,bank_C,0.42,0.68
+860,19746,,87.66,Cash Withdrawal,2023-10-08,bank_B,,0.25,0.68
+861,19746,,78.47,Cash Withdrawal,2023-10-08,bank_B,,0.22,0.68
+862,19746,,12.83,Entertainment,2023-10-09,bank_B,bank_B,0.11,0.68
+863,19746,,57.24,Healthcare,2023-10-09,bank_B,bank_D,0.65,0.68
+864,19746,,8.54,Cash Withdrawal,2023-10-09,bank_B,,0.22,0.68
+865,19746,,40.25,Cash Withdrawal,2023-10-09,bank_B,,0.19,0.68
+866,19746,,5.09,Cash Withdrawal,2023-10-09,bank_B,,0.21,0.68
+867,19746,,130.6,Loan Payment,2023-10-10,bank_B,bank_E,0.58,0.68
+868,19746,,6.31,Cash Withdrawal,2023-10-11,bank_B,,0.1,0.68
+869,19746,,76.75,Cash Withdrawal,2023-10-11,bank_B,,0.22,0.68
+870,19746,,67.78,Cash Withdrawal,2023-10-11,bank_B,,0.24,0.68
+871,19746,,83.41,Transportation,2023-10-12,bank_B,bank_D,0.41,0.68
+872,19746,,608.02,Transfers,2023-10-12,bank_B,bank_A,0.57,0.68
+873,19746,,9.13,Bank Fees,2023-10-13,bank_B,bank_C,0.31,0.68
+874,19746,,31.02,Groceries,2023-10-13,bank_B,bank_A,0.47,0.68
+875,19746,,13.66,Dining Out,2023-10-14,bank_B,bank_E,0.33,0.68
+876,19746,,369.23,Transfers,2023-10-17,bank_B,bank_E,0.65,0.68
+877,19746,,583.82,Holiday,2023-10-17,bank_B,bank_C,0.62,0.68
+878,19746,,15.74,Dining Out,2023-10-17,bank_B,bank_E,0.29,0.68
+879,19746,,116.35,Credit Card Payment,2023-10-17,bank_B,bank_B,0.55,0.68
+880,19746,,23.58,Entertainment,2023-10-18,bank_B,bank_C,0.58,0.68
+881,19746,,30.68,Groceries,2023-10-18,bank_B,bank_D,0.51,0.68
+882,19746,,1063.61,Shopping,2023-10-18,bank_B,bank_D,0.77,0.68
+883,19746,,30.72,Personal care,2023-10-18,bank_B,bank_C,0.5,0.68
+884,19746,,87.93,Cash Withdrawal,2023-10-19,bank_B,,0.14,0.68
+885,19746,,665.21,Transfers,2023-10-20,bank_B,bank_E,0.67,0.68
+886,19746,,144.57,Online Shopping,2023-10-22,bank_B,bank_A,0.64,0.68
+887,19746,,28.66,Groceries,2023-10-23,bank_B,bank_A,0.39,0.68
+888,19746,,244.17,Credit Card Payment,2023-10-24,bank_B,bank_D,0.75,0.68
+889,19746,,4.84,Interest,2023-10-24,bank_B,bank_B,0.39,0.68
+890,19746,,26.36,Groceries,2023-10-24,bank_B,bank_A,0.5,0.68
+891,19746,,97.6,Transportation,2023-10-24,bank_B,bank_C,0.47,0.68
+892,19746,,199.08,Home Improvement,2023-10-25,bank_B,bank_A,0.73,0.68
+893,19746,,19.25,Entertainment,2023-10-25,bank_B,bank_D,0.23,0.68
+894,19746,,163.31,Credit Card Payment,2023-10-25,bank_B,bank_D,0.47,0.68
+895,19746,,11.68,Charity,2023-10-25,bank_B,bank_B,0.26,0.68
+896,19746,,92.94,Groceries,2023-10-25,bank_B,bank_B,0.55,0.68
+897,19746,,71.57,Groceries,2023-10-25,bank_B,bank_D,0.69,0.68
+898,19746,,26.28,Personal care,2023-10-26,bank_B,bank_A,0.36,0.68
+899,19746,,30.62,Personal care,2023-10-26,bank_B,bank_A,0.51,0.68
+900,19746,,64.3,Cash Withdrawal,2023-10-26,bank_B,,0.18,0.68
+901,19746,,428.36,Transfers,2023-10-26,bank_B,bank_A,0.74,0.68
+902,19746,,22.33,Cash Withdrawal,2023-10-27,bank_B,,0.26,0.68
+903,19746,,14.99,Dining Out,2023-10-27,bank_B,bank_D,0.24,0.68
+904,19746,,4.34,Interest,2023-10-29,bank_B,bank_C,0.32,0.68
+905,19746,,786.09,Transfers,2023-10-29,bank_B,bank_B,0.56,0.68
+906,19746,,322.02,Credit Card Payment,2023-10-29,bank_B,bank_E,0.76,0.68
+907,19746,,18.64,Groceries,2023-10-29,bank_B,bank_C,0.35,0.68
+908,19746,,417.44,Transfers,2023-10-30,bank_B,bank_D,0.76,0.68
+909,19746,,457.9,Credit Card Payment,2023-10-30,bank_B,bank_A,0.8,0.68
+910,19746,,317.37,Online Shopping,2023-10-30,bank_B,bank_D,0.62,0.68
+911,19746,,173.92,Online Shopping,2023-10-30,bank_B,bank_E,0.49,0.68
+912,19746,,155.42,Transfers,2023-10-30,bank_B,bank_E,0.5,0.68
+913,19746,,1343.5,Housing,2023-11-01,bank_B,bank_A,0.67,0.68
+914,19746,,14.46,Groceries,2023-11-01,bank_B,bank_C,0.28,0.68
+915,19746,,22.73,Cash Withdrawal,2023-11-01,bank_B,,0.23,0.68
+916,19746,,47.89,Cash Withdrawal,2023-11-01,bank_B,,0.17,0.68
+917,19746,,44.53,Utilities,2023-11-01,bank_B,bank_C,0.42,0.68
+918,19746,,17024.22,Income,2023-11-01,bank_D,bank_B,,0.68
+919,19746,,46.59,Cash Withdrawal,2023-11-02,bank_B,,0.24,0.68
+920,19746,,81.05,Transfers,2023-11-02,bank_B,bank_A,0.52,0.68
+921,19746,,25.33,Entertainment,2023-11-02,bank_B,bank_A,0.32,0.68
+922,19746,,130.53,Utilities,2023-11-02,bank_B,bank_C,0.65,0.68
+923,19746,,18.3,Utilities,2023-11-03,bank_B,bank_C,0.22,0.68
+924,19746,,46.79,Cash Withdrawal,2023-11-04,bank_B,,0.23,0.68
+925,19746,,423.07,Credit Card Payment,2023-11-04,bank_B,bank_E,0.75,0.68
+926,19746,,432.33,Transfers,2023-11-04,bank_B,bank_C,0.64,0.68
+927,19746,,46.44,Dining Out,2023-11-05,bank_B,bank_A,0.58,0.68
+928,19746,,145.05,Online Shopping,2023-11-05,bank_B,bank_A,0.67,0.68
+929,19746,,49.7,Online Shopping,2023-11-05,bank_B,bank_A,0.54,0.68
+930,19746,,987.1,Transfers,2023-11-05,bank_B,bank_A,0.52,0.68
+931,19746,,27.18,Personal care,2023-11-06,bank_B,bank_B,0.47,0.68
+932,19746,,181.37,Cash Withdrawal,2023-11-06,bank_B,,0.13,0.68
+933,19746,,31.02,Groceries,2023-11-06,bank_B,bank_D,0.54,0.68
+934,19746,,898.62,Transfers,2023-11-07,bank_B,bank_C,0.51,0.68
+935,19746,,52.45,Groceries,2023-11-07,bank_B,bank_D,0.53,0.68
+936,19746,,986.28,Transfers,2023-11-08,bank_B,bank_B,0.72,0.68
+937,19746,,248.08,Healthcare,2023-11-10,bank_B,bank_C,0.64,0.68
+938,19746,,43.12,Entertainment,2023-11-10,bank_B,bank_C,0.38,0.68
+939,19746,,73.19,Groceries,2023-11-10,bank_B,bank_B,0.56,0.68
+940,19746,,325.43,Transfers,2023-11-11,bank_B,bank_C,0.62,0.68
+941,19746,,54.05,Transfers,2023-11-11,bank_B,bank_A,0.42,0.68
+942,19746,,32.41,Entertainment,2023-11-12,bank_B,bank_E,0.34,0.68
+943,19746,,304.45,Credit Card Payment,2023-11-12,bank_B,bank_E,0.55,0.68
+945,19746,,25.09,Groceries,2023-11-15,bank_B,bank_E,0.43,0.68
+946,19746,,1311.17,Home Improvement,2023-11-16,bank_B,bank_C,0.77,0.68
+947,19746,,7.03,Transportation,2023-11-17,bank_B,bank_C,0.18,0.68
+948,19746,,30.9,Personal care,2023-11-17,bank_B,bank_A,0.43,0.68
+949,19746,,168.89,Online Shopping,2023-11-17,bank_B,bank_A,0.56,0.68
+950,19746,,37.45,Online Shopping,2023-11-17,bank_B,bank_A,0.32,0.68
+951,19746,,21.08,Cash Withdrawal,2023-11-17,bank_B,,0.22,0.68
+952,19746,,27.53,Groceries,2023-11-17,bank_B,bank_B,0.47,0.68
+953,19746,,22.92,Cash Withdrawal,2023-11-17,bank_B,,0.26,0.68
+954,19746,,250.14,Credit Card Payment,2023-11-17,bank_B,bank_C,0.66,0.68
+955,19746,,15.79,Groceries,2023-11-17,bank_B,bank_D,0.35,0.68
+956,19746,,191.01,Credit Card Payment,2023-11-17,bank_B,bank_A,0.62,0.68
+957,19746,,12.88,Dining Out,2023-11-17,bank_B,bank_D,0.34,0.68
+958,19746,,267.32,Transfers,2023-11-18,bank_B,bank_B,0.61,0.68
+959,19746,,38.73,Dining Out,2023-11-18,bank_B,bank_E,0.32,0.68
+960,19746,,1237.87,Shopping,2023-11-18,bank_B,bank_D,0.53,0.68
+961,19746,,4.87,Dining Out,2023-11-18,bank_B,bank_D,0.38,0.68
+962,19746,,47.8,Healthcare,2023-11-19,bank_B,bank_E,0.35,0.68
+963,19746,,519.85,Transfers,2023-11-19,bank_B,bank_A,0.65,0.68
+964,19746,,674.23,Transfers,2023-11-20,bank_B,bank_D,0.53,0.68
+965,19746,,23.03,Cash Withdrawal,2023-11-21,bank_B,,0.11,0.68
+966,19746,,12.49,Dining Out,2023-11-21,bank_B,bank_B,0.25,0.68
+967,19746,,47.5,Groceries,2023-11-21,bank_B,bank_D,0.41,0.68
+968,19746,,14.68,Charity,2023-11-22,bank_B,bank_D,0.28,0.68
+969,19746,,1631.35,Electronics,2023-11-22,bank_B,bank_C,0.74,0.68
+970,19746,,14.79,Personal care,2023-11-22,bank_B,bank_A,0.12,0.68
+971,19746,,171.16,Loan Payment,2023-11-22,bank_B,bank_B,0.66,0.68
+972,19746,,21.47,Groceries,2023-11-23,bank_B,bank_B,0.31,0.68
+973,19746,,76.44,Cash Withdrawal,2023-11-24,bank_B,,0.24,0.68
+974,19746,,15.62,Entertainment,2023-11-26,bank_B,bank_C,0.11,0.68
+975,19746,,250.67,Shopping,2023-11-27,bank_B,bank_A,0.67,0.68
+976,19746,,7.71,Transportation,2023-11-28,bank_B,bank_E,0.37,0.68
+977,19746,,50.89,Groceries,2023-11-28,bank_B,bank_D,0.66,0.68
+978,19746,,1129.67,Shopping,2023-11-28,bank_B,bank_B,0.78,0.68
+979,19746,,27.89,Cash Withdrawal,2023-11-28,bank_B,,0.14,0.68
+980,19746,,4.79,Interest,2023-11-28,bank_B,bank_B,0.16,0.68
+981,19746,,16.02,Cash Withdrawal,2023-11-30,bank_B,,0.17,0.68
+982,19583,,125.68,Utilities,2023-10-01,bank_B,bank_C,0.4,0.29
+983,19583,,20.32,Personal care,2023-10-01,bank_B,bank_B,0.31,0.29
+984,19583,,723.9,Holiday,2023-10-01,bank_B,bank_A,0.75,0.29
+985,19583,,15814.39,Income,2023-10-01,bank_B,bank_B,,0.29
+986,19583,,858.26,Housing,2023-10-01,bank_B,bank_E,0.63,0.29
+987,19583,,304.57,Credit Card Payment,2023-10-01,bank_B,bank_C,0.56,0.29
+988,19583,,146.54,Utilities,2023-10-02,bank_B,bank_C,0.43,0.29
+989,19583,,26.7,Utilities,2023-10-03,bank_B,bank_C,0.38,0.29
+990,19583,,128.04,Transfers,2023-10-04,bank_B,bank_A,0.45,0.29
+991,19583,,1023.93,Transfers,2023-10-04,bank_B,bank_D,0.55,0.29
+992,19583,,44.9,Cash Withdrawal,2023-10-04,bank_B,,0.19,0.29
+993,19583,,142.63,Cash Withdrawal,2023-10-04,bank_B,,0.16,0.29
+994,19583,,89.63,Transportation,2023-10-05,bank_B,bank_E,0.65,0.29
+995,19583,,23.15,Personal care,2023-10-05,bank_B,bank_B,0.36,0.29
+996,19583,,39.38,Healthcare,2023-10-06,bank_B,bank_E,0.43,0.29
+997,19583,,209.46,Home Improvement,2023-10-08,bank_B,bank_B,0.79,0.29
+998,19583,,122.73,Online Shopping,2023-10-08,bank_B,bank_C,0.59,0.29
+999,19583,,11.44,Groceries,2023-10-08,bank_B,bank_E,0.12,0.29
+1000,19583,,218.23,Shopping,2023-10-08,bank_B,bank_B,0.64,0.29
+1001,19583,,49.18,Entertainment,2023-10-08,bank_B,bank_B,0.44,0.29
+1002,19583,,8.85,Dining Out,2023-10-09,bank_B,bank_D,0.32,0.29
+1003,19583,,31.12,Cash Withdrawal,2023-10-09,bank_B,,0.25,0.29
+1004,19583,,24.58,Cash Withdrawal,2023-10-09,bank_B,,0.21,0.29
+1005,19583,,29.68,Groceries,2023-10-09,bank_B,bank_C,0.29,0.29
+1007,19583,,27.02,Groceries,2023-10-10,bank_B,bank_C,0.24,0.29
+1008,19583,,45.03,Groceries,2023-10-10,bank_B,bank_A,0.4,0.29
+1009,19583,,56.84,Cash Withdrawal,2023-10-10,bank_B,,0.18,0.29
+1010,19583,,276.49,Shopping,2023-10-11,bank_B,bank_D,0.62,0.29
+1011,19583,,2.95,Charity,2023-10-13,bank_B,bank_E,0.17,0.29
+1012,19583,,39.68,Groceries,2023-10-13,bank_B,bank_D,0.43,0.29
+1013,19583,,119.49,Groceries,2023-10-13,bank_B,bank_A,0.66,0.29
+1014,19583,,22.55,Cash Withdrawal,2023-10-15,bank_B,,0.11,0.29
+1015,19583,,46.54,Dining Out,2023-10-15,bank_B,bank_B,0.46,0.29
+1016,19583,,81.04,Groceries,2023-10-15,bank_B,bank_D,0.59,0.29
+1017,19583,,72.19,Cash Withdrawal,2023-10-15,bank_B,,0.29,0.29
+1018,19583,,14.96,Personal care,2023-10-16,bank_B,bank_D,0.34,0.29
+1019,19583,,242.44,Online Shopping,2023-10-17,bank_B,bank_E,0.78,0.29
+1020,19583,,40.71,Credit Card Payment,2023-10-17,bank_B,bank_E,0.58,0.29
+1021,19583,,97.01,Online Shopping,2023-10-17,bank_B,bank_B,0.53,0.29
+1022,19583,,232.15,Transfers,2023-10-18,bank_B,bank_E,0.58,0.29
+1023,19583,,312.32,Transfers,2023-10-18,bank_B,bank_E,0.66,0.29
+1024,19583,,173.36,Shopping,2023-10-18,bank_B,bank_D,0.64,0.29
+1025,19583,,141.35,Cash Withdrawal,2023-10-18,bank_B,,0.24,0.29
+1026,19583,,6.84,Bank Fees,2023-10-18,bank_B,bank_B,0.16,0.29
+1027,19583,,31.76,Cash Withdrawal,2023-10-19,bank_B,,0.19,0.29
+1028,19583,,7.18,Interest,2023-10-20,bank_B,bank_A,0.38,0.29
+1029,19583,,16.59,Transportation,2023-10-20,bank_B,bank_B,0.26,0.29
+1030,19583,,121.01,Groceries,2023-10-20,bank_B,bank_B,0.45,0.29
+1031,19583,,37.93,Entertainment,2023-10-20,bank_B,bank_C,0.57,0.29
+1032,19583,,161.72,Healthcare,2023-10-20,bank_B,bank_D,0.67,0.29
+1033,19583,,8.23,Interest,2023-10-21,bank_B,bank_D,0.19,0.29
+1034,19583,,1053.88,Transfers,2023-10-21,bank_B,bank_D,0.77,0.29
+1035,19583,,100.48,Healthcare,2023-10-22,bank_B,bank_B,0.41,0.29
+1036,19583,,74.67,Cash Withdrawal,2023-10-22,bank_B,,0.23,0.29
+1037,19583,,35.73,Dining Out,2023-10-23,bank_B,bank_A,0.46,0.29
+1038,19583,,140.03,Transfers,2023-10-23,bank_B,bank_E,0.53,0.29
+1039,19583,,26.87,Entertainment,2023-10-24,bank_B,bank_E,0.29,0.29
+1040,19583,,10.09,Groceries,2023-10-24,bank_B,bank_E,0.2,0.29
+1041,19583,,4.56,Dining Out,2023-10-24,bank_B,bank_D,0.14,0.29
+1042,19583,,73.92,Online Shopping,2023-10-27,bank_B,bank_C,0.59,0.29
+1043,19583,,37.93,Entertainment,2023-10-27,bank_B,bank_D,0.33,0.29
+1044,19583,,260.3,Transfers,2023-10-27,bank_B,bank_B,0.53,0.29
+1045,19583,,82.0,Online Shopping,2023-10-29,bank_B,bank_E,0.61,0.29
+1046,19583,,898.41,Transfers,2023-10-29,bank_B,bank_E,0.74,0.29
+1047,19583,,119.04,Cash Withdrawal,2023-10-29,bank_B,,0.2,0.29
+1049,19583,,991.71,Transfers,2023-10-30,bank_B,bank_D,0.54,0.29
+1050,19583,,39.99,Groceries,2023-10-30,bank_B,bank_D,0.54,0.29
+1051,19583,,39.49,Credit Card Payment,2023-10-31,bank_B,bank_A,0.49,0.29
+1052,19583,,89.26,Cash Withdrawal,2023-10-31,bank_B,,0.25,0.29
+1053,19583,,858.26,Housing,2023-11-01,bank_B,bank_B,0.52,0.29
+1054,19583,,125.68,Utilities,2023-11-01,bank_B,bank_C,0.69,0.29
+1055,19583,,15814.39,Income,2023-11-01,bank_B,bank_B,,0.29
+1056,19583,,146.54,Utilities,2023-11-02,bank_B,bank_C,0.61,0.29
+1057,19583,,26.7,Utilities,2023-11-03,bank_B,bank_C,0.36,0.29
+1058,19583,,34.18,Groceries,2023-11-03,bank_B,bank_E,0.34,0.29
+1059,19583,,19.21,Dining Out,2023-11-03,bank_B,bank_D,0.24,0.29
+1060,19583,,30.51,Dining Out,2023-11-03,bank_B,bank_A,0.18,0.29
+1061,19583,,72.48,Transfers,2023-11-03,bank_B,bank_C,0.44,0.29
+1062,19583,,209.78,Credit Card Payment,2023-11-03,bank_B,bank_D,0.6,0.29
+1063,19583,,168.61,Credit Card Payment,2023-11-03,bank_B,bank_C,0.76,0.29
+1064,19583,,39.26,Groceries,2023-11-04,bank_B,bank_D,0.58,0.29
+1065,19583,,121.98,Healthcare,2023-11-04,bank_B,bank_B,0.56,0.29
+1066,19583,,66.16,Online Shopping,2023-11-04,bank_B,bank_C,0.39,0.29
+1067,19583,,503.56,Shopping,2023-11-04,bank_B,bank_C,0.73,0.29
+1068,19583,,145.38,Shopping,2023-11-05,bank_B,bank_C,0.63,0.29
+1069,19583,,148.02,Transfers,2023-11-05,bank_B,bank_B,0.46,0.29
+1070,19583,,778.68,Transfers,2023-11-05,bank_B,bank_B,0.78,0.29
+1071,19583,,18.16,Transportation,2023-11-05,bank_B,bank_A,0.15,0.29
+1072,19583,,21.91,Groceries,2023-11-05,bank_B,bank_C,0.33,0.29
+1073,19583,,755.59,Credit Card Payment,2023-11-06,bank_B,bank_D,0.75,0.29
+1074,19583,,133.53,Home Improvement,2023-11-06,bank_B,bank_D,0.58,0.29
+1075,19583,,52.32,Entertainment,2023-11-06,bank_B,bank_A,0.58,0.29
+1076,19583,,51.59,Cash Withdrawal,2023-11-06,bank_B,,0.26,0.29
+1077,19583,,88.7,Groceries,2023-11-06,bank_B,bank_E,0.47,0.29
+1078,19583,,40.44,Groceries,2023-11-06,bank_B,bank_A,0.55,0.29
+1079,19583,,13.01,Cash Withdrawal,2023-11-07,bank_B,,0.26,0.29
+1080,19583,,102.56,Healthcare,2023-11-08,bank_B,bank_B,0.43,0.29
+1081,19583,,18.96,Groceries,2023-11-08,bank_B,bank_B,0.27,0.29
+1082,19583,,104.69,Credit Card Payment,2023-11-08,bank_B,bank_D,0.56,0.29
+1083,19583,,4.84,Interest,2023-11-10,bank_B,bank_C,0.23,0.29
+1084,19583,,524.33,Transfers,2023-11-11,bank_B,bank_A,0.67,0.29
+1085,19583,,680.17,Transfers,2023-11-11,bank_B,bank_E,0.77,0.29
+1086,19583,,109.08,Cash Withdrawal,2023-11-13,bank_B,,0.27,0.29
+1087,19583,,54.16,Cash Withdrawal,2023-11-13,bank_B,,0.11,0.29
+1088,19583,,14.11,Cash Withdrawal,2023-11-15,bank_B,,0.1,0.29
+1089,19583,,380.18,Transfers,2023-11-15,bank_B,bank_B,0.68,0.29
+1090,19583,,88.34,Cash Withdrawal,2023-11-15,bank_B,,0.21,0.29
+1091,19583,,329.46,Transfers,2023-11-15,bank_B,bank_E,0.51,0.29
+1092,19583,,85.1,Online Shopping,2023-11-15,bank_B,bank_B,0.59,0.29
+1093,19583,,46.02,Cash Withdrawal,2023-11-16,bank_B,,0.21,0.29
+1094,19583,,163.01,Transfers,2023-11-16,bank_B,bank_E,0.64,0.29
+1095,19583,,38.44,Cash Withdrawal,2023-11-16,bank_B,,0.19,0.29
+1096,19583,,56.24,Cash Withdrawal,2023-11-16,bank_B,,0.19,0.29
+1097,19583,,93.85,Online Shopping,2023-11-16,bank_B,bank_E,0.56,0.29
+1098,19583,,165.09,Loan Payment,2023-11-18,bank_B,bank_A,0.59,0.29
+1099,19583,,154.4,Online Shopping,2023-11-18,bank_B,bank_D,0.44,0.29
+1100,19583,,64.41,Cash Withdrawal,2023-11-18,bank_B,,0.22,0.29
+1101,19583,,127.95,Transfers,2023-11-18,bank_B,bank_D,0.62,0.29
+1102,19583,,48.33,Groceries,2023-11-20,bank_B,bank_A,0.4,0.29
+1103,19583,,22.88,Personal care,2023-11-21,bank_B,bank_D,0.12,0.29
+1104,19583,,28.0,Personal care,2023-11-21,bank_B,bank_B,0.21,0.29
+1105,19583,,68.26,Groceries,2023-11-22,bank_B,bank_D,0.34,0.29
+1106,19583,,458.19,Electronics,2023-11-22,bank_B,bank_D,0.61,0.29
+1107,19583,,55.3,Entertainment,2023-11-22,bank_B,bank_C,0.36,0.29
+1108,19583,,20.67,Cash Withdrawal,2023-11-22,bank_B,,0.19,0.29
+1109,19583,,135.3,Credit Card Payment,2023-11-22,bank_B,bank_B,0.57,0.29
+1110,19583,,19.39,Cash Withdrawal,2023-11-23,bank_B,,0.29,0.29
+1111,19583,,811.63,Home Improvement,2023-11-23,bank_B,bank_E,0.76,0.29
+1112,19583,,1586.93,Shopping,2023-11-23,bank_B,bank_D,0.8,0.29
+1113,19583,,16.66,Dining Out,2023-11-24,bank_B,bank_A,0.23,0.29
+1114,19583,,60.17,Groceries,2023-11-25,bank_B,bank_D,0.46,0.29
+1115,19583,,28.35,Groceries,2023-11-26,bank_B,bank_B,0.31,0.29
+1116,19583,,28.42,Transportation,2023-11-26,bank_B,bank_E,0.23,0.29
+1117,19583,,65.38,Entertainment,2023-11-27,bank_B,bank_D,0.57,0.29
+1118,19583,,132.27,Online Shopping,2023-11-28,bank_B,bank_D,0.51,0.29
+1119,19583,,334.36,Transfers,2023-11-28,bank_B,bank_C,0.69,0.29
+1120,19583,,65.27,Shopping,2023-11-28,bank_B,bank_A,0.42,0.29
+1121,19583,,140.01,Transportation,2023-11-28,bank_B,bank_D,0.64,0.29
+1122,19583,,2.73,Dining Out,2023-11-30,bank_B,bank_E,0.27,0.29
+1123,17747,,9.41,Charity,2023-10-01,bank_C,bank_C,0.24,0.32
+1124,17747,,1771.72,Housing,2023-10-01,bank_C,bank_E,0.65,0.32
+1125,17747,,11.09,Utilities,2023-10-01,bank_C,bank_B,0.3,0.32
+1126,17747,,19776.06,Income,2023-10-01,bank_E,bank_C,,0.32
+1127,17747,,188.04,Investment,2023-10-02,bank_C,bank_E,0.59,0.32
+1128,17747,,219.86,Transfers,2023-10-02,bank_C,bank_C,0.57,0.32
+1129,17747,,48.46,Groceries,2023-10-02,bank_C,bank_E,0.31,0.32
+1130,17747,,30.33,Personal care,2023-10-02,bank_C,bank_E,0.33,0.32
+1131,17747,,97.23,Utilities,2023-10-02,bank_C,bank_B,0.54,0.32
+1132,17747,,9.87,Cash Withdrawal,2023-10-02,bank_C,,0.28,0.32
+1133,17747,,21.02,Utilities,2023-10-03,bank_C,bank_B,0.12,0.32
+1134,17747,,45.96,Cash Withdrawal,2023-10-03,bank_C,,0.27,0.32
+1135,17747,,86.86,Cash Withdrawal,2023-10-03,bank_C,,0.14,0.32
+1136,17747,,170.66,Credit Card Payment,2023-10-03,bank_C,bank_D,0.63,0.32
+1137,17747,,204.64,Credit Card Payment,2023-10-03,bank_C,bank_B,0.53,0.32
+1138,17747,,39.35,Groceries,2023-10-04,bank_C,bank_C,0.59,0.32
+1139,17747,,30.43,Online Shopping,2023-10-04,bank_C,bank_E,0.56,0.32
+1140,17747,,477.75,Transfers,2023-10-04,bank_C,bank_A,0.72,0.32
+1141,17747,,40.38,Entertainment,2023-10-04,bank_C,bank_A,0.48,0.32
+1142,17747,,12.63,Utilities,2023-10-04,bank_C,bank_B,0.29,0.32
+1144,17747,,18.88,Dining Out,2023-10-06,bank_C,bank_E,0.39,0.32
+1145,17747,,46.3,Cash Withdrawal,2023-10-06,bank_C,,0.21,0.32
+1146,17747,,458.21,Credit Card Payment,2023-10-08,bank_C,bank_A,0.76,0.32
+1147,17747,,106.8,Cash Withdrawal,2023-10-08,bank_C,,0.13,0.32
+1148,17747,,6.48,Interest,2023-10-09,bank_C,bank_B,0.31,0.32
+1149,17747,,45.5,Entertainment,2023-10-09,bank_C,bank_D,0.4,0.32
+1150,17747,,20.69,Cash Withdrawal,2023-10-09,bank_C,,0.2,0.32
+1151,17747,,463.4,Transfers,2023-10-10,bank_C,bank_D,0.64,0.32
+1152,17747,,419.71,Transfers,2023-10-10,bank_C,bank_B,0.56,0.32
+1153,17747,,288.51,Online Shopping,2023-10-10,bank_C,bank_D,0.71,0.32
+1154,17747,,16.4,Dining Out,2023-10-10,bank_C,bank_B,0.24,0.32
+1155,17747,,35.36,Entertainment,2023-10-12,bank_C,bank_A,0.53,0.32
+1156,17747,,35.72,Groceries,2023-10-12,bank_C,bank_E,0.35,0.32
+1157,17747,,1546.47,Shopping,2023-10-13,bank_C,bank_A,0.7,0.32
+1158,17747,,3.42,Dining Out,2023-10-13,bank_C,bank_E,0.17,0.32
+1159,17747,,17.02,Personal care,2023-10-15,bank_C,bank_D,0.2,0.32
+1160,17747,,15.76,Groceries,2023-10-15,bank_C,bank_C,0.27,0.32
+1161,17747,,501.93,Transfers,2023-10-15,bank_C,bank_D,0.78,0.32
+1162,17747,,10.89,Dining Out,2023-10-15,bank_C,bank_A,0.1,0.32
+1163,17747,,576.72,Transfers,2023-10-16,bank_C,bank_E,0.78,0.32
+1164,17747,,34.26,Cash Withdrawal,2023-10-16,bank_C,,0.25,0.32
+1165,17747,,63.02,Groceries,2023-10-17,bank_C,bank_E,0.59,0.32
+1166,17747,,82.76,Healthcare,2023-10-17,bank_C,bank_B,0.67,0.32
+1167,17747,,34.37,Cash Withdrawal,2023-10-18,bank_C,,0.12,0.32
+1168,17747,,32.64,Personal care,2023-10-19,bank_C,bank_E,0.38,0.32
+1169,17747,,2.86,Dining Out,2023-10-19,bank_C,bank_A,0.34,0.32
+1170,17747,,204.6,Online Shopping,2023-10-20,bank_C,bank_E,0.64,0.32
+1171,17747,,108.83,Online Shopping,2023-10-20,bank_C,bank_C,0.54,0.32
+1172,17747,,39.28,Transportation,2023-10-22,bank_C,bank_D,0.48,0.32
+1173,17747,,23.67,Healthcare,2023-10-22,bank_C,bank_C,0.2,0.32
+1174,17747,,39.13,Cash Withdrawal,2023-10-22,bank_C,,0.19,0.32
+1175,17747,,985.02,Transfers,2023-10-22,bank_C,bank_A,0.54,0.32
+1176,17747,,12.32,Cash Withdrawal,2023-10-23,bank_C,,0.26,0.32
+1177,17747,,20.34,Groceries,2023-10-23,bank_C,bank_D,0.28,0.32
+1178,17747,,25.56,Groceries,2023-10-24,bank_C,bank_B,0.23,0.32
+1179,17747,,528.48,Transfers,2023-10-25,bank_C,bank_E,0.68,0.32
+1180,17747,,527.57,Transfers,2023-10-26,bank_C,bank_A,0.67,0.32
+1181,17747,,74.68,Cash Withdrawal,2023-10-26,bank_C,,0.23,0.32
+1182,17747,,199.45,Home Improvement,2023-10-28,bank_C,bank_E,0.41,0.32
+1183,17747,,51.93,Cash Withdrawal,2023-10-28,bank_C,,0.16,0.32
+1184,17747,,43.49,Groceries,2023-10-30,bank_C,bank_B,0.32,0.32
+1185,17747,,1098.04,Shopping,2023-10-30,bank_C,bank_A,0.78,0.32
+1186,17747,,1810.95,Shopping,2023-10-30,bank_C,bank_D,0.8,0.32
+1187,17747,,36.73,Transportation,2023-10-30,bank_C,bank_A,0.36,0.32
+1188,17747,,27.12,Groceries,2023-10-30,bank_C,bank_A,0.42,0.32
+1189,17747,,64.34,Groceries,2023-10-30,bank_C,bank_A,0.54,0.32
+1190,17747,,9.39,Interest,2023-10-31,bank_C,bank_B,0.26,0.32
+1191,17747,,237.28,Home Improvement,2023-10-31,bank_C,bank_D,0.56,0.32
+1192,17747,,1771.72,Housing,2023-11-01,bank_C,bank_B,0.52,0.32
+1193,17747,,90.42,Cash Withdrawal,2023-11-01,bank_C,,0.29,0.32
+1194,17747,,11.09,Utilities,2023-11-01,bank_C,bank_B,0.19,0.32
+1195,17747,,19776.06,Income,2023-11-01,bank_E,bank_C,,0.32
+1196,17747,,97.23,Utilities,2023-11-02,bank_C,bank_B,0.49,0.32
+1197,17747,,21.02,Utilities,2023-11-03,bank_C,bank_B,0.17,0.32
+1198,17747,,25.67,Entertainment,2023-11-03,bank_C,bank_A,0.56,0.32
+1199,17747,,12.63,Utilities,2023-11-04,bank_C,bank_B,0.24,0.32
+1200,17747,,16.06,Dining Out,2023-11-05,bank_C,bank_A,0.19,0.32
+1201,17747,,34.27,Dining Out,2023-11-05,bank_C,bank_B,0.51,0.32
+1202,17747,,423.81,Transfers,2023-11-06,bank_C,bank_D,0.74,0.32
+1203,17747,,14.53,Personal care,2023-11-06,bank_C,bank_C,0.32,0.32
+1204,17747,,69.94,Transportation,2023-11-07,bank_C,bank_B,0.46,0.32
+1205,17747,,332.65,Credit Card Payment,2023-11-07,bank_C,bank_B,0.61,0.32
+1206,17747,,77.97,Transportation,2023-11-08,bank_C,bank_C,0.6,0.32
+1207,17747,,27.55,Transfers,2023-11-10,bank_C,bank_B,0.38,0.32
+1208,17747,,24.22,Entertainment,2023-11-10,bank_C,bank_B,0.19,0.32
+1209,17747,,103.16,Home Improvement,2023-11-10,bank_C,bank_D,0.41,0.32
+1210,17747,,27.34,Groceries,2023-11-11,bank_C,bank_C,0.56,0.32
+1211,17747,,916.67,Shopping,2023-11-11,bank_C,bank_C,0.56,0.32
+1212,17747,,101.55,Cash Withdrawal,2023-11-11,bank_C,,0.25,0.32
+1213,17747,,444.53,Transfers,2023-11-11,bank_C,bank_B,0.59,0.32
+1214,17747,,22.88,Healthcare,2023-11-12,bank_C,bank_E,0.14,0.32
+1215,17747,,72.92,Online Shopping,2023-11-12,bank_C,bank_B,0.48,0.32
+1216,17747,,321.24,Transfers,2023-11-13,bank_C,bank_A,0.52,0.32
+1217,17747,,641.33,Transfers,2023-11-13,bank_C,bank_A,0.71,0.32
+1218,17747,,59.79,Groceries,2023-11-13,bank_C,bank_C,0.59,0.32
+1219,17747,,2.9,Bank Fees,2023-11-13,bank_C,bank_D,0.2,0.32
+1220,17747,,91.07,Healthcare,2023-11-13,bank_C,bank_B,0.64,0.32
+1221,17747,,67.19,Cash Withdrawal,2023-11-13,bank_C,,0.15,0.32
+1222,17747,,101.28,Cash Withdrawal,2023-11-13,bank_C,,0.14,0.32
+1223,17747,,50.18,Dining Out,2023-11-14,bank_C,bank_C,0.47,0.32
+1224,17747,,27.87,Personal care,2023-11-15,bank_C,bank_D,0.32,0.32
+1225,17747,,25.75,Personal care,2023-11-15,bank_C,bank_A,0.59,0.32
+1226,17747,,25.28,Online Shopping,2023-11-15,bank_C,bank_C,0.37,0.32
+1227,17747,,164.88,Online Shopping,2023-11-15,bank_C,bank_D,0.52,0.32
+1228,17747,,7.73,Interest,2023-11-15,bank_C,bank_A,0.33,0.32
+1229,17747,,484.79,Transfers,2023-11-16,bank_C,bank_B,0.67,0.32
+1230,17747,,7.98,Cash Withdrawal,2023-11-16,bank_C,,0.3,0.32
+1231,17747,,495.02,Transfers,2023-11-16,bank_C,bank_D,0.69,0.32
+1232,17747,,46.67,Groceries,2023-11-16,bank_C,bank_B,0.39,0.32
+1233,17747,,91.91,Cash Withdrawal,2023-11-17,bank_C,,0.29,0.32
+1234,17747,,558.87,Shopping,2023-11-17,bank_C,bank_B,0.69,0.32
+1235,17747,,3.02,Charity,2023-11-18,bank_C,bank_E,0.37,0.32
+1236,17747,,157.8,Groceries,2023-11-18,bank_C,bank_C,0.59,0.32
+1237,17747,,22.66,Online Shopping,2023-11-18,bank_C,bank_A,0.24,0.32
+1238,17747,,33.56,Cash Withdrawal,2023-11-18,bank_C,,0.17,0.32
+1239,17747,,47.8,Cash Withdrawal,2023-11-19,bank_C,,0.17,0.32
+1240,17747,,25.99,Groceries,2023-11-19,bank_C,bank_B,0.48,0.32
+1241,17747,,31.61,Cash Withdrawal,2023-11-19,bank_C,,0.21,0.32
+1242,17747,,57.29,Groceries,2023-11-21,bank_C,bank_E,0.37,0.32
+1243,17747,,21.61,Cash Withdrawal,2023-11-24,bank_C,,0.26,0.32
+1244,17747,,183.67,Healthcare,2023-11-24,bank_C,bank_C,0.58,0.32
+1245,17747,,67.37,Groceries,2023-11-25,bank_C,bank_A,0.62,0.32
+1246,17747,,90.35,Credit Card Payment,2023-11-26,bank_C,bank_D,0.45,0.32
+1247,17747,,884.99,Shopping,2023-11-26,bank_C,bank_A,0.64,0.32
+1248,17747,,15.67,Dining Out,2023-11-27,bank_C,bank_A,0.14,0.32
+1249,17747,,365.64,Transfers,2023-11-27,bank_C,bank_C,0.56,0.32
+1250,17747,,266.69,Shopping,2023-11-27,bank_C,bank_A,0.68,0.32
+1251,17747,,366.38,Transfers,2023-11-27,bank_C,bank_C,0.64,0.32
+1252,17747,,396.99,Credit Card Payment,2023-11-27,bank_C,bank_D,0.56,0.32
+1253,17747,,62.3,Cash Withdrawal,2023-11-28,bank_C,,0.21,0.32
+1254,17747,,160.45,Transfers,2023-11-29,bank_C,bank_D,0.65,0.32
+1255,17747,,91.5,Online Shopping,2023-11-29,bank_C,bank_C,0.42,0.32
+1257,17747,,120.59,Groceries,2023-11-29,bank_C,bank_D,0.63,0.32
+1258,17747,,39.41,Entertainment,2023-11-30,bank_C,bank_C,0.35,0.32
+1259,17747,,23.47,Groceries,2023-11-30,bank_C,bank_B,0.26,0.32
+1260,17747,,52.95,Cash Withdrawal,2023-11-30,bank_C,,0.28,0.32
+1261,17357,,14862.53,Income,2023-10-01,bank_C,bank_D,,0.38
+1262,17357,,42.47,Utilities,2023-10-01,bank_D,bank_C,0.58,0.38
+1263,17357,,2041.29,Housing,2023-10-01,bank_D,bank_B,0.66,0.38
+1264,17357,,10.2,Personal care,2023-10-02,bank_D,bank_D,0.33,0.38
+1265,17357,,113.18,Utilities,2023-10-02,bank_D,bank_C,0.49,0.38
+1266,17357,,56.54,Cash Withdrawal,2023-10-02,bank_D,,0.23,0.38
+1267,17357,,27.61,Cash Withdrawal,2023-10-02,bank_D,,0.21,0.38
+1268,17357,,19.54,Groceries,2023-10-03,bank_D,bank_E,0.22,0.38
+1269,17357,,13.16,Transportation,2023-10-03,bank_D,bank_A,0.23,0.38
+1270,17357,,346.31,Loan Payment,2023-10-03,bank_D,bank_D,0.79,0.38
+1271,17357,,33.62,Utilities,2023-10-03,bank_D,bank_C,0.53,0.38
+1272,17357,,304.21,Credit Card Payment,2023-10-03,bank_D,bank_D,0.68,0.38
+1273,17357,,44.84,Groceries,2023-10-03,bank_D,bank_C,0.57,0.38
+1274,17357,,96.5,Utilities,2023-10-04,bank_D,bank_C,0.56,0.38
+1275,17357,,21.22,Cash Withdrawal,2023-10-05,bank_D,,0.17,0.38
+1276,17357,,181.21,Online Shopping,2023-10-05,bank_D,bank_A,0.75,0.38
+1277,17357,,13.36,Groceries,2023-10-05,bank_D,bank_C,0.35,0.38
+1278,17357,,615.05,Holiday,2023-10-06,bank_D,bank_C,0.77,0.38
+1279,17357,,48.89,Dining Out,2023-10-06,bank_D,bank_A,0.43,0.38
+1280,17357,,21.13,Entertainment,2023-10-06,bank_D,bank_B,0.33,0.38
+1281,17357,,87.41,Online Shopping,2023-10-06,bank_D,bank_C,0.64,0.38
+1282,17357,,7.72,Cash Withdrawal,2023-10-06,bank_D,,0.11,0.38
+1283,17357,,1006.69,Home Improvement,2023-10-06,bank_D,bank_D,0.77,0.38
+1284,17357,,48.38,Healthcare,2023-10-07,bank_D,bank_A,0.4,0.38
+1285,17357,,39.07,Groceries,2023-10-07,bank_D,bank_C,0.47,0.38
+1286,17357,,13.44,Cash Withdrawal,2023-10-08,bank_D,,0.27,0.38
+1287,17357,,296.69,Transfers,2023-10-08,bank_D,bank_A,0.58,0.38
+1288,17357,,1249.68,Transfers,2023-10-08,bank_D,bank_C,0.7,0.38
+1289,17357,,261.45,Shopping,2023-10-09,bank_D,bank_C,0.53,0.38
+1290,17357,,275.92,Credit Card Payment,2023-10-09,bank_D,bank_C,0.63,0.38
+1291,17357,,12.0,Groceries,2023-10-10,bank_D,bank_D,0.23,0.38
+1292,17357,,102.56,Investment,2023-10-10,bank_D,bank_C,0.63,0.38
+1293,17357,,628.46,Shopping,2023-10-10,bank_D,bank_A,0.65,0.38
+1295,17357,,33.03,Online Shopping,2023-10-11,bank_D,bank_D,0.51,0.38
+1296,17357,,73.54,Groceries,2023-10-11,bank_D,bank_D,0.64,0.38
+1297,17357,,3.71,Dining Out,2023-10-11,bank_D,bank_D,0.23,0.38
+1298,17357,,149.15,Shopping,2023-10-12,bank_D,bank_E,0.5,0.38
+1299,17357,,16.21,Cash Withdrawal,2023-10-12,bank_D,,0.14,0.38
+1300,17357,,270.81,Home Improvement,2023-10-12,bank_D,bank_C,0.59,0.38
+1301,17357,,61.62,Transfers,2023-10-12,bank_D,bank_E,0.39,0.38
+1302,17357,,108.23,Groceries,2023-10-14,bank_D,bank_A,0.52,0.38
+1303,17357,,56.91,Cash Withdrawal,2023-10-14,bank_D,,0.27,0.38
+1304,17357,,13.12,Dining Out,2023-10-14,bank_D,bank_D,0.12,0.38
+1305,17357,,35.96,Dining Out,2023-10-14,bank_D,bank_E,0.43,0.38
+1306,17357,,22.64,Entertainment,2023-10-14,bank_D,bank_A,0.11,0.38
+1307,17357,,11.33,Entertainment,2023-10-14,bank_D,bank_E,0.11,0.38
+1308,17357,,91.59,Groceries,2023-10-14,bank_D,bank_C,0.4,0.38
+1309,17357,,185.25,Transfers,2023-10-15,bank_D,bank_C,0.7,0.38
+1310,17357,,149.48,Credit Card Payment,2023-10-17,bank_D,bank_E,0.65,0.38
+1311,17357,,5.59,Cash Withdrawal,2023-10-18,bank_D,,0.2,0.38
+1312,17357,,20.52,Personal care,2023-10-18,bank_D,bank_A,0.37,0.38
+1313,17357,,38.36,Cash Withdrawal,2023-10-19,bank_D,,0.28,0.38
+1315,17357,,24.58,Cash Withdrawal,2023-10-20,bank_D,,0.27,0.38
+1316,17357,,8.23,Bank Fees,2023-10-21,bank_D,bank_D,0.18,0.38
+1317,17357,,70.86,Healthcare,2023-10-22,bank_D,bank_C,0.5,0.38
+1318,17357,,545.25,Electronics,2023-10-23,bank_D,bank_B,0.54,0.38
+1319,17357,,57.33,Transportation,2023-10-23,bank_D,bank_B,0.5,0.38
+1320,17357,,137.51,Shopping,2023-10-24,bank_D,bank_E,0.58,0.38
+1321,17357,,7.5,Interest,2023-10-24,bank_D,bank_E,0.25,0.38
+1322,17357,,25.79,Transportation,2023-10-24,bank_D,bank_A,0.58,0.38
+1323,17357,,5.78,Interest,2023-10-28,bank_D,bank_B,0.37,0.38
+1324,17357,,160.8,Online Shopping,2023-10-28,bank_D,bank_C,0.47,0.38
+1325,17357,,485.11,Transfers,2023-10-28,bank_D,bank_A,0.67,0.38
+1326,17357,,33.17,Transfers,2023-10-28,bank_D,bank_E,0.5,0.38
+1327,17357,,59.27,Transfers,2023-10-29,bank_D,bank_C,0.34,0.38
+1328,17357,,757.63,Transfers,2023-10-29,bank_D,bank_D,0.58,0.38
+1329,17357,,642.42,Transfers,2023-10-29,bank_D,bank_D,0.78,0.38
+1330,17357,,53.09,Groceries,2023-10-31,bank_D,bank_D,0.41,0.38
+1331,17357,,103.2,Cash Withdrawal,2023-10-31,bank_D,,0.22,0.38
+1332,17357,,77.0,Cash Withdrawal,2023-10-31,bank_D,,0.22,0.38
+1333,17357,,81.99,Groceries,2023-10-31,bank_D,bank_B,0.45,0.38
+1334,17357,,47.33,Healthcare,2023-10-31,bank_D,bank_A,0.32,0.38
+1335,17357,,2041.29,Housing,2023-11-01,bank_D,bank_A,0.7,0.38
+1336,17357,,42.47,Utilities,2023-11-01,bank_D,bank_C,0.46,0.38
+1337,17357,,99.02,Transfers,2023-11-01,bank_D,bank_C,0.64,0.38
+1338,17357,,31.57,Groceries,2023-11-01,bank_D,bank_B,0.47,0.38
+1339,17357,,14.61,Groceries,2023-11-01,bank_D,bank_A,0.26,0.38
+1340,17357,,14862.53,Income,2023-11-01,bank_C,bank_D,,0.38
+1341,17357,,113.18,Utilities,2023-11-02,bank_D,bank_C,0.63,0.38
+1342,17357,,68.45,Online Shopping,2023-11-02,bank_D,bank_B,0.48,0.38
+1343,17357,,570.73,Holiday,2023-11-02,bank_D,bank_B,0.58,0.38
+1344,17357,,33.62,Utilities,2023-11-03,bank_D,bank_C,0.51,0.38
+1345,17357,,54.33,Transfers,2023-11-03,bank_D,bank_C,0.43,0.38
+1346,17357,,10.86,Interest,2023-11-03,bank_D,bank_E,0.2,0.38
+1347,17357,,96.5,Utilities,2023-11-04,bank_D,bank_C,0.5,0.38
+1348,17357,,64.18,Transportation,2023-11-04,bank_D,bank_B,0.69,0.38
+1349,17357,,229.96,Credit Card Payment,2023-11-04,bank_D,bank_C,0.59,0.38
+1350,17357,,490.41,Transfers,2023-11-05,bank_D,bank_E,0.67,0.38
+1351,17357,,80.03,Groceries,2023-11-05,bank_D,bank_D,0.6,0.38
+1352,17357,,670.07,Transfers,2023-11-06,bank_D,bank_E,0.58,0.38
+1353,17357,,202.33,Healthcare,2023-11-06,bank_D,bank_D,0.78,0.38
+1354,17357,,13.05,Entertainment,2023-11-06,bank_D,bank_C,0.11,0.38
+1355,17357,,3.45,Bank Fees,2023-11-06,bank_D,bank_A,0.11,0.38
+1356,17357,,58.3,Cash Withdrawal,2023-11-06,bank_D,,0.23,0.38
+1357,17357,,104.04,Healthcare,2023-11-07,bank_D,bank_D,0.56,0.38
+1358,17357,,6.25,Cash Withdrawal,2023-11-07,bank_D,,0.24,0.38
+1359,17357,,45.55,Groceries,2023-11-08,bank_D,bank_D,0.35,0.38
+1360,17357,,9.06,Cash Withdrawal,2023-11-08,bank_D,,0.25,0.38
+1361,17357,,62.99,Entertainment,2023-11-09,bank_D,bank_D,0.6,0.38
+1362,17357,,183.57,Loan Payment,2023-11-09,bank_D,bank_B,0.65,0.38
+1363,17357,,5.34,Cash Withdrawal,2023-11-10,bank_D,,0.26,0.38
+1364,17357,,52.49,Entertainment,2023-11-10,bank_D,bank_E,0.55,0.38
+1365,17357,,24.02,Groceries,2023-11-10,bank_D,bank_E,0.22,0.38
+1366,17357,,14.63,Personal care,2023-11-10,bank_D,bank_E,0.14,0.38
+1367,17357,,726.14,Home Improvement,2023-11-10,bank_D,bank_D,0.67,0.38
+1368,17357,,77.49,Cash Withdrawal,2023-11-11,bank_D,,0.15,0.38
+1369,17357,,99.25,Credit Card Payment,2023-11-11,bank_D,bank_E,0.4,0.38
+1370,17357,,6.13,Cash Withdrawal,2023-11-12,bank_D,,0.27,0.38
+1371,17357,,12.42,Dining Out,2023-11-13,bank_D,bank_E,0.11,0.38
+1372,17357,,69.93,Cash Withdrawal,2023-11-14,bank_D,,0.15,0.38
+1373,17357,,84.53,Cash Withdrawal,2023-11-14,bank_D,,0.27,0.38
+1374,17357,,168.08,Transfers,2023-11-14,bank_D,bank_A,0.55,0.38
+1375,17357,,21.93,Personal care,2023-11-14,bank_D,bank_E,0.34,0.38
+1376,17357,,7.3,Transportation,2023-11-15,bank_D,bank_D,0.17,0.38
+1377,17357,,73.46,Online Shopping,2023-11-15,bank_D,bank_D,0.62,0.38
+1378,17357,,4.66,Dining Out,2023-11-15,bank_D,bank_D,0.3,0.38
+1379,17357,,61.93,Online Shopping,2023-11-15,bank_D,bank_D,0.45,0.38
+1380,17357,,378.62,Transfers,2023-11-15,bank_D,bank_C,0.55,0.38
+1381,17357,,226.01,Transfers,2023-11-15,bank_D,bank_C,0.63,0.38
+1382,17357,,66.07,Healthcare,2023-11-15,bank_D,bank_D,0.43,0.38
+1383,17357,,17.45,Dining Out,2023-11-16,bank_D,bank_E,0.34,0.38
+1385,17357,,48.64,Shopping,2023-11-21,bank_D,bank_D,0.34,0.38
+1386,17357,,2.66,Dining Out,2023-11-22,bank_D,bank_E,0.3,0.38
+1387,17357,,384.53,Online Shopping,2023-11-22,bank_D,bank_E,0.61,0.38
+1388,17357,,41.24,Cash Withdrawal,2023-11-23,bank_D,,0.13,0.38
+1389,17357,,62.52,Cash Withdrawal,2023-11-23,bank_D,,0.18,0.38
+1390,17357,,130.28,Groceries,2023-11-23,bank_D,bank_C,0.6,0.38
+1391,17357,,642.16,Transfers,2023-11-24,bank_D,bank_D,0.57,0.38
+1392,17357,,12.22,Groceries,2023-11-24,bank_D,bank_D,0.37,0.38
+1393,17357,,55.7,Credit Card Payment,2023-11-25,bank_D,bank_B,0.4,0.38
+1394,17357,,6.93,Interest,2023-11-25,bank_D,bank_D,0.37,0.38
+1395,17357,,319.12,Shopping,2023-11-25,bank_D,bank_D,0.51,0.38
+1396,17357,,223.85,Credit Card Payment,2023-11-26,bank_D,bank_B,0.65,0.38
+1397,17357,,52.83,Shopping,2023-11-27,bank_D,bank_A,0.56,0.38
+1398,17357,,31.7,Personal care,2023-11-28,bank_D,bank_A,0.52,0.38
+1399,17357,,37.73,Dining Out,2023-11-29,bank_D,bank_E,0.48,0.38
+1400,17357,,187.4,Investment,2023-11-30,bank_D,bank_A,0.7,0.38
+1401,17357,,32.24,Groceries,2023-11-30,bank_D,bank_E,0.37,0.38
+1402,17357,,717.32,Transfers,2023-11-30,bank_D,bank_E,0.72,0.38
+1403,17357,,61.69,Groceries,2023-11-30,bank_D,bank_B,0.46,0.38
+1404,17357,,33.07,Cash Withdrawal,2023-11-30,bank_D,,0.11,0.38
+1405,17357,,464.38,Credit Card Payment,2023-11-30,bank_D,bank_C,0.8,0.38
+47,12782,,216.42,Credit Card Payment,2023-10-20,bank_D,Intrnl,0.6,0.6
+519,16898,,253.84,Online Shopping,2023-11-05,bank_E,Intrnl,0.58,0.4
+339,17216,,554.26,Credit Card Payment,2023-10-20,bank_B,Intrnl,0.76,0.55
+239,16400,,63.4,Online Shopping,2023-11-09,bank_A,Intrnl,0.52,0.42
+404,17216,,242.63,Credit Card Payment,2023-11-16,bank_B,Intrnl,0.55,0.55
+457,16898,,327.79,Online Shopping,2023-10-11,bank_E,Intrnl,0.65,0.4
+323,17216,,253.4,Online Shopping,2023-10-11,bank_B,Intrnl,0.79,0.55
+141,12782,,95.46,Online Shopping,2023-11-30,bank_D,Intrnl,0.49,0.6
+450,16898,,273.66,Online Shopping,2023-10-07,bank_E,Intrnl,0.67,0.4
+1294,17357,,47.21,Credit Card Payment,2023-10-10,bank_D,Intrnl,0.33,0.38
+505,16898,,394.04,Credit Card Payment,2023-11-03,bank_E,Intrnl,0.54,0.4
+1006,19583,,404.71,Credit Card Payment,2023-10-09,bank_B,Intrnl,0.8,0.29
+1256,17747,,251.5,Credit Card Payment,2023-11-29,bank_C,Intrnl,0.67,0.32
+564,16898,,362.56,Electronics,2023-11-29,bank_E,Intrnl,0.58,0.4
+1143,17747,,180.59,Credit Card Payment,2023-10-04,bank_C,Intrnl,0.69,0.32
+1048,19583,,211.92,Electronics,2023-10-29,bank_B,Intrnl,0.55,0.29
+379,17216,,43.62,Online Shopping,2023-11-05,bank_B,Intrnl,0.41,0.55
+944,19746,,43.29,Online Shopping,2023-11-14,bank_B,Intrnl,0.35,0.68
+1384,17357,,124.42,Online Shopping,2023-11-17,bank_D,Intrnl,0.53,0.38
+204,16400,,114.66,Online Shopping,2023-10-26,bank_A,Intrnl,0.48,0.42
+1314,17357,,180.67,Credit Card Payment,2023-10-20,bank_D,Intrnl,0.65,0.38

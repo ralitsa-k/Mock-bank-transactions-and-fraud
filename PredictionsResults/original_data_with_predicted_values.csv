@@ -1,0 +1,689 @@
+,Unnamed: 0,Descriptions,Amount,Category,date,customer_id,type,is_scam_transaction,fraud_type,case_id,transaction_id,month,customer_scammed,In_or_Out,bank_to,bank_from,transac_prob,customer_prob,priority,date_DF_created,preds,diff
+287,288,Inheritance Release - Pay the Legal Fees,25.45,Utilities,01/10/2023,16417,spending,1,AdvanceFee,1391063,8204865,October,1,paid_out,bank_B,bank_D,0.32,0.69,1,03/11/2023,,-1
+388,389,Hotel Reservation - Travel Website,69.4,Holiday,01/10/2023,15097,spending,1,Purchase,8251619,7149052,October,1,paid_out,bank_A,bank_C,0.3,0.42,1,03/11/2023,1,0
+865,866,Forex Trading Profits - Expert Strategy,105.2,Shopping,01/10/2023,12168,spending,1,Investment,2664712,4358227,October,1,paid_out,bank_C,bank_D,0.67,0.84,2,03/11/2023,,-1
+873,874,V&I visa check fees ,167.75,Utilities,01/10/2023,13395,spending,1,Impersonation,2692658,3089718,October,1,paid_out,bank_A,bank_C,0.54,0.7,3,03/11/2023,,-1
+920,921,Bank Account Verification - Immediate Response Needed,53.25,Transfers,01/10/2023,14647,spending,1,Impersonation,5675711,1326138,October,1,paid_out,bank_D,bank_A,0.36,0.6,1,03/11/2023,,-1
+943,944,Emergency Medical Expense for My Partner,11.35,Healthcare,01/10/2023,15391,spending,1,Romance,4898053,6201967,October,1,paid_out,bank_B,bank_D,0.34,0.67,1,03/11/2023,,-1
+957,958,HMRC tax rebate upfront fee,188.05,Utilities,01/10/2023,14010,spending,1,Impersonation,5904993,6553415,October,1,paid_out,bank_B,bank_C,0.59,0.45,3,03/11/2023,,-1
+965,966,Sport event tickets,34.35,Entertainment,01/10/2023,10710,spending,1,Purchase,4635168,8116750,October,1,paid_out,bank_B,bank_A,0.38,0.87,1,03/11/2023,,-1
+966,967,V&I visa check fees ,53.05,Utilities,01/10/2023,10710,spending,1,Impersonation,6372290,5763036,October,1,paid_out,bank_D,bank_A,0.6,0.87,1,03/11/2023,1,0
+1084,1085,Bank Account Verification - Immediate Response Needed,120.05,Transfers,01/10/2023,18118,spending,1,Impersonation,4565357,4582030,October,1,paid_out,bank_C,bank_D,0.46,0.56,2,03/11/2023,,-1
+1525,1526,Hotel Reservation - Travel Website,50.95,Holiday,01/10/2023,19879,spending,1,Purchase,1896029,4396519,October,1,paid_out,bank_E,bank_A,0.54,0.61,1,03/11/2023,1,0
+1777,1778,Electronics Purchase - Online Store,36.2,Electronics,01/10/2023,15496,spending,1,Purchase,8191745,5117380,October,1,paid_out,bank_B,bank_D,0.3,0.8,1,03/11/2023,,-1
+1844,1845,V&I visa check fees ,176.95,Utilities,01/10/2023,17804,spending,1,Impersonation,1327772,5381220,October,1,paid_out,bank_E,bank_A,0.54,0.62,3,03/11/2023,1,0
+1897,1898,Traffic Violation Fine,184.85,Utilities,01/10/2023,14687,spending,1,Impersonation,6138682,2225644,October,1,paid_out,Intrnl,bank_E,0.79,0.7,4,03/11/2023,,-1
+1998,1999,Bitcoin Doubler - Double Your Coins,471.45,Investment,02/10/2023,11348,spending,1,Investment,5022647,6599465,October,1,paid_out,Intrnl,bank_E,0.66,0.56,4,03/11/2023,1,0
+2169,2170,Police Admin Fees,149.65,Utilities,02/10/2023,16244,spending,1,Impersonation,3769179,2118435,October,1,paid_out,bank_A,bank_B,0.43,0.66,2,03/11/2023,,-1
+2175,2176,Sport event tickets,31.75,Entertainment,02/10/2023,14620,spending,1,Purchase,4330519,6887051,October,1,paid_out,bank_A,bank_C,0.22,0.53,1,03/11/2023,,-1
+2270,2271,Facebook Marketplace Upfront payment,36.4,Utilities,02/10/2023,18243,spending,1,Purchase,6738535,3303638,October,1,paid_out,bank_B,bank_C,0.22,0.74,1,03/11/2023,1,0
+2271,2272,Designer Handbag - Luxury Boutique,30.55,Shopping,02/10/2023,18243,spending,1,Purchase,4092526,2689295,October,1,paid_out,bank_A,bank_C,0.27,0.74,1,03/11/2023,1,0
+2344,2345,Inheritance release banking charges covered,80.55,Utilities,02/10/2023,11824,spending,1,AdvanceFee,4722564,6427408,October,1,paid_out,bank_A,bank_C,0.62,0.79,2,03/11/2023,,-1
+2393,2394,Law Enforcement Fine - Pay Now to Avoid Arrest,81.35,Utilities,02/10/2023,18879,spending,1,Impersonation,3357170,7094974,October,1,paid_out,bank_D,bank_E,0.41,0.66,2,03/11/2023,,-1
+2813,2814,Private Yacht Charter - Mediterranean Cruise,116.1,Holiday,02/10/2023,13531,spending,1,Romance,7306959,6329526,October,1,paid_out,bank_B,bank_A,0.46,0.8,2,03/11/2023,1,0
+3387,3388,Invoice Settlement - Payment Account Amendment,537.75,Shopping,03/10/2023,18879,spending,1,InvoiceMandate,1226287,2219181,October,1,paid_out,bank_E,bank_E,0.78,0.66,3,03/11/2023,,-1
+4159,4160,Property Investment Purchase - Exclusive Deal,205.7,Shopping,03/10/2023,19879,spending,1,Investment,2046469,5507901,October,1,paid_out,bank_B,bank_A,0.55,0.61,3,03/11/2023,,-1
+4186,4187,Canary island holiday ,232.9,Holiday,03/10/2023,13531,spending,1,Romance,5097593,8819701,October,1,paid_out,bank_A,bank_A,0.51,0.8,3,03/11/2023,,-1
+4267,4268,Sport event tickets,58.35,Entertainment,04/10/2023,17066,spending,1,Purchase,8028264,7271491,October,1,paid_out,bank_B,bank_B,0.33,0.73,1,03/11/2023,,-1
+4769,4770,Hotel Reservation - Travel Website,31.55,Holiday,04/10/2023,13301,spending,1,Purchase,3492544,7853328,October,1,paid_out,bank_A,bank_C,0.29,0.5,1,03/11/2023,,-1
+5107,5108,Online Gift Purchase for My New Love,105.3,Personal care,04/10/2023,15971,spending,1,Romance,7038691,1263618,October,1,paid_out,bank_D,bank_E,0.52,0.55,2,03/11/2023,,-1
+5245,5246,Emergency medical transfer,53.25,Healthcare,05/10/2023,15971,spending,1,Romance,6199013,8949013,October,1,paid_out,bank_C,bank_E,0.36,0.55,1,03/11/2023,,-1
+5310,5311,Apple Store - Electronics Purchase,110.1,Shopping,05/10/2023,16154,spending,1,Romance,4243659,5855259,October,1,paid_out,bank_E,bank_E,0.57,0.41,2,03/11/2023,,-1
+5479,5480,InvestToday initial amount,1.2,Utilities,05/10/2023,15496,spending,1,AdvanceFee,2490566,8278334,October,1,paid_out,bank_C,bank_D,0.32,0.8,1,03/11/2023,,-1
+5513,5514,IRS Tax Payment - Urgent Action Required,159,Transfers,05/10/2023,13121,spending,1,Impersonation,5765539,4559375,October,1,paid_out,bank_C,bank_A,0.6,0.54,2,03/11/2023,1,0
+5625,5626,Dinner for two,23.65,Dining Out,05/10/2023,16209,spending,1,Romance,1658395,5799560,October,1,paid_out,bank_A,bank_B,0.21,0.72,1,03/11/2023,,-1
+5627,5628,Inheritance Release - Pay the Legal Fees,1.85,Utilities,05/10/2023,12628,spending,1,AdvanceFee,1367084,4334906,October,1,paid_out,bank_E,bank_A,0.16,0.42,1,03/11/2023,,-1
+5693,5694,V&I visa check fees ,79.1,Utilities,05/10/2023,17066,spending,1,Impersonation,5638299,2397264,October,1,paid_out,bank_D,bank_B,0.43,0.73,1,03/11/2023,1,0
+5744,5745,Designer Handbag - Luxury Boutique,34.45,Shopping,05/10/2023,19879,spending,1,Purchase,6258477,4079134,October,1,paid_out,bank_E,bank_A,0.17,0.61,1,03/11/2023,1,0
+5887,5888,Emergency medical transfer,93.35,Healthcare,06/10/2023,16154,spending,1,Romance,1524954,5696644,October,1,paid_out,bank_C,bank_E,0.42,0.41,2,03/11/2023,,-1
+6055,6056,Facebook Marketplace Upfront payment,48.7,Utilities,06/10/2023,17027,spending,1,Purchase,3367810,4254083,October,1,paid_out,bank_E,bank_A,0.37,0.72,1,03/11/2023,1,0
+6138,6139,Sport event tickets,44.65,Entertainment,06/10/2023,10174,spending,1,Purchase,7984837,5912978,October,1,paid_out,bank_A,bank_E,0.29,0.77,1,03/11/2023,,-1
+6219,6220,Neiman Marcus - Designer Shopping,216.45,Shopping,06/10/2023,15971,spending,1,Romance,8599941,3731873,October,1,paid_out,bank_C,bank_E,0.64,0.55,3,03/11/2023,,-1
+6236,6237,V&I visa check fees ,69.15,Utilities,06/10/2023,18873,spending,1,Impersonation,7988023,4613140,October,1,paid_out,bank_D,bank_E,0.39,0.74,1,03/11/2023,1,0
+6532,6533,ClothesOnline additional posting payment,44.2,Shopping,06/10/2023,19879,spending,1,Purchase,4597990,7621749,October,1,paid_out,bank_D,bank_A,0.35,0.61,1,03/11/2023,,-1
+6609,6610,Sport event tickets,64.6,Entertainment,07/10/2023,18879,spending,1,Purchase,3876824,1192947,October,1,paid_out,bank_A,bank_E,0.33,0.66,1,03/11/2023,,-1
+6639,6640,Mortgage assistance,18.25,Utilities,07/10/2023,13063,spending,1,Romance,2608081,7447970,October,1,paid_out,bank_B,bank_E,0.37,0.59,1,03/11/2023,,-1
+6640,6641,V&I visa check fees ,10.15,Utilities,07/10/2023,17966,spending,1,Impersonation,4903642,6335341,October,1,paid_out,bank_A,bank_A,0.19,0.61,1,03/11/2023,,-1
+6646,6647,Sport event tickets,46.65,Entertainment,07/10/2023,11824,spending,1,Purchase,4520359,8213965,October,1,paid_out,bank_D,bank_C,0.34,0.79,1,03/11/2023,1,0
+7162,7163,HMRC tax rebate upfront fee,172.65,Utilities,07/10/2023,10710,spending,1,Impersonation,2431710,1562982,October,1,paid_out,bank_A,bank_A,0.71,0.87,3,03/11/2023,,-1
+7199,7200,Electronics Purchase - Online Store,40.95,Electronics,07/10/2023,15831,spending,1,Purchase,7832679,3585786,October,1,paid_out,bank_E,bank_E,0.24,0.77,1,03/11/2023,,-1
+7359,7360,Legal Penalty Settlement,82.15,Transfers,08/10/2023,10911,spending,1,Impersonation,1507996,4408446,October,1,paid_out,bank_D,bank_A,0.65,0.85,2,03/11/2023,1,0
+7558,7559,InvestToday initial amount,2.85,Utilities,08/10/2023,15496,spending,1,AdvanceFee,5083748,7237604,October,1,paid_out,bank_B,bank_D,0.18,0.8,1,03/11/2023,1,0
+7589,7590,InvestToday initial amount,28,Utilities,08/10/2023,18118,spending,1,AdvanceFee,4860635,4785786,October,1,paid_out,bank_A,bank_D,0.33,0.56,1,03/11/2023,1,0
+7917,7918,Legal Penalty Settlement,84.35,Transfers,08/10/2023,11360,spending,1,Impersonation,4696854,1414167,October,1,paid_out,bank_B,bank_B,0.4,0.41,2,03/11/2023,,-1
+7923,7924,Facebook Marketplace Upfront payment,37.6,Utilities,08/10/2023,13811,spending,1,Purchase,3923293,7765461,October,1,paid_out,bank_E,bank_C,0.23,0.67,1,03/11/2023,1,0
+8197,8198,Law Enforcement Fine - Pay Now to Avoid Arrest,57.8,Utilities,09/10/2023,10647,spending,1,Impersonation,6121914,6844090,October,1,paid_out,bank_B,bank_D,0.52,0.75,1,03/11/2023,,-1
+8257,8258,Law Enforcement Fine - Pay Now to Avoid Arrest,98.5,Utilities,09/10/2023,17156,spending,1,Impersonation,2334604,3147875,October,1,paid_out,bank_C,bank_E,0.49,0.43,2,03/11/2023,,-1
+8477,8478,Designer Handbag - Luxury Boutique,25.15,Shopping,09/10/2023,13067,spending,1,Purchase,8089414,5194437,October,1,paid_out,bank_A,bank_A,0.39,0.5,1,03/11/2023,1,0
+8645,8646,Electronics Purchase - Online Store,57.25,Electronics,09/10/2023,18712,spending,1,Purchase,6150311,6027991,October,1,paid_out,bank_C,bank_E,0.56,0.45,1,03/11/2023,,-1
+8676,8677,eBay Fee For Requested Refund,33.15,Shopping,09/10/2023,11679,spending,1,Purchase,7429351,8492487,October,1,paid_out,bank_C,bank_E,0.18,0.74,1,03/11/2023,,-1
+8744,8745,Designer Handbag - Luxury Boutique,61.5,Shopping,09/10/2023,11641,spending,1,Purchase,5012381,2237158,October,1,paid_out,bank_B,bank_A,0.35,0.51,1,03/11/2023,,-1
+8786,8787,Forex Trading Profits - Expert Strategy,155.85,Shopping,10/10/2023,16077,spending,1,Investment,1792750,2670413,October,1,paid_out,bank_D,bank_E,0.45,0.8,2,03/11/2023,,-1
+8838,8839,Emergency medical transfer,116,Healthcare,10/10/2023,15391,spending,1,Romance,3403082,5839339,October,1,paid_out,bank_D,bank_D,0.47,0.67,2,03/11/2023,,-1
+8930,8931,Exclusive Investment Offer - Limited Time,185.1,Investment,10/10/2023,18133,spending,1,Investment,4613772,1360767,October,1,paid_out,bank_C,bank_C,0.51,0.85,3,03/11/2023,,-1
+9166,9167,Traffic Violation Fine,270.35,Utilities,10/10/2023,10911,spending,1,Impersonation,5640164,3195074,October,1,paid_out,Intrnl,bank_A,0.75,0.85,4,03/11/2023,1,0
+9224,9225,Facebook Marketplace Upfront payment,48.15,Utilities,10/10/2023,10525,spending,1,Purchase,6890081,2199462,October,1,paid_out,bank_E,bank_C,0.57,0.56,1,03/11/2023,,-1
+9237,9238,eBay Fee For Requested Refund,33.7,Shopping,10/10/2023,10525,spending,1,Purchase,7557321,8784953,October,1,paid_out,bank_C,bank_C,0.38,0.56,1,03/11/2023,1,0
+9272,9273,IRS Tax Payment - Urgent Action Required,3.5,Transfers,10/10/2023,11641,spending,1,Impersonation,7289245,4166928,October,1,paid_out,bank_C,bank_A,0.36,0.51,1,03/11/2023,,-1
+9295,9296,Law Enforcement Fine - Pay Now to Avoid Arrest,133.55,Utilities,10/10/2023,17804,spending,1,Impersonation,4162008,3189676,October,1,paid_out,bank_B,bank_A,0.54,0.62,2,03/11/2023,,-1
+9378,9379,eBay Fee For Requested Refund,54.95,Shopping,10/10/2023,12172,spending,1,Purchase,4308028,5438497,October,1,paid_out,bank_A,bank_C,0.37,0.43,1,03/11/2023,,-1
+9659,9660,HMRC tax rebate upfront fee,81.45,Utilities,11/10/2023,16417,spending,1,Impersonation,8707091,7233708,October,1,paid_out,bank_A,bank_D,0.66,0.69,2,03/11/2023,1,0
+9720,9721,Private Yacht Charter - Mediterranean Cruise,13.55,Holiday,11/10/2023,16209,spending,1,Romance,2638304,3716539,October,1,paid_out,bank_A,bank_B,0.17,0.72,1,03/11/2023,,-1
+9766,9767,Sport event tickets,38.7,Entertainment,11/10/2023,15233,spending,1,Purchase,8249743,3570253,October,1,paid_out,bank_E,bank_A,0.33,0.64,1,03/11/2023,,-1
+9774,9775,Forex Trading Profits - Expert Strategy,340.45,Shopping,11/10/2023,18805,spending,1,Investment,7466026,8572620,October,1,paid_out,Intrnl,bank_C,0.79,0.84,4,03/11/2023,,-1
+9777,9778,Payment for Outstanding Tax Fine,29.95,Utilities,11/10/2023,17636,spending,1,Impersonation,4119524,1406488,October,1,paid_out,bank_B,bank_D,0.3,0.56,1,03/11/2023,,-1
+9886,9887,ClothesOnline additional posting payment,52.6,Shopping,11/10/2023,13067,spending,1,Purchase,6765139,3761119,October,1,paid_out,bank_A,bank_A,0.42,0.5,1,03/11/2023,,-1
+10014,10015,Law Enforcement Fine - Pay Now to Avoid Arrest,161.9,Utilities,11/10/2023,11641,spending,1,Impersonation,8067584,5135132,October,1,paid_out,bank_A,bank_A,0.52,0.51,3,03/11/2023,,-1
+10141,10142,Legal Penalty Settlement,183.9,Transfers,11/10/2023,18133,spending,1,Impersonation,8019834,3658828,October,1,paid_out,bank_C,bank_C,0.62,0.85,3,03/11/2023,1,0
+10194,10195,eBay securitng item payment,48.05,Shopping,11/10/2023,10525,spending,1,AdvanceFee,3762440,4688383,October,1,paid_out,bank_D,bank_C,0.54,0.56,1,03/11/2023,1,0
+10245,10246,Facebook Marketplace Upfront payment,61.1,Utilities,11/10/2023,13395,spending,1,Purchase,2834298,4507728,October,1,paid_out,bank_E,bank_C,0.6,0.7,1,03/11/2023,1,0
+10274,10275,Online Gift Purchase for My New Love,217.4,Personal care,12/10/2023,14513,spending,1,Romance,2750499,2256717,October,1,paid_out,bank_E,bank_C,0.68,0.81,3,03/11/2023,,-1
+10507,10508,Bank Account Verification - Immediate Response Needed,167.65,Transfers,12/10/2023,11421,spending,1,Impersonation,1858722,2001974,October,1,paid_out,bank_B,bank_D,0.64,0.71,3,03/11/2023,1,0
+10821,10822,Legal Penalty Settlement,85.25,Transfers,12/10/2023,10174,spending,1,Impersonation,7522792,4441735,October,1,paid_out,bank_C,bank_E,0.63,0.77,2,03/11/2023,,-1
+10897,10898,Designer Handbag - Luxury Boutique,65.75,Shopping,12/10/2023,10710,spending,1,Purchase,2946974,4564601,October,1,paid_out,bank_A,bank_A,0.3,0.87,1,03/11/2023,,-1
+10965,10966,Hotel Reservation - Travel Website,28.05,Holiday,12/10/2023,19167,spending,1,Purchase,4392866,5704619,October,1,paid_out,bank_E,bank_A,0.36,0.73,1,03/11/2023,,-1
+11054,11055,Canary island holiday ,51,Holiday,13/10/2023,15971,spending,1,Romance,2803825,2673083,October,1,paid_out,bank_E,bank_E,0.57,0.55,1,03/11/2023,,-1
+11212,11213,WinBet Request Winnings Fee,23.95,Utilities,13/10/2023,13121,spending,1,AdvanceFee,7805900,4266913,October,1,paid_out,bank_B,bank_A,0.35,0.54,1,03/11/2023,,-1
+11258,11259,Contractor Payment - Revised Payment Instructions,1514.8,Shopping,13/10/2023,11421,spending,1,InvoiceMandate,3073596,6724423,October,1,paid_out,Intrnl,bank_D,0.75,0.71,4,03/11/2023,0,-1
+11342,11343,Sport event tickets,36.65,Entertainment,13/10/2023,15496,spending,1,Purchase,4776134,1837566,October,1,paid_out,bank_A,bank_D,0.28,0.8,1,03/11/2023,,-1
+11424,11425,French Riviera Yacht Charter - Luxury Cruise,64.6,Holiday,13/10/2023,13063,spending,1,Romance,1172068,4736929,October,1,paid_out,bank_C,bank_E,0.4,0.59,1,03/11/2023,,-1
+11604,11605,Electronics Purchase - Online Store,23.9,Electronics,13/10/2023,18879,spending,1,Purchase,7950217,8229331,October,1,paid_out,bank_E,bank_E,0.22,0.66,1,03/11/2023,,-1
+11640,11641,Guaranteed Returns - Investment Portfolio,194.85,Investment,13/10/2023,13067,spending,1,Investment,3148240,4082463,October,1,paid_out,bank_D,bank_A,0.58,0.5,3,03/11/2023,,-1
+11763,11764,Legal Penalty Settlement,45.15,Transfers,14/10/2023,18377,spending,1,Impersonation,3480144,4824049,October,1,paid_out,bank_C,bank_B,0.46,0.54,1,03/11/2023,,-1
+11847,11848,Apple Store - Electronics Purchase,20.8,Shopping,14/10/2023,16209,spending,1,Romance,6666222,8022812,October,1,paid_out,bank_B,bank_B,0.28,0.72,1,03/11/2023,,-1
+12382,12383,Hotel Reservation - Travel Website,28,Holiday,14/10/2023,18133,spending,1,Purchase,2661914,6846990,October,1,paid_out,bank_C,bank_C,0.1,0.85,1,03/11/2023,,-1
+12682,12683,Police Admin Fees,15.8,Utilities,15/10/2023,11421,spending,1,Impersonation,8604585,8319555,October,1,paid_out,bank_A,bank_D,0.17,0.71,1,03/11/2023,,-1
+12808,12809,Bank Account Verification - Immediate Response Needed,212.4,Transfers,15/10/2023,13709,spending,1,Impersonation,7552997,2460598,October,1,paid_out,Intrnl,bank_D,0.8,0.5,4,03/11/2023,,-1
+13113,13114,IRS Tax Payment - Urgent Action Required,204.75,Transfers,15/10/2023,10174,spending,1,Impersonation,6148804,2397712,October,1,paid_out,bank_E,bank_E,0.6,0.77,3,03/11/2023,,-1
+13165,13166,V&I visa check fees ,173,Utilities,15/10/2023,15958,spending,1,Impersonation,1585843,2299323,October,1,paid_out,bank_A,bank_C,0.52,0.82,3,03/11/2023,,-1
+13233,13234,V&I visa check fees ,163.6,Utilities,15/10/2023,17038,spending,1,Impersonation,4027099,8111211,October,1,paid_out,bank_C,bank_C,0.77,0.79,3,03/11/2023,,-1
+13260,13261,Hotel Reservation - Travel Website,36.25,Holiday,16/10/2023,12172,spending,1,Purchase,2381730,3897050,October,1,paid_out,bank_E,bank_C,0.22,0.43,1,03/11/2023,,-1
+13363,13364,Facebook Marketplace Upfront payment,52,Utilities,16/10/2023,14905,spending,1,Purchase,6539029,2728548,October,1,paid_out,bank_C,bank_A,0.36,0.64,1,03/11/2023,,-1
+13468,13469,High-Yield Investment Opportunity,160.2,Shopping,16/10/2023,15831,spending,1,Investment,3612071,1451578,October,1,paid_out,bank_D,bank_E,0.62,0.77,3,03/11/2023,,-1
+13840,13841,eBay securitng item payment,23,Shopping,16/10/2023,14010,spending,1,AdvanceFee,5212736,6895890,October,1,paid_out,bank_B,bank_C,0.27,0.45,1,03/11/2023,1,0
+13865,13866,Police Admin Fees,163.9,Utilities,16/10/2023,14010,spending,1,Impersonation,4462632,7272034,October,1,paid_out,bank_C,bank_C,0.52,0.45,3,03/11/2023,,-1
+14154,14155,"Claim Your Lottery Winnings - Processing Fee""",168.4,Shopping,17/10/2023,18816,spending,1,AdvanceFee,5743115,4470550,October,1,paid_out,bank_B,bank_A,0.52,0.46,3,03/11/2023,1,0
+14665,14666,IRS Tax Payment - Urgent Action Required,145.4,Transfers,17/10/2023,13310,spending,1,Impersonation,7401724,6736934,October,1,paid_out,bank_E,bank_D,0.43,0.63,2,03/11/2023,,-1
+14826,14827,Electronics Purchase - Online Store,11.85,Electronics,18/10/2023,12628,spending,1,Purchase,8226850,4145370,October,1,paid_out,bank_A,bank_A,0.19,0.42,1,03/11/2023,,-1
+15307,15308,Hotel Reservation - Travel Website,36.75,Holiday,18/10/2023,13709,spending,1,Purchase,4118581,2060180,October,1,paid_out,bank_D,bank_D,0.25,0.5,1,03/11/2023,,-1
+15612,15613,Private Yacht Charter - Mediterranean Cruise,9.95,Holiday,19/10/2023,16209,spending,1,Romance,4708270,3180001,October,1,paid_out,bank_E,bank_B,0.29,0.72,1,03/11/2023,,-1
+15673,15674,Foreign Exchange Investment - Safe and Secure,147.9,Investment,19/10/2023,14620,spending,1,Investment,3620868,2739499,October,1,paid_out,bank_D,bank_C,0.66,0.53,2,03/11/2023,,-1
+16215,16216,"Money transfer - partner, emergency fund",51.8,Transfers,20/10/2023,14513,spending,1,Romance,6542743,2353112,October,1,paid_out,bank_A,bank_C,0.32,0.81,1,03/11/2023,,-1
+16409,16410,Grant Approval - Small Processing Charge,12.6,Utilities,20/10/2023,18818,spending,1,AdvanceFee,8510652,8821323,October,1,paid_out,bank_C,bank_D,0.32,0.67,1,03/11/2023,,-1
+16582,16583,Apple Store - Electronics Purchase,180.95,Shopping,20/10/2023,15391,spending,1,Romance,4508519,6331601,October,1,paid_out,bank_B,bank_D,0.76,0.67,3,03/11/2023,,-1
+16600,16601,"Money transfer - partner, emergency fund",22.05,Transfers,20/10/2023,15391,spending,1,Romance,2961396,1214885,October,1,paid_out,bank_A,bank_D,0.12,0.67,1,03/11/2023,,-1
+16751,16752,Diamond Investment Fund - High-Value Returns,36.95,Investment,20/10/2023,18805,spending,1,Investment,3034348,3823562,October,1,paid_out,bank_E,bank_C,0.24,0.84,1,03/11/2023,1,0
+16829,16830,Designer Handbag - Luxury Boutique,44.9,Shopping,20/10/2023,13310,spending,1,Purchase,4477991,1681334,October,1,paid_out,bank_A,bank_D,0.33,0.63,1,03/11/2023,,-1
+16895,16896,Private Yacht Charter - Mediterranean Cruise,144,Holiday,20/10/2023,16209,spending,1,Romance,1634660,2212837,October,1,paid_out,bank_D,bank_B,0.65,0.72,2,03/11/2023,,-1
+17065,17066,Legal Penalty Settlement,168.4,Transfers,21/10/2023,13310,spending,1,Impersonation,5855946,2563328,October,1,paid_out,bank_D,bank_D,0.59,0.63,3,03/11/2023,,-1
+17509,17510,eBay securitng item payment,40.95,Shopping,21/10/2023,18818,spending,1,AdvanceFee,4896373,1423248,October,1,paid_out,bank_E,bank_D,0.32,0.67,1,03/11/2023,,-1
+17593,17594,V&I visa check fees ,208.35,Utilities,21/10/2023,13301,spending,1,Impersonation,3362428,8402578,October,1,paid_out,Intrnl,bank_C,0.76,0.5,4,03/11/2023,,-1
+17831,17832,ClothesOnline additional posting payment,26.75,Shopping,22/10/2023,14687,spending,1,Purchase,3807802,7104823,October,1,paid_out,bank_E,bank_E,0.39,0.7,1,03/11/2023,,-1
+17945,17946,Traffic Violation Fine,163.1,Utilities,22/10/2023,10647,spending,1,Impersonation,1372908,7964365,October,1,paid_out,bank_C,bank_D,0.64,0.75,3,03/11/2023,,-1
+17972,17973,Private Yacht Charter - Mediterranean Cruise,48.8,Holiday,22/10/2023,15971,spending,1,Romance,7770870,4574124,October,1,paid_out,bank_D,bank_E,0.31,0.55,1,03/11/2023,,-1
+18063,18064,InvestToday initial amount,52.75,Utilities,22/10/2023,18873,spending,1,AdvanceFee,3517627,2725025,October,1,paid_out,bank_D,bank_E,0.33,0.74,1,03/11/2023,1,0
+18123,18124,IRS Tax Payment - Urgent Action Required,242.65,Transfers,22/10/2023,13811,spending,1,Impersonation,7904276,7368652,October,1,paid_out,bank_D,bank_C,0.79,0.67,3,03/11/2023,,-1
+18528,18529,"Claim Your Lottery Winnings - Processing Fee""",95.95,Shopping,23/10/2023,13067,spending,1,AdvanceFee,6906741,1742923,October,1,paid_out,bank_B,bank_A,0.48,0.5,2,03/11/2023,,-1
+18920,18921,French Riviera Yacht Charter - Luxury Cruise,127.7,Holiday,23/10/2023,14513,spending,1,Romance,3826802,3692146,October,1,paid_out,bank_A,bank_C,0.56,0.81,2,03/11/2023,,-1
+18924,18925,Electronics Purchase - Online Store,37.85,Electronics,23/10/2023,11348,spending,1,Purchase,6696594,8481133,October,1,paid_out,bank_A,bank_E,0.29,0.56,1,03/11/2023,,-1
+19608,19609,Sport event tickets,40.55,Entertainment,24/10/2023,14687,spending,1,Purchase,4736620,8899873,October,1,paid_out,bank_A,bank_E,0.29,0.7,1,03/11/2023,1,0
+19866,19867,ClothesOnline additional posting payment,31.2,Shopping,24/10/2023,19167,spending,1,Purchase,6812772,2743551,October,1,paid_out,bank_E,bank_A,0.22,0.73,1,03/11/2023,,-1
+19874,19875,Sport event tickets,47.95,Entertainment,24/10/2023,18818,spending,1,Purchase,6980294,1381123,October,1,paid_out,bank_E,bank_D,0.34,0.67,1,03/11/2023,,-1
+20044,20045,French Riviera Yacht Charter - Luxury Cruise,115.3,Holiday,25/10/2023,15391,spending,1,Romance,3677246,7305012,October,1,paid_out,bank_B,bank_D,0.66,0.67,2,03/11/2023,,-1
+20177,20178,InvestToday initial amount,91.3,Utilities,25/10/2023,12172,spending,1,AdvanceFee,1710488,5269088,October,1,paid_out,bank_D,bank_C,0.4,0.43,2,03/11/2023,,-1
+20181,20182,Air bnb extra cleaning fees,39.65,Holiday,25/10/2023,11641,spending,1,Purchase,7286810,4735896,October,1,paid_out,bank_C,bank_A,0.16,0.51,1,03/11/2023,,-1
+20341,20342,Facebook Marketplace Upfront payment,51.1,Utilities,25/10/2023,14620,spending,1,Purchase,7937545,1436867,October,1,paid_out,bank_B,bank_C,0.5,0.53,1,03/11/2023,,-1
+20412,20413,Guaranteed Returns - Investment Portfolio,196.35,Investment,25/10/2023,18873,spending,1,Investment,7199286,6479845,October,1,paid_out,bank_E,bank_E,0.52,0.74,3,03/11/2023,,-1
+20449,20450,Guaranteed Returns - Investment Portfolio,15.35,Investment,25/10/2023,18396,spending,1,Investment,8581721,7040547,October,1,paid_out,bank_E,bank_B,0.31,0.65,1,03/11/2023,,-1
+20498,20499,IRS Tax Payment - Urgent Action Required,222.15,Transfers,25/10/2023,18396,spending,1,Impersonation,1547120,1654414,October,1,paid_out,Intrnl,bank_B,0.66,0.65,4,03/11/2023,,-1
+20553,20554,Payment for Outstanding Tax Fine,86.45,Utilities,25/10/2023,18816,spending,1,Impersonation,2277770,8178848,October,1,paid_out,Intrnl,bank_A,0.64,0.46,4,03/11/2023,,-1
+20775,20776,Apple Store - Electronics Purchase,67.75,Shopping,26/10/2023,16154,spending,1,Romance,5876150,8452586,October,1,paid_out,bank_C,bank_E,0.57,0.41,1,03/11/2023,,-1
+20839,20840,Exclusive Investment Offer - Limited Time,652.8,Investment,26/10/2023,14647,spending,1,Investment,4284434,3325789,October,1,paid_out,Intrnl,bank_A,0.73,0.6,4,03/11/2023,,-1
+20840,20841,Inheritance release banking charges covered,113.45,Utilities,26/10/2023,14905,spending,1,AdvanceFee,1479039,6201388,October,1,paid_out,Intrnl,bank_A,0.66,0.64,4,03/11/2023,1,0
+21009,21010,"Money transfer - partner, emergency fund",144.5,Transfers,26/10/2023,16209,spending,1,Romance,7792990,2745709,October,1,paid_out,bank_D,bank_B,0.62,0.72,2,03/11/2023,,-1
+21016,21017,Hotel Reservation - Travel Website,54.15,Holiday,26/10/2023,17804,spending,1,Purchase,1151729,5971136,October,1,paid_out,bank_C,bank_A,0.47,0.62,1,03/11/2023,1,0
+21229,21230,Online Gift Purchase for My New Love,14.5,Personal care,26/10/2023,15391,spending,1,Romance,8779824,1110967,October,1,paid_out,bank_B,bank_D,0.22,0.67,1,03/11/2023,,-1
+21265,21266,Designer Handbag - Luxury Boutique,30.8,Shopping,26/10/2023,16427,spending,1,Purchase,3714987,2616758,October,1,paid_out,bank_D,bank_B,0.26,0.75,1,03/11/2023,1,0
+21272,21273,Traffic Violation Fine,37.15,Utilities,26/10/2023,15496,spending,1,Impersonation,5089784,4048236,October,1,paid_out,bank_C,bank_D,0.1,0.8,1,03/11/2023,,-1
+21713,21714,Canary island holiday ,50.35,Holiday,27/10/2023,14513,spending,1,Romance,6164662,5197625,October,1,paid_out,bank_E,bank_C,0.42,0.81,1,03/11/2023,,-1
+21794,21795,IRS Tax Payment - Urgent Action Required,154.35,Transfers,27/10/2023,16427,spending,1,Impersonation,8644010,5878833,October,1,paid_out,Intrnl,bank_B,0.65,0.75,4,03/11/2023,,-1
+21856,21857,Binary Options Investment - Instant Profits,297.4,Investment,27/10/2023,10647,spending,1,Investment,1881613,6424376,October,1,paid_out,bank_B,bank_D,0.58,0.75,3,03/11/2023,,-1
+22011,22012,Binary Options Investment - Instant Profits,60.75,Investment,27/10/2023,11824,spending,1,Investment,4801938,3891927,October,1,paid_out,bank_E,bank_C,0.4,0.79,1,03/11/2023,,-1
+22081,22082,InvestToday initial amount,84.35,Utilities,27/10/2023,18243,spending,1,AdvanceFee,1972917,7030589,October,1,paid_out,bank_C,bank_C,0.66,0.74,2,03/11/2023,,-1
+22218,22219,WinBet Request Winnings Fee,32.95,Utilities,28/10/2023,14687,spending,1,AdvanceFee,8049264,5882919,October,1,paid_out,bank_E,bank_E,0.25,0.7,1,03/11/2023,,-1
+22323,22324,Legal Penalty Settlement,100.75,Transfers,28/10/2023,18133,spending,1,Impersonation,7204013,2084422,October,1,paid_out,bank_C,bank_C,0.52,0.85,2,03/11/2023,,-1
+22385,22386,Traffic Violation Fine,85.65,Utilities,28/10/2023,11824,spending,1,Impersonation,2140447,2520947,October,1,paid_out,bank_E,bank_C,0.65,0.79,2,03/11/2023,,-1
+22729,22730,Commodity Futures Investment - High-Yield,80.8,Investment,28/10/2023,14905,spending,1,Investment,8994651,5445845,October,1,paid_out,bank_D,bank_A,0.55,0.64,2,03/11/2023,,-1
+22928,22929,Binary Options Investment - Instant Profits,285.3,Investment,29/10/2023,18805,spending,1,Investment,2094552,5311095,October,1,paid_out,bank_C,bank_C,0.8,0.84,3,03/11/2023,1,0
+23166,23167,V&I visa check fees ,37.4,Utilities,29/10/2023,10271,spending,1,Impersonation,4261436,7905856,October,1,paid_out,bank_B,bank_E,0.4,0.89,1,03/11/2023,1,0
+23468,23469,Sport event tickets,35.7,Entertainment,29/10/2023,10911,spending,1,Purchase,4283160,5323494,October,1,paid_out,bank_B,bank_A,0.35,0.85,1,03/11/2023,1,0
+23584,23585,Private Yacht Charter - Mediterranean Cruise,47.4,Holiday,30/10/2023,13531,spending,1,Romance,8289447,5685964,October,1,paid_out,bank_D,bank_A,0.33,0.8,1,03/11/2023,,-1
+23859,23860,Commodity Futures Investment - High-Yield,601.2,Investment,30/10/2023,18396,spending,1,Investment,3651083,4116171,October,1,paid_out,Intrnl,bank_B,0.63,0.65,4,03/11/2023,,-1
+23944,23945,Options Trading Returns - No Risk Strategy,395.55,Shopping,30/10/2023,14687,spending,1,Investment,5736751,3845497,October,1,paid_out,bank_D,bank_E,0.52,0.7,3,03/11/2023,,-1
+23960,23961,ClothesOnline additional posting payment,33.45,Shopping,30/10/2023,13709,spending,1,Purchase,7919100,5528996,October,1,paid_out,bank_D,bank_D,0.14,0.5,1,03/11/2023,,-1
+23963,23964,Sport event tickets,54.55,Entertainment,30/10/2023,18243,spending,1,Purchase,4858476,4348379,October,1,paid_out,bank_D,bank_C,0.43,0.74,1,03/11/2023,1,0
+24112,24113,Payment for Outstanding Tax Fine,2.15,Utilities,30/10/2023,18396,spending,1,Impersonation,2541694,7496168,October,1,paid_out,bank_A,bank_B,0.21,0.65,1,03/11/2023,,-1
+24202,24203,Police Admin Fees,36.6,Utilities,30/10/2023,14647,spending,1,Impersonation,8414344,4601172,October,1,paid_out,bank_E,bank_A,0.36,0.6,1,03/11/2023,,-1
+24262,24263,Bank Account Verification - Immediate Response Needed,108.65,Transfers,30/10/2023,11348,spending,1,Impersonation,4105885,3468003,October,1,paid_out,bank_B,bank_E,0.54,0.56,2,03/11/2023,1,0
+24678,24679,Apple Store - Electronics Purchase,70.25,Shopping,31/10/2023,14513,spending,1,Romance,4634152,8231878,October,1,paid_out,bank_A,bank_C,0.4,0.81,1,03/11/2023,,-1
+24688,24689,Diamond Investment Fund - High-Value Returns,154.75,Investment,31/10/2023,17636,spending,1,Investment,4465852,1525951,October,1,paid_out,bank_C,bank_D,0.51,0.56,2,03/11/2023,,-1
+24698,24699,Traffic Violation Fine,141,Utilities,31/10/2023,18873,spending,1,Impersonation,4354785,2441322,October,1,paid_out,bank_B,bank_E,0.55,0.74,2,03/11/2023,,-1
+24699,24700,Guaranteed Returns - Investment Portfolio,598.95,Investment,31/10/2023,11360,spending,1,Investment,4721559,8674790,October,1,paid_out,Intrnl,bank_B,0.8,0.41,4,03/11/2023,,-1
+24862,24863,Designer Handbag - Luxury Boutique,42.45,Shopping,31/10/2023,15958,spending,1,Purchase,5234032,6488663,October,1,paid_out,bank_C,bank_C,0.38,0.82,1,03/11/2023,1,0
+24908,24909,High-Yield Investment Opportunity,222.15,Shopping,31/10/2023,11679,spending,1,Investment,8056719,8956726,October,1,paid_out,bank_B,bank_E,0.52,0.74,3,03/11/2023,,-1
+24980,24981,Traffic Violation Fine,2.3,Utilities,31/10/2023,12628,spending,1,Impersonation,2065988,2712440,October,1,paid_out,bank_D,bank_A,0.39,0.42,1,03/11/2023,,-1
+24996,24997,Inheritance release banking charges covered,51.95,Utilities,31/10/2023,17066,spending,1,AdvanceFee,6981560,2465735,October,1,paid_out,bank_C,bank_B,0.59,0.73,1,03/11/2023,,-1
+25051,25052,Emergency Medical Expense for My Partner,30.2,Healthcare,31/10/2023,13531,spending,1,Romance,2125021,6432174,October,1,paid_out,bank_E,bank_A,0.19,0.8,1,03/11/2023,,-1
+25078,25079,Binary Options Investment - Instant Profits,10,Investment,31/10/2023,13395,spending,1,Investment,3917119,1387938,October,1,paid_out,bank_B,bank_C,0.19,0.7,1,03/11/2023,1,0
+25280,25281,Law Enforcement Fine - Pay Now to Avoid Arrest,223.7,Utilities,01/11/2023,18816,spending,1,Impersonation,4454833,7806801,November,1,paid_out,Intrnl,bank_A,0.71,0.46,4,03/11/2023,,-1
+25329,25330,Bank Account Verification - Immediate Response Needed,226.85,Transfers,01/11/2023,13709,spending,1,Impersonation,3792445,8277280,November,1,paid_out,bank_C,bank_D,0.54,0.5,3,03/11/2023,,-1
+25807,25808,"Money transfer - partner, emergency fund",171.6,Transfers,01/11/2023,13063,spending,1,Romance,3742220,1508497,November,1,paid_out,bank_D,bank_E,0.57,0.59,3,03/11/2023,,-1
+25808,25809,"Money transfer - partner, emergency fund",20.1,Transfers,01/11/2023,13063,spending,1,Romance,3919889,2186503,November,1,paid_out,bank_A,bank_E,0.31,0.59,1,03/11/2023,,-1
+25809,25810,eBay Fee For Requested Refund,43.6,Shopping,01/11/2023,12172,spending,1,Purchase,7079346,8893464,November,1,paid_out,bank_B,bank_C,0.34,0.43,1,03/11/2023,,-1
+26326,26327,eBay Fee For Requested Refund,34,Shopping,01/11/2023,16077,spending,1,Purchase,5054473,1960314,November,1,paid_out,bank_A,bank_E,0.28,0.8,1,03/11/2023,1,0
+27016,27017,Private Yacht Charter - Mediterranean Cruise,75.1,Holiday,01/11/2023,13531,spending,1,Romance,7430014,3907186,November,1,paid_out,bank_A,bank_A,0.48,0.8,1,03/11/2023,,-1
+27077,27078,V&I visa check fees ,17.25,Utilities,02/11/2023,15097,spending,1,Impersonation,5779954,7778825,November,1,paid_out,bank_E,bank_C,0.35,0.42,1,03/11/2023,,-1
+27285,27286,Plane Ticket for Our Dream Vacation,236.4,Holiday,02/11/2023,15391,spending,1,Romance,2103769,4933627,November,1,paid_out,bank_D,bank_D,0.64,0.67,3,03/11/2023,,-1
+27443,27444,eBay Fee For Requested Refund,41.9,Shopping,02/11/2023,13709,spending,1,Purchase,3931279,4037334,November,1,paid_out,bank_D,bank_D,0.2,0.5,1,03/11/2023,,-1
+27702,27703,V&I visa check fees ,87.9,Utilities,02/11/2023,14010,spending,1,Impersonation,5691611,8520382,November,1,paid_out,bank_D,bank_C,0.56,0.45,2,03/11/2023,,-1
+28289,28290,"Claim Your Lottery Winnings - Processing Fee""",1.4,Shopping,03/11/2023,16077,spending,1,AdvanceFee,8534326,3287841,November,1,paid_out,bank_A,bank_E,0.39,0.8,1,03/11/2023,1,0
+28324,28325,Grant Approval - Small Processing Charge,96.4,Utilities,03/11/2023,18805,spending,1,AdvanceFee,8021000,6250141,November,1,paid_out,bank_A,bank_C,0.53,0.84,2,03/11/2023,,-1
+28360,28361,Electronics Purchase - Online Store,25.4,Electronics,03/11/2023,11087,spending,1,Purchase,7325362,7408733,November,1,paid_out,bank_C,bank_B,0.3,0.56,1,03/11/2023,,-1
+28362,28363,Sport event tickets,38.4,Entertainment,03/11/2023,11087,spending,1,Purchase,3424190,8514954,November,1,paid_out,bank_B,bank_B,0.13,0.56,1,03/11/2023,,-1
+28578,28579,Property Investment Purchase - Exclusive Deal,82.75,Shopping,03/11/2023,12628,spending,1,Investment,5334117,4250177,November,1,paid_out,bank_D,bank_A,0.43,0.42,2,03/11/2023,,-1
+28803,28804,Hotel Reservation - Travel Website,38.1,Holiday,03/11/2023,17619,spending,1,Purchase,2700246,8879356,November,1,paid_out,bank_A,bank_B,0.14,0.48,1,03/11/2023,,-1
+28848,28849,eBay Fee For Requested Refund,51.15,Shopping,03/11/2023,13395,spending,1,Purchase,5848982,6810442,November,1,paid_out,bank_E,bank_C,0.46,0.7,1,03/11/2023,1,0
+29166,29167,Sport event tickets,41.6,Entertainment,03/11/2023,14687,spending,1,Purchase,8107683,3357743,November,1,paid_out,bank_C,bank_E,0.23,0.7,1,03/11/2023,,-1
+29307,29308,Bank Account Verification - Immediate Response Needed,34.8,Transfers,03/11/2023,17636,spending,1,Impersonation,6101249,3418246,November,1,paid_out,bank_D,bank_D,0.3,0.56,1,03/11/2023,,-1
+29456,29457,eBay Fee For Requested Refund,58.9,Shopping,04/11/2023,11421,spending,1,Purchase,3114539,5456050,November,1,paid_out,bank_B,bank_D,0.46,0.71,1,03/11/2023,1,0
+29504,29505,ClothesOnline additional posting payment,29.4,Shopping,04/11/2023,14647,spending,1,Purchase,4548617,8213914,November,1,paid_out,bank_E,bank_A,0.27,0.6,1,03/11/2023,,-1
+29547,29548,Ralph Lauren - Fashion Purchase,29.4,Shopping,04/11/2023,15971,spending,1,Romance,8444616,1265937,November,1,paid_out,bank_A,bank_E,0.19,0.55,1,03/11/2023,,-1
+29983,29984,Emergency medical transfer,127.4,Healthcare,04/11/2023,13531,spending,1,Romance,5962869,7792201,November,1,paid_out,bank_C,bank_A,0.69,0.8,2,03/11/2023,,-1
+30007,30008,eBay securitng item payment,64.25,Shopping,04/11/2023,10647,spending,1,AdvanceFee,4161846,6918411,November,1,paid_out,bank_C,bank_D,0.42,0.75,1,03/11/2023,1,0
+30038,30039,Air bnb extra cleaning fees,34.65,Holiday,04/11/2023,16244,spending,1,Purchase,3179550,4374180,November,1,paid_out,bank_B,bank_B,0.38,0.66,1,03/11/2023,,-1
+30101,30102,Hotel Reservation - Travel Website,48.5,Holiday,04/11/2023,10525,spending,1,Purchase,5646690,1467991,November,1,paid_out,bank_C,bank_C,0.47,0.56,1,03/11/2023,1,0
+30106,30107,Police Admin Fees,10,Utilities,04/11/2023,19879,spending,1,Impersonation,1547399,1671684,November,1,paid_out,bank_E,bank_A,0.35,0.61,1,03/11/2023,,-1
+30134,30135,Police Admin Fees,264.2,Utilities,04/11/2023,13121,spending,1,Impersonation,8046932,7791101,November,1,paid_out,Intrnl,bank_A,0.61,0.54,4,03/11/2023,,-1
+30138,30139,Air bnb extra cleaning fees,43.65,Holiday,04/11/2023,16244,spending,1,Purchase,3823177,8582172,November,1,paid_out,bank_A,bank_B,0.18,0.66,1,03/11/2023,,-1
+30254,30255,Inheritance release banking charges covered,54.05,Utilities,04/11/2023,17966,spending,1,AdvanceFee,4298981,1289613,November,1,paid_out,bank_B,bank_A,0.43,0.61,1,03/11/2023,,-1
+30333,30334,Air bnb extra cleaning fees,41.75,Holiday,05/11/2023,18377,spending,1,Purchase,8339800,7603405,November,1,paid_out,bank_A,bank_B,0.29,0.54,1,03/11/2023,,-1
+30441,30442,Foreign Exchange Investment - Safe and Secure,61.75,Investment,05/11/2023,11824,spending,1,Investment,1445155,8963415,November,1,paid_out,bank_D,bank_C,0.31,0.79,1,03/11/2023,,-1
+31019,31020,Air bnb extra cleaning fees,45.55,Holiday,05/11/2023,17066,spending,1,Purchase,1108106,8633649,November,1,paid_out,bank_B,bank_B,0.26,0.73,1,03/11/2023,,-1
+31249,31250,Payment to Supplier - Account Details Amendment,137.2,Shopping,06/11/2023,18712,spending,1,InvoiceMandate,4725089,4126609,November,1,paid_out,bank_A,bank_E,0.42,0.45,2,03/11/2023,1,0
+31392,31393,Options Trading Returns - No Risk Strategy,293.65,Shopping,06/11/2023,15233,spending,1,Investment,5378244,5275444,November,1,paid_out,bank_C,bank_A,0.58,0.64,3,03/11/2023,1,0
+31721,31722,Diamond Investment Fund - High-Value Returns,264.95,Investment,06/11/2023,11360,spending,1,Investment,8988584,7955081,November,1,paid_out,Intrnl,bank_B,0.77,0.41,4,03/11/2023,,-1
+31728,31729,Mortgage assistance,27.8,Utilities,06/11/2023,14513,spending,1,Romance,8229387,2219330,November,1,paid_out,bank_E,bank_C,0.25,0.81,1,03/11/2023,,-1
+32192,32193,Traffic Violation Fine,142.2,Utilities,07/11/2023,11087,spending,1,Impersonation,3623794,6004818,November,1,paid_out,bank_E,bank_B,0.51,0.56,2,03/11/2023,1,0
+32277,32278,Air bnb extra cleaning fees,49.25,Holiday,07/11/2023,14620,spending,1,Purchase,5095471,7455528,November,1,paid_out,bank_C,bank_C,0.39,0.53,1,03/11/2023,1,0
+32389,32390,eBay Fee For Requested Refund,31.7,Shopping,07/11/2023,18133,spending,1,Purchase,7496497,3103997,November,1,paid_out,bank_B,bank_C,0.25,0.85,1,03/11/2023,,-1
+32407,32408,Dinner for two,101,Dining Out,07/11/2023,13063,spending,1,Romance,4395176,7369457,November,1,paid_out,bank_B,bank_E,0.51,0.59,2,03/11/2023,,-1
+32523,32524,Inheritance release banking charges covered,62.45,Utilities,07/11/2023,17804,spending,1,AdvanceFee,2256632,4118396,November,1,paid_out,bank_A,bank_A,0.44,0.62,1,03/11/2023,,-1
+32580,32581,WinBet Request Winnings Fee,12.5,Utilities,08/11/2023,16417,spending,1,AdvanceFee,8477315,1057629,November,1,paid_out,bank_B,bank_D,0.2,0.69,1,03/11/2023,,-1
+32731,32732,Private Yacht Charter - Mediterranean Cruise,164.85,Holiday,08/11/2023,16154,spending,1,Romance,8555915,2523460,November,1,paid_out,bank_C,bank_E,0.55,0.41,3,03/11/2023,,-1
+32800,32801,eBay Fee For Requested Refund,30.4,Shopping,08/11/2023,10647,spending,1,Purchase,4343897,1590170,November,1,paid_out,bank_D,bank_D,0.26,0.75,1,03/11/2023,,-1
+32814,32815,Grant Approval - Small Processing Charge,54.95,Utilities,08/11/2023,18818,spending,1,AdvanceFee,7578628,1182521,November,1,paid_out,bank_E,bank_D,0.41,0.67,1,03/11/2023,1,0
+32908,32909,Electronics Purchase - Online Store,41,Electronics,08/11/2023,17636,spending,1,Purchase,7749386,8134016,November,1,paid_out,bank_D,bank_D,0.12,0.56,1,03/11/2023,,-1
+33137,33138,eBay Fee For Requested Refund,59.95,Shopping,08/11/2023,13811,spending,1,Purchase,4872710,1465502,November,1,paid_out,bank_D,bank_C,0.54,0.67,1,03/11/2023,,-1
+33138,33139,ClothesOnline additional posting payment,42.4,Shopping,08/11/2023,13811,spending,1,Purchase,8165627,6537171,November,1,paid_out,bank_C,bank_C,0.37,0.67,1,03/11/2023,,-1
+33305,33306,Canary island holiday ,38,Holiday,08/11/2023,16209,spending,1,Romance,6978105,7848929,November,1,paid_out,bank_E,bank_B,0.3,0.72,1,03/11/2023,,-1
+33610,33611,ClothesOnline additional posting payment,49.35,Shopping,09/11/2023,18118,spending,1,Purchase,2595132,3544517,November,1,paid_out,bank_A,bank_D,0.34,0.56,1,03/11/2023,,-1
+33767,33768,Online Gift Purchase for My New Love,97.8,Personal care,09/11/2023,13063,spending,1,Romance,3028748,3798691,November,1,paid_out,bank_D,bank_E,0.61,0.59,2,03/11/2023,,-1
+33807,33808,Traffic Violation Fine,81.95,Utilities,09/11/2023,15958,spending,1,Impersonation,7405345,3584986,November,1,paid_out,bank_E,bank_C,0.67,0.82,2,03/11/2023,,-1
+33808,33809,Payment for Outstanding Tax Fine,118,Utilities,09/11/2023,18712,spending,1,Impersonation,6592549,7211568,November,1,paid_out,bank_B,bank_E,0.67,0.45,2,03/11/2023,1,0
+33850,33851,InvestToday initial amount,27.6,Utilities,09/11/2023,16427,spending,1,AdvanceFee,6768885,2312854,November,1,paid_out,bank_B,bank_B,0.13,0.75,1,03/11/2023,1,0
+33956,33957,eBay Fee For Requested Refund,33.7,Shopping,09/11/2023,12168,spending,1,Purchase,3018750,8279307,November,1,paid_out,bank_D,bank_D,0.25,0.84,1,03/11/2023,,-1
+34063,34064,French Riviera Yacht Charter - Luxury Cruise,14.05,Holiday,09/11/2023,13531,spending,1,Romance,1406473,8955869,November,1,paid_out,bank_D,bank_A,0.34,0.8,1,03/11/2023,,-1
+34064,34065,Canary island holiday ,118.95,Holiday,09/11/2023,13531,spending,1,Romance,1661208,1512168,November,1,paid_out,bank_A,bank_A,0.51,0.8,2,03/11/2023,,-1
+34500,34501,Sport event tickets,33.4,Entertainment,10/11/2023,11679,spending,1,Purchase,5756881,4369097,November,1,paid_out,bank_C,bank_E,0.19,0.74,1,03/11/2023,,-1
+34509,34510,Electronics Purchase - Online Store,44.65,Electronics,10/11/2023,15958,spending,1,Purchase,5609492,3591615,November,1,paid_out,bank_C,bank_C,0.2,0.82,1,03/11/2023,,-1
+34752,34753,Ralph Lauren - Fashion Purchase,243.4,Shopping,10/11/2023,13063,spending,1,Romance,1896479,3148614,November,1,paid_out,bank_B,bank_E,0.79,0.59,3,03/11/2023,,-1
+34761,34762,Facebook Marketplace Upfront payment,31.05,Utilities,10/11/2023,15097,spending,1,Purchase,6965044,3510221,November,1,paid_out,bank_C,bank_C,0.19,0.42,1,03/11/2023,,-1
+35038,35039,Guaranteed Returns - Investment Portfolio,283.1,Investment,11/11/2023,11360,spending,1,Investment,6752414,3363808,November,1,paid_out,Intrnl,bank_B,0.67,0.41,4,03/11/2023,1,0
+35104,35105,Inheritance release banking charges covered,76.65,Utilities,11/11/2023,16417,spending,1,AdvanceFee,8361030,2363995,November,1,paid_out,bank_A,bank_D,0.35,0.69,1,03/11/2023,1,0
+35169,35170,High-Yield Investment Opportunity,207.15,Shopping,11/11/2023,17966,spending,1,Investment,4291047,8338923,November,1,paid_out,bank_A,bank_A,0.51,0.61,3,03/11/2023,,-1
+35340,35341,Bank Account Verification - Immediate Response Needed,94.2,Transfers,11/11/2023,11360,spending,1,Impersonation,7280871,8334868,November,1,paid_out,bank_A,bank_B,0.43,0.41,2,03/11/2023,1,0
+35558,35559,"Money transfer - partner, emergency fund",38.6,Transfers,11/11/2023,16209,spending,1,Romance,8652012,6153598,November,1,paid_out,bank_B,bank_B,0.29,0.72,1,03/11/2023,,-1
+35616,35617,Private Yacht Charter - Mediterranean Cruise,84.3,Holiday,11/11/2023,13531,spending,1,Romance,5644357,5248722,November,1,paid_out,bank_B,bank_A,0.44,0.8,2,03/11/2023,,-1
+36200,36201,Designer Handbag - Luxury Boutique,44.55,Shopping,12/11/2023,10174,spending,1,Purchase,4822046,3946175,November,1,paid_out,bank_E,bank_E,0.18,0.77,1,03/11/2023,1,0
+36464,36465,Private Yacht Charter - Mediterranean Cruise,15.4,Holiday,12/11/2023,16154,spending,1,Romance,4724783,2724468,November,1,paid_out,bank_E,bank_E,0.15,0.41,1,03/11/2023,,-1
+36560,36561,Online Gift Purchase for My New Love,61.65,Personal care,13/11/2023,16209,spending,1,Romance,2594974,1343512,November,1,paid_out,bank_B,bank_B,0.49,0.72,1,03/11/2023,1,0
+36625,36626,Bank Account Verification - Immediate Response Needed,217.3,Transfers,13/11/2023,13121,spending,1,Impersonation,4681902,4940999,November,1,paid_out,bank_D,bank_A,0.68,0.54,3,03/11/2023,,-1
+37011,37012,Legal Penalty Settlement,49.15,Transfers,13/11/2023,10647,spending,1,Impersonation,3817531,7601963,November,1,paid_out,bank_C,bank_D,0.22,0.75,1,03/11/2023,,-1
+37131,37132,Designer Handbag - Luxury Boutique,39.2,Shopping,13/11/2023,12168,spending,1,Purchase,3813362,6034098,November,1,paid_out,bank_D,bank_D,0.29,0.84,1,03/11/2023,1,0
+37293,37294,WinBet Request Winnings Fee,16.95,Utilities,14/11/2023,18873,spending,1,AdvanceFee,6383323,3996461,November,1,paid_out,bank_C,bank_E,0.29,0.74,1,03/11/2023,,-1
+37317,37318,Canary island holiday ,57.5,Holiday,14/11/2023,15971,spending,1,Romance,6130003,1030768,November,1,paid_out,bank_C,bank_E,0.51,0.55,1,03/11/2023,1,0
+37332,37333,ClothesOnline additional posting payment,35,Shopping,14/11/2023,17619,spending,1,Purchase,5610559,3861758,November,1,paid_out,bank_E,bank_B,0.36,0.48,1,03/11/2023,,-1
+37364,37365,Designer Handbag - Luxury Boutique,38.95,Shopping,14/11/2023,19167,spending,1,Purchase,3731229,1623217,November,1,paid_out,bank_C,bank_A,0.4,0.73,1,03/11/2023,,-1
+37479,37480,Neiman Marcus - Designer Shopping,33.85,Shopping,14/11/2023,14513,spending,1,Romance,8199227,2365952,November,1,paid_out,bank_C,bank_C,0.3,0.81,1,03/11/2023,,-1
+37640,37641,Traffic Violation Fine,164.45,Utilities,14/11/2023,18377,spending,1,Impersonation,4172198,5850806,November,1,paid_out,bank_D,bank_B,0.79,0.54,3,03/11/2023,,-1
+37713,37714,Traffic Violation Fine,169.9,Utilities,14/11/2023,15831,spending,1,Impersonation,5506734,2866315,November,1,paid_out,bank_B,bank_E,0.64,0.77,3,03/11/2023,,-1
+37727,37728,Electronics Purchase - Online Store,42,Electronics,14/11/2023,13067,spending,1,Purchase,2418683,4207816,November,1,paid_out,bank_B,bank_A,0.31,0.5,1,03/11/2023,,-1
+37937,37938,Inheritance Release - Pay the Legal Fees,62.15,Utilities,14/11/2023,15233,spending,1,AdvanceFee,2021995,4136292,November,1,paid_out,bank_E,bank_A,0.31,0.64,1,03/11/2023,,-1
+37955,37956,Inheritance Release - Pay the Legal Fees,50.25,Utilities,14/11/2023,18243,spending,1,AdvanceFee,5927881,1416318,November,1,paid_out,bank_A,bank_C,0.34,0.74,1,03/11/2023,,-1
+38252,38253,Facebook Marketplace Upfront payment,33.15,Utilities,15/11/2023,17038,spending,1,Purchase,8486004,6548605,November,1,paid_out,bank_E,bank_C,0.37,0.79,1,03/11/2023,1,0
+38358,38359,eBay securitng item payment,65.5,Shopping,15/11/2023,10271,spending,1,AdvanceFee,4826819,2799161,November,1,paid_out,bank_D,bank_E,0.31,0.89,1,03/11/2023,,-1
+38376,38377,Law Enforcement Fine - Pay Now to Avoid Arrest,164.1,Utilities,15/11/2023,12172,spending,1,Impersonation,3675583,6224852,November,1,paid_out,bank_B,bank_C,0.44,0.43,3,03/11/2023,1,0
+38391,38392,Apple Store - Electronics Purchase,52.1,Shopping,15/11/2023,15971,spending,1,Romance,5983221,8901623,November,1,paid_out,bank_D,bank_E,0.44,0.55,1,03/11/2023,,-1
+38595,38596,Payment for Outstanding Tax Fine,171.7,Utilities,15/11/2023,11679,spending,1,Impersonation,7895813,7070352,November,1,paid_out,bank_E,bank_E,0.68,0.74,3,03/11/2023,,-1
+38813,38814,V&I visa check fees ,60.05,Utilities,16/11/2023,13395,spending,1,Impersonation,6429118,1866793,November,1,paid_out,bank_A,bank_C,0.39,0.7,1,03/11/2023,,-1
+39175,39176,HMRC tax rebate upfront fee,27.4,Utilities,16/11/2023,17038,spending,1,Impersonation,7948628,5283815,November,1,paid_out,bank_C,bank_C,0.13,0.79,1,03/11/2023,1,0
+39332,39333,IRS Tax Payment - Urgent Action Required,85,Transfers,16/11/2023,18816,spending,1,Impersonation,7361541,3915670,November,1,paid_out,bank_A,bank_A,0.49,0.46,2,03/11/2023,1,0
+39857,39858,Electronics Purchase - Online Store,27.8,Electronics,17/11/2023,18879,spending,1,Purchase,7358699,7140402,November,1,paid_out,bank_C,bank_E,0.11,0.66,1,03/11/2023,,-1
+40175,40176,Law Enforcement Fine - Pay Now to Avoid Arrest,212,Utilities,17/11/2023,11679,spending,1,Impersonation,2056967,3714152,November,1,paid_out,bank_A,bank_E,0.58,0.74,3,03/11/2023,,-1
+40180,40181,Private Yacht Charter - Mediterranean Cruise,64.3,Holiday,17/11/2023,16154,spending,1,Romance,2286750,1451661,November,1,paid_out,bank_B,bank_E,0.51,0.41,1,03/11/2023,,-1
+40269,40270,HMRC tax rebate upfront fee,65.95,Utilities,17/11/2023,18377,spending,1,Impersonation,5916064,2196751,November,1,paid_out,bank_B,bank_B,0.35,0.54,1,03/11/2023,,-1
+40338,40339,Hotel Reservation - Travel Website,49.95,Holiday,18/11/2023,15233,spending,1,Purchase,3791760,8596625,November,1,paid_out,bank_E,bank_A,0.25,0.64,1,03/11/2023,,-1
+40441,40442,Designer Handbag - Luxury Boutique,53.45,Shopping,18/11/2023,17027,spending,1,Purchase,7240181,7582214,November,1,paid_out,bank_D,bank_A,0.49,0.72,1,03/11/2023,,-1
+40442,40443,Guaranteed Returns - Investment Portfolio,532.65,Investment,18/11/2023,17027,spending,1,Investment,6156874,8930424,November,1,paid_out,bank_C,bank_A,0.69,0.72,3,03/11/2023,,-1
+40536,40537,Emergency medical transfer,116.75,Healthcare,18/11/2023,13531,spending,1,Romance,2429073,4373820,November,1,paid_out,bank_C,bank_A,0.54,0.8,2,03/11/2023,,-1
+40677,40678,Designer Handbag - Luxury Boutique,38.3,Shopping,18/11/2023,17619,spending,1,Purchase,4840797,8490559,November,1,paid_out,bank_E,bank_B,0.29,0.48,1,03/11/2023,,-1
+41087,41088,Diamond Investment Fund - High-Value Returns,108.8,Investment,19/11/2023,15831,spending,1,Investment,2867944,4524971,November,1,paid_out,bank_D,bank_E,0.54,0.77,2,03/11/2023,1,0
+41236,41237,Law Enforcement Fine - Pay Now to Avoid Arrest,104.15,Utilities,19/11/2023,13709,spending,1,Impersonation,4614422,3262132,November,1,paid_out,bank_B,bank_D,0.41,0.5,2,03/11/2023,1,0
+41339,41340,ClothesOnline additional posting payment,90.9,Shopping,19/11/2023,17156,spending,1,Purchase,1421143,4326784,November,1,paid_out,bank_E,bank_E,0.5,0.43,2,03/11/2023,,-1
+41432,41433,Electronics Purchase - Online Store,34.35,Electronics,19/11/2023,15958,spending,1,Purchase,6915255,5803608,November,1,paid_out,bank_E,bank_C,0.29,0.82,1,03/11/2023,,-1
+41610,41611,Payment for Outstanding Tax Fine,75.5,Utilities,19/11/2023,18816,spending,1,Impersonation,5687707,1443891,November,1,paid_out,bank_B,bank_A,0.54,0.46,1,03/11/2023,,-1
+41696,41697,Air bnb extra cleaning fees,24.3,Holiday,19/11/2023,12168,spending,1,Purchase,4772305,7486197,November,1,paid_out,bank_B,bank_D,0.15,0.84,1,03/11/2023,,-1
+41796,41797,V&I visa check fees ,68.8,Utilities,19/11/2023,10174,spending,1,Impersonation,3760920,1288348,November,1,paid_out,bank_B,bank_E,0.49,0.77,1,03/11/2023,,-1
+41916,41917,Mortgage assistance,45.8,Utilities,20/11/2023,13063,spending,1,Romance,3737373,7963648,November,1,paid_out,bank_C,bank_E,0.14,0.59,1,03/11/2023,1,0
+42243,42244,HMRC tax rebate upfront fee,142.95,Utilities,20/11/2023,18818,spending,1,Impersonation,2332725,1273086,November,1,paid_out,bank_E,bank_D,0.52,0.67,2,03/11/2023,,-1
+42376,42377,Hotel Reservation - Travel Website,36.7,Holiday,20/11/2023,10271,spending,1,Purchase,1000215,4990884,November,1,paid_out,bank_C,bank_E,0.29,0.89,1,03/11/2023,,-1
+42386,42387,Electronics Purchase - Online Store,35.65,Electronics,20/11/2023,16417,spending,1,Purchase,1319323,1600689,November,1,paid_out,bank_C,bank_D,0.24,0.69,1,03/11/2023,,-1
+42620,42621,HMRC tax rebate upfront fee,97.35,Utilities,20/11/2023,15233,spending,1,Impersonation,7850789,8739701,November,1,paid_out,bank_E,bank_A,0.7,0.64,2,03/11/2023,,-1
+42787,42788,Inheritance release banking charges covered,2,Utilities,21/11/2023,17027,spending,1,AdvanceFee,6755903,8910393,November,1,paid_out,bank_D,bank_A,0.14,0.72,1,03/11/2023,,-1
+43093,43094,ClothesOnline additional posting payment,35.35,Shopping,21/11/2023,17619,spending,1,Purchase,7724005,2745842,November,1,paid_out,bank_C,bank_B,0.33,0.48,1,03/11/2023,,-1
+43141,43142,IRS Tax Payment - Urgent Action Required,166.1,Transfers,21/11/2023,14620,spending,1,Impersonation,2663519,2140255,November,1,paid_out,bank_A,bank_C,0.56,0.53,3,03/11/2023,,-1
+43492,43493,HMRC tax rebate upfront fee,172.55,Utilities,22/11/2023,13301,spending,1,Impersonation,3411102,6783942,November,1,paid_out,bank_C,bank_C,0.77,0.5,3,03/11/2023,,-1
+43616,43617,Emergency Medical Expense for My Partner,6.9,Healthcare,22/11/2023,14513,spending,1,Romance,1624690,2955298,November,1,paid_out,bank_A,bank_C,0.27,0.81,1,03/11/2023,1,0
+43632,43633,Facebook Marketplace Upfront payment,34.8,Utilities,22/11/2023,14647,spending,1,Purchase,3460938,1964346,November,1,paid_out,bank_A,bank_A,0.11,0.6,1,03/11/2023,,-1
+43686,43687,Air bnb extra cleaning fees,44.9,Holiday,22/11/2023,14905,spending,1,Purchase,5956814,6524434,November,1,paid_out,bank_E,bank_A,0.33,0.64,1,03/11/2023,,-1
+43721,43722,Facebook Marketplace Upfront payment,49.15,Utilities,22/11/2023,13310,spending,1,Purchase,2731633,5301877,November,1,paid_out,bank_C,bank_D,0.53,0.63,1,03/11/2023,,-1
+43897,43898,Grant Approval - Small Processing Charge,42.05,Utilities,22/11/2023,19167,spending,1,AdvanceFee,4350332,4012883,November,1,paid_out,bank_B,bank_A,0.3,0.73,1,03/11/2023,,-1
+43941,43942,Designer Handbag - Luxury Boutique,39.1,Shopping,22/11/2023,16244,spending,1,Purchase,5327776,3944137,November,1,paid_out,bank_C,bank_B,0.22,0.66,1,03/11/2023,1,0
+43944,43945,HMRC tax rebate upfront fee,8.9,Utilities,22/11/2023,16417,spending,1,Impersonation,3740456,5508538,November,1,paid_out,bank_D,bank_D,0.16,0.69,1,03/11/2023,,-1
+43962,43963,Facebook Marketplace Upfront payment,28.7,Utilities,22/11/2023,16244,spending,1,Purchase,7040651,4110310,November,1,paid_out,bank_E,bank_B,0.19,0.66,1,03/11/2023,1,0
+44095,44096,Traffic Violation Fine,12.1,Utilities,22/11/2023,10911,spending,1,Impersonation,3516155,6296247,November,1,paid_out,bank_B,bank_A,0.13,0.85,1,03/11/2023,,-1
+44105,44106,Payment for Outstanding Tax Fine,33.75,Utilities,22/11/2023,18712,spending,1,Impersonation,5291396,5846961,November,1,paid_out,bank_E,bank_E,0.3,0.45,1,03/11/2023,1,0
+44229,44230,Traffic Violation Fine,33.25,Utilities,23/11/2023,18396,spending,1,Impersonation,6738939,7958835,November,1,paid_out,bank_B,bank_B,0.31,0.65,1,03/11/2023,,-1
+44662,44663,Sport event tickets,41.3,Entertainment,23/11/2023,10271,spending,1,Purchase,1678336,6270206,November,1,paid_out,bank_B,bank_E,0.17,0.89,1,03/11/2023,,-1
+44725,44726,Vendor Banking Update,389.45,Shopping,23/11/2023,11348,spending,1,InvoiceMandate,2920942,2846368,November,1,paid_out,Intrnl,bank_E,0.68,0.56,4,03/11/2023,1,0
+44746,44747,HMRC tax rebate upfront fee,252.15,Utilities,23/11/2023,17156,spending,1,Impersonation,5947086,3858570,November,1,paid_out,Intrnl,bank_E,0.78,0.43,4,03/11/2023,,-1
+44969,44970,Binary Options Investment - Instant Profits,82.15,Investment,24/11/2023,11087,spending,1,Investment,5562607,8267791,November,1,paid_out,Intrnl,bank_B,0.63,0.56,4,03/11/2023,,-1
+44998,44999,Facebook Marketplace Upfront payment,31.15,Utilities,24/11/2023,16244,spending,1,Purchase,2157558,2541472,November,1,paid_out,bank_C,bank_B,0.23,0.66,1,03/11/2023,,-1
+45099,45100,Law Enforcement Fine - Pay Now to Avoid Arrest,194.9,Utilities,24/11/2023,11641,spending,1,Impersonation,5068607,8323060,November,1,paid_out,bank_D,bank_A,0.67,0.51,3,03/11/2023,1,0
+45160,45161,HMRC tax rebate upfront fee,102.65,Utilities,24/11/2023,10174,spending,1,Impersonation,6745333,5367005,November,1,paid_out,bank_E,bank_E,0.68,0.77,2,03/11/2023,,-1
+45162,45163,Sport event tickets,51.2,Entertainment,24/11/2023,11348,spending,1,Purchase,7216482,5183051,November,1,paid_out,bank_C,bank_E,0.46,0.56,1,03/11/2023,,-1
+45324,45325,Hotel Reservation - Travel Website,40.25,Holiday,24/11/2023,18873,spending,1,Purchase,8636531,7194153,November,1,paid_out,bank_C,bank_E,0.2,0.74,1,03/11/2023,,-1
+45364,45365,ClothesOnline additional posting payment,29.4,Shopping,24/11/2023,15496,spending,1,Purchase,5468354,6866271,November,1,paid_out,bank_E,bank_D,0.34,0.8,1,03/11/2023,,-1
+45582,45583,Neiman Marcus - Designer Shopping,210.65,Shopping,24/11/2023,15971,spending,1,Romance,2884221,2978781,November,1,paid_out,bank_C,bank_E,0.57,0.55,3,03/11/2023,1,0
+46040,46041,Private Yacht Charter - Mediterranean Cruise,77.15,Holiday,25/11/2023,13063,spending,1,Romance,1065076,4519080,November,1,paid_out,bank_C,bank_E,0.33,0.59,1,03/11/2023,1,0
+46053,46054,Guaranteed Returns - Investment Portfolio,297.4,Investment,25/11/2023,13121,spending,1,Investment,3460322,3075520,November,1,paid_out,bank_D,bank_A,0.78,0.54,3,03/11/2023,,-1
+46352,46353,Sport event tickets,45.55,Entertainment,25/11/2023,17804,spending,1,Purchase,8613680,1969438,November,1,paid_out,bank_B,bank_A,0.18,0.62,1,03/11/2023,,-1
+46677,46678,Sport event tickets,34.25,Entertainment,26/11/2023,12628,spending,1,Purchase,8321585,7945025,November,1,paid_out,bank_A,bank_A,0.39,0.42,1,03/11/2023,1,0
+46746,46747,"Money transfer - partner, emergency fund",2.95,Transfers,26/11/2023,16154,spending,1,Romance,5858349,2541420,November,1,paid_out,bank_E,bank_E,0.35,0.41,1,03/11/2023,,-1
+46990,46991,Traffic Violation Fine,47.9,Utilities,26/11/2023,17966,spending,1,Impersonation,7772372,2173692,November,1,paid_out,bank_D,bank_A,0.35,0.61,1,03/11/2023,,-1
+47291,47292,Inheritance release banking charges covered,70.3,Utilities,27/11/2023,18816,spending,1,AdvanceFee,7896092,5423851,November,1,paid_out,bank_A,bank_A,0.31,0.46,1,03/11/2023,,-1
+47326,47327,Facebook Marketplace Upfront payment,49.55,Utilities,27/11/2023,13301,spending,1,Purchase,2735988,5826822,November,1,paid_out,bank_E,bank_C,0.14,0.5,1,03/11/2023,,-1
+47737,47738,Law Enforcement Fine - Pay Now to Avoid Arrest,207,Utilities,27/11/2023,10911,spending,1,Impersonation,8252448,7752237,November,1,paid_out,bank_D,bank_A,0.76,0.85,3,03/11/2023,,-1
+47739,47740,"Claim Your Lottery Winnings - Processing Fee""",56.6,Shopping,27/11/2023,11824,spending,1,AdvanceFee,5669051,7930819,November,1,paid_out,bank_E,bank_C,0.55,0.79,1,03/11/2023,,-1
+47821,47822,Law Enforcement Fine - Pay Now to Avoid Arrest,112.4,Utilities,27/11/2023,17038,spending,1,Impersonation,7291815,6462324,November,1,paid_out,bank_A,bank_C,0.57,0.79,2,03/11/2023,,-1
+47934,47935,Binary Options Investment - Instant Profits,77.75,Investment,28/11/2023,11360,spending,1,Investment,8987963,4224466,November,1,paid_out,bank_D,bank_B,0.54,0.41,1,03/11/2023,,-1
+48190,48191,Bitcoin Doubler - Double Your Coins,67.35,Investment,28/11/2023,15097,spending,1,Investment,4696613,4563672,November,1,paid_out,bank_E,bank_C,0.46,0.42,1,03/11/2023,,-1
+48208,48209,Diamond Investment Fund - High-Value Returns,528.35,Investment,28/11/2023,18377,spending,1,Investment,3313396,3862687,November,1,paid_out,bank_D,bank_B,0.5,0.54,3,03/11/2023,,-1
+48351,48352,Bank Account Verification - Immediate Response Needed,50.55,Transfers,28/11/2023,11087,spending,1,Impersonation,3238721,6404706,November,1,paid_out,bank_B,bank_B,0.37,0.56,1,03/11/2023,,-1
+48646,48647,Traffic Violation Fine,144.35,Utilities,28/11/2023,11421,spending,1,Impersonation,5032407,7945668,November,1,paid_out,bank_C,bank_D,0.63,0.71,2,03/11/2023,1,0
+48904,48905,Grant Approval - Small Processing Charge,83.45,Utilities,29/11/2023,14010,spending,1,AdvanceFee,1402741,7422896,November,1,paid_out,bank_E,bank_C,0.57,0.45,2,03/11/2023,1,0
+48956,48957,Dinner for two,48.5,Dining Out,29/11/2023,16154,spending,1,Romance,8835750,8276782,November,1,paid_out,bank_D,bank_E,0.29,0.41,1,03/11/2023,0,-1
+49227,49228,Electronics Purchase - Online Store,38.9,Electronics,29/11/2023,16427,spending,1,Purchase,2121684,3380664,November,1,paid_out,bank_A,bank_B,0.21,0.75,1,03/11/2023,,-1
+49236,49237,InvestToday initial amount,25.35,Utilities,29/11/2023,16077,spending,1,AdvanceFee,7592273,7693359,November,1,paid_out,bank_A,bank_E,0.18,0.8,1,03/11/2023,,-1
+49323,49324,V&I visa check fees ,36.95,Utilities,29/11/2023,12628,spending,1,Impersonation,8231582,3940016,November,1,paid_out,bank_D,bank_A,0.23,0.42,1,03/11/2023,,-1
+49325,49326,V&I visa check fees ,88,Utilities,29/11/2023,18118,spending,1,Impersonation,4834383,2743194,November,1,paid_out,bank_E,bank_D,0.69,0.56,2,03/11/2023,1,0
+49448,49449,eBay securitng item payment,116.35,Shopping,29/11/2023,18243,spending,1,AdvanceFee,3099207,7344761,November,1,paid_out,bank_E,bank_C,0.5,0.74,2,03/11/2023,1,0
+49517,49518,IRS Tax Payment - Urgent Action Required,21.55,Transfers,29/11/2023,15233,spending,1,Impersonation,7278353,3881652,November,1,paid_out,bank_E,bank_A,0.36,0.64,1,03/11/2023,,-1
+49528,49529,eBay securitng item payment,33.05,Shopping,30/11/2023,10710,spending,1,AdvanceFee,8352595,8461515,November,1,paid_out,bank_D,bank_A,0.19,0.87,1,03/11/2023,,-1
+49610,49611,Canary island holiday ,37.35,Holiday,30/11/2023,15391,spending,1,Romance,3180808,2739448,November,1,paid_out,bank_B,bank_D,0.3,0.67,1,03/11/2023,,-1
+49863,49864,V&I visa check fees ,39.85,Utilities,30/11/2023,19167,spending,1,Impersonation,2536931,1269009,November,1,paid_out,bank_B,bank_A,0.22,0.73,1,03/11/2023,,-1
+50268,50269,eBay Fee For Requested Refund,61.45,Shopping,30/11/2023,17156,spending,1,Purchase,8540561,6593510,November,1,paid_out,bank_A,bank_E,0.44,0.43,1,03/11/2023,,-1
+5379,5380,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,05/10/2023,15786,spending,0,none,,,October,0,paid_out,,bank_B,0.11,0.64,2,03/11/2023,0,0
+33187,33188,Wegmans,60,Groceries,08/11/2023,18576,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.4,0.22,1,03/11/2023,,0
+13540,13541,Credit Card Payment - American Express **** 6789,180,Credit Card Payment,16/10/2023,10885,spending,0,none,,,October,0,paid_out,bank_C,bank_C,0.72,0.23,3,03/11/2023,,0
+49336,49337,Transfer from Current to Savings,200,Transfers,29/11/2023,19017,spending,0,none,,,November,0,paid_out,bank_E,bank_E,0.63,0.67,3,03/11/2023,,0
+24393,24394,Credit Card Payment - Mastercard **** 6789,150.5,Credit Card Payment,31/10/2023,14534,spending,0,none,,,October,0,paid_out,Intrnl,bank_D,0.74,0.57,4,03/11/2023,,0
+3109,3110,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,03/10/2023,15480,spending,0,none,,,October,0,paid_out,,bank_E,0.14,0.33,2,03/11/2023,,0
+36566,36567,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,13/11/2023,16256,spending,0,none,,,November,0,paid_out,,bank_A,0.18,0.42,2,03/11/2023,,0
+2777,2778,Morrisons,45,Groceries,02/10/2023,17008,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.13,0.64,1,03/11/2023,,0
+38400,38401,Credit Card Payment - Discover **** 9012,120.5,Credit Card Payment,15/11/2023,17993,spending,0,none,,,November,0,paid_out,bank_E,bank_E,0.54,0.6,2,03/11/2023,,0
+22463,22464,Giant Food,45,Groceries,28/10/2023,18792,spending,0,none,,,October,0,paid_out,bank_A,bank_A,0.29,0.24,1,03/11/2023,,0
+15449,15450,Restaurant Dinner - Date Night,90,Dining Out,18/10/2023,11641,spending,0,none,,,October,1,paid_out,bank_A,bank_A,0.56,0.51,2,03/11/2023,,0
+15410,15411,Credit Card Payment - Mastercard **** 2345,120.25,Credit Card Payment,18/10/2023,14589,spending,0,none,,,October,0,paid_out,bank_B,bank_A,0.54,0.56,2,03/11/2023,,0
+16022,16023,Transfer from Savings to Current,300,Transfers,19/10/2023,16636,income,0,none,,,October,0,paid_in,bank_B,bank_B,,0.65,3,03/11/2023,,0
+9880,9881,Netflix Subscription - Monthly Charge,12.99,Streaming Services,11/10/2023,15363,spending,0,none,,,October,0,paid_out,bank_D,bank_B,0.28,0.42,1,03/11/2023,,0
+27849,27850,Utilities Payment - Internet Service,60,Utilities,02/11/2023,11723,spending,0,none,,,November,0,paid_out,bank_D,bank_D,0.41,0.56,1,03/11/2023,,0
+18947,18948,ATM Withdrawal - STU Bank ATM,100,Cash Withdrawal,23/10/2023,13590,spending,0,none,,,October,0,paid_out,,bank_C,0.2,0.27,2,03/11/2023,,0
+14111,14112,Online Retailer - Electronics Purchase,199.99,Online Shopping,17/10/2023,17038,spending,0,none,,,October,1,paid_out,Intrnl,bank_C,0.65,0.79,4,03/11/2023,,0
+49958,49959,Transfer from Savings to Current,250,Transfers,30/11/2023,18418,income,0,none,,,November,0,paid_in,bank_C,bank_C,,0.5,3,03/11/2023,,0
+10030,10031,Sports Medicine Clinic - Injury Evaluation,140,Healthcare,11/10/2023,15112,spending,0,none,,,October,0,paid_out,bank_B,bank_B,0.45,0.48,2,03/11/2023,,0
+24535,24536,Savings Account Interest - October,15.6,Interest,31/10/2023,11824,income,0,none,,,October,1,paid_in,bank_C,bank_D,,0.79,1,03/11/2023,0,0
+26257,26258,Rent Payment - Apt #203,1200,Housing,01/11/2023,17309,spending,0,none,,,November,0,paid_out,bank_D,bank_C,0.55,0.39,3,03/11/2023,,0
+45271,45272,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,24/11/2023,14996,spending,0,none,,,November,0,paid_out,,bank_A,0.17,0.54,2,03/11/2023,,0
+32988,32989,ATM Withdrawal - VWX Bank ATM,70,Cash Withdrawal,08/11/2023,18850,spending,0,none,,,November,0,paid_out,,bank_C,0.28,0.3,2,03/11/2023,0,0
+19328,19329,Credit Card Payment - American Express **** 3456,200,Credit Card Payment,24/10/2023,13569,spending,0,none,,,October,0,paid_out,bank_E,bank_D,0.62,0.26,3,03/11/2023,,0
+46406,46407,Electronics Store - Gadget Purchase,250.5,Electronics,25/11/2023,18166,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.69,0.53,3,03/11/2023,,0
+11446,11447,Coffee Shop - Latte and Croissant,6.75,Dining Out,13/10/2023,18295,spending,0,none,,,October,0,paid_out,bank_B,bank_D,0.17,0.67,1,03/11/2023,0,0
+14353,14354,Behavioral Health Hospital - Inpatient Care,250,Healthcare,17/10/2023,12037,spending,0,none,,,October,0,paid_out,bank_B,bank_A,0.63,0.63,3,03/11/2023,,0
+45232,45233,ATM Withdrawal - DEF Bank ATM,90,Cash Withdrawal,24/11/2023,18403,spending,0,none,,,November,0,paid_out,,bank_E,0.28,0.37,2,03/11/2023,,0
+14538,14539,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,17/10/2023,17783,spending,0,none,,,October,0,paid_out,,bank_B,0.27,0.42,2,03/11/2023,,0
+206,207,Home Hospice Care - End-of-Life Care,200,Healthcare,01/10/2023,16251,spending,0,none,,,October,0,paid_out,bank_E,bank_A,0.72,0.59,3,03/11/2023,,0
+13787,13788,Transfer to Vacation Fund,350,Transfers,16/10/2023,12523,spending,0,none,,,October,0,paid_out,bank_E,bank_B,0.63,0.29,3,03/11/2023,,0
+6983,6984,Online Retailer - Home Decor,89.99,Online Shopping,07/10/2023,18021,spending,0,none,,,October,0,paid_out,bank_D,bank_D,0.43,0.49,2,03/11/2023,,0
+25081,25082,Walmart - Affordable Shopping,45,Shopping,31/10/2023,18576,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.17,0.22,1,03/11/2023,,0
+15592,15593,Home Improvement - Paint and Supplies,110.75,Home Improvement,19/10/2023,13472,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.42,0.62,2,03/11/2023,,0
+23257,23258,ATM Withdrawal - VWX Bank ATM,70,Cash Withdrawal,29/10/2023,18912,spending,0,none,,,October,0,paid_out,,bank_D,0.16,0.36,2,03/11/2023,,0
+8464,8465,ATM Withdrawal - PQR Bank ATM,80,Cash Withdrawal,09/10/2023,18279,spending,0,none,,,October,0,paid_out,,bank_C,0.15,0.7,2,03/11/2023,,0
+29901,29902,ATM Withdrawal - PQR Bank ATM,70,Cash Withdrawal,04/11/2023,19599,spending,0,none,,,November,0,paid_out,,bank_C,0.25,0.43,2,03/11/2023,,0
+19242,19243,Credit Card Payment - American Express **** 3456,200,Credit Card Payment,24/10/2023,13711,spending,0,none,,,October,0,paid_out,bank_E,bank_B,0.69,0.65,3,03/11/2023,,0
+45200,45201,Publix,45,Groceries,24/11/2023,10913,spending,0,none,,,November,0,paid_out,bank_D,bank_B,0.16,0.23,1,03/11/2023,,0
+21840,21841,IGA,40,Groceries,27/10/2023,15359,spending,0,none,,,October,0,paid_out,bank_E,bank_D,0.13,0.66,1,03/11/2023,,0
+29822,29823,Phone Bill Payment - Mobile Co.,65,Utilities,04/11/2023,13472,spending,0,none,,,November,0,paid_out,bank_C,bank_C,0.39,0.62,1,03/11/2023,,0
+41255,41256,Car Loan Payment - Auto Finance Inc.,300,Loan Payment,19/11/2023,16417,spending,0,none,,,November,1,paid_out,bank_C,bank_D,0.68,0.69,3,03/11/2023,,0
+19048,19049,Giant Food,45,Groceries,23/10/2023,18355,spending,0,none,,,October,0,paid_out,bank_D,bank_A,0.27,0.57,1,03/11/2023,0,0
+7014,7015,Ralphs,40,Groceries,07/10/2023,17781,spending,0,none,,,October,0,paid_out,bank_E,bank_A,0.14,0.39,1,03/11/2023,,0
+38741,38742,Sainsbury's,40,Groceries,15/11/2023,16773,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.28,0.21,1,03/11/2023,,0
+14724,14725,Publix Super Markets,55,Groceries,17/10/2023,10525,spending,0,none,,,October,1,paid_out,bank_B,bank_C,0.38,0.56,1,03/11/2023,,0
+11960,11961,Credit Card Payment - Visa **** 7890,75.25,Credit Card Payment,14/10/2023,14515,spending,0,none,,,October,0,paid_out,Intrnl,bank_B,0.46,0.49,3,03/11/2023,0,0
+47765,47766,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,27/11/2023,15971,spending,0,none,,,November,1,paid_out,,bank_E,0.27,0.55,2,03/11/2023,0,0
+319,320,Rent Payment - Apt #303,1500,Housing,01/10/2023,11928,spending,0,none,,,October,0,paid_out,bank_C,bank_E,0.67,0.33,3,03/11/2023,0,0
+23111,23112,ATM Withdrawal - JKL Bank ATM,90,Cash Withdrawal,29/10/2023,12937,spending,0,none,,,October,0,paid_out,,bank_D,0.17,0.31,2,03/11/2023,,0
+765,766,Rent Payment - Apt #203,1200,Housing,01/10/2023,19717,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.65,0.41,3,03/11/2023,,0
+20540,20541,Charlotte Russe - Affordable Apparel,30,Shopping,25/10/2023,14534,spending,0,none,,,October,0,paid_out,bank_B,bank_D,0.13,0.57,1,03/11/2023,1,1
+14205,14206,Fuel Purchase - Gas Station,42.75,Transportation,17/10/2023,15269,spending,0,none,,,October,0,paid_out,bank_A,bank_C,0.35,0.34,1,03/11/2023,,0
+28871,28872,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,03/11/2023,16462,spending,0,none,,,November,0,paid_out,,bank_C,0.15,0.6,2,03/11/2023,,0
+42486,42487,H&M - Clothing Purchase,45,Shopping,20/11/2023,17356,spending,0,none,,,November,0,paid_out,bank_E,bank_D,0.22,0.3,1,03/11/2023,,0
+38373,38374,ATM Withdrawal - PQR Bank ATM,80,Cash Withdrawal,15/11/2023,13897,spending,0,none,,,November,0,paid_out,,bank_D,0.15,0.47,2,03/11/2023,,0
+38255,38256,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,15/11/2023,10450,spending,0,none,,,November,0,paid_out,,bank_E,0.11,0.52,2,03/11/2023,0,0
+23260,23261,Coffee Shop - Latte and Croissant,6.75,Dining Out,29/10/2023,10945,spending,0,none,,,October,0,paid_out,bank_A,bank_A,0.16,0.36,1,03/11/2023,0,0
+38420,38421,Credit Card Payment - Visa **** 1234,75.25,Credit Card Payment,15/11/2023,18850,spending,0,none,,,November,0,paid_out,bank_D,bank_C,0.38,0.3,1,03/11/2023,,0
+46613,46614,Dental Implant Surgery - Implant Procedure,180,Healthcare,26/11/2023,15655,spending,0,none,,,November,0,paid_out,bank_A,bank_A,0.77,0.23,3,03/11/2023,1,1
+46658,46659,HEB Grocery,55,Groceries,26/11/2023,17781,spending,0,none,,,November,0,paid_out,bank_B,bank_A,0.43,0.39,1,03/11/2023,,0
+44612,44613,Fuel Purchase - Gas Station,45.6,Transportation,23/11/2023,11585,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.6,0.43,1,03/11/2023,,0
+30389,30390,Transfer from Savings to Current - Emergency Fund,500,Transfers,05/11/2023,16934,income,0,none,,,November,0,paid_in,bank_A,bank_A,,0.6,3,03/11/2023,1,1
+16372,16373,ATM Withdrawal - STU Bank ATM,100,Cash Withdrawal,20/10/2023,11802,spending,0,none,,,October,0,paid_out,,bank_C,0.12,0.51,2,03/11/2023,,0
+17899,17900,Online Retailer - Home Decor,89.99,Online Shopping,22/10/2023,10280,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.43,0.65,2,03/11/2023,,0
+8027,8028,Transfer to Emergency Fund,200,Transfers,09/10/2023,11121,spending,0,none,,,October,0,paid_out,bank_C,bank_E,0.76,0.28,3,03/11/2023,,0
+24449,24450,PacSun - Teen Fashion,45,Shopping,31/10/2023,13228,spending,0,none,,,October,0,paid_out,bank_C,bank_C,0.16,0.45,1,03/11/2023,,0
+23638,23639,Credit Card Payment - Mastercard **** 5678,150,Credit Card Payment,30/10/2023,16427,spending,0,none,,,October,1,paid_out,bank_E,bank_B,0.65,0.75,2,03/11/2023,,0
+28291,28292,Grocery Store - Fresh Produce,35.45,Groceries,03/11/2023,11349,spending,0,none,,,November,0,paid_out,bank_A,bank_B,0.23,0.36,1,03/11/2023,,0
+22625,22626,Online Retailer - Tech Gadgets,249.99,Online Shopping,28/10/2023,16132,spending,0,none,,,October,0,paid_out,bank_D,bank_C,0.72,0.29,3,03/11/2023,,0
+40063,40064,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,17/11/2023,13531,spending,0,none,,,November,1,paid_out,,bank_A,0.24,0.8,2,03/11/2023,,0
+47235,47236,Boohoo - Trendy Fashion,35,Shopping,27/11/2023,13708,spending,0,none,,,November,0,paid_out,bank_B,bank_E,0.3,0.32,1,03/11/2023,,0
+40566,40567,Monthly Account Maintenance Fee,7,Bank Fees,18/11/2023,11139,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.12,0.25,1,03/11/2023,0,0
+11411,11412,Walmart Grocery,60,Groceries,13/10/2023,13906,spending,0,none,,,October,0,paid_out,bank_E,bank_D,0.38,0.46,1,03/11/2023,,0
+34455,34456,Transfer to Investment Account,500,Transfers,10/11/2023,19534,spending,0,none,,,November,0,paid_out,bank_D,bank_D,0.75,0.62,3,03/11/2023,,0
+3777,3778,Utilities Payment - Water and Sewer,60.75,Utilities,03/10/2023,12523,spending,0,none,,,October,0,paid_out,bank_E,bank_B,0.57,0.29,1,03/11/2023,,0
+23563,23564,ATM Withdrawal - JKL Bank ATM,100,Cash Withdrawal,30/10/2023,16132,spending,0,none,,,October,0,paid_out,,bank_C,0.12,0.29,2,03/11/2023,,0
+17147,17148,Food Lion,45,Groceries,21/10/2023,10154,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.14,0.55,1,03/11/2023,,0
+41382,41383,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,19/11/2023,18355,spending,0,none,,,November,0,paid_out,,bank_A,0.16,0.57,2,03/11/2023,0,0
+43025,43026,Credit Card Payment - Mastercard **** 5678,135,Credit Card Payment,21/11/2023,16132,spending,0,none,,,November,0,paid_out,bank_C,bank_C,0.49,0.29,2,03/11/2023,,0
+4748,4749,Vision Center - Eye Exam,95,Healthcare,04/10/2023,17156,spending,0,none,,,October,1,paid_out,bank_A,bank_E,0.58,0.43,2,03/11/2023,,0
+8826,8827,Car Loan Payment - Auto Finance Inc.,300,Loan Payment,10/10/2023,19773,spending,0,none,,,October,0,paid_out,bank_D,bank_C,0.62,0.55,3,03/11/2023,,0
+34493,34494,Safeway,50,Groceries,10/11/2023,17804,spending,0,none,,,November,1,paid_out,bank_C,bank_A,0.18,0.62,1,03/11/2023,,0
+2515,2516,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,02/10/2023,16934,spending,0,none,,,October,0,paid_out,,bank_A,0.2,0.6,2,03/11/2023,,0
+1982,1983,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,02/10/2023,13328,spending,0,none,,,October,0,paid_out,,bank_C,0.11,0.49,2,03/11/2023,0,0
+9133,9134,Home Depot - Home Improvement,110.3,Home Improvement,10/10/2023,13709,spending,0,none,,,October,1,paid_out,bank_C,bank_D,0.53,0.5,2,03/11/2023,,0
+19566,19567,Transfer to Vacation Fund,300,Transfers,24/10/2023,18168,spending,0,none,,,October,0,paid_out,bank_B,bank_A,0.8,0.65,3,03/11/2023,,0
+11848,11849,Transfer to Vacation Fund,400,Transfers,14/10/2023,15461,spending,0,none,,,October,0,paid_out,bank_D,bank_A,0.51,0.44,3,03/11/2023,,0
+44930,44931,Online Shopping - Tech Accessories,59.99,Online Shopping,23/11/2023,18587,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.59,0.25,1,03/11/2023,,0
+40429,40430,Netflix Subscription - Monthly Charge,12.99,Streaming Services,18/11/2023,16091,spending,0,none,,,November,0,paid_out,bank_C,bank_C,0.11,0.44,1,03/11/2023,,0
+47346,47347,Transfer from Savings to Current,300,Transfers,27/11/2023,16462,income,0,none,,,November,0,paid_in,bank_C,bank_C,,0.6,3,03/11/2023,,0
+13602,13603,Credit Card Payment - Mastercard **** 2345,125.5,Credit Card Payment,16/10/2023,18403,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.69,0.37,2,03/11/2023,,0
+43531,43532,Transfer from Savings to Current,250,Transfers,22/11/2023,13963,income,0,none,,,November,0,paid_in,bank_E,bank_E,,0.41,3,03/11/2023,1,1
+41465,41466,Trader Joe's,50,Groceries,19/11/2023,11529,spending,0,none,,,November,0,paid_out,bank_B,bank_C,0.29,0.49,1,03/11/2023,,0
+17348,17349,Fuel Purchase - Gas Station,40.75,Transportation,21/10/2023,19142,spending,0,none,,,October,0,paid_out,bank_A,bank_C,0.25,0.53,1,03/11/2023,,0
+39918,39919,Psychiatrist - Therapy Session,120,Healthcare,17/11/2023,11121,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.68,0.28,2,03/11/2023,1,1
+27998,27999,Savings Account Interest - October,15.6,Interest,02/11/2023,15655,income,0,none,,,November,0,paid_in,bank_A,bank_C,,0.23,1,03/11/2023,,0
+25429,25430,Salary Deposit - XYZ Corporation,9765.724856,Income,01/11/2023,11559,income,0,none,,,November,0,paid_in,bank_E,bank_B,,0.24,3,03/11/2023,,0
+6874,6875,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,07/10/2023,11690,spending,0,none,,,October,0,paid_out,,bank_E,0.17,0.54,2,03/11/2023,,0
+36015,36016,Transfer to Investment Account,500,Transfers,12/11/2023,14720,spending,0,none,,,November,0,paid_out,bank_C,bank_C,0.62,0.7,3,03/11/2023,1,1
+36169,36170,Fuel Purchase - Gas Station,45.6,Transportation,12/11/2023,11864,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.22,0.43,1,03/11/2023,,0
+9592,9593,Occupational Therapy - Injury Recovery,140,Healthcare,11/10/2023,15288,spending,0,none,,,October,0,paid_out,bank_C,bank_D,0.65,0.56,2,03/11/2023,,0
+45856,45857,ATM Withdrawal - GHI Bank ATM,60,Cash Withdrawal,25/11/2023,13063,spending,0,none,,,November,1,paid_out,,bank_E,0.29,0.59,2,03/11/2023,,0
+18403,18404,Charlotte Russe - Affordable Apparel,30,Shopping,23/10/2023,18726,spending,0,none,,,October,0,paid_out,bank_A,bank_B,0.37,0.58,1,03/11/2023,1,1
+34505,34506,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,10/11/2023,13677,spending,0,none,,,November,0,paid_out,,bank_E,0.25,0.5,2,03/11/2023,,0
+43137,43138,Coffee Shop - Morning Espresso,4.5,Dining Out,21/11/2023,13375,spending,0,none,,,November,0,paid_out,bank_A,bank_C,0.26,0.36,1,03/11/2023,0,0
+28250,28251,Fast Food - Dinner Combo,15.25,Dining Out,03/11/2023,10683,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.3,0.69,1,03/11/2023,,0
+12573,12574,Transfer from Savings to Current - Emergency Fund,500,Transfers,15/10/2023,13063,income,0,none,,,October,1,paid_in,bank_E,bank_E,,0.59,3,03/11/2023,1,1
+22064,22065,ATM Withdrawal - JKL Bank ATM,100,Cash Withdrawal,27/10/2023,13375,spending,0,none,,,October,0,paid_out,,bank_C,0.18,0.36,2,03/11/2023,0,0
+34002,34003,Online Retailer - Electronics Purchase,199.99,Online Shopping,09/11/2023,12278,spending,0,none,,,November,0,paid_out,bank_E,bank_C,0.53,0.55,3,03/11/2023,0,0
+12772,12773,Transfer from Savings to Current,500,Transfers,15/10/2023,18222,income,0,none,,,October,0,paid_in,bank_C,bank_C,,0.28,3,03/11/2023,1,1
+48882,48883,Grocery Shopping - Fresh Mart,45.3,Groceries,29/11/2023,18576,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.4,0.22,1,03/11/2023,0,0
+29172,29173,Utilities Payment - Electricity,80,Utilities,03/11/2023,10271,spending,0,none,,,November,1,paid_out,bank_D,bank_E,0.51,0.89,1,03/11/2023,,0
+39848,39849,Fast Food - Lunch on the Go,10.5,Dining Out,17/11/2023,17624,spending,0,none,,,November,0,paid_out,bank_D,bank_D,0.29,0.25,1,03/11/2023,0,0
+31675,31676,Immunization Clinic - Vaccinations,50,Healthcare,06/11/2023,10776,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.38,0.56,1,03/11/2023,,0
+2108,2109,Amazon.com - Online Shopping,89.99,Online Shopping,02/10/2023,11087,spending,0,none,,,October,1,paid_out,bank_A,bank_B,0.64,0.56,2,03/11/2023,,0
+27991,27992,Water Bill Payment - Municipality,60.75,Utilities,02/11/2023,18818,spending,0,none,,,November,1,paid_out,bank_B,bank_D,0.33,0.67,1,03/11/2023,,0
+37404,37405,Transfer to Investment Account,500,Transfers,14/11/2023,17712,spending,0,none,,,November,0,paid_out,bank_D,bank_A,0.75,0.29,3,03/11/2023,,0
+40590,40591,Boohoo - Trendy Fashion,35,Shopping,18/11/2023,13955,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.37,0.24,1,03/11/2023,1,1
+37155,37156,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,13/11/2023,14649,spending,0,none,,,November,0,paid_out,,bank_C,0.13,0.41,2,03/11/2023,0,0
+15000,15001,Wegmans,60,Groceries,18/10/2023,15906,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.33,0.6,1,03/11/2023,,0
+3942,3943,ATM Withdrawal - VWX Bank ATM,70,Cash Withdrawal,03/10/2023,12390,spending,0,none,,,October,0,paid_out,,bank_E,0.26,0.49,2,03/11/2023,,0
+12191,12192,Transfer from Savings to Current - Emergency Fund,500,Transfers,14/10/2023,12181,income,0,none,,,October,0,paid_in,bank_C,bank_C,,0.26,3,03/11/2023,,0
+38381,38382,Transfer from Current to Savings,150,Transfers,15/11/2023,15376,spending,0,none,,,November,0,paid_out,bank_B,bank_B,0.68,0.59,2,03/11/2023,,0
+6262,6263,ATM Withdrawal - DEF Bank ATM,90,Cash Withdrawal,06/10/2023,17136,spending,0,none,,,October,0,paid_out,,bank_C,0.18,0.24,2,03/11/2023,0,0
+31151,31152,Electronics Store Purchase - Tech Haven,249.99,Electronics,06/11/2023,11087,spending,0,none,,,November,1,paid_out,bank_E,bank_B,0.63,0.56,3,03/11/2023,,0
+44774,44775,Home Improvement - Hardware Store,85.6,Home Improvement,23/11/2023,19603,spending,0,none,,,November,0,paid_out,bank_A,bank_A,0.68,0.21,2,03/11/2023,,0
+2077,2078,Aldo - Affordable Footwear,35,Shopping,02/10/2023,17619,spending,0,none,,,October,1,paid_out,bank_A,bank_B,0.28,0.48,1,03/11/2023,,0
+19617,19618,Walmart - Household Supplies,75.2,Groceries,24/10/2023,13969,spending,0,none,,,October,0,paid_out,bank_C,bank_D,0.56,0.32,1,03/11/2023,,0
+27744,27745,Utilities Payment - Gas and Electric,95,Utilities,02/11/2023,17156,spending,0,none,,,November,1,paid_out,bank_B,bank_E,0.52,0.43,2,03/11/2023,,0
+47599,47600,Online Retailer - Home Decor,89.99,Online Shopping,27/11/2023,13395,spending,0,none,,,November,1,paid_out,bank_E,bank_C,0.58,0.7,2,03/11/2023,,0
+10209,10210,Netflix Subscription - Monthly Charge,12.99,Streaming Services,11/10/2023,17171,spending,0,none,,,October,0,paid_out,bank_C,bank_D,0.29,0.69,1,03/11/2023,,0
+37603,37604,Online Retailer - Electronics Purchase,299.99,Online Shopping,14/11/2023,16360,spending,0,none,,,November,0,paid_out,bank_D,bank_A,0.74,0.61,3,03/11/2023,0,0
+8434,8435,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,09/10/2023,12304,spending,0,none,,,October,0,paid_out,,bank_A,0.29,0.59,2,03/11/2023,0,0
+40989,40990,Gas Station - Fuel Purchase,43.6,Transportation,18/11/2023,18377,spending,0,none,,,November,1,paid_out,bank_B,bank_B,0.2,0.54,1,03/11/2023,0,0
+15042,15043,Transfer to Vacation Fund,400,Transfers,18/10/2023,10013,spending,0,none,,,October,0,paid_out,bank_C,bank_D,0.59,0.49,3,03/11/2023,,0
+22988,22989,Amazon.com - Online Shopping,120.99,Online Shopping,29/10/2023,18850,spending,0,none,,,October,0,paid_out,bank_C,bank_C,0.48,0.3,2,03/11/2023,,0
+23484,23485,Online Retailer - Electronics Purchase,299.99,Online Shopping,29/10/2023,15363,spending,0,none,,,October,0,paid_out,bank_C,bank_B,0.62,0.42,3,03/11/2023,,0
+11822,11823,Transfer from Savings to Current,500,Transfers,14/10/2023,14678,income,0,none,,,October,0,paid_in,bank_C,bank_C,,0.21,3,03/11/2023,1,1
+25475,25476,Transfer to Savings Account - Rainy Day Fund,300,Transfers,01/11/2023,16784,spending,0,none,,,November,0,paid_out,bank_B,bank_B,0.63,0.63,3,03/11/2023,,0
+9088,9089,Credit Card Payment - American Express **** 6789,180,Credit Card Payment,10/10/2023,17287,spending,0,none,,,October,0,paid_out,bank_E,bank_D,0.52,0.22,3,03/11/2023,0,0
+11123,11124,Credit Card Payment - Mastercard **** 5678,150,Credit Card Payment,13/10/2023,12960,spending,0,none,,,October,0,paid_out,bank_C,bank_C,0.59,0.54,2,03/11/2023,0,0
+24485,24486,Morrisons,45,Groceries,31/10/2023,16013,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.36,0.52,1,03/11/2023,,0
+35152,35153,Forever 21 - Fashion Shopping,35,Shopping,11/11/2023,17144,spending,0,none,,,November,0,paid_out,bank_E,bank_D,0.3,0.22,1,03/11/2023,,0
+40874,40875,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,18/11/2023,17378,spending,0,none,,,November,0,paid_out,,bank_E,0.29,0.49,2,03/11/2023,,0
+30609,30610,Transfer to Emergency Fund,175,Transfers,05/11/2023,13556,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.68,0.52,3,03/11/2023,1,1
+47320,47321,Transfer to Emergency Fund,175,Transfers,27/11/2023,14326,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.53,0.64,3,03/11/2023,,0
+46061,46062,Home Improvement - Paint and Supplies,110.75,Home Improvement,25/11/2023,11559,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.42,0.24,2,03/11/2023,,0
+12470,12471,Co-op,40,Groceries,14/10/2023,11924,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.24,0.66,1,03/11/2023,,0
+31717,31718,Food City,45,Groceries,06/11/2023,10743,spending,0,none,,,November,0,paid_out,bank_B,bank_E,0.23,0.57,1,03/11/2023,,0
+26738,26739,Reproductive Health Center - Fertility Consultation,120,Healthcare,01/11/2023,13619,spending,0,none,,,November,0,paid_out,bank_B,bank_C,0.7,0.42,2,03/11/2023,,0
+9347,9348,Transfer from Savings to Current,175,Transfers,10/10/2023,18587,income,0,none,,,October,0,paid_in,bank_E,bank_E,,0.25,3,03/11/2023,,0
+23254,23255,Fast Food - Lunch on the Go,10.5,Dining Out,29/10/2023,10720,spending,0,none,,,October,0,paid_out,bank_A,bank_E,0.3,0.25,1,03/11/2023,,0
+28160,28161,Utilities Payment - Gas and Electric,85.5,Utilities,02/11/2023,18912,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.69,0.36,2,03/11/2023,1,1
+35972,35973,Doctor's Office - Medical Consultation,75,Healthcare,12/11/2023,13322,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.54,0.48,1,03/11/2023,,0
+48707,48708,Transfer to Investment Account,400,Transfers,28/11/2023,18279,spending,0,none,,,November,0,paid_out,bank_A,bank_C,0.76,0.7,3,03/11/2023,1,1
+10132,10133,ATM Withdrawal - JKL Bank ATM,100,Cash Withdrawal,11/10/2023,19348,spending,0,none,,,October,0,paid_out,,bank_A,0.19,0.36,2,03/11/2023,0,0
+38059,38060,Gas Station - Fuel Purchase,40.45,Transportation,15/11/2023,17783,spending,0,none,,,November,0,paid_out,bank_A,bank_B,0.22,0.42,1,03/11/2023,,0
+10574,10575,Smith's Food and Drug,50,Groceries,12/10/2023,14064,spending,0,none,,,October,0,paid_out,bank_D,bank_D,0.38,0.25,1,03/11/2023,0,0
+33016,33017,Transfer to Investment Account,450,Transfers,08/11/2023,14707,spending,0,none,,,November,0,paid_out,bank_E,bank_E,0.51,0.68,3,03/11/2023,,0
+12431,12432,Gynecologist - Women's Health Check,95,Healthcare,14/10/2023,17368,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.43,0.63,2,03/11/2023,,0
+5792,5793,Grocery Store - Fresh Produce,38.45,Groceries,05/10/2023,18792,spending,0,none,,,October,0,paid_out,bank_D,bank_A,0.36,0.24,1,03/11/2023,,0
+47148,47149,Restaurant Dinner - Date Night,90,Dining Out,26/11/2023,14994,spending,0,none,,,November,0,paid_out,bank_E,bank_B,0.68,0.28,2,03/11/2023,0,0
+23518,23519,Credit Card Payment - Mastercard **** 2345,125.5,Credit Card Payment,29/10/2023,13063,spending,0,none,,,October,1,paid_out,bank_A,bank_E,0.41,0.59,2,03/11/2023,,0
+29525,29526,Phone Bill Payment - Wireless Provider,65,Utilities,04/11/2023,19856,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.36,0.45,1,03/11/2023,1,1
+46792,46793,ATM Withdrawal - GHI Bank ATM,70,Cash Withdrawal,26/11/2023,14774,spending,0,none,,,November,0,paid_out,,bank_A,0.17,0.38,2,03/11/2023,,0
+218,219,ATM Withdrawal - DEF Bank ATM,90,Cash Withdrawal,01/10/2023,10743,spending,0,none,,,October,0,paid_out,,bank_E,0.12,0.57,2,03/11/2023,,0
+37101,37102,Food 4 Less,30,Groceries,13/11/2023,17421,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.14,0.42,1,03/11/2023,,0
+17851,17852,HEB Grocery,55,Groceries,22/10/2023,16209,spending,0,none,,,October,1,paid_out,bank_B,bank_B,0.41,0.72,1,03/11/2023,,0
+45584,45585,Transfer to Emergency Fund,150,Transfers,24/11/2023,16735,spending,0,none,,,November,0,paid_out,bank_B,bank_A,0.41,0.36,2,03/11/2023,,0
+23024,23025,Restaurant Dinner - Date Night,90,Dining Out,29/10/2023,17066,spending,0,none,,,October,1,paid_out,bank_A,bank_B,0.57,0.73,2,03/11/2023,,0
+34350,34351,Credit Card Payment - Mastercard **** 6789,150.5,Credit Card Payment,10/11/2023,15302,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.72,0.31,2,03/11/2023,,0
+35953,35954,ATM Withdrawal - PQR Bank ATM,80,Cash Withdrawal,12/11/2023,19256,spending,0,none,,,November,0,paid_out,,bank_C,0.28,0.39,2,03/11/2023,,0
+3971,3972,Transfer to Investment Account,400,Transfers,03/10/2023,17143,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.7,0.65,3,03/11/2023,1,1
+34574,34575,Restaurant Dinner - Date Night,90,Dining Out,10/11/2023,18131,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.65,0.52,2,03/11/2023,0,0
+30375,30376,Waitrose,60,Groceries,05/11/2023,13697,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.52,0.3,1,03/11/2023,,0
+31979,31980,Credit Card Payment - Mastercard **** 2345,120.25,Credit Card Payment,07/11/2023,14734,spending,0,none,,,November,0,paid_out,bank_C,bank_A,0.43,0.23,2,03/11/2023,0,0
+11042,11043,ATM Withdrawal - PQR Bank ATM,80,Cash Withdrawal,13/10/2023,17039,spending,0,none,,,October,0,paid_out,,bank_D,0.11,0.5,2,03/11/2023,0,0
+28920,28921,Phone Bill Payment - Wireless Provider,70,Utilities,03/11/2023,15391,spending,0,none,,,November,1,paid_out,bank_E,bank_D,0.52,0.67,1,03/11/2023,,0
+44199,44200,Save Mart Supermarkets,45,Groceries,22/11/2023,17865,spending,0,none,,,November,0,paid_out,bank_C,bank_B,0.17,0.26,1,03/11/2023,,0
+14032,14033,Online Shopping - Tech Accessories,59.99,Online Shopping,17/10/2023,15976,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.3,0.29,1,03/11/2023,0,0
+3913,3914,Utilities Payment - Water and Sewer,60.75,Utilities,03/10/2023,12390,spending,0,none,,,October,0,paid_out,bank_A,bank_E,0.4,0.49,1,03/11/2023,,0
+45744,45745,Online Shopping - Tech Accessories,59.99,Online Shopping,25/11/2023,18133,spending,0,none,,,November,1,paid_out,bank_D,bank_C,0.38,0.85,1,03/11/2023,,0
+16971,16972,Transfer from Savings to Current,300,Transfers,21/10/2023,17356,income,0,none,,,October,0,paid_in,bank_D,bank_D,,0.3,3,03/11/2023,,0
+4478,4479,Online Retailer - Tech Gadgets,249.99,Online Shopping,04/10/2023,17368,spending,0,none,,,October,0,paid_out,bank_A,bank_E,0.71,0.63,3,03/11/2023,,0
+31042,31043,Coffee Shop - Afternoon Pick-Me-Up,5.75,Dining Out,06/11/2023,13472,spending,0,none,,,November,0,paid_out,bank_B,bank_C,0.33,0.62,1,03/11/2023,,0
+34859,34860,Charitable Donation - Red Cross,50,Charity,10/11/2023,15359,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.23,0.66,1,03/11/2023,0,0
+42274,42275,Smith's Food and Drug,50,Groceries,20/11/2023,10296,spending,0,none,,,November,0,paid_out,bank_C,bank_A,0.46,0.67,1,03/11/2023,,0
+17268,17269,Zalando - Affordable Online Shopping,45,Shopping,21/10/2023,19552,spending,0,none,,,October,0,paid_out,bank_A,bank_C,0.2,0.53,1,03/11/2023,,0
+14698,14699,Credit Card Payment - Discover **** 9012,120.5,Credit Card Payment,17/10/2023,11360,spending,0,none,,,October,1,paid_out,bank_A,bank_B,0.54,0.41,2,03/11/2023,,0
+33118,33119,Transfer from Current to Savings,150,Transfers,08/11/2023,10254,spending,0,none,,,November,0,paid_out,bank_A,bank_A,0.51,0.56,2,03/11/2023,1,1
+45267,45268,Charitable Donation - Charity Name,30,Charity,24/11/2023,16727,spending,0,none,,,November,0,paid_out,bank_C,bank_A,0.26,0.47,1,03/11/2023,,0
+13655,13656,Giant Food,45,Groceries,16/10/2023,11690,spending,0,none,,,October,0,paid_out,bank_C,bank_E,0.31,0.54,1,03/11/2023,0,0
+7943,7944,Woolworths,45,Groceries,08/10/2023,12893,spending,0,none,,,October,0,paid_out,bank_E,bank_A,0.37,0.63,1,03/11/2023,,0
+35288,35289,Sainsbury's,40,Groceries,11/11/2023,12168,spending,0,none,,,November,1,paid_out,bank_E,bank_D,0.28,0.84,1,03/11/2023,0,0
+42029,42030,Transfer to Investment Account,400,Transfers,20/11/2023,17683,spending,0,none,,,November,0,paid_out,bank_C,bank_B,0.66,0.42,3,03/11/2023,,0
+16043,16044,Coffee Shop - Cappuccino,5.25,Dining Out,19/10/2023,16933,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.15,0.53,1,03/11/2023,,0
+35637,35638,Gas Station - Fuel Purchase,43.6,Transportation,11/11/2023,19385,spending,0,none,,,November,0,paid_out,bank_A,bank_B,0.15,0.22,1,03/11/2023,,0
+15627,15628,Fuel Purchase - Gas Station,42.75,Transportation,19/10/2023,13126,spending,0,none,,,October,0,paid_out,bank_B,bank_D,0.29,0.2,1,03/11/2023,0,0
+39522,39523,Woolworths,45,Groceries,16/11/2023,18385,spending,0,none,,,November,0,paid_out,bank_B,bank_A,0.22,0.48,1,03/11/2023,,0
+5049,5050,ATM Withdrawal - JKL Bank ATM,90,Cash Withdrawal,04/10/2023,14221,spending,0,none,,,October,0,paid_out,,bank_E,0.16,0.27,2,03/11/2023,,0
+15111,15112,Ross Dress for Less - Bargain Shopping,30,Shopping,18/10/2023,11589,spending,0,none,,,October,0,paid_out,bank_C,bank_B,0.36,0.63,1,03/11/2023,1,1
+4372,4373,Utilities Payment - Internet Service,60,Utilities,04/10/2023,10025,spending,0,none,,,October,0,paid_out,bank_D,bank_A,0.48,0.56,1,03/11/2023,1,1
+36996,36997,Albertsons,45,Groceries,13/11/2023,16612,spending,0,none,,,November,0,paid_out,bank_D,bank_B,0.27,0.65,1,03/11/2023,,0
+28287,28288,Online Retailer - Clothing Purchase,80.99,Online Shopping,03/11/2023,14513,spending,0,none,,,November,1,paid_out,bank_A,bank_C,0.51,0.81,2,03/11/2023,,0
+15752,15753,Home Improvement Store - DIY Supplies,75.4,Home Improvement,19/10/2023,16727,spending,0,none,,,October,0,paid_out,bank_B,bank_A,0.41,0.47,1,03/11/2023,0,0
+16784,16785,Transfer from Current to Savings,200,Transfers,20/10/2023,17066,spending,0,none,,,October,1,paid_out,bank_B,bank_B,0.61,0.73,3,03/11/2023,,0
+48225,48226,Online Retailer - Clothing Purchase,70.99,Online Shopping,28/11/2023,18061,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.67,0.3,1,03/11/2023,,0
+11515,11516,Whole Foods Market,70,Groceries,13/10/2023,15176,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.33,0.29,1,03/11/2023,0,0
+24516,24517,Restaurant - Dinner with Friends,90,Dining Out,31/10/2023,18816,spending,0,none,,,October,1,paid_out,bank_D,bank_A,0.62,0.46,2,03/11/2023,,0
+14309,14310,Home Improvement - Hardware Store,85.6,Home Improvement,17/10/2023,17218,spending,0,none,,,October,0,paid_out,bank_C,bank_D,0.45,0.37,2,03/11/2023,,0
+15918,15919,Grocery Shopping - Mega Mart,65.25,Groceries,19/10/2023,19976,spending,0,none,,,October,0,paid_out,bank_A,bank_D,0.54,0.3,1,03/11/2023,,0
+30791,30792,Walmart - Household Supplies,75.2,Groceries,05/11/2023,18571,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.57,0.61,1,03/11/2023,,0
+44582,44583,Transfer to Vacation Fund,350,Transfers,23/11/2023,14221,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.63,0.27,3,03/11/2023,,0
+7286,7287,Cotton On - Affordable Clothing,25,Shopping,08/10/2023,16934,spending,0,none,,,October,0,paid_out,bank_A,bank_A,0.37,0.6,1,03/11/2023,,0
+43116,43117,Amazon.com - Online Shopping,120.99,Online Shopping,21/11/2023,19358,spending,0,none,,,November,0,paid_out,bank_D,bank_B,0.41,0.28,2,03/11/2023,,0
+17120,17121,Credit Card Payment - Discover **** 9012,120.5,Credit Card Payment,21/10/2023,17405,spending,0,none,,,October,0,paid_out,bank_A,bank_C,0.67,0.45,2,03/11/2023,,0
+18738,18739,PacSun - Casual Wear,35,Shopping,23/10/2023,14221,spending,0,none,,,October,0,paid_out,bank_D,bank_E,0.14,0.27,1,03/11/2023,1,1
+35508,35509,ATM Withdrawal - GHI Bank ATM,60,Cash Withdrawal,11/11/2023,10945,spending,0,none,,,November,0,paid_out,,bank_A,0.26,0.36,2,03/11/2023,,0
+25451,25452,Credit Card Payment - Visa **** 1234,75.25,Credit Card Payment,01/11/2023,18879,spending,0,none,,,November,1,paid_out,bank_D,bank_E,0.47,0.66,1,03/11/2023,0,0
+43177,43178,Online Retailer - Electronics Purchase,199.99,Online Shopping,21/11/2023,10025,spending,0,none,,,November,0,paid_out,bank_C,bank_A,0.75,0.56,3,03/11/2023,,0
+23857,23858,Fuel Purchase - Gas Station,40.75,Transportation,30/10/2023,11585,spending,0,none,,,October,0,paid_out,bank_E,bank_D,0.39,0.43,1,03/11/2023,,0
+49780,49781,Fuel Purchase - Gas Station,40.75,Transportation,30/11/2023,10790,spending,0,none,,,November,0,paid_out,bank_A,bank_B,0.22,0.42,1,03/11/2023,,0
+29591,29592,Amazon - Online Shopping,180,Shopping,04/11/2023,11559,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.71,0.24,3,03/11/2023,,0
+12014,12015,Coffee Shop - Afternoon Pick-Me-Up,5.75,Dining Out,14/10/2023,11452,spending,0,none,,,October,0,paid_out,bank_B,bank_A,0.12,0.53,1,03/11/2023,,0
+13568,13569,ATM Withdrawal - XYZ Bank ATM,70,Cash Withdrawal,16/10/2023,16010,spending,0,none,,,October,0,paid_out,,bank_A,0.15,0.41,2,03/11/2023,,0
+48741,48742,ATM Withdrawal - JKL Bank ATM,100,Cash Withdrawal,28/11/2023,12037,spending,0,none,,,November,0,paid_out,,bank_A,0.14,0.63,2,03/11/2023,,0
+43265,43266,Monthly Service Fee - Account Maintenance,10,Bank Fees,21/11/2023,11641,spending,0,none,,,November,1,paid_out,bank_E,bank_A,0.34,0.51,1,03/11/2023,,0
+8049,8050,Online Retailer - Electronics Purchase,199.99,Online Shopping,09/10/2023,17878,spending,0,none,,,October,0,paid_out,bank_E,bank_A,0.6,0.35,3,03/11/2023,0,0
+32088,32089,Transfer from Savings to Current,175,Transfers,07/11/2023,15906,income,0,none,,,November,0,paid_in,bank_E,bank_E,,0.6,3,03/11/2023,,0
+20568,20569,Savings Account Interest - October,15.6,Interest,25/10/2023,17683,income,0,none,,,October,0,paid_in,bank_B,bank_E,,0.42,1,03/11/2023,,0
+15811,15812,Coffee Shop - Morning Espresso,4.5,Dining Out,19/10/2023,18792,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.32,0.24,1,03/11/2023,,0
+21049,21050,ATM Withdrawal - JKL Bank ATM,100,Cash Withdrawal,26/10/2023,17699,spending,0,none,,,October,0,paid_out,,bank_C,0.2,0.57,2,03/11/2023,0,0
+2886,2887,Verizon Wireless - Monthly Phone Bill,75.5,Utilities,02/10/2023,18959,spending,0,none,,,October,0,paid_out,bank_B,bank_B,0.4,0.36,1,03/11/2023,,0
+30939,30940,Smith's Food and Drug,50,Groceries,05/11/2023,17144,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.16,0.22,1,03/11/2023,,0
+25947,25948,Utilities Payment - Gas and Electric,85.5,Utilities,01/11/2023,15176,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.57,0.29,2,03/11/2023,,0
+45435,45436,Transfer to Investment Account,450,Transfers,24/11/2023,18118,spending,0,none,,,November,1,paid_out,bank_C,bank_D,0.6,0.56,3,03/11/2023,,0
+36044,36045,Gas Station - Fuel Purchase,43.6,Transportation,12/11/2023,18576,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.15,0.22,1,03/11/2023,,0
+26564,26565,Rent Payment - Apt #303,1500,Housing,01/11/2023,13955,spending,0,none,,,November,0,paid_out,bank_E,bank_D,0.62,0.24,3,03/11/2023,,0
+19092,19093,Coffee Shop - Cappuccino,5.25,Dining Out,23/10/2023,11824,spending,0,none,,,October,1,paid_out,bank_B,bank_C,0.2,0.79,1,03/11/2023,,0
+49205,49206,Credit Card Payment - Mastercard **** 2345,125.5,Credit Card Payment,29/11/2023,19066,spending,0,none,,,November,0,paid_out,bank_E,bank_D,0.49,0.24,2,03/11/2023,0,0
+37948,37949,Transfer from Savings to Current,500,Transfers,14/11/2023,16256,income,0,none,,,November,0,paid_in,bank_A,bank_A,,0.42,3,03/11/2023,,0
+43396,43397,Asda,50,Groceries,21/11/2023,16537,spending,0,none,,,November,0,paid_out,bank_A,bank_A,0.44,0.58,1,03/11/2023,,0
+48275,48276,Electronics Store - Gadget Purchase,180.75,Electronics,28/11/2023,19773,spending,0,none,,,November,0,paid_out,bank_B,bank_C,0.79,0.55,3,03/11/2023,,0
+5217,5218,Transfer to Vacation Fund,400,Transfers,05/10/2023,17024,spending,0,none,,,October,0,paid_out,bank_A,bank_E,0.68,0.6,3,03/11/2023,1,1
+33882,33883,Online Retailer - Clothing Purchase,75.99,Online Shopping,09/11/2023,13827,spending,0,none,,,November,0,paid_out,bank_C,bank_B,0.57,0.24,1,03/11/2023,0,0
+29951,29952,Phone Bill Payment - Mobile Co.,65,Utilities,04/11/2023,14064,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.38,0.25,1,03/11/2023,,0
+29050,29051,Online Retailer - Clothing Purchase,70.99,Online Shopping,03/11/2023,14366,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.45,0.38,1,03/11/2023,,0
+45556,45557,Transfer from Current to Savings,150,Transfers,24/11/2023,18959,spending,0,none,,,November,0,paid_out,bank_B,bank_B,0.56,0.36,2,03/11/2023,,0
+27194,27195,Electricity Bill Payment - Utility Co.,85,Utilities,02/11/2023,15840,spending,0,none,,,November,0,paid_out,bank_D,bank_A,0.67,0.21,2,03/11/2023,,0
+35133,35134,Fuel Purchase - Gas Station,45.6,Transportation,11/11/2023,17904,spending,0,none,,,November,0,paid_out,bank_D,bank_E,0.38,0.49,1,03/11/2023,,0
+44672,44673,Transfer from Savings to Current,500,Transfers,23/11/2023,11824,income,0,none,,,November,1,paid_in,bank_C,bank_C,,0.79,3,03/11/2023,,0
+30856,30857,Gas Station - Fuel Purchase,40.45,Transportation,05/11/2023,19932,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.11,0.26,1,03/11/2023,0,0
+15911,15912,Credit Card Payment - Mastercard **** 5678,150,Credit Card Payment,19/10/2023,17309,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.75,0.39,2,03/11/2023,0,0
+2577,2578,ATM Withdrawal - JKL Bank ATM,90,Cash Withdrawal,02/10/2023,19976,spending,0,none,,,October,0,paid_out,,bank_D,0.28,0.3,2,03/11/2023,,0
+33683,33684,Smart & Final,35,Groceries,09/11/2023,17136,spending,0,none,,,November,0,paid_out,bank_A,bank_C,0.28,0.24,1,03/11/2023,,0
+18844,18845,Transfer from Current to Savings,150,Transfers,23/10/2023,13955,spending,0,none,,,October,0,paid_out,bank_D,bank_D,0.75,0.24,2,03/11/2023,,0
+9687,9688,Co-op,40,Groceries,11/10/2023,14933,spending,0,none,,,October,0,paid_out,bank_E,bank_B,0.24,0.29,1,03/11/2023,0,0
+49482,49483,Amazon Prime Membership Renewal,12.99,Online Shopping,29/11/2023,13697,spending,0,none,,,November,0,paid_out,bank_D,bank_D,0.37,0.3,1,03/11/2023,,0
+8539,8540,Home Improvement - Renovation Supplies,120.3,Home Improvement,09/10/2023,12171,spending,0,none,,,October,0,paid_out,bank_D,bank_C,0.57,0.56,2,03/11/2023,,0
+47447,47448,Morrisons,45,Groceries,27/11/2023,15302,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.11,0.31,1,03/11/2023,,0
+9914,9915,Tesco,55,Groceries,11/10/2023,19959,spending,0,none,,,October,0,paid_out,bank_C,bank_C,0.46,0.63,1,03/11/2023,,0
+32068,32069,Fast Food - Lunch Combo,10.5,Dining Out,07/11/2023,16726,spending,0,none,,,November,0,paid_out,bank_C,bank_D,0.12,0.42,1,03/11/2023,,0
+42778,42779,Transfer to Emergency Fund,200,Transfers,21/11/2023,17489,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.61,0.64,3,03/11/2023,,0
+30652,30653,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,05/11/2023,11135,spending,0,none,,,November,0,paid_out,,bank_B,0.19,0.49,2,03/11/2023,,0
+38111,38112,Gas Station - Fuel Purchase,43.6,Transportation,15/11/2023,11348,spending,0,none,,,November,1,paid_out,bank_B,bank_E,0.19,0.56,1,03/11/2023,,0
+30885,30886,Restaurant - Dinner with Friends,100,Dining Out,05/11/2023,18571,spending,0,none,,,November,0,paid_out,bank_C,bank_E,0.44,0.61,2,03/11/2023,,0
+48191,48192,Transfer from Savings to Current,300,Transfers,28/11/2023,19773,income,0,none,,,November,0,paid_in,bank_C,bank_C,,0.55,3,03/11/2023,,0
+8265,8266,ATM Withdrawal - PQR Bank ATM,80,Cash Withdrawal,09/10/2023,11406,spending,0,none,,,October,0,paid_out,,bank_E,0.18,0.6,2,03/11/2023,0,0
+44611,44612,Transfer to Emergency Fund,175,Transfers,23/11/2023,11585,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.5,0.43,3,03/11/2023,,0
+7026,7027,Transfer to Vacation Fund,350,Transfers,07/10/2023,17699,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.75,0.57,3,03/11/2023,,0
+2879,2880,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,02/10/2023,19334,spending,0,none,,,October,0,paid_out,,bank_C,0.19,0.43,2,03/11/2023,,0
+33511,33512,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,09/11/2023,15831,spending,0,none,,,November,1,paid_out,,bank_E,0.15,0.77,2,03/11/2023,0,0
+21887,21888,ATM Withdrawal - XYZ Bank ATM,70,Cash Withdrawal,27/10/2023,16427,spending,0,none,,,October,1,paid_out,,bank_B,0.29,0.75,2,03/11/2023,,0
+24145,24146,ATM Withdrawal - STU Bank ATM,100,Cash Withdrawal,30/10/2023,11739,spending,0,none,,,October,0,paid_out,,bank_E,0.29,0.29,2,03/11/2023,,0
+38617,38618,Whole Foods Market - Grocery Shopping,50.75,Groceries,15/11/2023,11439,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.44,0.67,1,03/11/2023,0,0
+42520,42521,Amazon Prime Membership Renewal,12.99,Online Shopping,20/11/2023,18257,spending,0,none,,,November,0,paid_out,bank_A,bank_D,0.32,0.45,1,03/11/2023,,0
+19613,19614,Online Retailer - Clothing Purchase,70.99,Online Shopping,24/10/2023,11144,spending,0,none,,,October,0,paid_out,bank_E,bank_B,0.57,0.56,1,03/11/2023,,0
+35552,35553,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,11/11/2023,17287,spending,0,none,,,November,0,paid_out,,bank_D,0.27,0.22,2,03/11/2023,,0
+31028,31029,Piggly Wiggly,35,Groceries,06/11/2023,10710,spending,0,none,,,November,1,paid_out,bank_D,bank_A,0.36,0.87,1,03/11/2023,,0
+15904,15905,ATM Withdrawal - GHI Bank ATM,70,Cash Withdrawal,19/10/2023,11406,spending,0,none,,,October,0,paid_out,,bank_E,0.28,0.6,2,03/11/2023,,0
+46958,46959,Credit Card Payment - American Express **** 3456,200,Credit Card Payment,26/11/2023,11348,spending,0,none,,,November,1,paid_out,Intrnl,bank_E,0.73,0.56,4,03/11/2023,0,0
+49237,49238,ATM Withdrawal - PQR Bank ATM,70,Cash Withdrawal,29/11/2023,15129,spending,0,none,,,November,0,paid_out,,bank_E,0.29,0.52,2,03/11/2023,,0
+30152,30153,Radiation Oncology - Cancer Treatment,250,Healthcare,04/11/2023,13827,spending,0,none,,,November,0,paid_out,bank_B,bank_B,0.57,0.24,3,03/11/2023,1,1
+47065,47066,Amazon Prime Membership Renewal,12.99,Online Shopping,26/11/2023,11529,spending,0,none,,,November,0,paid_out,bank_A,bank_C,0.13,0.49,1,03/11/2023,,0
+29724,29725,Online Retailer - Electronics Purchase,199.99,Online Shopping,04/11/2023,17309,spending,0,none,,,November,0,paid_out,bank_D,bank_C,0.71,0.39,3,03/11/2023,,0
+27387,27388,Utilities Payment - Gas and Electric,95,Utilities,02/11/2023,10254,spending,0,none,,,November,0,paid_out,bank_B,bank_A,0.45,0.56,2,03/11/2023,,0
+28153,28154,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,02/11/2023,18873,spending,0,none,,,November,1,paid_out,,bank_E,0.26,0.74,2,03/11/2023,,0
+3314,3315,Restaurant Lunch - Business Meeting,75,Dining Out,03/10/2023,12184,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.31,0.68,1,03/11/2023,,0
+25654,25655,Restaurant Lunch - Business Meeting,75,Dining Out,01/11/2023,15391,spending,0,none,,,November,1,paid_out,bank_C,bank_D,0.34,0.67,1,03/11/2023,,0
+30227,30228,Fry's Food Stores,60,Groceries,04/11/2023,13511,spending,0,none,,,November,0,paid_out,bank_B,bank_A,0.56,0.55,1,03/11/2023,,0
+8820,8821,Trader Joe's,50,Groceries,10/10/2023,10234,spending,0,none,,,October,0,paid_out,bank_D,bank_C,0.13,0.48,1,03/11/2023,0,0
+34809,34810,Home Improvement - Home Depot,110.45,Home Improvement,10/11/2023,18792,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.54,0.24,2,03/11/2023,0,0
+47678,47679,Online Shopping - Amazon,79.99,Online Shopping,27/11/2023,17489,spending,0,none,,,November,0,paid_out,bank_B,bank_D,0.32,0.64,1,03/11/2023,,0
+17702,17703,Transfer to Emergency Fund,175,Transfers,22/10/2023,10271,spending,0,none,,,October,1,paid_out,bank_A,bank_E,0.59,0.89,3,03/11/2023,1,1
+22542,22543,Transfer from Savings to Current,500,Transfers,28/10/2023,18264,income,0,none,,,October,0,paid_in,bank_E,bank_E,,0.27,3,03/11/2023,,0
+48603,48604,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,28/11/2023,14589,spending,0,none,,,November,0,paid_out,,bank_A,0.21,0.56,2,03/11/2023,,0
+18941,18942,Transfer to Vacation Fund,300,Transfers,23/10/2023,16132,spending,0,none,,,October,0,paid_out,bank_A,bank_C,0.53,0.29,3,03/11/2023,,0
+35608,35609,ATM Withdrawal - XYZ Bank ATM,70,Cash Withdrawal,11/11/2023,19202,spending,0,none,,,November,0,paid_out,,bank_D,0.22,0.25,2,03/11/2023,0,0
+15326,15327,Home Improvement Store - DIY Supplies,75.4,Home Improvement,18/10/2023,14221,spending,0,none,,,October,0,paid_out,bank_C,bank_E,0.45,0.27,1,03/11/2023,,0
+24870,24871,Transfer to Emergency Fund,175,Transfers,31/10/2023,15176,spending,0,none,,,October,0,paid_out,bank_C,bank_E,0.51,0.29,3,03/11/2023,,0
+40605,40606,Credit Card Payment - Visa **** 7890,85.25,Credit Card Payment,18/11/2023,17697,spending,0,none,,,November,0,paid_out,bank_C,bank_A,0.51,0.65,2,03/11/2023,,0
+9540,9541,Online Shopping - Apparel,69.99,Online Shopping,11/10/2023,19001,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.51,0.4,1,03/11/2023,,0
+15767,15768,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,19/10/2023,17974,spending,0,none,,,October,0,paid_out,,bank_C,0.21,0.56,2,03/11/2023,,0
+28004,28005,Phone Bill Payment - Wireless Provider,65,Utilities,02/11/2023,11251,spending,0,none,,,November,0,paid_out,bank_A,bank_E,0.37,0.43,1,03/11/2023,,0
+17937,17938,Geriatric Psychiatry - Elderly Mental Health,170,Healthcare,22/10/2023,15958,spending,0,none,,,October,1,paid_out,bank_D,bank_C,0.62,0.82,3,03/11/2023,,0
+48014,48015,ATM Withdrawal - XYZ Bank ATM,70,Cash Withdrawal,28/11/2023,17862,spending,0,none,,,November,0,paid_out,,bank_B,0.17,0.21,2,03/11/2023,,0
+29817,29818,Marks & Spencer,55,Groceries,04/11/2023,11348,spending,0,none,,,November,1,paid_out,bank_E,bank_E,0.45,0.56,1,03/11/2023,,0
+32437,32438,Savings Account Interest - October,15.6,Interest,07/11/2023,18712,income,0,none,,,November,1,paid_in,bank_E,bank_E,,0.45,1,03/11/2023,,0
+12558,12559,Transfer to Emergency Fund,200,Transfers,15/10/2023,13619,spending,0,none,,,October,0,paid_out,bank_E,bank_C,0.6,0.42,3,03/11/2023,,0
+12593,12594,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,15/10/2023,12292,spending,0,none,,,October,0,paid_out,,bank_B,0.25,0.42,2,03/11/2023,0,0
+15731,15732,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,19/10/2023,10913,spending,0,none,,,October,0,paid_out,,bank_B,0.26,0.23,2,03/11/2023,,0
+2209,2210,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,02/10/2023,17718,spending,0,none,,,October,0,paid_out,,bank_D,0.1,0.68,2,03/11/2023,,0
+19697,19698,Chase Credit Card Payment - Visa **** 1234,350.25,Credit Card Payment,24/10/2023,16392,spending,0,none,,,October,0,paid_out,Intrnl,bank_D,0.78,0.47,4,03/11/2023,0,0
+35217,35218,Foot Locker - Athletic Footwear,50,Shopping,11/11/2023,17021,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.45,0.64,1,03/11/2023,,0
+47690,47691,Online Shopping - Electronics,149.99,Online Shopping,27/11/2023,15971,spending,0,none,,,November,1,paid_out,bank_B,bank_E,0.4,0.55,2,03/11/2023,,0
+33563,33564,Coffee Shop - Afternoon Pick-Me-Up,5.75,Dining Out,09/11/2023,14407,spending,0,none,,,November,0,paid_out,bank_D,bank_C,0.24,0.52,1,03/11/2023,,0
+21346,21347,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,26/10/2023,17933,spending,0,none,,,October,0,paid_out,,bank_B,0.15,0.26,2,03/11/2023,,0
+13768,13769,Monthly Service Fee - Bank Account,10,Bank Fees,16/10/2023,19358,spending,0,none,,,October,0,paid_out,bank_B,bank_B,0.39,0.28,1,03/11/2023,,0
+41010,41011,ATM Withdrawal - PQR Bank ATM,70,Cash Withdrawal,18/11/2023,18377,spending,0,none,,,November,1,paid_out,,bank_B,0.19,0.54,2,03/11/2023,0,0
+43672,43673,ATM Withdrawal - MNO Bank ATM,80,Cash Withdrawal,22/11/2023,13569,spending,0,none,,,November,0,paid_out,,bank_D,0.12,0.26,2,03/11/2023,0,0
+34863,34864,Gadget Purchase - Tech Paradise,189.75,Electronics,10/11/2023,11439,spending,0,none,,,November,0,paid_out,Intrnl,bank_D,0.57,0.67,4,03/11/2023,,0
+3744,3745,Utilities Payment - Electricity,80,Utilities,03/10/2023,16013,spending,0,none,,,October,0,paid_out,bank_A,bank_E,0.42,0.52,1,03/11/2023,,0
+8908,8909,Dental Implant Surgery - Implant Procedure,180,Healthcare,10/10/2023,17055,spending,0,none,,,October,0,paid_out,bank_B,bank_C,0.54,0.22,3,03/11/2023,,0
+40244,40245,Transfer from Savings to Current,175,Transfers,17/11/2023,17392,income,0,none,,,November,0,paid_in,bank_E,bank_E,,0.23,3,03/11/2023,,0
+16439,16440,Fuel Purchase - Gas Station,40.75,Transportation,20/10/2023,18385,spending,0,none,,,October,0,paid_out,bank_D,bank_A,0.25,0.48,1,03/11/2023,0,0
+21290,21291,Online Retailer - Home Decor,89.99,Online Shopping,26/10/2023,19932,spending,0,none,,,October,0,paid_out,bank_C,bank_A,0.67,0.26,2,03/11/2023,0,0
+41751,41752,H&M - Clothing Purchase,45,Shopping,19/11/2023,13594,spending,0,none,,,November,0,paid_out,bank_E,bank_A,0.15,0.45,1,03/11/2023,,0
+22485,22486,Fuel Purchase - Gas Station,43.25,Transportation,28/10/2023,18576,spending,0,none,,,October,0,paid_out,bank_E,bank_E,0.27,0.22,1,03/11/2023,,0
+9002,9003,Credit Card Payment - Visa **** 1234,75.25,Credit Card Payment,10/10/2023,19717,spending,0,none,,,October,0,paid_out,bank_B,bank_E,0.54,0.41,1,03/11/2023,,0
+43335,43336,Transfer from Savings to Current - Emergency Fund,500,Transfers,21/11/2023,16251,income,0,none,,,November,0,paid_in,bank_A,bank_A,,0.59,3,03/11/2023,,0
+27805,27806,ATM Withdrawal - DEF Bank ATM,80,Cash Withdrawal,02/11/2023,13001,spending,0,none,,,November,0,paid_out,,bank_B,0.12,0.57,2,03/11/2023,,0
+34589,34590,ATM Withdrawal - XYZ Bank ATM,70,Cash Withdrawal,10/11/2023,10204,spending,0,none,,,November,0,paid_out,,bank_A,0.19,0.66,2,03/11/2023,,0
+49121,49122,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,29/11/2023,17405,spending,0,none,,,November,0,paid_out,,bank_C,0.1,0.45,2,03/11/2023,,0
+20516,20517,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,25/10/2023,18997,spending,0,none,,,October,0,paid_out,,bank_B,0.28,0.43,2,03/11/2023,0,0
+38884,38885,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,16/11/2023,18012,spending,0,none,,,November,0,paid_out,,bank_C,0.29,0.43,2,03/11/2023,0,0
+46962,46963,ATM Withdrawal - ABC Bank ATM,60,Cash Withdrawal,26/11/2023,14221,spending,0,none,,,November,0,paid_out,,bank_E,0.18,0.27,2,03/11/2023,0,0
+26048,26049,Mobile Phone Bill Payment - Mobile Co.,45,Utilities,01/11/2023,12278,spending,0,none,,,November,0,paid_out,bank_C,bank_C,0.21,0.55,1,03/11/2023,1,1
+43243,43244,Grocery Store - Fresh Produce,35.45,Groceries,21/11/2023,11135,spending,0,none,,,November,0,paid_out,bank_D,bank_B,0.35,0.49,1,03/11/2023,0,0
+17878,17879,Coffee Shop - Cappuccino,5.25,Dining Out,22/10/2023,11349,spending,0,none,,,October,0,paid_out,bank_C,bank_B,0.23,0.36,1,03/11/2023,,0
+33400,33401,Home Improvement - Paint and Supplies,110.75,Home Improvement,09/11/2023,18959,spending,0,none,,,November,0,paid_out,bank_E,bank_B,0.51,0.36,2,03/11/2023,,0
+34578,34579,Online Shopping - Apparel,69.99,Online Shopping,10/11/2023,18355,spending,0,none,,,November,0,paid_out,bank_D,bank_A,0.58,0.57,1,03/11/2023,,0
+3507,3508,ATM Withdrawal - XYZ Bank Branch,100,Cash Withdrawal,03/10/2023,18662,spending,0,none,,,October,0,paid_out,,bank_C,0.14,0.56,2,03/11/2023,0,0
+28149,28150,Utilities Payment - Gas and Electric,95,Utilities,02/11/2023,11641,spending,0,none,,,November,1,paid_out,bank_E,bank_A,0.48,0.51,2,03/11/2023,1,1

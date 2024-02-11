@@ -1,0 +1,589 @@
+Descriptions,Category,Subcategory,min,max,mean
+Monthly Service Fee - Bank Account,Bank Fees,Bank Fees,0.1,20,2
+Monthly Account Maintenance Fee,Bank Fees,Bank Fees,0.1,20,2
+Monthly Account Maintenance Fee,Bank Fees,Bank Fees,0.1,20,2
+Monthly Service Fee - Account Maintenance,Bank Fees,Bank Fees,0.1,20,2
+Monthly Service Fee - Current Account Maintenance,Bank Fees,Bank Fees,0.1,20,2
+Monthly Service Fee - Bank Account,Bank Fees,Bank Fees,0.1,20,2
+Monthly Account Maintenance Fee,Bank Fees,Bank Fees,0.1,20,2
+Monthly Account Maintenance Fee,Bank Fees,Bank Fees,0.1,20,2
+Monthly Service Fee - Account Maintenance,Bank Fees,Bank Fees,0.1,20,2
+Monthly Account Maintenance Fee,Bank Fees,Bank Fees,0.1,20,2
+ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,5,200,20
+British Red Cross,Charity,Charity,2,50,10
+Oxfam,Charity,Charity,2,50,10
+Cancer Research UK,Charity,Charity,2,50,10
+Save the Children,Charity,Charity,2,50,10
+The Royal British Legion,Charity,Charity,2,50,10
+Macmillan Cancer Support,Charity,Charity,2,50,10
+Marie Curie,Charity,Charity,2,50,10
+UNICEF UK,Charity,Charity,2,50,10
+NSPCC (National Society for the Prevention of Cruelty to Children),Charity,Charity,2,50,10
+Alzheimer's Society,Charity,Charity,2,50,10
+The Salvation Army,Charity,Charity,2,50,10
+Shelter,Charity,Charity,2,50,10
+WWF-UK (World Wide Fund for Nature),Charity,Charity,2,50,10
+British Heart Foundation,Charity,Charity,2,50,10
+Age UK,Charity,Charity,2,50,10
+RSPCA (Royal Society for the Prevention of Cruelty to Animals),Charity,Charity,2,50,10
+Barnardo's,Charity,Charity,2,50,10
+Mind (Mental Health Charity),Charity,Charity,2,50,10
+Help for Heroes,Charity,Charity,2,50,10
+The Children's Society,Charity,Charity,2,50,10
+WaterAid,Charity,Charity,2,50,10
+Comic Relief,Charity,Charity,2,50,10
+The Wildlife Trusts,Charity,Charity,2,50,10
+Guide Dogs,Charity,Charity,2,50,10
+Crisis,Charity,Charity,2,50,10
+RNLI (Royal National Lifeboat Institution),Charity,Charity,2,50,10
+Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Discover **** 9012,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - American Express **** 6789,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,10,1000,40
+Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,10,1000,40
+Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,10,1000,40
+Currys PC World,Electronics,Electronics,50,2000,300
+Argos,Electronics,Electronics,50,2000,300
+Richer Sounds,Electronics,Electronics,50,2000,300
+John Lewis & Partners,Electronics,Electronics,50,2000,300
+Maplin (Online Only),Electronics,Electronics,50,2000,300
+Scan,Electronics,Electronics,50,2000,300
+RS Components,Electronics,Electronics,50,2000,300
+Farnell,Electronics,Electronics,50,2000,300
+CeX,Electronics,Electronics,50,2000,300
+Electronics Store - Gadget Purchase,Electronics,Electronics,50,2000,300
+Electronics Store Purchase - Tech Haven,Electronics,Electronics,50,2000,300
+Electronics Store - Gadget Purchase,Electronics,Electronics,50,2000,300
+Gadget Purchase - Tech Paradise,Electronics,Electronics,50,2000,300
+Everyman cinema ,Entertainment,Entertainment,10,100,30
+Paintball ,Entertainment,Entertainment,10,100,30
+Cinemacity,Entertainment,Entertainment,10,100,30
+Art Gallery and Museum ,Entertainment,Entertainment,10,100,30
+Vue,Entertainment,Entertainment,10,100,30
+DesignMyNight ,Entertainment,Entertainment,10,100,30
+Interactive Brokers ,Investment,Investment,100,500,150
+Trading 212 UK,Investment,Investment,100,500,150
+AJ Bells ,Investment,Investment,100,500,150
+Isa fund,Investment,Investment,100,500,150
+Invest Engine,Investment,Investment,100,500,150
+Revolut stocks,Investment,Investment,100,500,150
+Etorro,Investment,Investment,100,500,150
+Trading 212,Investment,Investment,100,500,150
+Vanguard ,Investment,Investment,100,500,150
+SuperValu,Groceries,Groceries,10,200,30
+Grocery Store - Fresh Produce,Groceries,Groceries,10,200,30
+WinCo Foods,Groceries,Groceries,10,200,30
+Gelson's Markets,Groceries,Groceries,10,200,30
+Walmart - Household Supplies,Groceries,Groceries,10,200,30
+Grocery Shopping - Supermart,Groceries,Groceries,10,200,30
+Whole Foods Market,Groceries,Groceries,10,200,30
+Waitrose,Groceries,Groceries,10,200,30
+Albertsons,Groceries,Groceries,10,200,30
+BJ's Wholesale Club,Groceries,Groceries,10,200,30
+Co-op,Groceries,Groceries,10,200,30
+Grocery Shopping - Fresh Mart,Groceries,Groceries,10,200,30
+Tesco,Groceries,Groceries,10,200,30
+Morrisons,Groceries,Groceries,10,200,30
+HEB Grocery,Groceries,Groceries,10,200,30
+Kroger,Groceries,Groceries,10,200,30
+Fry's Food Stores,Groceries,Groceries,10,200,30
+Lidl,Groceries,Groceries,10,200,30
+Sainsbury's,Groceries,Groceries,10,200,30
+Walmart Grocery,Groceries,Groceries,10,200,30
+Grocery Shopping - Super Value Mart,Groceries,Groceries,10,200,30
+Coles,Groceries,Groceries,10,200,30
+Kmart Super Centers,Groceries,Groceries,10,200,30
+Target Grocery,Groceries,Groceries,10,200,30
+Food Lion,Groceries,Groceries,10,200,30
+Trader Joe's,Groceries,Groceries,10,200,30
+Grocery Store - Fresh Produce,Groceries,Groceries,10,200,30
+Smith's Food and Drug,Groceries,Groceries,10,200,30
+Giant Food,Groceries,Groceries,10,200,30
+Asda,Groceries,Groceries,10,200,30
+Whole Foods Market - Grocery Shopping,Groceries,Groceries,10,200,30
+Smart & Final,Groceries,Groceries,10,200,30
+Piggly Wiggly,Groceries,Groceries,10,200,30
+Grocery Shopping - Neighborhood Store,Groceries,Groceries,10,200,30
+Meijer,Groceries,Groceries,10,200,30
+Harris Teeter,Groceries,Groceries,10,200,30
+Costco Wholesale,Groceries,Groceries,10,200,30
+Woolworths,Groceries,Groceries,10,200,30
+Wegmans,Groceries,Groceries,10,200,30
+Festival Foods,Groceries,Groceries,10,200,30
+Price Chopper,Groceries,Groceries,10,200,30
+Grocery Store - Weekly Shopping,Groceries,Groceries,10,200,30
+Hy-Vee,Groceries,Groceries,10,200,30
+Shaw's,Groceries,Groceries,10,200,30
+Grocery Shopping - Fresh Grocers,Groceries,Groceries,10,200,30
+Food Basics,Groceries,Groceries,10,200,30
+Acme Markets,Groceries,Groceries,10,200,30
+Food City,Groceries,Groceries,10,200,30
+Grocery Shopping - Mega Mart,Groceries,Groceries,10,200,30
+Aldi,Groceries,Groceries,10,200,30
+IGA,Groceries,Groceries,10,200,30
+Food 4 Less,Groceries,Groceries,10,200,30
+Publix,Groceries,Groceries,10,200,30
+Save Mart Supermarkets,Groceries,Groceries,10,200,30
+Safeway,Groceries,Groceries,10,200,30
+Grocery Store - Household Supplies,Groceries,Groceries,10,200,30
+Marks & Spencer,Groceries,Groceries,10,200,30
+Ralphs,Groceries,Groceries,10,200,30
+Publix Super Markets,Groceries,Groceries,10,200,30
+ShopRite,Groceries,Groceries,10,200,30
+Orthopedic,Healthcare,Healthcare,5,300,50
+Counseling,Healthcare,Healthcare,5,300,50
+Maternity Clinic,Healthcare,Healthcare,5,300,50
+NHS,Healthcare,Healthcare,5,300,50
+Pharmacy MYH,Healthcare,Healthcare,5,300,50
+Health centre ,Healthcare,Healthcare,5,300,50
+GPDQ,Healthcare,Healthcare,5,300,50
+HCA / HealthTrust Europe,Healthcare,Healthcare,5,300,50
+HCRG Care (Virgin Care),Healthcare,Healthcare,5,300,50
+InHealth Group,Healthcare,Healthcare,5,300,50
+LIVI,Healthcare,Healthcare,5,300,50
+Medacs Global Group,Healthcare,Healthcare,5,300,50
+Medica,Healthcare,Healthcare,5,300,50
+MedicSpot Virtual,Healthcare,Healthcare,5,300,50
+Nuffield Health,Healthcare,Healthcare,5,300,50
+Omnes,Healthcare,Healthcare,5,300,50
+Optum / United Health,Healthcare,Healthcare,5,300,50
+Palantir,Healthcare,Healthcare,5,300,50
+Pathology/Diagnostics,Healthcare,Healthcare,5,300,50
+Practice Plus Group,Healthcare,Healthcare,5,300,50
+Ramsay Healthcare,Healthcare,Healthcare,5,300,50
+Sciensus,Healthcare,Healthcare,5,300,50
+Sirona,Healthcare,Healthcare,5,300,50
+Spire Healthcare,Healthcare,Healthcare,5,300,50
+Synlab/iPP,Healthcare,Healthcare,5,300,50
+The Priory Group,Healthcare,Healthcare,5,300,50
+Totally Plc,Healthcare,Healthcare,5,300,50
+Vita Health Group,Healthcare,Healthcare,5,300,50
+ZoomDoc,Healthcare,Healthcare,5,300,50
+Boots ,Personal care,Personal care,10,40,20
+Body Shop,Personal care,Personal care,10,40,20
+Manning Books ,Personal care,Personal care,10,40,20
+Waterstones ,Personal care,Personal care,10,40,20
+Superdrug ,Personal care,Personal care,10,40,20
+Rituals ,Personal care,Personal care,10,40,20
+Sallys,Personal care,Personal care,10,40,20
+Sanctuary spa,Personal care,Personal care,10,40,20
+B&Q,Home Improvement,Home Improvement,50,2000,100
+Wickes,Home Improvement,Home Improvement,50,2000,100
+Homebase,Home Improvement,Home Improvement,50,2000,100
+Screwfix,Home Improvement,Home Improvement,50,2000,100
+Topps Tiles,Home Improvement,Home Improvement,50,2000,100
+Dunelm,Home Improvement,Home Improvement,50,2000,100
+Laura Ashley,Home Improvement,Home Improvement,50,2000,100
+The Range,Home Improvement,Home Improvement,50,2000,100
+Wilko,Home Improvement,Home Improvement,50,2000,100
+Toolstation,Home Improvement,Home Improvement,50,2000,100
+Bathstore,Home Improvement,Home Improvement,50,2000,100
+Furniture Village,Home Improvement,Home Improvement,50,2000,100
+DFS,Home Improvement,Home Improvement,50,2000,100
+Harveys,Home Improvement,Home Improvement,50,2000,100
+Magnet Kitchens,Home Improvement,Home Improvement,50,2000,100
+Howdens,Home Improvement,Home Improvement,50,2000,100
+Carpetright,Home Improvement,Home Improvement,50,2000,100
+Carpetright,Home Improvement,Home Improvement,50,2000,100
+John Lewis & Partners,Home Improvement,Home Improvement,50,2000,100
+Marks & Spencer,Home Improvement,Home Improvement,50,2000,100
+Ikea,Home Improvement,Home Improvement,50,2000,100
+The Sofa Workshop,Home Improvement,Home Improvement,50,2000,100
+Habitat,Home Improvement,Home Improvement,50,2000,100
+Heal's,Home Improvement,Home Improvement,50,2000,100
+Laura Ashley,Home Improvement,Home Improvement,50,2000,100
+Next Home,Home Improvement,Home Improvement,50,2000,100
+House of Fraser,Home Improvement,Home Improvement,50,2000,100
+Debenhams,Home Improvement,Home Improvement,50,2000,100
+The White Company,Home Improvement,Home Improvement,50,2000,100
+Monthly rent ,Housing,Housing,600,2500,1000
+Rent payment ,Housing,Housing,600,2500,1000
+Mortgage payments,Housing,Housing,600,2500,1000
+Direct Debit Mortg. TSB ,Housing,Housing,600,2500,1000
+NatWest MRTG,Housing,Housing,600,2500,1000
+Nationwide BuildSoc Mortage ,Housing,Housing,600,2500,1000
+Barclays MTGES,Housing,Housing,600,2500,1000
+Rent,Housing,Housing,600,2500,1000
+House rent,Housing,Housing,600,2500,1000
+Paycheck Deposit - Company Payroll,Income,Income,2000,10000,2500
+Paycheck Deposit - Company Name,Income,Income,2000,10000,2500
+Paycheck Deposit - X Employer,Income,Income,2000,10000,2500
+Paycheck Deposit - XYZ Inc.,Income,Income,2000,10000,2500
+Paycheck Deposit - ABC Inc.,Income,Income,2000,10000,2500
+Paycheck Deposit - ABC Corp.,Income,Income,2000,10000,2500
+Salary Deposit - ABC Company,Income,Income,2000,10000,2500
+Paycheck Deposit - XYZ Ltd.,Income,Income,2000,10000,2500
+Salary Deposit - XYZ Corporation,Income,Income,2000,10000,2500
+Interest Earned - Savings Account,Interest,Interest,3,20,5
+Savings Account Interest - October,Interest,Interest,3,20,5
+SLC,Loan Payment,Loan Payment,100,400,120
+SAAS,Loan Payment,Loan Payment,100,400,120
+Loans company ,Loan Payment,Loan Payment,100,400,120
+Car Loan Payment - Auto Finance Inc.,Loan Payment,Loan Payment,100,400,120
+Lease purchase ,Loan Payment,Loan Payment,100,400,120
+Car Loan,Loan Payment,Loan Payment,100,400,120
+Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,20,500,60
+Currys PC World,Online Shopping,Online Shopping,20,500,60
+CeX,Online Shopping,Online Shopping,20,500,60
+Amazon Prime Membership Renewal,Online Shopping,Online Shopping,20,500,60
+AMZN,Online Shopping,Online Shopping,20,500,60
+Ebay ,Online Shopping,Online Shopping,20,500,60
+Aliexpress,Online Shopping,Online Shopping,20,500,60
+Online Shopping - Electronics,Online Shopping,Online Shopping,20,500,60
+Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,20,500,60
+Amazon Prime Membership Renewal,Online Shopping,Online Shopping,20,500,60
+Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,20,500,60
+Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,20,500,60
+Zara - Affordable Fashion,Online Shopping,Online Shopping,20,500,60
+Old Navy - Family Apparel,Online Shopping,Online Shopping,20,500,60
+H&M - Accessories,Online Shopping,Online Shopping,20,500,60
+Forever 21 - Activewear,Online Shopping,Online Shopping,20,500,60
+Online Shopping - Amazon,Online Shopping,Online Shopping,20,500,60
+Online Shopping - Tech Accessories,Online Shopping,Online Shopping,20,500,60
+Forever 21 - Swimwear,Shopping,Shopping,20,500,60
+Uniqlo - Everyday Wear,Shopping,Shopping,20,500,60
+Topshop - Affordable Style,Shopping,Shopping,20,500,60
+Versace - Fashion Shopping,Shopping,Luxury shopping,200,3000,1000
+Cartier - Watch and Jewelry,Shopping,Luxury shopping,200,3000,1000
+Net-a-Porter - Luxury Online Shopping,Shopping,Luxury shopping,200,3000,1000
+Tesla Store - Home Charging Equipment,Shopping,Luxury shopping,200,3000,1000
+Hermès - Designer Accessories,Shopping,Luxury shopping,200,3000,1000
+Cartier - Fine Jewelry Purchase,Shopping,Luxury shopping,200,3000,1000
+Gap - Kids' Fashion,Shopping,Shopping,20,500,60
+Samsung - 8K QLED TV,Shopping,Luxury shopping,200,3000,1000
+New Look - Fashion Bargains,Shopping,Shopping,20,500,60
+Asos - Online Fashion Shopping,Shopping,Shopping,20,500,60
+Bottega Veneta - Luxury Fashion,Shopping,Luxury shopping,200,3000,1000
+Cotton On - Affordable Clothing,Shopping,Shopping,20,500,60
+Tiffany & Co. - Diamond Jewelry,Shopping,Luxury shopping,200,3000,1000
+Boohoo - Trendy Fashion,Shopping,Shopping,20,500,60
+Kohl's - Department Store Purchase,Shopping,Shopping,20,500,60
+Givenchy - Designer Apparel,Shopping,Luxury shopping,200,3000,1000
+Mango - Fashion Shopping,Shopping,Shopping,20,500,60
+Prada - Luxury Handbag,Shopping,Luxury shopping,200,3000,1000
+Target - Discount Shopping,Shopping,Shopping,20,500,60
+Payless ShoeSource - Inexpensive Shoes,Shopping,Shopping,20,500,60
+Urban Outfitters - Affordable Fashion,Shopping,Shopping,20,500,60
+Zara - Affordable Fashion,Shopping,Shopping,20,500,60
+Old Navy - Family Apparel,Shopping,Shopping,20,500,60
+H&M - Accessories,Shopping,Shopping,20,500,60
+Forever 21 - Activewear,Shopping,Shopping,20,500,60
+Chanel - Designer Fashion,Shopping,Luxury shopping,200,3000,1000
+Ross Dress for Less - Bargain Shopping,Shopping,Shopping,20,500,60
+Bvlgari - Luxury Accessories,Shopping,Luxury shopping,200,3000,1000
+Zara - Clothing Purchase,Shopping,Shopping,20,500,60
+Lululemon - Activewear Shopping,Shopping,Shopping,20,500,60
+Forever 21 - Fashion Shopping,Shopping,Shopping,20,500,60
+Walmart - Household Essentials,Shopping,Shopping,20,500,60
+New Balance - Affordable Sportswear,Shopping,Shopping,20,500,60
+Burberry - Fashion Purchase,Shopping,Luxury shopping,200,3000,1000
+Aldo - Affordable Footwear,Shopping,Shopping,20,500,60
+Balenciaga - Fashion Shopping,Shopping,Luxury shopping,200,3000,1000
+Fendi - Luxury Fashion,Shopping,Luxury shopping,200,3000,1000
+Bang & Olufsen - Audio Equipment,Shopping,Luxury shopping,200,3000,1000
+Sony Store - Electronics Purchase,Shopping,Luxury shopping,200,3000,1000
+Cotton On - Kids' Fashion,Shopping,Shopping,20,500,60
+Prada - High-End Fashion,Shopping,Luxury shopping,200,3000,1000
+Clothing Store Purchase - Fashion World,Shopping,Shopping,20,500,60
+Charlotte Russe - Affordable Apparel,Shopping,Shopping,20,500,60
+Dior - Designer Apparel,Shopping,Luxury shopping,200,3000,1000
+Decathlon - Sportswear Shopping,Shopping,Shopping,20,500,60
+Jimmy Choo - Luxury Footwear,Shopping,Luxury shopping,200,3000,1000
+Primark - Budget Fashion,Shopping,Shopping,20,500,60
+Alexander McQueen - Fashion Purchase,Shopping,Luxury shopping,200,3000,1000
+Nike - Sportswear Shopping,Shopping,Shopping,20,500,60
+Walmart - Affordable Shopping,Shopping,Shopping,20,500,60
+Zara - Kids' Clothing,Shopping,Shopping,20,500,60
+Tesla Store - Electric Car Purchase,Shopping,Luxury shopping,200,3000,1000
+Saks Fifth Avenue - Designer Shopping,Shopping,Luxury shopping,200,3000,1000
+Amazon - Online Shopping,Shopping,Shopping,20,500,60
+Rolex Boutique - Luxury Watch,Shopping,Luxury shopping,200,3000,1000
+Charlotte Russe - Jewelry,Shopping,Shopping,20,500,60
+JCPenney - Discount Fashion,Shopping,Shopping,20,500,60
+Paris Fashion Shopping - Designer Splurge,Shopping,Luxury shopping,200,3000,1000
+Rolex Boutique - Exclusive Watch,Shopping,Luxury shopping,200,3000,1000
+Primark - Budget Homeware,Shopping,Shopping,20,500,60
+Converse Outlet - Discounted Sneakers,Shopping,Shopping,20,500,60
+Celine - Designer Fashion,Shopping,Luxury shopping,200,3000,1000
+Target - Back-to-School Shopping,Shopping,Shopping,20,500,60
+Samsung - Electronics Purchase,Shopping,Luxury shopping,200,3000,1000
+Apple Store - Electronics Purchase,Shopping,Luxury shopping,200,3000,1000
+H&M - Clothing Purchase,Shopping,Shopping,20,500,60
+Puma - Budget Sportswear,Shopping,Shopping,20,500,60
+Old Navy - Casual Apparel,Shopping,Shopping,20,500,60
+Kohl's - Home Decor,Shopping,Shopping,20,500,60
+Asos - Men's Clothing,Shopping,Shopping,20,500,60
+Harrods - Luxury Shopping,Shopping,Luxury shopping,200,3000,1000
+Ralph Lauren - Fashion Purchase,Shopping,Luxury shopping,200,3000,1000
+PacSun - Casual Wear,Shopping,Shopping,20,500,60
+Louis Vuitton - Designer Handbag,Shopping,Luxury shopping,200,3000,1000
+Foot Locker - Athletic Footwear,Shopping,Shopping,20,500,60
+Forever 21 - Accessories,Shopping,Shopping,20,500,60
+Uniqlo - Affordable Denim,Shopping,Shopping,20,500,60
+Christian Louboutin - Designer Shoes,Shopping,Luxury shopping,200,3000,1000
+Gucci - Luxury Fashion Shopping,Shopping,Luxury shopping,200,3000,1000
+PacSun - Teen Fashion,Shopping,Shopping,20,500,60
+Sony Store - 4K OLED TV,Shopping,Luxury shopping,200,3000,1000
+Louis Vuitton - Luxury Luggage,Shopping,Luxury shopping,200,3000,1000
+Yves Saint Laurent - High-End Apparel,Shopping,Luxury shopping,200,3000,1000
+Zalando - Affordable Online Shopping,Shopping,Shopping,20,500,60
+Neiman Marcus - Designer Shopping,Shopping,Luxury shopping,200,3000,1000
+Chopard - Fine Jewelry Purchase,Shopping,Luxury shopping,200,3000,1000
+Tom Ford - High-End Fashion,Shopping,Luxury shopping,200,3000,1000
+Hollister - Youth Fashion,Shopping,Shopping,20,500,60
+Tiffany & Co. - Jewelry Purchase,Shopping,Luxury shopping,200,3000,1000
+Zegna - Men's Fashion Shopping,Shopping,Luxury shopping,200,3000,1000
+Best Buy - Electronics Purchase,Shopping,Luxury shopping,200,3000,1000
+C&A - Budget Clothing,Shopping,Shopping,20,500,60
+Gap - Fashion Purchase,Shopping,Shopping,20,500,60
+Boohoo - Cheap Fashion Finds,Shopping,Shopping,20,500,60
+Transfer to Vacation Fund,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,20,2000,100
+Transfer to Emergency Fund,Transfers,Transfers,20,2000,100
+Transfer to Investment Account,Transfers,Transfers,20,2000,100
+Transfer to Vacation Fund,Transfers,Transfers,20,2000,100
+Transfer from Current to Savings,Transfers,Transfers,20,2000,100
+Transfer to Emergency Fund,Transfers,Transfers,20,2000,100
+Transfer to Vacation Fund,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current,Transfers,Transfers,20,2000,100
+Transfer to Vacation Fund,Transfers,Transfers,20,2000,100
+Transfer from Current to Savings,Transfers,Transfers,20,2000,100
+Transfer to Investment Account,Transfers,Transfers,20,2000,100
+Transfer from Current to Savings,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current,Transfers,Transfers,20,2000,100
+Transfer to Savings Account - Rainy Day Fund,Transfers,Transfers,20,2000,100
+Transfer to Emergency Fund,Transfers,Transfers,20,2000,100
+Transfer to Investment Account,Transfers,Transfers,20,2000,100
+Transfer to Emergency Fund,Transfers,Transfers,20,2000,100
+Transfer from Current to Savings,Transfers,Transfers,20,2000,100
+Transfer to Vacation Fund,Transfers,Transfers,20,2000,100
+Transfer to Investment Account,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current,Transfers,Transfers,20,2000,100
+Transfer from Savings to Current,Transfers,Transfers,20,2000,100
+Abellio Scotrail,Transportation,Transportation,3,200,10
+TFL,Transportation,Transportation,3,200,10
+Stagecoach,Transportation,Transportation,3,200,10
+Citylink,Transportation,Transportation,3,200,10
+National express,Transportation,Transportation,3,200,10
+First Bus,Transportation,Transportation,3,200,10
+Virgin Trains,Transportation,Transportation,3,200,10
+LNER,Transportation,Transportation,3,200,10
+Scotrail ,Transportation,Transportation,3,200,10
+Trainline ,Transportation,Transportation,3,200,10
+Gas Station - Fuel Purchase,Transportation,Fuel,10,200,60
+Fuel Purchase - Gas Station,Transportation,Fuel,10,200,60
+Fuel Purchase - Gas Station,Transportation,Fuel,10,200,60
+Gas Station - Fuel Purchase,Transportation,Fuel,10,200,60
+Fuel Purchase - Gas Station,Transportation,Fuel,10,200,60
+Gas Station - Fuel Purchase,Transportation,Fuel,10,200,60
+Gas Station - Fuel Purchase,Transportation,Fuel,10,200,60
+Gas Station - Fuel Purchase,Transportation,Fuel,10,200,60
+Fuel Purchase - Gas Station,Transportation,Fuel,10,200,60
+Fuel Purchase - Gas Station,Transportation,Fuel,10,200,60
+Airbnb,Holiday,Holiday,200,1500,400
+TUI UK,Holiday,Holiday,200,1500,400
+Thomas Cook,Holiday,Holiday,200,1500,400
+British Airways Holidays,Holiday,Holiday,200,1500,400
+Virgin Holidays,Holiday,Holiday,200,1500,400
+Jet2Holidays,Holiday,Holiday,200,1500,400
+Kuoni,Holiday,Holiday,200,1500,400
+On the Beach,Holiday,Holiday,200,1500,400
+Love Holidays,Holiday,Holiday,200,1500,400
+Saga Holidays,Holiday,Holiday,200,1500,400
+Hoseasons,Holiday,Holiday,200,1500,400
+Center Parcs,Holiday,Holiday,200,1500,400
+Haven Holidays,Holiday,Holiday,200,1500,400
+Butlins,Holiday,Holiday,200,1500,400
+Pontins,Holiday,Holiday,200,1500,400
+Eurocamp,Holiday,Holiday,200,1500,400
+Shearings Holidays,Holiday,Holiday,200,1500,400
+Fred. Olsen Cruise Lines,Holiday,Holiday,200,1500,400
+Cottages.com,Holiday,Holiday,200,1500,400
+Forest Holidays,Holiday,Holiday,200,1500,400
+Parkdean Resorts,Holiday,Holiday,200,1500,400
+British Gas,Utilities,Bills,30,200,110
+E.ON UK,Utilities,Bills,30,200,110
+Scottish Power,Utilities,Bills,30,200,110
+SSE (Scottish and Southern Energy),Utilities,Bills,30,200,110
+EDF Energy,Utilities,Bills,30,200,110
+npower,Utilities,Bills,30,200,110
+OVO Energy,Utilities,Bills,30,200,110
+Bulb,Utilities,Bills,30,200,110
+Octopus Energy,Utilities,Bills,30,200,110
+Utilita,Utilities,Bills,30,200,110
+Green Network Energy,Utilities,Bills,30,200,110
+Good Energy,Utilities,Bills,30,200,110
+Bristol Energy,Utilities,Bills,30,200,110
+Flow Energy,Utilities,Bills,30,200,110
+So Energy,Utilities,Bills,30,200,110
+Tonik Energy,Utilities,Bills,30,200,110
+EE,Utilities,Mobile,10,60,20
+O2,Utilities,Mobile,10,60,20
+Lebara,Utilities,Mobile,10,60,20
+GiffGaff,Utilities,Mobile,10,60,20
+Three,Utilities,Mobile,10,60,20
+Virgin Mobile ,Utilities,Mobile,10,60,20
+Sky Mobile ,Utilities,Mobile,10,60,20
+BBC iPlayer,Utilities,TV,10,60,20
+ITV Hub,Utilities,TV,10,60,20
+All 4 (Channel 4),Utilities,TV,10,60,20
+My5 (Channel 5),Utilities,TV,10,60,20
+Netflix,Utilities,TV,10,60,20
+Amazon Prime Video,Utilities,TV,10,60,20
+Disney+,Utilities,TV,10,60,20
+Apple TV+,Utilities,TV,10,60,20
+BritBox,Utilities,TV,10,60,20
+NOW TV,Utilities,TV,10,60,20
+Hayu,Utilities,TV,10,60,20
+BFI Player,Utilities,TV,10,60,20
+Shudder,Utilities,TV,10,60,20
+MUBI,Utilities,TV,10,60,20
+CuriosityStream,Utilities,TV,10,60,20
+Rakuten TV,Utilities,TV,10,60,20
+Cheers,Dining Out,bars,6,70,25
+The Red Lion,Dining Out,bars,6,70,25
+Hemingway's,Dining Out,bars,6,70,25
+The Rusty Anchor,Dining Out,bars,6,70,25
+The Green Dragon,Dining Out,bars,6,70,25
+Moe's Tavern,Dining Out,bars,6,70,25
+The Blue Oyster,Dining Out,bars,6,70,25
+The Horseshoe Inn,Dining Out,bars,6,70,25
+The Fox and Hound,Dining Out,bars,6,70,25
+The Tipsy Teapot,Dining Out,bars,6,70,25
+The Whiskey Barrel,Dining Out,bars,6,70,25
+The Velvet Lounge,Dining Out,bars,6,70,25
+The Lucky Leprechaun,Dining Out,bars,6,70,25
+The Rusty Nail,Dining Out,bars,6,70,25
+The Jolly Roger,Dining Out,bars,6,70,25
+The Silver Dollar Saloon,Dining Out,bars,6,70,25
+The Roaring Twenties,Dining Out,bars,6,70,25
+The Midnight Moonshine,Dining Out,bars,6,70,25
+The Last Call,Dining Out,bars,6,70,25
+The Speakeasy,Dining Out,bars,6,70,25
+The Dive Bar,Dining Out,bars,6,70,25
+The Tiki Hut,Dining Out,bars,6,70,25
+The Sky Lounge,Dining Out,bars,6,70,25
+The Moonlit Martini,Dining Out,bars,6,70,25
+The Shamrock Pub,Dining Out,bars,6,70,25
+The Blind Tiger,Dining Out,bars,6,70,25
+The Electric Eel,Dining Out,bars,6,70,25
+The Cellar Door,Dining Out,bars,6,70,25
+The Sunset Strip,Dining Out,bars,6,70,25
+The Piano Bar,Dining Out,bars,6,70,25
+Starbucks,Dining Out,cafes,2.5,10,4
+Dunkin',Dining Out,cafes,2.5,10,4
+Cafe Latte,Dining Out,cafes,2.5,10,4
+Brewed Awakening,Dining Out,cafes,2.5,10,4
+Peet's Coffee,Dining Out,cafes,2.5,10,4
+Tim Hortons,Dining Out,cafes,2.5,10,4
+The Coffee Bean,Dining Out,cafes,2.5,10,4
+Gloria Jean's,Dining Out,cafes,2.5,10,4
+Caribou Coffee,Dining Out,cafes,2.5,10,4
+Second Cup,Dining Out,cafes,2.5,10,4
+Tully's Coffee,Dining Out,cafes,2.5,10,4
+Dutch Bros Coffee,Dining Out,cafes,2.5,10,4
+Biggby Coffee,Dining Out,cafes,2.5,10,4
+It's A Grind Coffee House,Dining Out,cafes,2.5,10,4
+PJ's Coffee,Dining Out,cafes,2.5,10,4
+Port City Java,Dining Out,cafes,2.5,10,4
+Scooter's Coffee,Dining Out,cafes,2.5,10,4
+Dunn Brothers Coffee,Dining Out,cafes,2.5,10,4
+Maui Wowi,Dining Out,cafes,2.5,10,4
+Saxbys Coffee,Dining Out,cafes,2.5,10,4
+Caffe Nero,Dining Out,cafes,2.5,10,4
+Lavazza Coffee,Dining Out,cafes,2.5,10,4
+Blue Bottle Coffee,Dining Out,cafes,2.5,10,4
+Philz Coffee,Dining Out,cafes,2.5,10,4
+Stumptown Coffee,Dining Out,cafes,2.5,10,4
+Intelligentsia Coffee,Dining Out,cafes,2.5,10,4
+La Colombe Coffee,Dining Out,cafes,2.5,10,4
+Cafe Grumpy,Dining Out,cafes,2.5,10,4
+Verve Coffee,Dining Out,cafes,2.5,10,4
+Counter Culture Coffee,Dining Out,cafes,2.5,10,4
+Burger King,Dining Out,fast_food,2,20,15
+McDonald's,Dining Out,fast_food,2,20,15
+KFC,Dining Out,fast_food,2,20,15
+Subway,Dining Out,fast_food,2,20,15
+Pizza Hut,Dining Out,fast_food,2,20,15
+Taco Bell,Dining Out,fast_food,2,20,15
+Wendy's,Dining Out,fast_food,2,20,15
+Dunkin' Donuts,Dining Out,fast_food,2,20,15
+Popeyes,Dining Out,fast_food,2,20,15
+Arby's,Dining Out,fast_food,2,20,15
+Dairy Queen,Dining Out,fast_food,2,20,15
+In-N-Out Burger,Dining Out,fast_food,2,20,15
+Chick-fil-A,Dining Out,fast_food,2,20,15
+Sonic Drive-In,Dining Out,fast_food,2,20,15
+Jack in the Box,Dining Out,fast_food,2,20,15
+White Castle,Dining Out,fast_food,2,20,15
+Five Guys,Dining Out,fast_food,2,20,15
+Panda Express,Dining Out,fast_food,2,20,15
+Jimmy John's,Dining Out,fast_food,2,20,15
+Carl's Jr.,Dining Out,fast_food,2,20,15
+Hardee's,Dining Out,fast_food,2,20,15
+Bojangles',Dining Out,fast_food,2,20,15
+Long John Silver's,Dining Out,fast_food,2,20,15
+Checkers/Rally's,Dining Out,fast_food,2,20,15
+A&W Restaurants,Dining Out,fast_food,2,20,15
+Del Taco,Dining Out,fast_food,2,20,15
+Raising Cane's,Dining Out,fast_food,2,20,15
+Whataburger,Dining Out,fast_food,2,20,15
+Jersey Mike's,Dining Out,fast_food,2,20,15
+Culver's,Dining Out,fast_food,2,20,15
+Italian Bistro,Dining Out,restaurants,10,60,30
+Sushi Bar,Dining Out,restaurants,10,60,30
+Steakhouse,Dining Out,restaurants,10,60,30
+Mexican Restaurant,Dining Out,restaurants,10,60,30
+Thai Cuisine,Dining Out,restaurants,10,60,30
+French Brasserie,Dining Out,restaurants,10,60,30
+Indian Curry House,Dining Out,restaurants,10,60,30
+Mediterranean Grill,Dining Out,restaurants,10,60,30
+Seafood Eatery,Dining Out,restaurants,10,60,30
+Greek Taverna,Dining Out,restaurants,10,60,30
+Tex-Mex Cantina,Dining Out,restaurants,10,60,30
+Fusion Kitchen,Dining Out,restaurants,10,60,30
+Gourmet Pizzeria,Dining Out,restaurants,10,60,30
+Vegetarian Delight,Dining Out,restaurants,10,60,30
+BBQ Smokehouse,Dining Out,restaurants,10,60,30
+Noodle House,Dining Out,restaurants,10,60,30
+Korean BBQ,Dining Out,restaurants,10,60,30
+Spanish Tapas,Dining Out,restaurants,10,60,30
+Chinese Buffet,Dining Out,restaurants,10,60,30
+Brazilian Churrascaria,Dining Out,restaurants,10,60,30
+Japanese Izakaya,Dining Out,restaurants,10,60,30
+Cajun Creole,Dining Out,restaurants,10,60,30
+Vietnamese Pho,Dining Out,restaurants,10,60,30
+Peruvian Cevicheria,Dining Out,restaurants,10,60,30
+Ethiopian Cafe,Dining Out,restaurants,10,60,30
+Irish Pub,Dining Out,restaurants,10,60,30
+Australian Outback,Dining Out,restaurants,10,60,30
+Swiss Chalet,Dining Out,restaurants,10,60,30
+Austrian Gasthaus,Dining Out,restaurants,10,60,30
+Belgian Bistro,Dining Out,restaurants,10,60,30

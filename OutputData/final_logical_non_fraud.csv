@@ -1,0 +1,1401 @@
+,Unnamed: 0,transaction_description,Category,Subcategory,Amount,origin,date,customer_id,type,month
+0,9157,BFI Player,Utilities,TV,19.66,non-fraud,2023-10-01,16400,spending,October
+1,1947,Gas Station - Fuel Purchase,Transportation,Fuel,64.22,non-fraud,2023-10-01,16400,spending,October
+2,18049,Hy-Vee,Groceries,Groceries,53.92,non-fraud,2023-10-01,16400,spending,October
+3,9761,Counter Culture Coffee,Dining Out,cafes,4.4,non-fraud,2023-10-01,16400,spending,October
+4,8998,Fred. Olsen Cruise Lines,Holiday,Holiday,343.53,non-fraud,2023-10-01,16400,spending,October
+5,4560,Direct Debit Mortg. TSB ,Housing,Housing,1230.96,non-fraud,2023-10-01,16400,spending,October
+6,3728,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,258.19,non-fraud,2023-10-01,16400,spending,October
+7,4923,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,124.03,non-fraud,2023-10-01,16400,spending,October
+8,3991,Loans company ,Loan Payment,Loan Payment,140.79,non-fraud,2023-10-01,16400,spending,October
+9,1604,Paycheck Deposit - Company Name,Income,Income,14243.649444520548,non-fraud,2023-10-01,16400,income,October
+10,13047,The Children's Society,Charity,Charity,11.47,non-fraud,2023-10-01,16400,spending,October
+11,10847,Bulb,Utilities,Bills,106.55,non-fraud,2023-10-02,16400,spending,October
+12,13031,Transfer to Vacation Fund,Transfers,Transfers,378.48,non-fraud,2023-10-02,16400,spending,October
+13,968,GiffGaff,Utilities,Mobile,16.23,non-fraud,2023-10-03,16400,spending,October
+14,1977,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,52.58,non-fraud,2023-10-03,16400,spending,October
+15,10019,Philz Coffee,Dining Out,cafes,4.84,non-fraud,2023-10-03,16400,spending,October
+16,4288,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,98.09,non-fraud,2023-10-04,16400,spending,October
+17,10109,Counseling,Healthcare,Healthcare,17.6,non-fraud,2023-10-05,16400,spending,October
+18,8343,Piggly Wiggly,Groceries,Groceries,30.99,non-fraud,2023-10-05,16400,spending,October
+19,2154,Stagecoach,Transportation,Transportation,18.52,non-fraud,2023-10-05,16400,spending,October
+20,8046,Boohoo - Trendy Fashion,Shopping,Shopping,140.33,non-fraud,2023-10-05,16400,spending,October
+21,13826,Transfer from Current to Savings,Transfers,Transfers,191.08,non-fraud,2023-10-06,16400,spending,October
+22,8212,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,8.19,non-fraud,2023-10-08,16400,spending,October
+23,6694,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,40.01,non-fraud,2023-10-08,16400,spending,October
+24,3665,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,32.77,non-fraud,2023-10-08,16400,spending,October
+25,8776,Transfer to Investment Account,Transfers,Transfers,663.51,non-fraud,2023-10-08,16400,spending,October
+26,3646,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,290.26,non-fraud,2023-10-11,16400,spending,October
+27,14746,Transfer to Emergency Fund,Transfers,Transfers,455.73,non-fraud,2023-10-12,16400,spending,October
+28,3745,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,76.7,non-fraud,2023-10-12,16400,spending,October
+29,24924,Hy-Vee,Groceries,Groceries,78.46,non-fraud,2023-10-13,16400,spending,October
+30,7589,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,76.04,non-fraud,2023-10-14,16400,spending,October
+31,4171,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,475.24,non-fraud,2023-10-14,16400,spending,October
+32,23550,Smart & Final,Groceries,Groceries,77.41,non-fraud,2023-10-15,16400,spending,October
+33,6719,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,46.54,non-fraud,2023-10-15,16400,spending,October
+34,11731,Spire Healthcare,Healthcare,Healthcare,77.63,non-fraud,2023-10-15,16400,spending,October
+35,5372,Transfer from Current to Savings,Transfers,Transfers,773.58,non-fraud,2023-10-15,16400,spending,October
+36,12980,Whole Foods Market - Grocery Shopping,Groceries,Groceries,52.17,non-fraud,2023-10-17,16400,spending,October
+37,484,Interest Earned - Savings Account,Interest,Interest,3.14,non-fraud,2023-10-17,16400,spending,October
+38,2115,Electronics Store - Gadget Purchase,Electronics,Electronics,300.22,non-fraud,2023-10-18,16400,spending,October
+39,9829,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,59.87,non-fraud,2023-10-20,16400,spending,October
+40,863,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,41.46,non-fraud,2023-10-20,16400,spending,October
+41,15310,House of Fraser,Home Improvement,Home Improvement,66.75,non-fraud,2023-10-20,16400,spending,October
+42,17394,Uniqlo - Everyday Wear,Shopping,Shopping,117.85,non-fraud,2023-10-20,16400,spending,October
+43,3366,Superdrug ,Personal care,Personal care,22.4,non-fraud,2023-10-20,16400,spending,October
+44,6323,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,154.78,non-fraud,2023-10-22,16400,spending,October
+45,19996,French Brasserie,Dining Out,restaurants,21.41,non-fraud,2023-10-22,16400,spending,October
+46,4356,Transfer from Savings to Current,Transfers,Transfers,395.99,non-fraud,2023-10-22,16400,spending,October
+47,38459,Albertsons,Groceries,Groceries,32.01,non-fraud,2023-10-22,16400,spending,October
+48,8187,Transfer from Savings to Current,Transfers,Transfers,101.81,non-fraud,2023-10-24,16400,spending,October
+49,30119,Co-op,Groceries,Groceries,45.57,non-fraud,2023-10-24,16400,spending,October
+50,7842,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,23.91,non-fraud,2023-10-24,16400,spending,October
+51,2305,Hy-Vee,Groceries,Groceries,34.12,non-fraud,2023-10-25,16400,spending,October
+52,32486,Boohoo - Trendy Fashion,Shopping,Shopping,216.63,non-fraud,2023-10-25,16400,spending,October
+53,19609,Furniture Village,Home Improvement,Home Improvement,343.77,non-fraud,2023-10-25,16400,spending,October
+54,8698,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,96.32,non-fraud,2023-10-26,16400,spending,October
+55,11603,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,114.66,non-fraud,2023-10-26,16400,spending,October
+56,15286,GPDQ,Healthcare,Healthcare,186.21,non-fraud,2023-10-27,16400,spending,October
+57,33833,Trader Joe's,Groceries,Groceries,43.96,non-fraud,2023-10-29,16400,spending,October
+58,1324,Transfer to Vacation Fund,Transfers,Transfers,258.42,non-fraud,2023-10-29,16400,spending,October
+59,732,Sallys,Personal care,Personal care,34.9,non-fraud,2023-10-29,16400,spending,October
+60,8059,Transfer from Savings to Current,Transfers,Transfers,251.99,non-fraud,2023-10-29,16400,spending,October
+61,16469,Australian Outback,Dining Out,restaurants,10.38,non-fraud,2023-10-29,16400,spending,October
+62,2690,Paintball ,Entertainment,Entertainment,31.76,non-fraud,2023-10-30,16400,spending,October
+63,3298,First Bus,Transportation,Transportation,17.01,non-fraud,2023-10-30,16400,spending,October
+64,3071,DesignMyNight ,Entertainment,Entertainment,46.91,non-fraud,2023-10-30,16400,spending,October
+65,1012,Vue,Entertainment,Entertainment,24.77,non-fraud,2023-10-31,16400,spending,October
+66,8003,Online Shopping - Amazon,Online Shopping,Online Shopping,98.6,non-fraud,2023-10-31,16400,spending,October
+67,15812,Meijer,Groceries,Groceries,20.83,non-fraud,2023-10-31,16400,spending,October
+68,192,Online Shopping - Amazon,Online Shopping,Online Shopping,58.31,non-fraud,2023-10-31,16400,spending,October
+69,4560,Direct Debit Mortg. TSB ,Housing,Housing,1230.96,non-fraud,2023-11-01,16400,spending,November
+70,9157,BFI Player,Utilities,TV,19.66,non-fraud,2023-11-01,16400,spending,November
+71,11538,Transfer from Current to Savings,Transfers,Transfers,708.25,non-fraud,2023-11-01,16400,spending,November
+72,14481,Boohoo - Trendy Fashion,Shopping,Shopping,207.81,non-fraud,2023-11-01,16400,spending,November
+73,1349,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,87.31,non-fraud,2023-11-01,16400,spending,November
+74,1604,Paycheck Deposit - Company Name,Income,Income,14243.649444520548,non-fraud,2023-11-01,16400,income,November
+75,10847,Bulb,Utilities,Bills,106.55,non-fraud,2023-11-02,16400,spending,November
+76,968,GiffGaff,Utilities,Mobile,16.23,non-fraud,2023-11-03,16400,spending,November
+77,6052,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,79.93,non-fraud,2023-11-03,16400,spending,November
+78,5604,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,75.99,non-fraud,2023-11-03,16400,spending,November
+79,9658,Transfer to Emergency Fund,Transfers,Transfers,690.57,non-fraud,2023-11-04,16400,spending,November
+80,10827,The Range,Home Improvement,Home Improvement,272.59,non-fraud,2023-11-04,16400,spending,November
+81,23123,Morrisons,Groceries,Groceries,76.16,non-fraud,2023-11-05,16400,spending,November
+82,4952,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,33.02,non-fraud,2023-11-06,16400,spending,November
+83,78,Online Shopping - Electronics,Online Shopping,Online Shopping,58.45,non-fraud,2023-11-07,16400,spending,November
+84,1919,Everyman cinema ,Entertainment,Entertainment,16.89,non-fraud,2023-11-07,16400,spending,November
+85,1382,Savings Account Interest - October,Interest,Interest,12.2,non-fraud,2023-11-07,16400,spending,November
+86,14727,Smith's Food and Drug,Groceries,Groceries,32.91,non-fraud,2023-11-07,16400,spending,November
+87,3135,Zara - Affordable Fashion,Online Shopping,Online Shopping,266.06,non-fraud,2023-11-08,16400,spending,November
+88,2464,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,90.54,non-fraud,2023-11-08,16400,spending,November
+89,24821,Publix Super Markets,Groceries,Groceries,40.25,non-fraud,2023-11-08,16400,spending,November
+90,8413,Forever 21 - Activewear,Online Shopping,Online Shopping,63.4,non-fraud,2023-11-09,16400,spending,November
+91,11963,Save Mart Supermarkets,Groceries,Groceries,93.91,non-fraud,2023-11-09,16400,spending,November
+92,17060,Spire Healthcare,Healthcare,Healthcare,134.59,non-fraud,2023-11-09,16400,spending,November
+93,15468,Moe's Tavern,Dining Out,bars,21.95,non-fraud,2023-11-09,16400,spending,November
+94,6625,Marks & Spencer,Home Improvement,Home Improvement,532.16,non-fraud,2023-11-10,16400,spending,November
+95,9141,Grocery Shopping - Mega Mart,Groceries,Groceries,30.97,non-fraud,2023-11-10,16400,spending,November
+96,4516,Sanctuary spa,Personal care,Personal care,14.53,non-fraud,2023-11-11,16400,spending,November
+97,33867,Trader Joe's,Groceries,Groceries,85.71,non-fraud,2023-11-11,16400,spending,November
+98,11291,Transfer to Vacation Fund,Transfers,Transfers,117.45,non-fraud,2023-11-11,16400,spending,November
+99,9817,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,60.8,non-fraud,2023-11-11,16400,spending,November
+100,736,Credit Card Payment - American Express **** 6789,Credit Card Payment,Credit Card Payment,535.76,non-fraud,2023-11-11,16400,spending,November
+101,2878,Transfer to Investment Account,Transfers,Transfers,577.12,non-fraud,2023-11-11,16400,spending,November
+102,2276,Everyman cinema ,Entertainment,Entertainment,15.94,non-fraud,2023-11-11,16400,spending,November
+103,6838,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,75.94,non-fraud,2023-11-12,16400,spending,November
+104,3207,Waterstones ,Personal care,Personal care,33.33,non-fraud,2023-11-12,16400,spending,November
+105,10881,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,36.41,non-fraud,2023-11-12,16400,spending,November
+106,15898,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,77.79,non-fraud,2023-11-13,16400,spending,November
+107,12073,Arby's,Dining Out,fast_food,14.29,non-fraud,2023-11-13,16400,spending,November
+108,9822,Transfer to Vacation Fund,Transfers,Transfers,300.34,non-fraud,2023-11-14,16400,spending,November
+109,331,Boots ,Personal care,Personal care,26.0,non-fraud,2023-11-14,16400,spending,November
+110,1560,DesignMyNight ,Entertainment,Entertainment,41.34,non-fraud,2023-11-14,16400,spending,November
+111,16113,Panda Express,Dining Out,fast_food,17.2,non-fraud,2023-11-15,16400,spending,November
+112,1814,Transfer to Vacation Fund,Transfers,Transfers,1295.8,non-fraud,2023-11-15,16400,spending,November
+113,25870,Kmart Super Centers,Groceries,Groceries,91.39,non-fraud,2023-11-15,16400,spending,November
+114,1313,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,78.03,non-fraud,2023-11-15,16400,spending,November
+115,8854,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,49.59,non-fraud,2023-11-16,16400,spending,November
+116,7837,Transfer from Current to Savings,Transfers,Transfers,75.23,non-fraud,2023-11-16,16400,spending,November
+117,21515,Food City,Groceries,Groceries,63.01,non-fraud,2023-11-16,16400,spending,November
+118,11094,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,16.38,non-fraud,2023-11-17,16400,spending,November
+119,12485,Neiman Marcus - Designer Shopping,Shopping,Luxury shopping,570.17,non-fraud,2023-11-17,16400,spending,November
+120,249,Transfer from Current to Savings,Transfers,Transfers,111.05,non-fraud,2023-11-17,16400,spending,November
+121,18221,Pathology/Diagnostics,Healthcare,Healthcare,109.59,non-fraud,2023-11-17,16400,spending,November
+122,5352,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,262.32,non-fraud,2023-11-17,16400,spending,November
+123,5775,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,63.68,non-fraud,2023-11-17,16400,spending,November
+124,244,Interest Earned - Savings Account,Interest,Interest,9.11,non-fraud,2023-11-17,16400,spending,November
+125,20313,The Shamrock Pub,Dining Out,bars,34.25,non-fraud,2023-11-17,16400,spending,November
+126,16961,Macmillan Cancer Support,Charity,Charity,18.62,non-fraud,2023-11-17,16400,spending,November
+127,27925,Woolworths,Groceries,Groceries,39.16,non-fraud,2023-11-18,16400,spending,November
+128,6248,Online Shopping - Amazon,Online Shopping,Online Shopping,209.52,non-fraud,2023-11-19,16400,spending,November
+129,5807,Gas Station - Fuel Purchase,Transportation,Fuel,60.67,non-fraud,2023-11-19,16400,spending,November
+130,15428,Transfer to Emergency Fund,Transfers,Transfers,233.7,non-fraud,2023-11-21,16400,spending,November
+131,25025,Topshop - Affordable Style,Shopping,Shopping,38.53,non-fraud,2023-11-21,16400,spending,November
+132,10403,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,100.39,non-fraud,2023-11-21,16400,spending,November
+133,6953,Brewed Awakening,Dining Out,cafes,3.21,non-fraud,2023-11-22,16400,spending,November
+134,6788,Credit Card Payment - Discover **** 9012,Credit Card Payment,Credit Card Payment,152.03,non-fraud,2023-11-23,16400,spending,November
+135,3566,Car Loan,Loan Payment,Loan Payment,145.11,non-fraud,2023-11-24,16400,spending,November
+136,22305,Zara - Kids' Clothing,Shopping,Shopping,43.13,non-fraud,2023-11-25,16400,spending,November
+137,3457,Stagecoach,Transportation,Transportation,104.71,non-fraud,2023-11-27,16400,spending,November
+138,5098,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,44.85,non-fraud,2023-11-27,16400,spending,November
+139,3034,Trainline ,Transportation,Transportation,11.69,non-fraud,2023-11-28,16400,spending,November
+140,1398,EE,Utilities,Mobile,31.41,non-fraud,2023-10-01,17216,spending,October
+141,16141,Medica,Healthcare,Healthcare,51.41,non-fraud,2023-10-01,17216,spending,October
+142,13457,Transfer to Investment Account,Transfers,Transfers,336.34,non-fraud,2023-10-01,17216,spending,October
+143,5072,Nationwide BuildSoc Mortage ,Housing,Housing,1195.59,non-fraud,2023-10-01,17216,spending,October
+144,6094,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,48.5,non-fraud,2023-10-01,17216,spending,October
+145,5883,Paycheck Deposit - X Employer,Income,Income,23214.46302777965,non-fraud,2023-10-01,17216,income,October
+146,1705,Body Shop,Personal care,Personal care,22.41,non-fraud,2023-10-01,17216,spending,October
+147,967,Interest Earned - Savings Account,Interest,Interest,8.61,non-fraud,2023-10-01,17216,spending,October
+148,10083,Tonik Energy,Utilities,Bills,118.49,non-fraud,2023-10-02,17216,spending,October
+149,38111,Smith's Food and Drug,Groceries,Groceries,28.04,non-fraud,2023-10-02,17216,spending,October
+150,16205,Dunkin',Dining Out,cafes,2.65,non-fraud,2023-10-02,17216,spending,October
+151,750,BFI Player,Utilities,TV,26.0,non-fraud,2023-10-03,17216,spending,October
+152,5269,Good Energy,Utilities,Bills,176.99,non-fraud,2023-10-04,17216,spending,October
+153,21546,Grocery Shopping - Supermart,Groceries,Groceries,95.41,non-fraud,2023-10-04,17216,spending,October
+154,1482,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,57.36,non-fraud,2023-10-05,17216,spending,October
+155,8975,Second Cup,Dining Out,cafes,3.67,non-fraud,2023-10-05,17216,spending,October
+156,7160,Transfer to Investment Account,Transfers,Transfers,537.8,non-fraud,2023-10-05,17216,spending,October
+157,2983,Fuel Purchase - Gas Station,Transportation,Fuel,122.66,non-fraud,2023-10-05,17216,spending,October
+158,26700,Bottega Veneta - Luxury Fashion,Shopping,Luxury shopping,1641.1,non-fraud,2023-10-07,17216,spending,October
+159,10781,Transfer from Savings to Current,Transfers,Transfers,690.37,non-fraud,2023-10-07,17216,spending,October
+160,3753,Grocery Shopping - Mega Mart,Groceries,Groceries,36.2,non-fraud,2023-10-07,17216,spending,October
+161,101,Art Gallery and Museum ,Entertainment,Entertainment,23.29,non-fraud,2023-10-07,17216,spending,October
+162,14818,Transfer to Emergency Fund,Transfers,Transfers,752.71,non-fraud,2023-10-08,17216,spending,October
+163,4213,Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,136.47,non-fraud,2023-10-09,17216,spending,October
+164,17948,Burberry - Fashion Purchase,Shopping,Luxury shopping,1777.1,non-fraud,2023-10-09,17216,spending,October
+165,35080,Festival Foods,Groceries,Groceries,45.45,non-fraud,2023-10-10,17216,spending,October
+166,3687,Sanctuary spa,Personal care,Personal care,15.18,non-fraud,2023-10-10,17216,spending,October
+167,799,Monthly Service Fee - Account Maintenance,Bank Fees,Bank Fees,5.19,non-fraud,2023-10-10,17216,spending,October
+168,6769,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,127.43,non-fraud,2023-10-10,17216,spending,October
+169,4106,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,55.52,non-fraud,2023-10-10,17216,spending,October
+170,8969,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,134.36,non-fraud,2023-10-10,17216,spending,October
+171,19072,Counseling,Healthcare,Healthcare,78.69,non-fraud,2023-10-11,17216,spending,October
+172,3107,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,32.96,non-fraud,2023-10-11,17216,spending,October
+173,870,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,6.81,non-fraud,2023-10-11,17216,spending,October
+174,7054,Forever 21 - Activewear,Online Shopping,Online Shopping,253.4,non-fraud,2023-10-11,17216,spending,October
+175,711,Online Shopping - Tech Accessories,Online Shopping,Online Shopping,51.26,non-fraud,2023-10-11,17216,spending,October
+176,7820,Transfer to Investment Account,Transfers,Transfers,53.65,non-fraud,2023-10-12,17216,spending,October
+177,514,Interest Earned - Savings Account,Interest,Interest,3.54,non-fraud,2023-10-13,17216,spending,October
+178,4026,Homebase,Home Improvement,Home Improvement,1868.88,non-fraud,2023-10-14,17216,spending,October
+179,32165,Costco Wholesale,Groceries,Groceries,24.23,non-fraud,2023-10-14,17216,spending,October
+180,4847,Uniqlo - Affordable Denim,Shopping,Shopping,130.02,non-fraud,2023-10-14,17216,spending,October
+181,2165,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,115.53,non-fraud,2023-10-16,17216,spending,October
+182,7425,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,155.25,non-fraud,2023-10-16,17216,spending,October
+183,3080,Transfer from Current to Savings,Transfers,Transfers,565.89,non-fraud,2023-10-18,17216,spending,October
+184,10116,Dunkin',Dining Out,cafes,4.36,non-fraud,2023-10-19,17216,spending,October
+185,6218,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,29.2,non-fraud,2023-10-20,17216,spending,October
+186,21105,Publix,Groceries,Groceries,96.08,non-fraud,2023-10-20,17216,spending,October
+187,12630,Arby's,Dining Out,fast_food,11.96,non-fraud,2023-10-20,17216,spending,October
+188,81,Art Gallery and Museum ,Entertainment,Entertainment,54.5,non-fraud,2023-10-20,17216,spending,October
+189,1214,SAAS,Loan Payment,Loan Payment,121.54,non-fraud,2023-10-20,17216,spending,October
+190,4377,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,554.26,non-fraud,2023-10-20,17216,spending,October
+191,4213,Gelson's Markets,Groceries,Groceries,73.09,non-fraud,2023-10-20,17216,spending,October
+192,9535,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,66.79,non-fraud,2023-10-21,17216,spending,October
+193,6812,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,179.51,non-fraud,2023-10-22,17216,spending,October
+194,19073,Harrods - Luxury Shopping,Shopping,Luxury shopping,1048.74,non-fraud,2023-10-23,17216,spending,October
+195,4020,Cinemacity,Entertainment,Entertainment,42.32,non-fraud,2023-10-23,17216,spending,October
+196,15105,Transfer to Vacation Fund,Transfers,Transfers,588.37,non-fraud,2023-10-24,17216,spending,October
+197,5480,Citylink,Transportation,Transportation,15.4,non-fraud,2023-10-24,17216,spending,October
+198,13128,Jet2Holidays,Holiday,Holiday,424.01,non-fraud,2023-10-24,17216,spending,October
+199,2671,Transfer to Investment Account,Transfers,Transfers,604.02,non-fraud,2023-10-25,17216,spending,October
+200,2402,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,289.04,non-fraud,2023-10-25,17216,spending,October
+201,28436,HEB Grocery,Groceries,Groceries,80.75,non-fraud,2023-10-26,17216,spending,October
+202,11431,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,20.32,non-fraud,2023-10-26,17216,spending,October
+203,10548,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,198.6,non-fraud,2023-10-27,17216,spending,October
+204,10008,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,74.02,non-fraud,2023-10-27,17216,spending,October
+205,22595,Whole Foods Market - Grocery Shopping,Groceries,Groceries,54.5,non-fraud,2023-10-27,17216,spending,October
+206,3901,Gas Station - Fuel Purchase,Transportation,Fuel,55.43,non-fraud,2023-10-27,17216,spending,October
+207,37106,Meijer,Groceries,Groceries,51.5,non-fraud,2023-10-28,17216,spending,October
+208,6119,Transfer to Investment Account,Transfers,Transfers,329.7,non-fraud,2023-10-29,17216,spending,October
+209,9243,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,26.38,non-fraud,2023-10-29,17216,spending,October
+210,5072,Nationwide BuildSoc Mortage ,Housing,Housing,1195.59,non-fraud,2023-11-01,17216,spending,November
+211,16521,IGA,Groceries,Groceries,34.54,non-fraud,2023-11-01,17216,spending,November
+212,5883,Paycheck Deposit - X Employer,Income,Income,23214.46302777965,non-fraud,2023-11-01,17216,income,November
+213,9962,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,62.29,non-fraud,2023-11-01,17216,spending,November
+214,1398,EE,Utilities,Mobile,31.41,non-fraud,2023-11-01,17216,spending,November
+215,1624,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,141.23,non-fraud,2023-11-01,17216,spending,November
+216,2106,Ebay ,Online Shopping,Online Shopping,114.41,non-fraud,2023-11-02,17216,spending,November
+217,3300,Vue,Entertainment,Entertainment,38.79,non-fraud,2023-11-02,17216,spending,November
+218,10083,Tonik Energy,Utilities,Bills,118.49,non-fraud,2023-11-02,17216,spending,November
+219,4428,Save Mart Supermarkets,Groceries,Groceries,154.72,non-fraud,2023-11-03,17216,spending,November
+220,8053,Chopard - Fine Jewelry Purchase,Shopping,Luxury shopping,757.8,non-fraud,2023-11-03,17216,spending,November
+221,750,BFI Player,Utilities,TV,26.0,non-fraud,2023-11-03,17216,spending,November
+222,9706,Transfer to Investment Account,Transfers,Transfers,84.74,non-fraud,2023-11-04,17216,spending,November
+223,6495,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,121.63,non-fraud,2023-11-04,17216,spending,November
+224,861,Gas Station - Fuel Purchase,Transportation,Fuel,74.47,non-fraud,2023-11-04,17216,spending,November
+225,5269,Good Energy,Utilities,Bills,176.99,non-fraud,2023-11-04,17216,spending,November
+226,716,National express,Transportation,Transportation,51.95,non-fraud,2023-11-04,17216,spending,November
+227,1866,Transfer from Savings to Current,Transfers,Transfers,504.29,non-fraud,2023-11-04,17216,spending,November
+228,6472,Fuel Purchase - Gas Station,Transportation,Fuel,27.38,non-fraud,2023-11-05,17216,spending,November
+229,15124,Transfer to Investment Account,Transfers,Transfers,674.78,non-fraud,2023-11-05,17216,spending,November
+230,6659,Zara - Affordable Fashion,Online Shopping,Online Shopping,43.62,non-fraud,2023-11-05,17216,spending,November
+231,9960,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,56.97,non-fraud,2023-11-06,17216,spending,November
+232,8511,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,32.51,non-fraud,2023-11-06,17216,spending,November
+233,8261,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,115.43,non-fraud,2023-11-06,17216,spending,November
+234,25428,Waitrose,Groceries,Groceries,75.79,non-fraud,2023-11-08,17216,spending,November
+235,8636,Target Grocery,Groceries,Groceries,45.54,non-fraud,2023-11-09,17216,spending,November
+236,2232,Boots ,Personal care,Personal care,22.35,non-fraud,2023-11-09,17216,spending,November
+237,29910,Acme Markets,Groceries,Groceries,36.63,non-fraud,2023-11-09,17216,spending,November
+238,2573,Cinemacity,Entertainment,Entertainment,26.17,non-fraud,2023-11-09,17216,spending,November
+239,3423,Givenchy - Designer Apparel,Shopping,Luxury shopping,717.57,non-fraud,2023-11-10,17216,spending,November
+240,5755,Bojangles',Dining Out,fast_food,16.15,non-fraud,2023-11-10,17216,spending,November
+241,3359,Online Shopping - Tech Accessories,Online Shopping,Online Shopping,117.82,non-fraud,2023-11-10,17216,spending,November
+242,3640,New Balance - Affordable Sportswear,Shopping,Shopping,87.18,non-fraud,2023-11-11,17216,spending,November
+243,2862,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,104.67,non-fraud,2023-11-12,17216,spending,November
+244,7098,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,71.62,non-fraud,2023-11-14,17216,spending,November
+245,1562,Transfer from Current to Savings,Transfers,Transfers,390.01,non-fraud,2023-11-14,17216,spending,November
+246,8148,Transfer to Vacation Fund,Transfers,Transfers,195.15,non-fraud,2023-11-14,17216,spending,November
+247,29821,Tesco,Groceries,Groceries,88.75,non-fraud,2023-11-14,17216,spending,November
+248,10823,Transfer to Savings Account - Rainy Day Fund,Transfers,Transfers,98.31,non-fraud,2023-11-15,17216,spending,November
+249,365,Savings Account Interest - October,Interest,Interest,3.7,non-fraud,2023-11-15,17216,spending,November
+250,27066,Bvlgari - Luxury Accessories,Shopping,Luxury shopping,1947.15,non-fraud,2023-11-15,17216,spending,November
+251,11143,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,21.42,non-fraud,2023-11-15,17216,spending,November
+252,14071,Caribou Coffee,Dining Out,cafes,3.26,non-fraud,2023-11-15,17216,spending,November
+253,13997,Transfer to Emergency Fund,Transfers,Transfers,808.78,non-fraud,2023-11-16,17216,spending,November
+254,5277,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,27.65,non-fraud,2023-11-16,17216,spending,November
+255,5802,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,242.63,non-fraud,2023-11-16,17216,spending,November
+256,4261,Online Shopping - Amazon,Online Shopping,Online Shopping,94.43,non-fraud,2023-11-17,17216,spending,November
+257,9756,NHS,Healthcare,Healthcare,123.18,non-fraud,2023-11-18,17216,spending,November
+258,1821,Japanese Izakaya,Dining Out,restaurants,20.97,non-fraud,2023-11-19,17216,spending,November
+259,1443,Lease purchase ,Loan Payment,Loan Payment,112.61,non-fraud,2023-11-20,17216,spending,November
+260,5676,Sonic Drive-In,Dining Out,fast_food,14.99,non-fraud,2023-11-20,17216,spending,November
+261,18855,Grocery Store - Household Supplies,Groceries,Groceries,32.59,non-fraud,2023-11-22,17216,spending,November
+262,23113,Safeway,Groceries,Groceries,44.66,non-fraud,2023-11-22,17216,spending,November
+263,8400,Harveys,Home Improvement,Home Improvement,471.74,non-fraud,2023-11-22,17216,spending,November
+264,7694,Transfer from Savings to Current,Transfers,Transfers,458.36,non-fraud,2023-11-22,17216,spending,November
+265,2346,Paintball ,Entertainment,Entertainment,44.72,non-fraud,2023-11-23,17216,spending,November
+266,7598,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,78.58,non-fraud,2023-11-23,17216,spending,November
+267,3776,Revolut stocks,Investment,Investment,107.03,non-fraud,2023-11-23,17216,spending,November
+268,493,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,95.11,non-fraud,2023-11-23,17216,spending,November
+269,2550,Boots ,Personal care,Personal care,14.71,non-fraud,2023-11-24,17216,spending,November
+270,490,Cinemacity,Entertainment,Entertainment,14.95,non-fraud,2023-11-24,17216,spending,November
+271,8374,Practice Plus Group,Healthcare,Healthcare,36.54,non-fraud,2023-11-25,17216,spending,November
+272,637,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,40.87,non-fraud,2023-11-26,17216,spending,November
+273,8165,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,41.05,non-fraud,2023-11-26,17216,spending,November
+274,14702,Transfer to Vacation Fund,Transfers,Transfers,330.29,non-fraud,2023-11-27,17216,spending,November
+275,420,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,51.36,non-fraud,2023-11-27,17216,spending,November
+276,13436,Wickes,Home Improvement,Home Improvement,713.19,non-fraud,2023-11-28,17216,spending,November
+277,14348,The Jolly Roger,Dining Out,bars,27.45,non-fraud,2023-11-29,17216,spending,November
+278,227,Body Shop,Personal care,Personal care,14.39,non-fraud,2023-11-29,17216,spending,November
+279,960,Savings Account Interest - October,Interest,Interest,7.84,non-fraud,2023-11-30,17216,spending,November
+280,34757,Safeway,Groceries,Groceries,71.06,non-fraud,2023-11-30,17216,spending,November
+281,10065,Thomas Cook,Holiday,Holiday,336.4,non-fraud,2023-11-30,17216,spending,November
+282,2778,SSE (Scottish and Southern Energy),Utilities,Bills,129.16,non-fraud,2023-10-01,16898,spending,October
+283,2357,Transfer from Savings to Current,Transfers,Transfers,534.27,non-fraud,2023-10-01,16898,spending,October
+284,8770,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,278.31,non-fraud,2023-10-01,16898,spending,October
+285,2313,Paycheck Deposit - ABC Corp.,Income,Income,16332.339155997317,non-fraud,2023-10-01,16898,income,October
+286,1043,Monthly rent ,Housing,Housing,1081.4,non-fraud,2023-10-01,16898,spending,October
+287,9504,Whole Foods Market - Grocery Shopping,Groceries,Groceries,102.97,non-fraud,2023-10-01,16898,spending,October
+288,12293,Whole Foods Market,Groceries,Groceries,53.65,non-fraud,2023-10-02,16898,spending,October
+289,2495,BritBox,Utilities,TV,30.79,non-fraud,2023-10-02,16898,spending,October
+290,10339,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,77.45,non-fraud,2023-10-02,16898,spending,October
+291,6664,Steakhouse,Dining Out,restaurants,34.12,non-fraud,2023-10-02,16898,spending,October
+292,9007,The Sunset Strip,Dining Out,bars,47.5,non-fraud,2023-10-02,16898,spending,October
+293,3273,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,13.25,non-fraud,2023-10-03,16898,spending,October
+294,8993,British Gas,Utilities,Bills,90.5,non-fraud,2023-10-03,16898,spending,October
+295,7960,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,62.0,non-fraud,2023-10-03,16898,spending,October
+296,7362,CeX,Online Shopping,Online Shopping,328.43,non-fraud,2023-10-04,16898,spending,October
+297,9164,Bulb,Utilities,Bills,142.19,non-fraud,2023-10-04,16898,spending,October
+298,21027,Price Chopper,Groceries,Groceries,49.02,non-fraud,2023-10-05,16898,spending,October
+299,12600,Burberry - Fashion Purchase,Shopping,Luxury shopping,1143.62,non-fraud,2023-10-07,16898,spending,October
+300,814,Interest Earned - Savings Account,Interest,Interest,10.62,non-fraud,2023-10-07,16898,spending,October
+301,1071,Aliexpress,Online Shopping,Online Shopping,273.66,non-fraud,2023-10-07,16898,spending,October
+302,33443,JCPenney - Discount Fashion,Shopping,Shopping,76.08,non-fraud,2023-10-08,16898,spending,October
+303,4037,Transfer to Emergency Fund,Transfers,Transfers,380.6,non-fraud,2023-10-09,16898,spending,October
+304,2428,Food 4 Less,Groceries,Groceries,15.07,non-fraud,2023-10-09,16898,spending,October
+305,9335,Transfer to Investment Account,Transfers,Transfers,1198.81,non-fraud,2023-10-09,16898,spending,October
+306,1004,Transfer from Current to Savings,Transfers,Transfers,381.76,non-fraud,2023-10-09,16898,spending,October
+307,20749,Grocery Shopping - Neighborhood Store,Groceries,Groceries,57.18,non-fraud,2023-10-09,16898,spending,October
+308,11090,Ebay ,Online Shopping,Online Shopping,327.79,non-fraud,2023-10-11,16898,spending,October
+309,13432,Transfer from Current to Savings,Transfers,Transfers,508.71,non-fraud,2023-10-11,16898,spending,October
+310,8124,Dunkin' Donuts,Dining Out,fast_food,18.64,non-fraud,2023-10-12,16898,spending,October
+311,15721,Ethiopian Cafe,Dining Out,restaurants,19.6,non-fraud,2023-10-12,16898,spending,October
+312,5913,Fuel Purchase - Gas Station,Transportation,Fuel,41.71,non-fraud,2023-10-12,16898,spending,October
+313,1156,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,20.67,non-fraud,2023-10-12,16898,spending,October
+314,2731,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,405.47,non-fraud,2023-10-13,16898,spending,October
+315,21048,IGA,Groceries,Groceries,98.17,non-fraud,2023-10-13,16898,spending,October
+316,6659,Palantir,Healthcare,Healthcare,9.73,non-fraud,2023-10-14,16898,spending,October
+317,14046,Transfer to Investment Account,Transfers,Transfers,559.39,non-fraud,2023-10-17,16898,spending,October
+318,9975,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,68.2,non-fraud,2023-10-17,16898,spending,October
+319,1692,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,83.89,non-fraud,2023-10-17,16898,spending,October
+320,1704,ZoomDoc,Healthcare,Healthcare,36.54,non-fraud,2023-10-17,16898,spending,October
+321,9889,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,105.89,non-fraud,2023-10-19,16898,spending,October
+322,2802,DesignMyNight ,Entertainment,Entertainment,53.16,non-fraud,2023-10-19,16898,spending,October
+323,1541,Interactive Brokers ,Investment,Investment,221.05,non-fraud,2023-10-22,16898,spending,October
+324,3289,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,66.9,non-fraud,2023-10-22,16898,spending,October
+325,688,Body Shop,Personal care,Personal care,24.14,non-fraud,2023-10-23,16898,spending,October
+326,3023,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,779.94,non-fraud,2023-10-23,16898,spending,October
+327,3245,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,165.18,non-fraud,2023-10-24,16898,spending,October
+328,3239,Grocery Store - Weekly Shopping,Groceries,Groceries,86.71,non-fraud,2023-10-24,16898,spending,October
+329,8537,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,30.31,non-fraud,2023-10-25,16898,spending,October
+330,10063,Transfer from Savings to Current,Transfers,Transfers,38.09,non-fraud,2023-10-25,16898,spending,October
+331,2111,DesignMyNight ,Entertainment,Entertainment,29.79,non-fraud,2023-10-25,16898,spending,October
+332,3004,Stagecoach,Transportation,Transportation,95.9,non-fraud,2023-10-26,16898,spending,October
+333,579,Magnet Kitchens,Home Improvement,Home Improvement,616.47,non-fraud,2023-10-26,16898,spending,October
+334,4947,Body Shop,Personal care,Personal care,25.27,non-fraud,2023-10-26,16898,spending,October
+335,8171,CeX,Online Shopping,Online Shopping,121.34,non-fraud,2023-10-26,16898,spending,October
+336,16144,Chopard - Fine Jewelry Purchase,Shopping,Luxury shopping,913.5,non-fraud,2023-10-28,16898,spending,October
+337,12500,The Salvation Army,Charity,Charity,27.05,non-fraud,2023-10-28,16898,spending,October
+338,416,Art Gallery and Museum ,Entertainment,Entertainment,70.04,non-fraud,2023-10-29,16898,spending,October
+339,234,Art Gallery and Museum ,Entertainment,Entertainment,30.48,non-fraud,2023-10-29,16898,spending,October
+340,7411,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,14.25,non-fraud,2023-10-29,16898,spending,October
+341,10257,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,7.14,non-fraud,2023-10-29,16898,spending,October
+342,20504,Woolworths,Groceries,Groceries,35.56,non-fraud,2023-10-30,16898,spending,October
+343,5588,Blue Bottle Coffee,Dining Out,cafes,4.2,non-fraud,2023-10-30,16898,spending,October
+344,405,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,185.62,non-fraud,2023-10-30,16898,spending,October
+345,370,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,5.46,non-fraud,2023-10-30,16898,spending,October
+346,20294,Asda,Groceries,Groceries,54.36,non-fraud,2023-10-31,16898,spending,October
+347,7271,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,246.5,non-fraud,2023-10-31,16898,spending,October
+348,1043,Monthly rent ,Housing,Housing,1081.4,non-fraud,2023-11-01,16898,spending,November
+349,14829,Shaw's,Groceries,Groceries,83.27,non-fraud,2023-11-01,16898,spending,November
+350,2778,SSE (Scottish and Southern Energy),Utilities,Bills,129.16,non-fraud,2023-11-01,16898,spending,November
+351,2313,Paycheck Deposit - ABC Corp.,Income,Income,16332.339155997317,non-fraud,2023-11-01,16898,income,November
+352,10370,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,47.92,non-fraud,2023-11-01,16898,spending,November
+353,3455,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,447.94,non-fraud,2023-11-01,16898,spending,November
+354,2495,BritBox,Utilities,TV,30.79,non-fraud,2023-11-02,16898,spending,November
+355,2227,ZoomDoc,Healthcare,Healthcare,57.57,non-fraud,2023-11-02,16898,spending,November
+356,1396,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,394.04,non-fraud,2023-11-03,16898,spending,November
+357,1349,Savings Account Interest - October,Interest,Interest,9.28,non-fraud,2023-11-03,16898,spending,November
+358,3496,Art Gallery and Museum ,Entertainment,Entertainment,16.07,non-fraud,2023-11-03,16898,spending,November
+359,14198,Transfer from Current to Savings,Transfers,Transfers,260.46,non-fraud,2023-11-03,16898,spending,November
+360,8993,British Gas,Utilities,Bills,90.5,non-fraud,2023-11-03,16898,spending,November
+361,5264,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,66.64,non-fraud,2023-11-03,16898,spending,November
+362,1345,Savings Account Interest - October,Interest,Interest,10.11,non-fraud,2023-11-04,16898,spending,November
+363,15169,Transfer to Emergency Fund,Transfers,Transfers,27.01,non-fraud,2023-11-04,16898,spending,November
+364,15443,Transfer to Investment Account,Transfers,Transfers,269.86,non-fraud,2023-11-04,16898,spending,November
+365,9164,Bulb,Utilities,Bills,142.19,non-fraud,2023-11-04,16898,spending,November
+366,870,Manning Books ,Personal care,Personal care,16.37,non-fraud,2023-11-04,16898,spending,November
+367,352,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,5.34,non-fraud,2023-11-04,16898,spending,November
+368,6438,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,375.56,non-fraud,2023-11-04,16898,spending,November
+369,12,Pathology/Diagnostics,Healthcare,Healthcare,103.36,non-fraud,2023-11-05,16898,spending,November
+370,985,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,253.84,non-fraud,2023-11-05,16898,spending,November
+371,10087,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,62.33,non-fraud,2023-11-05,16898,spending,November
+372,19749,Laura Ashley,Home Improvement,Home Improvement,196.3,non-fraud,2023-11-05,16898,spending,November
+373,8379,BJ's Wholesale Club,Groceries,Groceries,62.93,non-fraud,2023-11-05,16898,spending,November
+374,17085,The Silver Dollar Saloon,Dining Out,bars,28.24,non-fraud,2023-11-09,16898,spending,November
+375,11122,Transfer to Vacation Fund,Transfers,Transfers,650.87,non-fraud,2023-11-10,16898,spending,November
+376,9763,Transfer to Vacation Fund,Transfers,Transfers,284.7,non-fraud,2023-11-10,16898,spending,November
+377,7822,The Royal British Legion,Charity,Charity,19.68,non-fraud,2023-11-11,16898,spending,November
+378,8680,Transfer to Emergency Fund,Transfers,Transfers,193.55,non-fraud,2023-11-11,16898,spending,November
+379,1871,Tesla Store - Home Charging Equipment,Shopping,Luxury shopping,902.7,non-fraud,2023-11-12,16898,spending,November
+380,2199,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,174.36,non-fraud,2023-11-12,16898,spending,November
+381,5106,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,90.75,non-fraud,2023-11-12,16898,spending,November
+382,4084,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,7.44,non-fraud,2023-11-12,16898,spending,November
+383,16652,Publix Super Markets,Groceries,Groceries,67.46,non-fraud,2023-11-13,16898,spending,November
+384,3939,Sanctuary spa,Personal care,Personal care,28.73,non-fraud,2023-11-14,16898,spending,November
+385,7485,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,6.44,non-fraud,2023-11-16,16898,spending,November
+386,3515,Online Shopping - Electronics,Online Shopping,Online Shopping,212.86,non-fraud,2023-11-16,16898,spending,November
+387,22736,Piggly Wiggly,Groceries,Groceries,44.85,non-fraud,2023-11-16,16898,spending,November
+388,12619,Transfer to Emergency Fund,Transfers,Transfers,718.47,non-fraud,2023-11-17,16898,spending,November
+389,3864,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,28.23,non-fraud,2023-11-17,16898,spending,November
+390,8806,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,84.99,non-fraud,2023-11-17,16898,spending,November
+391,35286,Food Lion,Groceries,Groceries,45.58,non-fraud,2023-11-18,16898,spending,November
+392,8388,Biggby Coffee,Dining Out,cafes,3.43,non-fraud,2023-11-18,16898,spending,November
+393,1847,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,34.64,non-fraud,2023-11-18,16898,spending,November
+394,17164,New Look - Fashion Bargains,Shopping,Shopping,307.64,non-fraud,2023-11-19,16898,spending,November
+395,5213,Superdrug ,Personal care,Personal care,11.38,non-fraud,2023-11-20,16898,spending,November
+396,40553,Grocery Shopping - Fresh Mart,Groceries,Groceries,79.96,non-fraud,2023-11-20,16898,spending,November
+397,7054,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,29.59,non-fraud,2023-11-20,16898,spending,November
+398,2804,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,70.17,non-fraud,2023-11-23,16898,spending,November
+399,27677,Apple Store - Electronics Purchase,Shopping,Luxury shopping,1072.32,non-fraud,2023-11-23,16898,spending,November
+400,15443,HEB Grocery,Groceries,Groceries,21.56,non-fraud,2023-11-24,16898,spending,November
+401,5783,Transfer from Savings to Current,Transfers,Transfers,452.56,non-fraud,2023-11-25,16898,spending,November
+402,2314,Gas Station - Fuel Purchase,Transportation,Fuel,14.79,non-fraud,2023-11-25,16898,spending,November
+403,26973,Publix Super Markets,Groceries,Groceries,54.33,non-fraud,2023-11-25,16898,spending,November
+404,4916,WinCo Foods,Groceries,Groceries,64.7,non-fraud,2023-11-25,16898,spending,November
+405,7623,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,545.29,non-fraud,2023-11-25,16898,spending,November
+406,12103,Heal's,Home Improvement,Home Improvement,400.89,non-fraud,2023-11-26,16898,spending,November
+407,15547,Transfer to Vacation Fund,Transfers,Transfers,1280.67,non-fraud,2023-11-27,16898,spending,November
+408,1056,Safeway,Groceries,Groceries,56.66,non-fraud,2023-11-27,16898,spending,November
+409,1212,Paintball ,Entertainment,Entertainment,53.7,non-fraud,2023-11-27,16898,spending,November
+410,394,Jack in the Box,Dining Out,fast_food,8.45,non-fraud,2023-11-27,16898,spending,November
+411,2615,DesignMyNight ,Entertainment,Entertainment,16.05,non-fraud,2023-11-27,16898,spending,November
+412,12808,Panda Express,Dining Out,fast_food,16.51,non-fraud,2023-11-28,16898,spending,November
+413,3683,Art Gallery and Museum ,Entertainment,Entertainment,49.0,non-fraud,2023-11-29,16898,spending,November
+414,1271,Gas Station - Fuel Purchase,Transportation,Fuel,96.39,non-fraud,2023-11-29,16898,spending,November
+415,7082,Argos,Electronics,Electronics,362.56,non-fraud,2023-11-29,16898,spending,November
+416,3711,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,195.17,non-fraud,2023-11-30,16898,spending,November
+417,596,Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,291.76,non-fraud,2023-11-30,16898,spending,November
+418,35673,Whole Foods Market - Grocery Shopping,Groceries,Groceries,53.95,non-fraud,2023-10-01,13021,spending,October
+419,9804,Kmart Super Centers,Groceries,Groceries,107.32,non-fraud,2023-10-01,13021,spending,October
+420,3835,Bulb,Utilities,Bills,195.96,non-fraud,2023-10-01,13021,spending,October
+421,4482,Transfer to Investment Account,Transfers,Transfers,334.98,non-fraud,2023-10-01,13021,spending,October
+422,11164,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,7.35,non-fraud,2023-10-01,13021,spending,October
+423,7129,The Moonlit Martini,Dining Out,bars,33.61,non-fraud,2023-10-01,13021,spending,October
+424,4978,Paycheck Deposit - XYZ Ltd.,Income,Income,15568.0710303743,non-fraud,2023-10-01,13021,income,October
+425,3460,Direct Debit Mortg. TSB ,Housing,Housing,1120.26,non-fraud,2023-10-01,13021,spending,October
+426,424,Flow Energy,Utilities,Bills,73.72,non-fraud,2023-10-02,13021,spending,October
+427,7874,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,56.72,non-fraud,2023-10-02,13021,spending,October
+428,15112,Transfer from Current to Savings,Transfers,Transfers,769.73,non-fraud,2023-10-02,13021,spending,October
+429,6853,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,65.71,non-fraud,2023-10-02,13021,spending,October
+430,1438,Everyman cinema ,Entertainment,Entertainment,18.84,non-fraud,2023-10-02,13021,spending,October
+431,2311,Dunelm,Home Improvement,Home Improvement,177.22,non-fraud,2023-10-02,13021,spending,October
+432,9462,EDF Energy,Utilities,Bills,109.0,non-fraud,2023-10-03,13021,spending,October
+433,4046,Converse Outlet - Discounted Sneakers,Shopping,Shopping,210.9,non-fraud,2023-10-03,13021,spending,October
+434,3524,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,70.54,non-fraud,2023-10-03,13021,spending,October
+435,2131,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,66.53,non-fraud,2023-10-03,13021,spending,October
+436,18672,Louis Vuitton - Luxury Luggage,Shopping,Luxury shopping,1184.47,non-fraud,2023-10-04,13021,spending,October
+437,3171,BritBox,Utilities,TV,16.4,non-fraud,2023-10-04,13021,spending,October
+438,2921,Coles,Groceries,Groceries,33.45,non-fraud,2023-10-05,13021,spending,October
+439,646,Manning Books ,Personal care,Personal care,18.57,non-fraud,2023-10-05,13021,spending,October
+440,38137,Smart & Final,Groceries,Groceries,46.04,non-fraud,2023-10-06,13021,spending,October
+441,8287,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,60.99,non-fraud,2023-10-06,13021,spending,October
+442,5480,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,170.53,non-fraud,2023-10-06,13021,spending,October
+443,189,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,17.59,non-fraud,2023-10-06,13021,spending,October
+444,12346,Transfer from Savings to Current,Transfers,Transfers,429.08,non-fraud,2023-10-08,13021,spending,October
+445,5848,Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,100.38,non-fraud,2023-10-08,13021,spending,October
+446,8658,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,49.38,non-fraud,2023-10-08,13021,spending,October
+447,9821,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,174.17,non-fraud,2023-10-08,13021,spending,October
+448,4618,Manning Books ,Personal care,Personal care,10.31,non-fraud,2023-10-09,13021,spending,October
+449,38788,Shaw's,Groceries,Groceries,37.12,non-fraud,2023-10-10,13021,spending,October
+450,8170,Currys PC World,Online Shopping,Online Shopping,85.97,non-fraud,2023-10-11,13021,spending,October
+451,5816,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,55.56,non-fraud,2023-10-11,13021,spending,October
+452,26145,Tesla Store - Electric Car Purchase,Shopping,Luxury shopping,643.66,non-fraud,2023-10-11,13021,spending,October
+453,1359,Currys PC World,Online Shopping,Online Shopping,74.93,non-fraud,2023-10-11,13021,spending,October
+454,5016,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,7.84,non-fraud,2023-10-11,13021,spending,October
+455,10923,Transfer to Emergency Fund,Transfers,Transfers,474.22,non-fraud,2023-10-11,13021,spending,October
+456,4778,Rituals ,Personal care,Personal care,17.19,non-fraud,2023-10-12,13021,spending,October
+457,10858,Verve Coffee,Dining Out,cafes,2.64,non-fraud,2023-10-13,13021,spending,October
+458,9313,Transfer from Current to Savings,Transfers,Transfers,232.15,non-fraud,2023-10-13,13021,spending,October
+459,3310,Invest Engine,Investment,Investment,177.87,non-fraud,2023-10-13,13021,spending,October
+460,29017,Sainsbury's,Groceries,Groceries,28.29,non-fraud,2023-10-13,13021,spending,October
+461,22178,Grocery Shopping - Fresh Grocers,Groceries,Groceries,176.6,non-fraud,2023-10-17,13021,spending,October
+462,4075,Transfer from Savings to Current,Transfers,Transfers,752.14,non-fraud,2023-10-20,13021,spending,October
+463,1823,Fuel Purchase - Gas Station,Transportation,Fuel,58.73,non-fraud,2023-10-20,13021,spending,October
+464,1002,Cinemacity,Entertainment,Entertainment,27.91,non-fraud,2023-10-20,13021,spending,October
+465,7711,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,158.55,non-fraud,2023-10-20,13021,spending,October
+466,9449,The Blind Tiger,Dining Out,bars,20.04,non-fraud,2023-10-22,13021,spending,October
+467,3228,Art Gallery and Museum ,Entertainment,Entertainment,39.15,non-fraud,2023-10-25,13021,spending,October
+468,1265,Gourmet Pizzeria,Dining Out,restaurants,26.8,non-fraud,2023-10-25,13021,spending,October
+469,4828,Gas Station - Fuel Purchase,Transportation,Fuel,74.88,non-fraud,2023-10-25,13021,spending,October
+470,4660,H&M - Accessories,Online Shopping,Online Shopping,137.51,non-fraud,2023-10-25,13021,spending,October
+471,19376,ShopRite,Groceries,Groceries,115.46,non-fraud,2023-10-25,13021,spending,October
+472,6760,Transfer from Savings to Current,Transfers,Transfers,474.14,non-fraud,2023-10-26,13021,spending,October
+473,220,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,166.49,non-fraud,2023-10-27,13021,spending,October
+474,1759,Jimmy John's,Dining Out,fast_food,15.42,non-fraud,2023-10-29,13021,spending,October
+475,25123,Kmart Super Centers,Groceries,Groceries,36.78,non-fraud,2023-10-29,13021,spending,October
+476,39974,Whole Foods Market,Groceries,Groceries,48.1,non-fraud,2023-10-29,13021,spending,October
+477,5930,Transfer from Savings to Current,Transfers,Transfers,485.02,non-fraud,2023-10-29,13021,spending,October
+478,550,Savings Account Interest - October,Interest,Interest,4.96,non-fraud,2023-10-29,13021,spending,October
+479,1446,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,110.14,non-fraud,2023-10-30,13021,spending,October
+480,91,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,27.02,non-fraud,2023-10-30,13021,spending,October
+481,5456,Pharmacy MYH,Healthcare,Healthcare,64.6,non-fraud,2023-10-30,13021,spending,October
+482,11584,Counseling,Healthcare,Healthcare,86.84,non-fraud,2023-10-30,13021,spending,October
+483,9896,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,68.91,non-fraud,2023-10-31,13021,spending,October
+484,5498,Transfer from Savings to Current,Transfers,Transfers,384.66,non-fraud,2023-10-31,13021,spending,October
+485,6574,Parkdean Resorts,Holiday,Holiday,270.01,non-fraud,2023-10-31,13021,spending,October
+486,3460,Direct Debit Mortg. TSB ,Housing,Housing,1120.26,non-fraud,2023-11-01,13021,spending,November
+487,3835,Bulb,Utilities,Bills,195.96,non-fraud,2023-11-01,13021,spending,November
+488,4978,Paycheck Deposit - XYZ Ltd.,Income,Income,15568.0710303743,non-fraud,2023-11-01,13021,income,November
+489,3280,Vue,Entertainment,Entertainment,37.0,non-fraud,2023-11-01,13021,spending,November
+490,6693,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,64.24,non-fraud,2023-11-01,13021,spending,November
+491,424,Flow Energy,Utilities,Bills,73.72,non-fraud,2023-11-02,13021,spending,November
+492,34662,ShopRite,Groceries,Groceries,72.8,non-fraud,2023-11-02,13021,spending,November
+493,8807,Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,104.53,non-fraud,2023-11-02,13021,spending,November
+494,4030,Rituals ,Personal care,Personal care,31.92,non-fraud,2023-11-02,13021,spending,November
+495,9462,EDF Energy,Utilities,Bills,109.0,non-fraud,2023-11-03,13021,spending,November
+496,3171,BritBox,Utilities,TV,16.4,non-fraud,2023-11-04,13021,spending,November
+497,2316,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,13.87,non-fraud,2023-11-05,13021,spending,November
+498,321,Ebay ,Online Shopping,Online Shopping,139.57,non-fraud,2023-11-06,13021,spending,November
+499,955,Body Shop,Personal care,Personal care,18.99,non-fraud,2023-11-06,13021,spending,November
+500,9790,Grocery Shopping - Mega Mart,Groceries,Groceries,26.12,non-fraud,2023-11-06,13021,spending,November
+501,7120,Transfer from Current to Savings,Transfers,Transfers,828.21,non-fraud,2023-11-06,13021,spending,November
+502,1365,Credit Card Payment - Discover **** 9012,Credit Card Payment,Credit Card Payment,277.21,non-fraud,2023-11-07,13021,spending,November
+503,14380,Jimmy John's,Dining Out,fast_food,17.26,non-fraud,2023-11-07,13021,spending,November
+504,609,Paintball ,Entertainment,Entertainment,20.66,non-fraud,2023-11-07,13021,spending,November
+505,2565,Fuel Purchase - Gas Station,Transportation,Fuel,111.58,non-fraud,2023-11-07,13021,spending,November
+506,20922,Food 4 Less,Groceries,Groceries,15.23,non-fraud,2023-11-08,13021,spending,November
+507,8932,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,28.51,non-fraud,2023-11-08,13021,spending,November
+508,3950,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,148.77,non-fraud,2023-11-08,13021,spending,November
+509,9536,Transfer from Savings to Current,Transfers,Transfers,68.77,non-fraud,2023-11-09,13021,spending,November
+510,7237,Walmart Grocery,Groceries,Groceries,26.12,non-fraud,2023-11-09,13021,spending,November
+511,5553,Fuel Purchase - Gas Station,Transportation,Fuel,31.73,non-fraud,2023-11-12,13021,spending,November
+512,3238,DesignMyNight ,Entertainment,Entertainment,69.42,non-fraud,2023-11-13,13021,spending,November
+513,14938,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,44.56,non-fraud,2023-11-14,13021,spending,November
+514,1621,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,2.67,non-fraud,2023-11-14,13021,spending,November
+515,1983,Everyman cinema ,Entertainment,Entertainment,65.7,non-fraud,2023-11-14,13021,spending,November
+516,8784,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,63.47,non-fraud,2023-11-14,13021,spending,November
+517,15788,Topps Tiles,Home Improvement,Home Improvement,95.91,non-fraud,2023-11-15,13021,spending,November
+518,9673,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,42.66,non-fraud,2023-11-15,13021,spending,November
+519,7408,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,16.53,non-fraud,2023-11-15,13021,spending,November
+520,9603,Transfer to Investment Account,Transfers,Transfers,35.32,non-fraud,2023-11-16,13021,spending,November
+521,221,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,48.19,non-fraud,2023-11-16,13021,spending,November
+522,14593,Transfer to Savings Account - Rainy Day Fund,Transfers,Transfers,370.82,non-fraud,2023-11-16,13021,spending,November
+523,7707,Transfer to Emergency Fund,Transfers,Transfers,299.79,non-fraud,2023-11-16,13021,spending,November
+524,28881,WinCo Foods,Groceries,Groceries,112.44,non-fraud,2023-11-17,13021,spending,November
+525,13104,Transfer to Emergency Fund,Transfers,Transfers,112.17,non-fraud,2023-11-17,13021,spending,November
+526,14958,Transfer to Investment Account,Transfers,Transfers,267.66,non-fraud,2023-11-17,13021,spending,November
+527,19900,Subway,Dining Out,fast_food,19.1,non-fraud,2023-11-17,13021,spending,November
+528,8770,PJ's Coffee,Dining Out,cafes,5.11,non-fraud,2023-11-17,13021,spending,November
+529,8365,Transfer to Investment Account,Transfers,Transfers,354.97,non-fraud,2023-11-19,13021,spending,November
+530,357,Alexander McQueen - Fashion Purchase,Shopping,Luxury shopping,689.77,non-fraud,2023-11-20,13021,spending,November
+531,3515,Online Shopping - Electronics,Online Shopping,Online Shopping,212.86,non-fraud,2023-11-20,13021,spending,November
+532,35153,SuperValu,Groceries,Groceries,38.35,non-fraud,2023-11-20,13021,spending,November
+533,8354,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,74.28,non-fraud,2023-11-20,13021,spending,November
+534,871,Interest Earned - Savings Account,Interest,Interest,7.1,non-fraud,2023-11-22,13021,spending,November
+535,5448,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,39.34,non-fraud,2023-11-22,13021,spending,November
+536,3572,Waterstones ,Personal care,Personal care,20.79,non-fraud,2023-11-22,13021,spending,November
+537,905,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,191.43,non-fraud,2023-11-25,13021,spending,November
+538,4130,Woolworths,Groceries,Groceries,91.22,non-fraud,2023-11-25,13021,spending,November
+539,4712,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,183.72,non-fraud,2023-11-25,13021,spending,November
+540,7931,Food Basics,Groceries,Groceries,60.91,non-fraud,2023-11-25,13021,spending,November
+541,12499,Transfer to Investment Account,Transfers,Transfers,274.52,non-fraud,2023-11-28,13021,spending,November
+542,7008,MedicSpot Virtual,Healthcare,Healthcare,169.38,non-fraud,2023-11-28,13021,spending,November
+543,8601,Zara - Affordable Fashion,Shopping,Shopping,203.97,non-fraud,2023-11-28,13021,spending,November
+544,6664,Online Shopping - Electronics,Online Shopping,Online Shopping,239.39,non-fraud,2023-11-28,13021,spending,November
+545,17872,Ikea,Home Improvement,Home Improvement,616.98,non-fraud,2023-11-28,13021,spending,November
+546,6478,Stumptown Coffee,Dining Out,cafes,5.58,non-fraud,2023-11-29,13021,spending,November
+547,700,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,247.25,non-fraud,2023-11-29,13021,spending,November
+548,11059,Medacs Global Group,Healthcare,Healthcare,115.23,non-fraud,2023-11-29,13021,spending,November
+549,5531,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,38.26,non-fraud,2023-11-29,13021,spending,November
+550,19007,Christian Louboutin - Designer Shoes,Shopping,Luxury shopping,259.37,non-fraud,2023-11-29,13021,spending,November
+551,5914,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,103.15,non-fraud,2023-11-30,13021,spending,November
+552,32734,Acme Markets,Groceries,Groceries,42.0,non-fraud,2023-11-30,13021,spending,November
+553,10698,Disney+,Utilities,TV,30.75,non-fraud,2023-10-01,16239,spending,October
+554,5461,Transfer from Savings to Current,Transfers,Transfers,477.37,non-fraud,2023-10-01,16239,spending,October
+555,5727,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,311.6,non-fraud,2023-10-01,16239,spending,October
+556,11157,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,96.05,non-fraud,2023-10-01,16239,spending,October
+557,2075,Direct Debit Mortg. TSB ,Housing,Housing,1449.7,non-fraud,2023-10-01,16239,spending,October
+558,3362,Salary Deposit - XYZ Corporation,Income,Income,15588.00369707294,non-fraud,2023-10-01,16239,income,October
+559,6598,Whole Foods Market,Groceries,Groceries,96.13,non-fraud,2023-10-02,16239,spending,October
+560,4808,Transfer to Savings Account - Rainy Day Fund,Transfers,Transfers,976.11,non-fraud,2023-10-02,16239,spending,October
+561,6142,CuriosityStream,Utilities,TV,10.65,non-fraud,2023-10-02,16239,spending,October
+562,9527,EDF Energy,Utilities,Bills,113.7,non-fraud,2023-10-03,16239,spending,October
+563,4715,Citylink,Transportation,Transportation,11.41,non-fraud,2023-10-03,16239,spending,October
+564,2272,Vue,Entertainment,Entertainment,34.62,non-fraud,2023-10-03,16239,spending,October
+565,5682,Transfer to Emergency Fund,Transfers,Transfers,534.81,non-fraud,2023-10-04,16239,spending,October
+566,13079,Sainsbury's,Groceries,Groceries,82.74,non-fraud,2023-10-07,16239,spending,October
+567,8637,Medacs Global Group,Healthcare,Healthcare,27.61,non-fraud,2023-10-08,16239,spending,October
+568,3029,Whataburger,Dining Out,fast_food,7.16,non-fraud,2023-10-08,16239,spending,October
+569,2422,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,30.86,non-fraud,2023-10-08,16239,spending,October
+570,6124,Trading 212 UK,Investment,Investment,112.33,non-fraud,2023-10-09,16239,spending,October
+571,18197,WinCo Foods,Groceries,Groceries,29.27,non-fraud,2023-10-09,16239,spending,October
+572,1111,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,9.41,non-fraud,2023-10-09,16239,spending,October
+573,2917,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,74.93,non-fraud,2023-10-10,16239,spending,October
+574,26099,Costco Wholesale,Groceries,Groceries,14.76,non-fraud,2023-10-10,16239,spending,October
+575,38128,Safeway,Groceries,Groceries,51.29,non-fraud,2023-10-10,16239,spending,October
+576,991,Savings Account Interest - October,Interest,Interest,6.8,non-fraud,2023-10-10,16239,spending,October
+577,36321,Grocery Shopping - Super Value Mart,Groceries,Groceries,66.05,non-fraud,2023-10-10,16239,spending,October
+578,1652,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,143.4,non-fraud,2023-10-11,16239,spending,October
+579,8753,Asos - Men's Clothing,Shopping,Shopping,229.01,non-fraud,2023-10-11,16239,spending,October
+580,9518,Transfer from Savings to Current,Transfers,Transfers,479.86,non-fraud,2023-10-11,16239,spending,October
+581,32825,Forever 21 - Swimwear,Shopping,Shopping,38.91,non-fraud,2023-10-11,16239,spending,October
+582,9510,Dunkin' Donuts,Dining Out,fast_food,12.44,non-fraud,2023-10-12,16239,spending,October
+583,5719,Transfer to Investment Account,Transfers,Transfers,105.1,non-fraud,2023-10-13,16239,spending,October
+584,958,Car Loan Payment - Auto Finance Inc.,Loan Payment,Loan Payment,111.82,non-fraud,2023-10-13,16239,spending,October
+585,3897,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,119.91,non-fraud,2023-10-13,16239,spending,October
+586,9315,Peet's Coffee,Dining Out,cafes,4.47,non-fraud,2023-10-14,16239,spending,October
+587,16752,Tully's Coffee,Dining Out,cafes,4.84,non-fraud,2023-10-14,16239,spending,October
+588,8147,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,845.16,non-fraud,2023-10-14,16239,spending,October
+589,17146,Howdens,Home Improvement,Home Improvement,99.44,non-fraud,2023-10-14,16239,spending,October
+590,1405,Credit Card Payment - American Express **** 6789,Credit Card Payment,Credit Card Payment,106.46,non-fraud,2023-10-15,16239,spending,October
+591,1250,CeX,Online Shopping,Online Shopping,85.23,non-fraud,2023-10-16,16239,spending,October
+592,1353,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,47.26,non-fraud,2023-10-17,16239,spending,October
+593,14481,Pizza Hut,Dining Out,fast_food,14.22,non-fraud,2023-10-17,16239,spending,October
+594,3236,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,8.05,non-fraud,2023-10-17,16239,spending,October
+595,10602,Ralph Lauren - Fashion Purchase,Shopping,Luxury shopping,709.83,non-fraud,2023-10-17,16239,spending,October
+596,2964,Everyman cinema ,Entertainment,Entertainment,25.49,non-fraud,2023-10-17,16239,spending,October
+597,4263,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,52.13,non-fraud,2023-10-18,16239,spending,October
+598,374,Waterstones ,Personal care,Personal care,17.75,non-fraud,2023-10-18,16239,spending,October
+599,3699,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,80.41,non-fraud,2023-10-18,16239,spending,October
+600,304,DesignMyNight ,Entertainment,Entertainment,73.93,non-fraud,2023-10-18,16239,spending,October
+601,2859,Sainsbury's,Groceries,Groceries,78.98,non-fraud,2023-10-18,16239,spending,October
+602,2360,Citylink,Transportation,Transportation,86.3,non-fraud,2023-10-19,16239,spending,October
+603,16686,InHealth Group,Healthcare,Healthcare,36.86,non-fraud,2023-10-19,16239,spending,October
+604,8675,Kmart Super Centers,Groceries,Groceries,87.27,non-fraud,2023-10-19,16239,spending,October
+605,10188,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,91.62,non-fraud,2023-10-21,16239,spending,October
+606,18448,Christian Louboutin - Designer Shoes,Shopping,Luxury shopping,726.77,non-fraud,2023-10-24,16239,spending,October
+607,324,Body Shop,Personal care,Personal care,18.63,non-fraud,2023-10-25,16239,spending,October
+608,3441,DesignMyNight ,Entertainment,Entertainment,33.16,non-fraud,2023-10-25,16239,spending,October
+609,6379,Citylink,Transportation,Transportation,77.8,non-fraud,2023-10-25,16239,spending,October
+610,3180,Transfer from Savings to Current,Transfers,Transfers,241.71,non-fraud,2023-10-25,16239,spending,October
+611,8881,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,98.42,non-fraud,2023-10-25,16239,spending,October
+612,8840,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,122.58,non-fraud,2023-10-29,16239,spending,October
+613,6485,AMZN,Online Shopping,Online Shopping,99.31,non-fraud,2023-10-29,16239,spending,October
+614,3689,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,11.8,non-fraud,2023-10-29,16239,spending,October
+615,6862,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,146.8,non-fraud,2023-10-30,16239,spending,October
+616,14944,Transfer from Current to Savings,Transfers,Transfers,560.95,non-fraud,2023-10-30,16239,spending,October
+617,3846,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,62.72,non-fraud,2023-10-30,16239,spending,October
+618,29051,SuperValu,Groceries,Groceries,73.8,non-fraud,2023-10-30,16239,spending,October
+619,22373,IGA,Groceries,Groceries,36.12,non-fraud,2023-10-31,16239,spending,October
+620,12168,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,542.82,non-fraud,2023-10-31,16239,spending,October
+621,10829,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,28.97,non-fraud,2023-10-31,16239,spending,October
+622,2075,Direct Debit Mortg. TSB ,Housing,Housing,1449.7,non-fraud,2023-11-01,16239,spending,November
+623,3362,Salary Deposit - XYZ Corporation,Income,Income,15588.00369707294,non-fraud,2023-11-01,16239,income,November
+624,9112,Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,176.25,non-fraud,2023-11-01,16239,spending,November
+625,10698,Disney+,Utilities,TV,30.75,non-fraud,2023-11-01,16239,spending,November
+626,5769,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,59.68,non-fraud,2023-11-01,16239,spending,November
+627,4798,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,72.88,non-fraud,2023-11-02,16239,spending,November
+628,3535,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,52.2,non-fraud,2023-11-02,16239,spending,November
+629,6142,CuriosityStream,Utilities,TV,10.65,non-fraud,2023-11-02,16239,spending,November
+630,1038,Interest Earned - Savings Account,Interest,Interest,6.79,non-fraud,2023-11-02,16239,spending,November
+631,13218,Ramsay Healthcare,Healthcare,Healthcare,62.62,non-fraud,2023-11-02,16239,spending,November
+632,3502,Virgin Trains,Transportation,Transportation,12.77,non-fraud,2023-11-03,16239,spending,November
+633,8565,Transfer from Savings to Current,Transfers,Transfers,584.92,non-fraud,2023-11-03,16239,spending,November
+634,9527,EDF Energy,Utilities,Bills,113.7,non-fraud,2023-11-03,16239,spending,November
+635,10234,The Priory Group,Healthcare,Healthcare,28.18,non-fraud,2023-11-03,16239,spending,November
+636,2742,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,59.85,non-fraud,2023-11-03,16239,spending,November
+637,216,Savings Account Interest - October,Interest,Interest,7.97,non-fraud,2023-11-04,16239,spending,November
+638,25063,Lidl,Groceries,Groceries,79.32,non-fraud,2023-11-06,16239,spending,November
+639,3082,Sanctuary spa,Personal care,Personal care,12.43,non-fraud,2023-11-07,16239,spending,November
+640,19282,Counter Culture Coffee,Dining Out,cafes,4.32,non-fraud,2023-11-07,16239,spending,November
+641,6456,Online Shopping - Electronics,Online Shopping,Online Shopping,229.43,non-fraud,2023-11-07,16239,spending,November
+642,12045,Transfer to Vacation Fund,Transfers,Transfers,283.12,non-fraud,2023-11-08,16239,spending,November
+643,1532,Online Shopping - Electronics,Online Shopping,Online Shopping,143.26,non-fraud,2023-11-09,16239,spending,November
+644,23186,Givenchy - Designer Apparel,Shopping,Luxury shopping,874.79,non-fraud,2023-11-09,16239,spending,November
+645,37324,Publix,Groceries,Groceries,133.7,non-fraud,2023-11-09,16239,spending,November
+646,594,Art Gallery and Museum ,Entertainment,Entertainment,20.46,non-fraud,2023-11-09,16239,spending,November
+647,2284,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,2.75,non-fraud,2023-11-09,16239,spending,November
+648,667,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,444.72,non-fraud,2023-11-09,16239,spending,November
+649,10377,HEB Grocery,Groceries,Groceries,31.96,non-fraud,2023-11-10,16239,spending,November
+650,1462,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,25.01,non-fraud,2023-11-10,16239,spending,November
+651,15994,Transfer to Vacation Fund,Transfers,Transfers,392.75,non-fraud,2023-11-11,16239,spending,November
+652,10112,Transfer from Current to Savings,Transfers,Transfers,90.41,non-fraud,2023-11-11,16239,spending,November
+653,30606,Zara - Clothing Purchase,Shopping,Shopping,107.42,non-fraud,2023-11-12,16239,spending,November
+654,5132,Superdrug ,Personal care,Personal care,30.22,non-fraud,2023-11-12,16239,spending,November
+655,6923,Sonic Drive-In,Dining Out,fast_food,9.89,non-fraud,2023-11-12,16239,spending,November
+656,12711,The Cellar Door,Dining Out,bars,33.17,non-fraud,2023-11-13,16239,spending,November
+657,775,Superdrug ,Personal care,Personal care,34.63,non-fraud,2023-11-13,16239,spending,November
+658,15450,Publix Super Markets,Groceries,Groceries,107.95,non-fraud,2023-11-14,16239,spending,November
+659,14880,Transfer to Vacation Fund,Transfers,Transfers,392.43,non-fraud,2023-11-15,16239,spending,November
+660,9668,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,683.24,non-fraud,2023-11-15,16239,spending,November
+661,275,SLC,Loan Payment,Loan Payment,127.78,non-fraud,2023-11-15,16239,spending,November
+662,3662,Fuel Purchase - Gas Station,Transportation,Fuel,74.49,non-fraud,2023-11-15,16239,spending,November
+663,21825,Publix,Groceries,Groceries,65.58,non-fraud,2023-11-16,16239,spending,November
+664,4174,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,407.13,non-fraud,2023-11-16,16239,spending,November
+665,9732,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,57.2,non-fraud,2023-11-16,16239,spending,November
+666,181,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,48.88,non-fraud,2023-11-17,16239,spending,November
+667,4493,Fuel Purchase - Gas Station,Transportation,Fuel,107.92,non-fraud,2023-11-17,16239,spending,November
+668,3548,Everyman cinema ,Entertainment,Entertainment,27.75,non-fraud,2023-11-18,16239,spending,November
+669,26397,Woolworths,Groceries,Groceries,58.43,non-fraud,2023-11-19,16239,spending,November
+670,11501,Transfer to Emergency Fund,Transfers,Transfers,683.82,non-fraud,2023-11-19,16239,spending,November
+671,38765,Price Chopper,Groceries,Groceries,92.87,non-fraud,2023-11-20,16239,spending,November
+672,4838,Zara - Affordable Fashion,Online Shopping,Online Shopping,74.21,non-fraud,2023-11-20,16239,spending,November
+673,10812,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,73.24,non-fraud,2023-11-20,16239,spending,November
+674,1857,Safeway,Groceries,Groceries,138.11,non-fraud,2023-11-20,16239,spending,November
+675,32990,Boohoo - Cheap Fashion Finds,Shopping,Shopping,371.92,non-fraud,2023-11-23,16239,spending,November
+676,4455,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,55.48,non-fraud,2023-11-23,16239,spending,November
+677,7765,Transfer to Vacation Fund,Transfers,Transfers,713.72,non-fraud,2023-11-24,16239,spending,November
+678,676,DesignMyNight ,Entertainment,Entertainment,29.51,non-fraud,2023-11-24,16239,spending,November
+679,7546,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,54.96,non-fraud,2023-11-24,16239,spending,November
+680,239,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,91.74,non-fraud,2023-11-24,16239,spending,November
+681,33377,Giant Food,Groceries,Groceries,59.17,non-fraud,2023-11-24,16239,spending,November
+682,13067,The Jolly Roger,Dining Out,bars,59.87,non-fraud,2023-11-27,16239,spending,November
+683,7896,Peruvian Cevicheria,Dining Out,restaurants,25.1,non-fraud,2023-11-27,16239,spending,November
+684,898,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,85.78,non-fraud,2023-11-27,16239,spending,November
+685,10737,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,35.02,non-fraud,2023-11-27,16239,spending,November
+686,7369,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,374.46,non-fraud,2023-11-28,16239,spending,November
+687,14972,Transfer to Emergency Fund,Transfers,Transfers,767.57,non-fraud,2023-11-29,16239,spending,November
+688,73,Transfer from Savings to Current,Transfers,Transfers,140.06,non-fraud,2023-11-29,16239,spending,November
+689,7845,Bathstore,Home Improvement,Home Improvement,344.5,non-fraud,2023-11-29,16239,spending,November
+690,7308,Transfer to Vacation Fund,Transfers,Transfers,824.61,non-fraud,2023-11-29,16239,spending,November
+691,4889,Paycheck Deposit - Company Payroll,Income,Income,17024.217812557217,non-fraud,2023-10-01,19746,income,October
+692,10209,BBC iPlayer,Utilities,TV,44.53,non-fraud,2023-10-01,19746,spending,October
+693,3097,Trader Joe's,Groceries,Groceries,10.75,non-fraud,2023-10-01,19746,spending,October
+694,18297,Heal's,Home Improvement,Home Improvement,557.94,non-fraud,2023-10-01,19746,spending,October
+695,3097,Rent payment ,Housing,Housing,1343.5,non-fraud,2023-10-01,19746,spending,October
+696,1912,Good Energy,Utilities,Bills,130.53,non-fraud,2023-10-02,19746,spending,October
+697,2013,Maternity Clinic,Healthcare,Healthcare,38.39,non-fraud,2023-10-02,19746,spending,October
+698,7363,Grocery Store - Weekly Shopping,Groceries,Groceries,14.48,non-fraud,2023-10-03,19746,spending,October
+699,12339,Acme Markets,Groceries,Groceries,26.71,non-fraud,2023-10-03,19746,spending,October
+700,10202,NOW TV,Utilities,TV,18.3,non-fraud,2023-10-03,19746,spending,October
+701,3414,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,1081.92,non-fraud,2023-10-03,19746,spending,October
+702,6259,Stagecoach,Transportation,Transportation,43.6,non-fraud,2023-10-03,19746,spending,October
+703,8330,Pathology/Diagnostics,Healthcare,Healthcare,132.43,non-fraud,2023-10-05,19746,spending,October
+704,10582,H&M - Accessories,Online Shopping,Online Shopping,54.09,non-fraud,2023-10-05,19746,spending,October
+705,12363,Transfer from Savings to Current,Transfers,Transfers,52.99,non-fraud,2023-10-07,19746,spending,October
+706,17512,The Blue Oyster,Dining Out,bars,22.36,non-fraud,2023-10-07,19746,spending,October
+707,8297,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,26.08,non-fraud,2023-10-08,19746,spending,October
+708,8502,The Tipsy Teapot,Dining Out,bars,9.04,non-fraud,2023-10-08,19746,spending,October
+709,8745,Old Navy - Casual Apparel,Shopping,Shopping,108.73,non-fraud,2023-10-08,19746,spending,October
+710,27329,Amazon - Online Shopping,Shopping,Shopping,161.85,non-fraud,2023-10-08,19746,spending,October
+711,9286,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,87.66,non-fraud,2023-10-08,19746,spending,October
+712,2985,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,78.47,non-fraud,2023-10-08,19746,spending,October
+713,1211,Art Gallery and Museum ,Entertainment,Entertainment,12.83,non-fraud,2023-10-09,19746,spending,October
+714,16878,Totally Plc,Healthcare,Healthcare,57.24,non-fraud,2023-10-09,19746,spending,October
+715,6610,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,8.54,non-fraud,2023-10-09,19746,spending,October
+716,10968,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,40.25,non-fraud,2023-10-09,19746,spending,October
+717,7909,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,5.09,non-fraud,2023-10-09,19746,spending,October
+718,3105,Car Loan Payment - Auto Finance Inc.,Loan Payment,Loan Payment,130.6,non-fraud,2023-10-10,19746,spending,October
+719,6906,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,6.31,non-fraud,2023-10-11,19746,spending,October
+720,5627,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,76.75,non-fraud,2023-10-11,19746,spending,October
+721,7452,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,67.78,non-fraud,2023-10-11,19746,spending,October
+722,1648,Gas Station - Fuel Purchase,Transportation,Fuel,83.41,non-fraud,2023-10-12,19746,spending,October
+723,10080,Transfer from Current to Savings,Transfers,Transfers,608.02,non-fraud,2023-10-12,19746,spending,October
+724,4719,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,9.13,non-fraud,2023-10-13,19746,spending,October
+725,12951,Grocery Shopping - Supermart,Groceries,Groceries,31.02,non-fraud,2023-10-13,19746,spending,October
+726,13766,Fusion Kitchen,Dining Out,restaurants,13.66,non-fraud,2023-10-14,19746,spending,October
+727,16018,Transfer to Vacation Fund,Transfers,Transfers,369.23,non-fraud,2023-10-17,19746,spending,October
+728,11782,Center Parcs,Holiday,Holiday,583.82,non-fraud,2023-10-17,19746,spending,October
+729,10249,The Blue Oyster,Dining Out,bars,15.74,non-fraud,2023-10-17,19746,spending,October
+730,3964,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,116.35,non-fraud,2023-10-17,19746,spending,October
+731,3782,Art Gallery and Museum ,Entertainment,Entertainment,23.58,non-fraud,2023-10-18,19746,spending,October
+732,30571,Food City,Groceries,Groceries,30.68,non-fraud,2023-10-18,19746,spending,October
+733,23191,Sony Store - Electronics Purchase,Shopping,Luxury shopping,1063.61,non-fraud,2023-10-18,19746,spending,October
+734,5320,Sallys,Personal care,Personal care,30.72,non-fraud,2023-10-18,19746,spending,October
+735,5015,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,87.93,non-fraud,2023-10-19,19746,spending,October
+736,727,Transfer to Vacation Fund,Transfers,Transfers,665.21,non-fraud,2023-10-20,19746,spending,October
+737,2207,Currys PC World,Online Shopping,Online Shopping,144.57,non-fraud,2023-10-22,19746,spending,October
+738,20746,HEB Grocery,Groceries,Groceries,28.66,non-fraud,2023-10-23,19746,spending,October
+739,9468,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,244.17,non-fraud,2023-10-24,19746,spending,October
+740,132,Interest Earned - Savings Account,Interest,Interest,4.84,non-fraud,2023-10-24,19746,spending,October
+741,24455,Fry's Food Stores,Groceries,Groceries,26.36,non-fraud,2023-10-24,19746,spending,October
+742,4735,Fuel Purchase - Gas Station,Transportation,Fuel,97.6,non-fraud,2023-10-24,19746,spending,October
+743,15588,DFS,Home Improvement,Home Improvement,199.08,non-fraud,2023-10-25,19746,spending,October
+744,852,Cinemacity,Entertainment,Entertainment,19.25,non-fraud,2023-10-25,19746,spending,October
+745,644,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,163.31,non-fraud,2023-10-25,19746,spending,October
+746,11750,The Wildlife Trusts,Charity,Charity,11.68,non-fraud,2023-10-25,19746,spending,October
+747,30146,Grocery Shopping - Neighborhood Store,Groceries,Groceries,92.94,non-fraud,2023-10-25,19746,spending,October
+748,37681,Grocery Shopping - Mega Mart,Groceries,Groceries,71.57,non-fraud,2023-10-25,19746,spending,October
+749,4212,Rituals ,Personal care,Personal care,26.28,non-fraud,2023-10-26,19746,spending,October
+750,466,Waterstones ,Personal care,Personal care,30.62,non-fraud,2023-10-26,19746,spending,October
+751,5609,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,64.3,non-fraud,2023-10-26,19746,spending,October
+752,10900,Transfer to Vacation Fund,Transfers,Transfers,428.36,non-fraud,2023-10-26,19746,spending,October
+753,5891,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,22.33,non-fraud,2023-10-27,19746,spending,October
+754,11706,White Castle,Dining Out,fast_food,14.99,non-fraud,2023-10-27,19746,spending,October
+755,1059,Savings Account Interest - October,Interest,Interest,4.34,non-fraud,2023-10-29,19746,spending,October
+756,8985,Transfer from Savings to Current,Transfers,Transfers,786.09,non-fraud,2023-10-29,19746,spending,October
+757,6988,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,322.02,non-fraud,2023-10-29,19746,spending,October
+758,26388,Price Chopper,Groceries,Groceries,18.64,non-fraud,2023-10-29,19746,spending,October
+759,908,Transfer to Emergency Fund,Transfers,Transfers,417.44,non-fraud,2023-10-30,19746,spending,October
+760,7747,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,457.9,non-fraud,2023-10-30,19746,spending,October
+761,6844,Forever 21 - Activewear,Online Shopping,Online Shopping,317.37,non-fraud,2023-10-30,19746,spending,October
+762,6355,Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,173.92,non-fraud,2023-10-30,19746,spending,October
+763,11557,Transfer to Vacation Fund,Transfers,Transfers,155.42,non-fraud,2023-10-30,19746,spending,October
+764,3097,Rent payment ,Housing,Housing,1343.5,non-fraud,2023-11-01,19746,spending,November
+765,24495,Smith's Food and Drug,Groceries,Groceries,14.46,non-fraud,2023-11-01,19746,spending,November
+766,4241,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,22.73,non-fraud,2023-11-01,19746,spending,November
+767,9521,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,47.89,non-fraud,2023-11-01,19746,spending,November
+768,10209,BBC iPlayer,Utilities,TV,44.53,non-fraud,2023-11-01,19746,spending,November
+769,4889,Paycheck Deposit - Company Payroll,Income,Income,17024.217812557217,non-fraud,2023-11-01,19746,income,November
+770,601,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,46.59,non-fraud,2023-11-02,19746,spending,November
+771,12070,Transfer to Vacation Fund,Transfers,Transfers,81.05,non-fraud,2023-11-02,19746,spending,November
+772,1558,Vue,Entertainment,Entertainment,25.33,non-fraud,2023-11-02,19746,spending,November
+773,1912,Good Energy,Utilities,Bills,130.53,non-fraud,2023-11-02,19746,spending,November
+774,10202,NOW TV,Utilities,TV,18.3,non-fraud,2023-11-03,19746,spending,November
+775,4487,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,46.79,non-fraud,2023-11-04,19746,spending,November
+776,6980,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,423.07,non-fraud,2023-11-04,19746,spending,November
+777,13431,Transfer to Emergency Fund,Transfers,Transfers,432.33,non-fraud,2023-11-04,19746,spending,November
+778,14223,The Horseshoe Inn,Dining Out,bars,46.44,non-fraud,2023-11-05,19746,spending,November
+779,2752,H&M - Accessories,Online Shopping,Online Shopping,145.05,non-fraud,2023-11-05,19746,spending,November
+780,8022,Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,49.7,non-fraud,2023-11-05,19746,spending,November
+781,13425,Transfer to Vacation Fund,Transfers,Transfers,987.1,non-fraud,2023-11-05,19746,spending,November
+782,5065,Waterstones ,Personal care,Personal care,27.18,non-fraud,2023-11-06,19746,spending,November
+783,9388,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,181.37,non-fraud,2023-11-06,19746,spending,November
+784,29315,Aldi,Groceries,Groceries,31.02,non-fraud,2023-11-06,19746,spending,November
+785,9909,Transfer from Current to Savings,Transfers,Transfers,898.62,non-fraud,2023-11-07,19746,spending,November
+786,35239,Marks & Spencer,Groceries,Groceries,52.45,non-fraud,2023-11-07,19746,spending,November
+787,10992,Transfer to Emergency Fund,Transfers,Transfers,986.28,non-fraud,2023-11-08,19746,spending,November
+788,9573,ZoomDoc,Healthcare,Healthcare,248.08,non-fraud,2023-11-10,19746,spending,November
+789,1165,Everyman cinema ,Entertainment,Entertainment,43.12,non-fraud,2023-11-10,19746,spending,November
+790,6089,Publix,Groceries,Groceries,73.19,non-fraud,2023-11-10,19746,spending,November
+791,5790,Transfer to Emergency Fund,Transfers,Transfers,325.43,non-fraud,2023-11-11,19746,spending,November
+792,13861,Transfer from Savings to Current,Transfers,Transfers,54.05,non-fraud,2023-11-11,19746,spending,November
+793,62,Everyman cinema ,Entertainment,Entertainment,32.41,non-fraud,2023-11-12,19746,spending,November
+794,5971,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,304.45,non-fraud,2023-11-12,19746,spending,November
+795,10649,Ebay ,Online Shopping,Online Shopping,43.29,non-fraud,2023-11-14,19746,spending,November
+796,23466,Walmart Grocery,Groceries,Groceries,25.09,non-fraud,2023-11-15,19746,spending,November
+797,16769,House of Fraser,Home Improvement,Home Improvement,1311.17,non-fraud,2023-11-16,19746,spending,November
+798,1229,Virgin Trains,Transportation,Transportation,7.03,non-fraud,2023-11-17,19746,spending,November
+799,267,Sanctuary spa,Personal care,Personal care,30.9,non-fraud,2023-11-17,19746,spending,November
+800,1248,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,168.89,non-fraud,2023-11-17,19746,spending,November
+801,6534,Online Shopping - Amazon,Online Shopping,Online Shopping,37.45,non-fraud,2023-11-17,19746,spending,November
+802,3156,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,21.08,non-fraud,2023-11-17,19746,spending,November
+803,12137,Grocery Shopping - Supermart,Groceries,Groceries,27.53,non-fraud,2023-11-17,19746,spending,November
+804,4862,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,22.92,non-fraud,2023-11-17,19746,spending,November
+805,2030,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,250.14,non-fraud,2023-11-17,19746,spending,November
+806,36678,Harris Teeter,Groceries,Groceries,15.79,non-fraud,2023-11-17,19746,spending,November
+807,523,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,191.01,non-fraud,2023-11-17,19746,spending,November
+808,14114,The Sky Lounge,Dining Out,bars,12.88,non-fraud,2023-11-17,19746,spending,November
+809,7059,Transfer to Vacation Fund,Transfers,Transfers,267.32,non-fraud,2023-11-18,19746,spending,November
+810,13900,Austrian Gasthaus,Dining Out,restaurants,38.73,non-fraud,2023-11-18,19746,spending,November
+811,6935,Samsung - Electronics Purchase,Shopping,Luxury shopping,1237.87,non-fraud,2023-11-18,19746,spending,November
+812,19161,Scooter's Coffee,Dining Out,cafes,4.87,non-fraud,2023-11-18,19746,spending,November
+813,11123,Pharmacy MYH,Healthcare,Healthcare,47.8,non-fraud,2023-11-19,19746,spending,November
+814,557,Transfer from Savings to Current - Emergency Fund,Transfers,Transfers,519.85,non-fraud,2023-11-19,19746,spending,November
+815,11448,Transfer from Savings to Current,Transfers,Transfers,674.23,non-fraud,2023-11-20,19746,spending,November
+816,6389,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,23.03,non-fraud,2023-11-21,19746,spending,November
+817,1690,Vietnamese Pho,Dining Out,restaurants,12.49,non-fraud,2023-11-21,19746,spending,November
+818,16706,Target Grocery,Groceries,Groceries,47.5,non-fraud,2023-11-21,19746,spending,November
+819,3093,Macmillan Cancer Support,Charity,Charity,14.68,non-fraud,2023-11-22,19746,spending,November
+820,3920,Scan,Electronics,Electronics,1631.35,non-fraud,2023-11-22,19746,spending,November
+821,780,Rituals ,Personal care,Personal care,14.79,non-fraud,2023-11-22,19746,spending,November
+822,882,Car Loan Payment - Auto Finance Inc.,Loan Payment,Loan Payment,171.16,non-fraud,2023-11-22,19746,spending,November
+823,5379,Coles,Groceries,Groceries,21.47,non-fraud,2023-11-23,19746,spending,November
+824,10279,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,76.44,non-fraud,2023-11-24,19746,spending,November
+825,3906,Everyman cinema ,Entertainment,Entertainment,15.62,non-fraud,2023-11-26,19746,spending,November
+826,31101,Amazon - Online Shopping,Shopping,Shopping,250.67,non-fraud,2023-11-27,19746,spending,November
+827,565,Trainline ,Transportation,Transportation,7.71,non-fraud,2023-11-28,19746,spending,November
+828,24711,Food 4 Less,Groceries,Groceries,50.89,non-fraud,2023-11-28,19746,spending,November
+829,11427,Cartier - Watch and Jewelry,Shopping,Luxury shopping,1129.67,non-fraud,2023-11-28,19746,spending,November
+830,7833,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,27.89,non-fraud,2023-11-28,19746,spending,November
+831,641,Savings Account Interest - October,Interest,Interest,4.79,non-fraud,2023-11-28,19746,spending,November
+832,2051,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,16.02,non-fraud,2023-11-30,19746,spending,November
+833,6071,E.ON UK,Utilities,Bills,125.68,non-fraud,2023-10-01,19583,spending,October
+834,2859,Manning Books ,Personal care,Personal care,20.32,non-fraud,2023-10-01,19583,spending,October
+835,1661,Thomas Cook,Holiday,Holiday,723.9,non-fraud,2023-10-01,19583,spending,October
+836,5646,Salary Deposit - XYZ Corporation,Income,Income,15814.39092851312,non-fraud,2023-10-01,19583,income,October
+837,670,House rent,Housing,Housing,858.26,non-fraud,2023-10-01,19583,spending,October
+838,5160,Credit Card Payment - American Express **** 6789,Credit Card Payment,Credit Card Payment,304.57,non-fraud,2023-10-01,19583,spending,October
+839,2798,Bulb,Utilities,Bills,146.54,non-fraud,2023-10-02,19583,spending,October
+840,8294,Apple TV+,Utilities,TV,26.7,non-fraud,2023-10-03,19583,spending,October
+841,13557,Transfer to Investment Account,Transfers,Transfers,128.04,non-fraud,2023-10-04,19583,spending,October
+842,8935,Transfer to Investment Account,Transfers,Transfers,1023.93,non-fraud,2023-10-04,19583,spending,October
+843,4405,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,44.9,non-fraud,2023-10-04,19583,spending,October
+844,1089,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,142.63,non-fraud,2023-10-04,19583,spending,October
+845,2902,Gas Station - Fuel Purchase,Transportation,Fuel,89.63,non-fraud,2023-10-05,19583,spending,October
+846,5089,Body Shop,Personal care,Personal care,23.15,non-fraud,2023-10-05,19583,spending,October
+847,17197,LIVI,Healthcare,Healthcare,39.38,non-fraud,2023-10-06,19583,spending,October
+848,1739,Next Home,Home Improvement,Home Improvement,209.46,non-fraud,2023-10-08,19583,spending,October
+849,11589,Old Navy - Family Apparel,Online Shopping,Online Shopping,122.73,non-fraud,2023-10-08,19583,spending,October
+850,34715,Fry's Food Stores,Groceries,Groceries,11.44,non-fraud,2023-10-08,19583,spending,October
+851,3722,Ross Dress for Less - Bargain Shopping,Shopping,Shopping,218.23,non-fraud,2023-10-08,19583,spending,October
+852,3849,Paintball ,Entertainment,Entertainment,49.18,non-fraud,2023-10-08,19583,spending,October
+853,6857,KFC,Dining Out,fast_food,8.85,non-fraud,2023-10-09,19583,spending,October
+854,3566,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,31.12,non-fraud,2023-10-09,19583,spending,October
+855,6846,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,24.58,non-fraud,2023-10-09,19583,spending,October
+856,5644,Whole Foods Market,Groceries,Groceries,29.68,non-fraud,2023-10-09,19583,spending,October
+857,3719,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,404.71,non-fraud,2023-10-09,19583,spending,October
+858,35602,Asda,Groceries,Groceries,27.02,non-fraud,2023-10-10,19583,spending,October
+859,10825,Publix Super Markets,Groceries,Groceries,45.03,non-fraud,2023-10-10,19583,spending,October
+860,4730,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,56.84,non-fraud,2023-10-10,19583,spending,October
+861,20252,Cotton On - Kids' Fashion,Shopping,Shopping,276.49,non-fraud,2023-10-11,19583,spending,October
+862,5593,British Heart Foundation,Charity,Charity,2.95,non-fraud,2023-10-13,19583,spending,October
+863,32399,Grocery Store - Weekly Shopping,Groceries,Groceries,39.68,non-fraud,2023-10-13,19583,spending,October
+864,14332,Wegmans,Groceries,Groceries,119.49,non-fraud,2023-10-13,19583,spending,October
+865,9562,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,22.55,non-fraud,2023-10-15,19583,spending,October
+866,11670,Ethiopian Cafe,Dining Out,restaurants,46.54,non-fraud,2023-10-15,19583,spending,October
+867,6128,Kmart Super Centers,Groceries,Groceries,81.04,non-fraud,2023-10-15,19583,spending,October
+868,843,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,72.19,non-fraud,2023-10-15,19583,spending,October
+869,3368,Sallys,Personal care,Personal care,14.96,non-fraud,2023-10-16,19583,spending,October
+870,10696,Aliexpress,Online Shopping,Online Shopping,242.44,non-fraud,2023-10-17,19583,spending,October
+871,9116,Credit Card Payment - American Express **** 6789,Credit Card Payment,Credit Card Payment,40.71,non-fraud,2023-10-17,19583,spending,October
+872,7058,Zara - Affordable Fashion,Online Shopping,Online Shopping,97.01,non-fraud,2023-10-17,19583,spending,October
+873,9313,Transfer from Current to Savings,Transfers,Transfers,232.15,non-fraud,2023-10-18,19583,spending,October
+874,3113,Transfer to Vacation Fund,Transfers,Transfers,312.32,non-fraud,2023-10-18,19583,spending,October
+875,14987,Zalando - Affordable Online Shopping,Shopping,Shopping,173.36,non-fraud,2023-10-18,19583,spending,October
+876,2170,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,141.35,non-fraud,2023-10-18,19583,spending,October
+877,2913,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,6.84,non-fraud,2023-10-18,19583,spending,October
+878,4064,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,31.76,non-fraud,2023-10-19,19583,spending,October
+879,386,Savings Account Interest - October,Interest,Interest,7.18,non-fraud,2023-10-20,19583,spending,October
+880,4868,TFL,Transportation,Transportation,16.59,non-fraud,2023-10-20,19583,spending,October
+881,10927,Kmart Super Centers,Groceries,Groceries,121.01,non-fraud,2023-10-20,19583,spending,October
+882,2860,Cinemacity,Entertainment,Entertainment,37.93,non-fraud,2023-10-20,19583,spending,October
+883,12852,Pathology/Diagnostics,Healthcare,Healthcare,161.72,non-fraud,2023-10-20,19583,spending,October
+884,904,Savings Account Interest - October,Interest,Interest,8.23,non-fraud,2023-10-21,19583,spending,October
+885,13396,Transfer from Current to Savings,Transfers,Transfers,1053.88,non-fraud,2023-10-21,19583,spending,October
+886,15366,Health centre ,Healthcare,Healthcare,100.48,non-fraud,2023-10-22,19583,spending,October
+887,8255,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,74.67,non-fraud,2023-10-22,19583,spending,October
+888,8573,Spanish Tapas,Dining Out,restaurants,35.73,non-fraud,2023-10-23,19583,spending,October
+889,12123,Transfer from Current to Savings,Transfers,Transfers,140.03,non-fraud,2023-10-23,19583,spending,October
+890,3785,Vue,Entertainment,Entertainment,26.87,non-fraud,2023-10-24,19583,spending,October
+891,3472,Grocery Store - Fresh Produce,Groceries,Groceries,10.09,non-fraud,2023-10-24,19583,spending,October
+892,16190,Starbucks,Dining Out,cafes,4.56,non-fraud,2023-10-24,19583,spending,October
+893,4870,Ebay ,Online Shopping,Online Shopping,73.92,non-fraud,2023-10-27,19583,spending,October
+894,1382,DesignMyNight ,Entertainment,Entertainment,37.93,non-fraud,2023-10-27,19583,spending,October
+895,2985,Transfer to Emergency Fund,Transfers,Transfers,260.3,non-fraud,2023-10-27,19583,spending,October
+896,8714,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,82.0,non-fraud,2023-10-29,19583,spending,October
+897,6658,Transfer from Current to Savings,Transfers,Transfers,898.41,non-fraud,2023-10-29,19583,spending,October
+898,2515,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,119.04,non-fraud,2023-10-29,19583,spending,October
+899,4383,Electronics Store - Gadget Purchase,Electronics,Electronics,211.92,non-fraud,2023-10-29,19583,spending,October
+900,14907,Transfer to Emergency Fund,Transfers,Transfers,991.71,non-fraud,2023-10-30,19583,spending,October
+901,19472,Safeway,Groceries,Groceries,39.99,non-fraud,2023-10-30,19583,spending,October
+902,3914,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,39.49,non-fraud,2023-10-31,19583,spending,October
+903,6506,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,89.26,non-fraud,2023-10-31,19583,spending,October
+904,670,House rent,Housing,Housing,858.26,non-fraud,2023-11-01,19583,spending,November
+905,6071,E.ON UK,Utilities,Bills,125.68,non-fraud,2023-11-01,19583,spending,November
+906,5646,Salary Deposit - XYZ Corporation,Income,Income,15814.39092851312,non-fraud,2023-11-01,19583,income,November
+907,2798,Bulb,Utilities,Bills,146.54,non-fraud,2023-11-02,19583,spending,November
+908,8294,Apple TV+,Utilities,TV,26.7,non-fraud,2023-11-03,19583,spending,November
+909,27535,Whole Foods Market - Grocery Shopping,Groceries,Groceries,34.18,non-fraud,2023-11-03,19583,spending,November
+910,15713,Panda Express,Dining Out,fast_food,19.21,non-fraud,2023-11-03,19583,spending,November
+911,12009,The Blind Tiger,Dining Out,bars,30.51,non-fraud,2023-11-03,19583,spending,November
+912,3460,Transfer to Emergency Fund,Transfers,Transfers,72.48,non-fraud,2023-11-03,19583,spending,November
+913,5588,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,209.78,non-fraud,2023-11-03,19583,spending,November
+914,2924,Credit Card Payment - Discover **** 9012,Credit Card Payment,Credit Card Payment,168.61,non-fraud,2023-11-03,19583,spending,November
+915,20046,Fry's Food Stores,Groceries,Groceries,39.26,non-fraud,2023-11-04,19583,spending,November
+916,4528,GPDQ,Healthcare,Healthcare,121.98,non-fraud,2023-11-04,19583,spending,November
+917,873,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,66.16,non-fraud,2023-11-04,19583,spending,November
+918,7180,Cartier - Watch and Jewelry,Shopping,Luxury shopping,503.56,non-fraud,2023-11-04,19583,spending,November
+919,35162,Gap - Kids' Fashion,Shopping,Shopping,145.38,non-fraud,2023-11-05,19583,spending,November
+920,8927,Transfer from Current to Savings,Transfers,Transfers,148.02,non-fraud,2023-11-05,19583,spending,November
+921,6237,Transfer from Savings to Current,Transfers,Transfers,778.68,non-fraud,2023-11-05,19583,spending,November
+922,1064,Fuel Purchase - Gas Station,Transportation,Fuel,18.16,non-fraud,2023-11-05,19583,spending,November
+923,16680,Acme Markets,Groceries,Groceries,21.91,non-fraud,2023-11-05,19583,spending,November
+924,9589,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,755.59,non-fraud,2023-11-06,19583,spending,November
+925,1912,Topps Tiles,Home Improvement,Home Improvement,133.53,non-fraud,2023-11-06,19583,spending,November
+926,1733,Art Gallery and Museum ,Entertainment,Entertainment,52.32,non-fraud,2023-11-06,19583,spending,November
+927,11044,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,51.59,non-fraud,2023-11-06,19583,spending,November
+928,333,Sainsbury's,Groceries,Groceries,88.7,non-fraud,2023-11-06,19583,spending,November
+929,33691,Publix,Groceries,Groceries,40.44,non-fraud,2023-11-06,19583,spending,November
+930,2109,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,13.01,non-fraud,2023-11-07,19583,spending,November
+931,11982,GPDQ,Healthcare,Healthcare,102.56,non-fraud,2023-11-08,19583,spending,November
+932,17123,Grocery Shopping - Fresh Grocers,Groceries,Groceries,18.96,non-fraud,2023-11-08,19583,spending,November
+933,17,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,104.69,non-fraud,2023-11-08,19583,spending,November
+934,1222,Interest Earned - Savings Account,Interest,Interest,4.84,non-fraud,2023-11-10,19583,spending,November
+935,6690,Transfer to Investment Account,Transfers,Transfers,524.33,non-fraud,2023-11-11,19583,spending,November
+936,14681,Transfer to Investment Account,Transfers,Transfers,680.17,non-fraud,2023-11-11,19583,spending,November
+937,7394,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,109.08,non-fraud,2023-11-13,19583,spending,November
+938,6545,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,54.16,non-fraud,2023-11-13,19583,spending,November
+939,10948,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,14.11,non-fraud,2023-11-15,19583,spending,November
+940,6298,Transfer from Savings to Current,Transfers,Transfers,380.18,non-fraud,2023-11-15,19583,spending,November
+941,3184,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,88.34,non-fraud,2023-11-15,19583,spending,November
+942,14725,Transfer from Savings to Current,Transfers,Transfers,329.46,non-fraud,2023-11-15,19583,spending,November
+943,11442,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,85.1,non-fraud,2023-11-15,19583,spending,November
+944,6852,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,46.02,non-fraud,2023-11-16,19583,spending,November
+945,9907,Transfer to Emergency Fund,Transfers,Transfers,163.01,non-fraud,2023-11-16,19583,spending,November
+946,564,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,38.44,non-fraud,2023-11-16,19583,spending,November
+947,2121,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,56.24,non-fraud,2023-11-16,19583,spending,November
+948,7332,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,93.85,non-fraud,2023-11-16,19583,spending,November
+949,1575,Car Loan Payment - Auto Finance Inc.,Loan Payment,Loan Payment,165.09,non-fraud,2023-11-18,19583,spending,November
+950,3104,Old Navy - Family Apparel,Online Shopping,Online Shopping,154.4,non-fraud,2023-11-18,19583,spending,November
+951,10776,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,64.41,non-fraud,2023-11-18,19583,spending,November
+952,13519,Transfer from Current to Savings,Transfers,Transfers,127.95,non-fraud,2023-11-18,19583,spending,November
+953,28817,Grocery Shopping - Fresh Grocers,Groceries,Groceries,48.33,non-fraud,2023-11-20,19583,spending,November
+954,3160,Rituals ,Personal care,Personal care,22.88,non-fraud,2023-11-21,19583,spending,November
+955,3376,Waterstones ,Personal care,Personal care,28.0,non-fraud,2023-11-21,19583,spending,November
+956,24110,Giant Food,Groceries,Groceries,68.26,non-fraud,2023-11-22,19583,spending,November
+957,3510,Argos,Electronics,Electronics,458.19,non-fraud,2023-11-22,19583,spending,November
+958,853,DesignMyNight ,Entertainment,Entertainment,55.3,non-fraud,2023-11-22,19583,spending,November
+959,9714,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,20.67,non-fraud,2023-11-22,19583,spending,November
+960,6795,Credit Card Payment - Visa **** 4567,Credit Card Payment,Credit Card Payment,135.3,non-fraud,2023-11-22,19583,spending,November
+961,3005,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,19.39,non-fraud,2023-11-23,19583,spending,November
+962,11895,Dunelm,Home Improvement,Home Improvement,811.63,non-fraud,2023-11-23,19583,spending,November
+963,7290,Neiman Marcus - Designer Shopping,Shopping,Luxury shopping,1586.93,non-fraud,2023-11-23,19583,spending,November
+964,14596,Five Guys,Dining Out,fast_food,16.66,non-fraud,2023-11-24,19583,spending,November
+965,34550,Grocery Store - Fresh Produce,Groceries,Groceries,60.17,non-fraud,2023-11-25,19583,spending,November
+966,30334,BJ's Wholesale Club,Groceries,Groceries,28.35,non-fraud,2023-11-26,19583,spending,November
+967,4681,Gas Station - Fuel Purchase,Transportation,Fuel,28.42,non-fraud,2023-11-26,19583,spending,November
+968,1449,DesignMyNight ,Entertainment,Entertainment,65.38,non-fraud,2023-11-27,19583,spending,November
+969,8215,Currys PC World,Online Shopping,Online Shopping,132.27,non-fraud,2023-11-28,19583,spending,November
+970,13769,Transfer to Investment Account,Transfers,Transfers,334.36,non-fraud,2023-11-28,19583,spending,November
+971,19017,Target - Back-to-School Shopping,Shopping,Shopping,65.27,non-fraud,2023-11-28,19583,spending,November
+972,1137,Fuel Purchase - Gas Station,Transportation,Fuel,140.01,non-fraud,2023-11-28,19583,spending,November
+973,9925,Caffe Nero,Dining Out,cafes,2.73,non-fraud,2023-11-30,19583,spending,November
+974,4885,WaterAid,Charity,Charity,9.41,non-fraud,2023-10-01,17747,spending,October
+975,2229,Rent payment ,Housing,Housing,1771.72,non-fraud,2023-10-01,17747,spending,October
+976,1104,O2,Utilities,Mobile,11.09,non-fraud,2023-10-01,17747,spending,October
+977,5186,Paycheck Deposit - Company Payroll,Income,Income,19776.060468977943,non-fraud,2023-10-01,17747,income,October
+978,5804,Invest Engine,Investment,Investment,188.04,non-fraud,2023-10-02,17747,spending,October
+979,11486,Transfer to Vacation Fund,Transfers,Transfers,219.86,non-fraud,2023-10-02,17747,spending,October
+980,36108,Whole Foods Market,Groceries,Groceries,48.46,non-fraud,2023-10-02,17747,spending,October
+981,4781,Sanctuary spa,Personal care,Personal care,30.33,non-fraud,2023-10-02,17747,spending,October
+982,9348,British Gas,Utilities,Bills,97.23,non-fraud,2023-10-02,17747,spending,October
+983,8862,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,9.87,non-fraud,2023-10-02,17747,spending,October
+984,3454,Three,Utilities,Mobile,21.02,non-fraud,2023-10-03,17747,spending,October
+985,24,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,45.96,non-fraud,2023-10-03,17747,spending,October
+986,4391,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,86.86,non-fraud,2023-10-03,17747,spending,October
+987,7089,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,170.66,non-fraud,2023-10-03,17747,spending,October
+988,10708,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,204.64,non-fraud,2023-10-03,17747,spending,October
+989,40976,Giant Food,Groceries,Groceries,39.35,non-fraud,2023-10-04,17747,spending,October
+990,9446,Online Shopping - Amazon,Online Shopping,Online Shopping,30.43,non-fraud,2023-10-04,17747,spending,October
+991,7976,Transfer to Emergency Fund,Transfers,Transfers,477.75,non-fraud,2023-10-04,17747,spending,October
+992,3544,DesignMyNight ,Entertainment,Entertainment,40.38,non-fraud,2023-10-04,17747,spending,October
+993,4417,My5 (Channel 5),Utilities,TV,12.63,non-fraud,2023-10-04,17747,spending,October
+994,3457,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,180.59,non-fraud,2023-10-04,17747,spending,October
+995,15694,The Dive Bar,Dining Out,bars,18.88,non-fraud,2023-10-06,17747,spending,October
+996,9241,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,46.3,non-fraud,2023-10-06,17747,spending,October
+997,5646,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,458.21,non-fraud,2023-10-08,17747,spending,October
+998,9500,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,106.8,non-fraud,2023-10-08,17747,spending,October
+999,917,Savings Account Interest - October,Interest,Interest,6.48,non-fraud,2023-10-09,17747,spending,October
+1000,3835,Vue,Entertainment,Entertainment,45.5,non-fraud,2023-10-09,17747,spending,October
+1001,10251,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,20.69,non-fraud,2023-10-09,17747,spending,October
+1002,11616,Transfer to Vacation Fund,Transfers,Transfers,463.4,non-fraud,2023-10-10,17747,spending,October
+1003,4930,Transfer from Savings to Current,Transfers,Transfers,419.71,non-fraud,2023-10-10,17747,spending,October
+1004,10695,Zara - Affordable Fashion,Online Shopping,Online Shopping,288.51,non-fraud,2023-10-10,17747,spending,October
+1005,14313,Jimmy John's,Dining Out,fast_food,16.4,non-fraud,2023-10-10,17747,spending,October
+1006,3248,Vue,Entertainment,Entertainment,35.36,non-fraud,2023-10-12,17747,spending,October
+1007,32669,Whole Foods Market,Groceries,Groceries,35.72,non-fraud,2023-10-12,17747,spending,October
+1008,11649,Givenchy - Designer Apparel,Shopping,Luxury shopping,1546.47,non-fraud,2023-10-13,17747,spending,October
+1009,17436,Lavazza Coffee,Dining Out,cafes,3.42,non-fraud,2023-10-13,17747,spending,October
+1010,4329,Body Shop,Personal care,Personal care,17.02,non-fraud,2023-10-15,17747,spending,October
+1011,18846,Fry's Food Stores,Groceries,Groceries,15.76,non-fraud,2023-10-15,17747,spending,October
+1012,14218,Transfer to Investment Account,Transfers,Transfers,501.93,non-fraud,2023-10-15,17747,spending,October
+1013,6659,Pizza Hut,Dining Out,fast_food,10.89,non-fraud,2023-10-15,17747,spending,October
+1014,7564,Transfer to Savings Account - Rainy Day Fund,Transfers,Transfers,576.72,non-fraud,2023-10-16,17747,spending,October
+1015,2300,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,34.26,non-fraud,2023-10-16,17747,spending,October
+1016,35206,BJ's Wholesale Club,Groceries,Groceries,63.02,non-fraud,2023-10-17,17747,spending,October
+1017,7410,Ramsay Healthcare,Healthcare,Healthcare,82.76,non-fraud,2023-10-17,17747,spending,October
+1018,11351,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,34.37,non-fraud,2023-10-18,17747,spending,October
+1019,691,Sanctuary spa,Personal care,Personal care,32.64,non-fraud,2023-10-19,17747,spending,October
+1020,15975,PJ's Coffee,Dining Out,cafes,2.86,non-fraud,2023-10-19,17747,spending,October
+1021,9417,Forever 21 - Activewear,Online Shopping,Online Shopping,204.6,non-fraud,2023-10-20,17747,spending,October
+1022,7812,Currys PC World,Online Shopping,Online Shopping,108.83,non-fraud,2023-10-20,17747,spending,October
+1023,122,Abellio Scotrail,Transportation,Transportation,39.28,non-fraud,2023-10-22,17747,spending,October
+1024,2580,Practice Plus Group,Healthcare,Healthcare,23.67,non-fraud,2023-10-22,17747,spending,October
+1025,5275,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,39.13,non-fraud,2023-10-22,17747,spending,October
+1026,9208,Transfer to Investment Account,Transfers,Transfers,985.02,non-fraud,2023-10-22,17747,spending,October
+1027,4591,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,12.32,non-fraud,2023-10-23,17747,spending,October
+1028,2618,Smart & Final,Groceries,Groceries,20.34,non-fraud,2023-10-23,17747,spending,October
+1029,19366,Grocery Store - Fresh Produce,Groceries,Groceries,25.56,non-fraud,2023-10-24,17747,spending,October
+1030,4397,Transfer from Savings to Current,Transfers,Transfers,528.48,non-fraud,2023-10-25,17747,spending,October
+1031,12838,Transfer to Emergency Fund,Transfers,Transfers,527.57,non-fraud,2023-10-26,17747,spending,October
+1032,9974,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,74.68,non-fraud,2023-10-26,17747,spending,October
+1033,5921,Wickes,Home Improvement,Home Improvement,199.45,non-fraud,2023-10-28,17747,spending,October
+1034,524,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,51.93,non-fraud,2023-10-28,17747,spending,October
+1035,30228,SuperValu,Groceries,Groceries,43.49,non-fraud,2023-10-30,17747,spending,October
+1036,21991,Chanel - Designer Fashion,Shopping,Luxury shopping,1098.04,non-fraud,2023-10-30,17747,spending,October
+1037,13095,Burberry - Fashion Purchase,Shopping,Luxury shopping,1810.95,non-fraud,2023-10-30,17747,spending,October
+1038,5736,Citylink,Transportation,Transportation,36.73,non-fraud,2023-10-30,17747,spending,October
+1039,4621,Ralphs,Groceries,Groceries,27.12,non-fraud,2023-10-30,17747,spending,October
+1040,36518,IGA,Groceries,Groceries,64.34,non-fraud,2023-10-30,17747,spending,October
+1041,657,Savings Account Interest - October,Interest,Interest,9.39,non-fraud,2023-10-31,17747,spending,October
+1042,12925,DFS,Home Improvement,Home Improvement,237.28,non-fraud,2023-10-31,17747,spending,October
+1043,2229,Rent payment ,Housing,Housing,1771.72,non-fraud,2023-11-01,17747,spending,November
+1044,8051,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,90.42,non-fraud,2023-11-01,17747,spending,November
+1045,1104,O2,Utilities,Mobile,11.09,non-fraud,2023-11-01,17747,spending,November
+1046,5186,Paycheck Deposit - Company Payroll,Income,Income,19776.060468977943,non-fraud,2023-11-01,17747,income,November
+1047,9348,British Gas,Utilities,Bills,97.23,non-fraud,2023-11-02,17747,spending,November
+1048,3454,Three,Utilities,Mobile,21.02,non-fraud,2023-11-03,17747,spending,November
+1049,3395,Vue,Entertainment,Entertainment,25.67,non-fraud,2023-11-03,17747,spending,November
+1050,4417,My5 (Channel 5),Utilities,TV,12.63,non-fraud,2023-11-04,17747,spending,November
+1051,1320,Ethiopian Cafe,Dining Out,restaurants,16.06,non-fraud,2023-11-05,17747,spending,November
+1052,14352,Fusion Kitchen,Dining Out,restaurants,34.27,non-fraud,2023-11-05,17747,spending,November
+1053,15596,Transfer to Emergency Fund,Transfers,Transfers,423.81,non-fraud,2023-11-06,17747,spending,November
+1054,873,Body Shop,Personal care,Personal care,14.53,non-fraud,2023-11-06,17747,spending,November
+1055,6000,Fuel Purchase - Gas Station,Transportation,Fuel,69.94,non-fraud,2023-11-07,17747,spending,November
+1056,4612,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,332.65,non-fraud,2023-11-07,17747,spending,November
+1057,578,Fuel Purchase - Gas Station,Transportation,Fuel,77.97,non-fraud,2023-11-08,17747,spending,November
+1058,8331,Transfer to Emergency Fund,Transfers,Transfers,27.55,non-fraud,2023-11-10,17747,spending,November
+1059,1082,Cinemacity,Entertainment,Entertainment,24.22,non-fraud,2023-11-10,17747,spending,November
+1060,9913,Bathstore,Home Improvement,Home Improvement,103.16,non-fraud,2023-11-10,17747,spending,November
+1061,12656,HEB Grocery,Groceries,Groceries,27.34,non-fraud,2023-11-11,17747,spending,November
+1062,21029,Tiffany & Co. - Diamond Jewelry,Shopping,Luxury shopping,916.67,non-fraud,2023-11-11,17747,spending,November
+1063,1476,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,101.55,non-fraud,2023-11-11,17747,spending,November
+1064,12244,Transfer to Emergency Fund,Transfers,Transfers,444.53,non-fraud,2023-11-11,17747,spending,November
+1065,9128,Spire Healthcare,Healthcare,Healthcare,22.88,non-fraud,2023-11-12,17747,spending,November
+1066,9132,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,72.92,non-fraud,2023-11-12,17747,spending,November
+1067,8862,Transfer to Vacation Fund,Transfers,Transfers,321.24,non-fraud,2023-11-13,17747,spending,November
+1068,8740,Transfer from Savings to Current,Transfers,Transfers,641.33,non-fraud,2023-11-13,17747,spending,November
+1069,16950,Grocery Shopping - Neighborhood Store,Groceries,Groceries,59.79,non-fraud,2023-11-13,17747,spending,November
+1070,2135,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,2.9,non-fraud,2023-11-13,17747,spending,November
+1071,1899,Pathology/Diagnostics,Healthcare,Healthcare,91.07,non-fraud,2023-11-13,17747,spending,November
+1072,6822,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,67.19,non-fraud,2023-11-13,17747,spending,November
+1073,3994,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,101.28,non-fraud,2023-11-13,17747,spending,November
+1074,6430,Hemingway's,Dining Out,bars,50.18,non-fraud,2023-11-14,17747,spending,November
+1075,4661,Manning Books ,Personal care,Personal care,27.87,non-fraud,2023-11-15,17747,spending,November
+1076,2607,Rituals ,Personal care,Personal care,25.75,non-fraud,2023-11-15,17747,spending,November
+1077,7956,Online Shopping - Tech Accessories,Online Shopping,Online Shopping,25.28,non-fraud,2023-11-15,17747,spending,November
+1078,8045,Ebay ,Online Shopping,Online Shopping,164.88,non-fraud,2023-11-15,17747,spending,November
+1079,122,Interest Earned - Savings Account,Interest,Interest,7.73,non-fraud,2023-11-15,17747,spending,November
+1080,3618,Transfer to Emergency Fund,Transfers,Transfers,484.79,non-fraud,2023-11-16,17747,spending,November
+1081,6807,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,7.98,non-fraud,2023-11-16,17747,spending,November
+1082,8095,Transfer from Current to Savings,Transfers,Transfers,495.02,non-fraud,2023-11-16,17747,spending,November
+1083,7109,Woolworths,Groceries,Groceries,46.67,non-fraud,2023-11-16,17747,spending,November
+1084,8781,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,91.91,non-fraud,2023-11-17,17747,spending,November
+1085,26736,Versace - Fashion Shopping,Shopping,Luxury shopping,558.87,non-fraud,2023-11-17,17747,spending,November
+1086,4804,UNICEF UK,Charity,Charity,3.02,non-fraud,2023-11-18,17747,spending,November
+1087,14584,Hy-Vee,Groceries,Groceries,157.8,non-fraud,2023-11-18,17747,spending,November
+1088,2481,Online Shopping - Tech Accessories,Online Shopping,Online Shopping,22.66,non-fraud,2023-11-18,17747,spending,November
+1089,7292,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,33.56,non-fraud,2023-11-18,17747,spending,November
+1090,5565,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,47.8,non-fraud,2023-11-19,17747,spending,November
+1091,6221,Walmart - Household Supplies,Groceries,Groceries,25.99,non-fraud,2023-11-19,17747,spending,November
+1092,5089,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,31.61,non-fraud,2023-11-19,17747,spending,November
+1093,40187,Food Lion,Groceries,Groceries,57.29,non-fraud,2023-11-21,17747,spending,November
+1094,1315,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,21.61,non-fraud,2023-11-24,17747,spending,November
+1095,3485,MedicSpot Virtual,Healthcare,Healthcare,183.67,non-fraud,2023-11-24,17747,spending,November
+1096,17692,Whole Foods Market,Groceries,Groceries,67.37,non-fraud,2023-11-25,17747,spending,November
+1097,3209,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,90.35,non-fraud,2023-11-26,17747,spending,November
+1098,18960,Best Buy - Electronics Purchase,Shopping,Luxury shopping,884.99,non-fraud,2023-11-26,17747,spending,November
+1099,10660,Gourmet Pizzeria,Dining Out,restaurants,15.67,non-fraud,2023-11-27,17747,spending,November
+1100,10048,Transfer from Current to Savings,Transfers,Transfers,365.64,non-fraud,2023-11-27,17747,spending,November
+1101,24778,Rolex Boutique - Exclusive Watch,Shopping,Luxury shopping,266.69,non-fraud,2023-11-27,17747,spending,November
+1102,16097,Transfer to Vacation Fund,Transfers,Transfers,366.38,non-fraud,2023-11-27,17747,spending,November
+1103,5651,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,396.99,non-fraud,2023-11-27,17747,spending,November
+1104,10957,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,62.3,non-fraud,2023-11-28,17747,spending,November
+1105,6524,Transfer to Investment Account,Transfers,Transfers,160.45,non-fraud,2023-11-29,17747,spending,November
+1106,9920,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,91.5,non-fraud,2023-11-29,17747,spending,November
+1107,6888,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,251.5,non-fraud,2023-11-29,17747,spending,November
+1108,36450,Publix Super Markets,Groceries,Groceries,120.59,non-fraud,2023-11-29,17747,spending,November
+1109,338,Art Gallery and Museum ,Entertainment,Entertainment,39.41,non-fraud,2023-11-30,17747,spending,November
+1110,9282,Gelson's Markets,Groceries,Groceries,23.47,non-fraud,2023-11-30,17747,spending,November
+1111,3068,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,52.95,non-fraud,2023-11-30,17747,spending,November
+1112,3800,Paycheck Deposit - Company Name,Income,Income,14862.531105621707,non-fraud,2023-10-01,17357,income,October
+1113,8398,npower,Utilities,Bills,42.47,non-fraud,2023-10-01,17357,spending,October
+1114,1585,Rent payment ,Housing,Housing,2041.29,non-fraud,2023-10-01,17357,spending,October
+1115,2431,Boots ,Personal care,Personal care,10.2,non-fraud,2023-10-02,17357,spending,October
+1116,2549,Bulb,Utilities,Bills,113.18,non-fraud,2023-10-02,17357,spending,October
+1117,1167,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,56.54,non-fraud,2023-10-02,17357,spending,October
+1118,3093,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,27.61,non-fraud,2023-10-02,17357,spending,October
+1119,22283,Food City,Groceries,Groceries,19.54,non-fraud,2023-10-03,17357,spending,October
+1120,2683,Scotrail ,Transportation,Transportation,13.16,non-fraud,2023-10-03,17357,spending,October
+1121,2685,SLC,Loan Payment,Loan Payment,346.31,non-fraud,2023-10-03,17357,spending,October
+1122,1561,Three,Utilities,Mobile,33.62,non-fraud,2023-10-03,17357,spending,October
+1123,6612,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,304.21,non-fraud,2023-10-03,17357,spending,October
+1124,40127,Wegmans,Groceries,Groceries,44.84,non-fraud,2023-10-03,17357,spending,October
+1125,8207,British Gas,Utilities,Bills,96.5,non-fraud,2023-10-04,17357,spending,October
+1126,1704,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,21.22,non-fraud,2023-10-05,17357,spending,October
+1127,2479,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,181.21,non-fraud,2023-10-05,17357,spending,October
+1128,33850,Food Lion,Groceries,Groceries,13.36,non-fraud,2023-10-05,17357,spending,October
+1129,9950,Shearings Holidays,Holiday,Holiday,615.05,non-fraud,2023-10-06,17357,spending,October
+1130,10908,French Brasserie,Dining Out,restaurants,48.89,non-fraud,2023-10-06,17357,spending,October
+1131,539,DesignMyNight ,Entertainment,Entertainment,21.13,non-fraud,2023-10-06,17357,spending,October
+1132,1001,Urban Outfitters - Affordable Fashion,Online Shopping,Online Shopping,87.41,non-fraud,2023-10-06,17357,spending,October
+1133,8152,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,7.72,non-fraud,2023-10-06,17357,spending,October
+1134,3657,Laura Ashley,Home Improvement,Home Improvement,1006.69,non-fraud,2023-10-06,17357,spending,October
+1135,3450,Synlab/iPP,Healthcare,Healthcare,48.38,non-fraud,2023-10-07,17357,spending,October
+1136,40420,Smith's Food and Drug,Groceries,Groceries,39.07,non-fraud,2023-10-07,17357,spending,October
+1137,1145,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,13.44,non-fraud,2023-10-08,17357,spending,October
+1138,8378,Transfer to Emergency Fund,Transfers,Transfers,296.69,non-fraud,2023-10-08,17357,spending,October
+1139,4255,Transfer to Investment Account,Transfers,Transfers,1249.68,non-fraud,2023-10-08,17357,spending,October
+1140,19792,Forever 21 - Fashion Shopping,Shopping,Shopping,261.45,non-fraud,2023-10-09,17357,spending,October
+1141,9954,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,275.92,non-fraud,2023-10-09,17357,spending,October
+1142,11433,Save Mart Supermarkets,Groceries,Groceries,12.0,non-fraud,2023-10-10,17357,spending,October
+1143,3305,Interactive Brokers ,Investment,Investment,102.56,non-fraud,2023-10-10,17357,spending,October
+1144,10559,Tiffany & Co. - Diamond Jewelry,Shopping,Luxury shopping,628.46,non-fraud,2023-10-10,17357,spending,October
+1145,4123,Credit Card Payment - Mastercard **** 6789,Credit Card Payment,Credit Card Payment,47.21,non-fraud,2023-10-10,17357,spending,October
+1146,10352,H&M - Accessories,Online Shopping,Online Shopping,33.03,non-fraud,2023-10-11,17357,spending,October
+1147,6290,Woolworths,Groceries,Groceries,73.54,non-fraud,2023-10-11,17357,spending,October
+1148,7388,Stumptown Coffee,Dining Out,cafes,3.71,non-fraud,2023-10-11,17357,spending,October
+1149,1577,Uniqlo - Affordable Denim,Shopping,Shopping,149.15,non-fraud,2023-10-12,17357,spending,October
+1150,9405,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,16.21,non-fraud,2023-10-12,17357,spending,October
+1151,8965,Topps Tiles,Home Improvement,Home Improvement,270.81,non-fraud,2023-10-12,17357,spending,October
+1152,2033,Transfer to Vacation Fund,Transfers,Transfers,61.62,non-fraud,2023-10-12,17357,spending,October
+1153,24396,Tesco,Groceries,Groceries,108.23,non-fraud,2023-10-14,17357,spending,October
+1154,1861,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,56.91,non-fraud,2023-10-14,17357,spending,October
+1155,7550,The Whiskey Barrel,Dining Out,bars,13.12,non-fraud,2023-10-14,17357,spending,October
+1156,9453,The Sky Lounge,Dining Out,bars,35.96,non-fraud,2023-10-14,17357,spending,October
+1157,270,Everyman cinema ,Entertainment,Entertainment,22.64,non-fraud,2023-10-14,17357,spending,October
+1158,2902,Paintball ,Entertainment,Entertainment,11.33,non-fraud,2023-10-14,17357,spending,October
+1159,12299,Safeway,Groceries,Groceries,91.59,non-fraud,2023-10-14,17357,spending,October
+1160,4450,Transfer to Investment Account,Transfers,Transfers,185.25,non-fraud,2023-10-15,17357,spending,October
+1161,4526,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,149.48,non-fraud,2023-10-17,17357,spending,October
+1162,4992,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,5.59,non-fraud,2023-10-18,17357,spending,October
+1163,4288,Superdrug ,Personal care,Personal care,20.52,non-fraud,2023-10-18,17357,spending,October
+1164,7104,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,38.36,non-fraud,2023-10-19,17357,spending,October
+1165,4062,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,180.67,non-fraud,2023-10-20,17357,spending,October
+1166,6846,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,24.58,non-fraud,2023-10-20,17357,spending,October
+1167,1627,Monthly Service Fee - Bank Account,Bank Fees,Bank Fees,8.23,non-fraud,2023-10-21,17357,spending,October
+1168,14407,Medica,Healthcare,Healthcare,70.86,non-fraud,2023-10-22,17357,spending,October
+1169,5773,Scan,Electronics,Electronics,545.25,non-fraud,2023-10-23,17357,spending,October
+1170,4619,First Bus,Transportation,Transportation,57.33,non-fraud,2023-10-23,17357,spending,October
+1171,17775,Decathlon - Sportswear Shopping,Shopping,Shopping,137.51,non-fraud,2023-10-24,17357,spending,October
+1172,1216,Interest Earned - Savings Account,Interest,Interest,7.5,non-fraud,2023-10-24,17357,spending,October
+1173,2584,LNER,Transportation,Transportation,25.79,non-fraud,2023-10-24,17357,spending,October
+1174,547,Interest Earned - Savings Account,Interest,Interest,5.78,non-fraud,2023-10-28,17357,spending,October
+1175,7264,Zara - Affordable Fashion,Online Shopping,Online Shopping,160.8,non-fraud,2023-10-28,17357,spending,October
+1176,10942,Transfer to Investment Account,Transfers,Transfers,485.11,non-fraud,2023-10-28,17357,spending,October
+1177,9890,Transfer to Investment Account,Transfers,Transfers,33.17,non-fraud,2023-10-28,17357,spending,October
+1178,828,Transfer to Vacation Fund,Transfers,Transfers,59.27,non-fraud,2023-10-29,17357,spending,October
+1179,3305,Transfer to Emergency Fund,Transfers,Transfers,757.63,non-fraud,2023-10-29,17357,spending,October
+1180,15204,Transfer to Vacation Fund,Transfers,Transfers,642.42,non-fraud,2023-10-29,17357,spending,October
+1181,21875,Grocery Store - Weekly Shopping,Groceries,Groceries,53.09,non-fraud,2023-10-31,17357,spending,October
+1182,113,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,103.2,non-fraud,2023-10-31,17357,spending,October
+1183,5455,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,77.0,non-fraud,2023-10-31,17357,spending,October
+1184,12850,IGA,Groceries,Groceries,81.99,non-fraud,2023-10-31,17357,spending,October
+1185,4654,Practice Plus Group,Healthcare,Healthcare,47.33,non-fraud,2023-10-31,17357,spending,October
+1186,1585,Rent payment ,Housing,Housing,2041.29,non-fraud,2023-11-01,17357,spending,November
+1187,8398,npower,Utilities,Bills,42.47,non-fraud,2023-11-01,17357,spending,November
+1188,13880,Transfer from Current to Savings,Transfers,Transfers,99.02,non-fraud,2023-11-01,17357,spending,November
+1189,16569,Grocery Store - Household Supplies,Groceries,Groceries,31.57,non-fraud,2023-11-01,17357,spending,November
+1190,41034,Piggly Wiggly,Groceries,Groceries,14.61,non-fraud,2023-11-01,17357,spending,November
+1191,3800,Paycheck Deposit - Company Name,Income,Income,14862.531105621707,non-fraud,2023-11-01,17357,income,November
+1192,2549,Bulb,Utilities,Bills,113.18,non-fraud,2023-11-02,17357,spending,November
+1193,7130,Online Retailer - Electronics Purchase,Online Shopping,Online Shopping,68.45,non-fraud,2023-11-02,17357,spending,November
+1194,12316,Fred. Olsen Cruise Lines,Holiday,Holiday,570.73,non-fraud,2023-11-02,17357,spending,November
+1195,1561,Three,Utilities,Mobile,33.62,non-fraud,2023-11-03,17357,spending,November
+1196,270,Transfer to Vacation Fund,Transfers,Transfers,54.33,non-fraud,2023-11-03,17357,spending,November
+1197,468,Savings Account Interest - October,Interest,Interest,10.86,non-fraud,2023-11-03,17357,spending,November
+1198,8207,British Gas,Utilities,Bills,96.5,non-fraud,2023-11-04,17357,spending,November
+1199,3509,First Bus,Transportation,Transportation,64.18,non-fraud,2023-11-04,17357,spending,November
+1200,2303,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,229.96,non-fraud,2023-11-04,17357,spending,November
+1201,12756,Transfer to Emergency Fund,Transfers,Transfers,490.41,non-fraud,2023-11-05,17357,spending,November
+1202,14969,Publix Super Markets,Groceries,Groceries,80.03,non-fraud,2023-11-05,17357,spending,November
+1203,9740,Transfer from Current to Savings,Transfers,Transfers,670.07,non-fraud,2023-11-06,17357,spending,November
+1204,16293,Omnes,Healthcare,Healthcare,202.33,non-fraud,2023-11-06,17357,spending,November
+1205,1705,Vue,Entertainment,Entertainment,13.05,non-fraud,2023-11-06,17357,spending,November
+1206,1330,Monthly Account Maintenance Fee,Bank Fees,Bank Fees,3.45,non-fraud,2023-11-06,17357,spending,November
+1207,5731,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,58.3,non-fraud,2023-11-06,17357,spending,November
+1208,13962,ZoomDoc,Healthcare,Healthcare,104.04,non-fraud,2023-11-07,17357,spending,November
+1209,1819,ATM Withdrawal - XYZ Bank ATM,Cash Withdrawal,Cash Withdrawal,6.25,non-fraud,2023-11-07,17357,spending,November
+1210,14833,Wegmans,Groceries,Groceries,45.55,non-fraud,2023-11-08,17357,spending,November
+1211,10588,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,9.06,non-fraud,2023-11-08,17357,spending,November
+1212,10,DesignMyNight ,Entertainment,Entertainment,62.99,non-fraud,2023-11-09,17357,spending,November
+1213,3822,SLC,Loan Payment,Loan Payment,183.57,non-fraud,2023-11-09,17357,spending,November
+1214,10529,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,5.34,non-fraud,2023-11-10,17357,spending,November
+1215,2643,Vue,Entertainment,Entertainment,52.49,non-fraud,2023-11-10,17357,spending,November
+1216,23655,Kmart Super Centers,Groceries,Groceries,24.02,non-fraud,2023-11-10,17357,spending,November
+1217,4417,Body Shop,Personal care,Personal care,14.63,non-fraud,2023-11-10,17357,spending,November
+1218,19131,Marks & Spencer,Home Improvement,Home Improvement,726.14,non-fraud,2023-11-10,17357,spending,November
+1219,6,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,77.49,non-fraud,2023-11-11,17357,spending,November
+1220,6282,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,99.25,non-fraud,2023-11-11,17357,spending,November
+1221,4227,ATM Withdrawal - MNO Bank ATM,Cash Withdrawal,Cash Withdrawal,6.13,non-fraud,2023-11-12,17357,spending,November
+1222,10729,Five Guys,Dining Out,fast_food,12.42,non-fraud,2023-11-13,17357,spending,November
+1223,10960,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,69.93,non-fraud,2023-11-14,17357,spending,November
+1224,2973,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,84.53,non-fraud,2023-11-14,17357,spending,November
+1225,4120,Transfer from Savings to Current,Transfers,Transfers,168.08,non-fraud,2023-11-14,17357,spending,November
+1226,4028,Sanctuary spa,Personal care,Personal care,21.93,non-fraud,2023-11-14,17357,spending,November
+1227,1625,Scotrail ,Transportation,Transportation,7.3,non-fraud,2023-11-15,17357,spending,November
+1228,8980,Currys PC World,Online Shopping,Online Shopping,73.46,non-fraud,2023-11-15,17357,spending,November
+1229,7090,PJ's Coffee,Dining Out,cafes,4.66,non-fraud,2023-11-15,17357,spending,November
+1230,156,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,61.93,non-fraud,2023-11-15,17357,spending,November
+1231,12313,Transfer to Vacation Fund,Transfers,Transfers,378.62,non-fraud,2023-11-15,17357,spending,November
+1232,3943,Transfer to Vacation Fund,Transfers,Transfers,226.01,non-fraud,2023-11-15,17357,spending,November
+1233,7718,LIVI,Healthcare,Healthcare,66.07,non-fraud,2023-11-15,17357,spending,November
+1234,15720,Sonic Drive-In,Dining Out,fast_food,17.45,non-fraud,2023-11-16,17357,spending,November
+1235,10369,Ebay ,Online Shopping,Online Shopping,124.42,non-fraud,2023-11-17,17357,spending,November
+1236,16291,Kohl's - Home Decor,Shopping,Shopping,48.64,non-fraud,2023-11-21,17357,spending,November
+1237,4699,Dunkin',Dining Out,cafes,2.66,non-fraud,2023-11-22,17357,spending,November
+1238,7948,H&M - Accessories,Online Shopping,Online Shopping,384.53,non-fraud,2023-11-22,17357,spending,November
+1239,5209,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,41.24,non-fraud,2023-11-23,17357,spending,November
+1240,9621,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,62.52,non-fraud,2023-11-23,17357,spending,November
+1241,810,Grocery Shopping - Supermart,Groceries,Groceries,130.28,non-fraud,2023-11-23,17357,spending,November
+1242,11638,Transfer from Current to Savings,Transfers,Transfers,642.16,non-fraud,2023-11-24,17357,spending,November
+1243,34001,Morrisons,Groceries,Groceries,12.22,non-fraud,2023-11-24,17357,spending,November
+1244,418,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,55.7,non-fraud,2023-11-25,17357,spending,November
+1245,638,Savings Account Interest - October,Interest,Interest,6.93,non-fraud,2023-11-25,17357,spending,November
+1246,27747,Louis Vuitton - Luxury Luggage,Shopping,Luxury shopping,319.12,non-fraud,2023-11-25,17357,spending,November
+1247,8521,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,223.85,non-fraud,2023-11-26,17357,spending,November
+1248,33680,Target - Back-to-School Shopping,Shopping,Shopping,52.83,non-fraud,2023-11-27,17357,spending,November
+1249,697,Rituals ,Personal care,Personal care,31.7,non-fraud,2023-11-28,17357,spending,November
+1250,4854,Vegetarian Delight,Dining Out,restaurants,37.73,non-fraud,2023-11-29,17357,spending,November
+1251,869,Vanguard ,Investment,Investment,187.4,non-fraud,2023-11-30,17357,spending,November
+1252,28998,Shaw's,Groceries,Groceries,32.24,non-fraud,2023-11-30,17357,spending,November
+1253,13341,Transfer to Vacation Fund,Transfers,Transfers,717.32,non-fraud,2023-11-30,17357,spending,November
+1254,28540,Lidl,Groceries,Groceries,61.69,non-fraud,2023-11-30,17357,spending,November
+1255,59,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,33.07,non-fraud,2023-11-30,17357,spending,November
+1256,6972,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,464.38,non-fraud,2023-11-30,17357,spending,November
+1257,5105,Mortgage payments,Housing,Housing,1838.13,non-fraud,2023-10-01,12782,spending,October
+1258,6290,CuriosityStream,Utilities,TV,15.47,non-fraud,2023-10-01,12782,spending,October
+1259,2301,Paycheck Deposit - XYZ Ltd.,Income,Income,13678.156870444662,non-fraud,2023-10-01,12782,income,October
+1260,22136,Shaw's,Groceries,Groceries,121.06,non-fraud,2023-10-02,12782,spending,October
+1261,10607,Hayu,Utilities,TV,26.61,non-fraud,2023-10-02,12782,spending,October
+1262,776,Payless ShoeSource - Inexpensive Shoes,Online Shopping,Online Shopping,186.79,non-fraud,2023-10-02,12782,spending,October
+1263,3555,The Speakeasy,Dining Out,bars,33.68,non-fraud,2023-10-02,12782,spending,October
+1264,10188,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,42.04,non-fraud,2023-10-02,12782,spending,October
+1265,14480,Transfer from Savings to Current,Transfers,Transfers,181.36,non-fraud,2023-10-02,12782,spending,October
+1266,5730,Transfer from Savings to Current,Transfers,Transfers,707.59,non-fraud,2023-10-03,12782,spending,October
+1267,5892,ITV Hub,Utilities,TV,12.08,non-fraud,2023-10-03,12782,spending,October
+1268,2458,LIVI,Healthcare,Healthcare,16.84,non-fraud,2023-10-05,12782,spending,October
+1269,980,Credit Card Payment - Mastercard **** 2345,Credit Card Payment,Credit Card Payment,66.24,non-fraud,2023-10-06,12782,spending,October
+1270,3004,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,16.53,non-fraud,2023-10-06,12782,spending,October
+1271,4914,Pharmacy MYH,Healthcare,Healthcare,54.06,non-fraud,2023-10-06,12782,spending,October
+1272,4325,Crisis,Charity,Charity,8.36,non-fraud,2023-10-06,12782,spending,October
+1273,5486,Old Navy - Family Apparel,Online Shopping,Online Shopping,179.16,non-fraud,2023-10-06,12782,spending,October
+1274,11305,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,82.22,non-fraud,2023-10-07,12782,spending,October
+1275,40233,Smart & Final,Groceries,Groceries,137.93,non-fraud,2023-10-07,12782,spending,October
+1276,1874,Monthly Service Fee - Account Maintenance,Bank Fees,Bank Fees,1.24,non-fraud,2023-10-09,12782,spending,October
+1277,3295,Cottages.com,Holiday,Holiday,759.36,non-fraud,2023-10-10,12782,spending,October
+1278,19086,Panda Express,Dining Out,fast_food,14.16,non-fraud,2023-10-10,12782,spending,October
+1279,2835,Vue,Entertainment,Entertainment,27.91,non-fraud,2023-10-10,12782,spending,October
+1280,5176,Manning Books ,Personal care,Personal care,25.46,non-fraud,2023-10-10,12782,spending,October
+1281,1059,ATM Withdrawal - STU Bank ATM,Cash Withdrawal,Cash Withdrawal,26.28,non-fraud,2023-10-10,12782,spending,October
+1282,15488,Transfer to Investment Account,Transfers,Transfers,131.73,non-fraud,2023-10-11,12782,spending,October
+1283,1664,Transfer from Savings to Current,Transfers,Transfers,23.28,non-fraud,2023-10-11,12782,spending,October
+1284,9994,CeX,Online Shopping,Online Shopping,224.54,non-fraud,2023-10-11,12782,spending,October
+1285,11371,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,69.24,non-fraud,2023-10-11,12782,spending,October
+1286,13664,Topps Tiles,Home Improvement,Home Improvement,567.93,non-fraud,2023-10-11,12782,spending,October
+1287,3570,Biggby Coffee,Dining Out,cafes,3.67,non-fraud,2023-10-12,12782,spending,October
+1288,1533,Rituals ,Personal care,Personal care,24.16,non-fraud,2023-10-12,12782,spending,October
+1289,830,ATM Withdrawal - VWX Bank ATM,Cash Withdrawal,Cash Withdrawal,64.79,non-fraud,2023-10-12,12782,spending,October
+1290,4482,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,239.03,non-fraud,2023-10-12,12782,spending,October
+1291,8951,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,50.57,non-fraud,2023-10-13,12782,spending,October
+1292,2046,Art Gallery and Museum ,Entertainment,Entertainment,32.83,non-fraud,2023-10-14,12782,spending,October
+1293,18237,Target Grocery,Groceries,Groceries,52.36,non-fraud,2023-10-14,12782,spending,October
+1294,2154,Vue,Entertainment,Entertainment,40.95,non-fraud,2023-10-14,12782,spending,October
+1295,3628,Sanctuary spa,Personal care,Personal care,22.41,non-fraud,2023-10-15,12782,spending,October
+1296,10561,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,148.04,non-fraud,2023-10-16,12782,spending,October
+1297,14223,Transfer from Savings to Current,Transfers,Transfers,275.63,non-fraud,2023-10-17,12782,spending,October
+1298,16924,Smart & Final,Groceries,Groceries,13.49,non-fraud,2023-10-17,12782,spending,October
+1299,37617,Save Mart Supermarkets,Groceries,Groceries,16.56,non-fraud,2023-10-17,12782,spending,October
+1300,11682,Transfer from Savings to Current,Transfers,Transfers,614.59,non-fraud,2023-10-17,12782,spending,October
+1301,1185,Caribou Coffee,Dining Out,cafes,3.79,non-fraud,2023-10-17,12782,spending,October
+1302,8197,Old Navy - Family Apparel,Online Shopping,Online Shopping,61.23,non-fraud,2023-10-17,12782,spending,October
+1303,16726,BJ's Wholesale Club,Groceries,Groceries,57.29,non-fraud,2023-10-18,12782,spending,October
+1304,4774,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,216.42,non-fraud,2023-10-20,12782,spending,October
+1305,10429,Credit Card Payment - Mastercard **** 5678,Credit Card Payment,Credit Card Payment,374.79,non-fraud,2023-10-20,12782,spending,October
+1306,4130,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,75.81,non-fraud,2023-10-20,12782,spending,October
+1307,10910,Transfer to Emergency Fund,Transfers,Transfers,58.31,non-fraud,2023-10-20,12782,spending,October
+1308,8879,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,92.02,non-fraud,2023-10-21,12782,spending,October
+1309,12951,New Balance - Affordable Sportswear,Shopping,Shopping,157.13,non-fraud,2023-10-21,12782,spending,October
+1310,18206,The Cellar Door,Dining Out,bars,22.08,non-fraud,2023-10-21,12782,spending,October
+1311,15672,Transfer to Vacation Fund,Transfers,Transfers,753.29,non-fraud,2023-10-22,12782,spending,October
+1312,969,HEB Grocery,Groceries,Groceries,35.94,non-fraud,2023-10-22,12782,spending,October
+1313,93,First Bus,Transportation,Transportation,12.87,non-fraud,2023-10-22,12782,spending,October
+1314,1391,Vue,Entertainment,Entertainment,57.09,non-fraud,2023-10-22,12782,spending,October
+1315,14258,Albertsons,Groceries,Groceries,47.35,non-fraud,2023-10-22,12782,spending,October
+1316,402,Savings Account Interest - October,Interest,Interest,3.49,non-fraud,2023-10-23,12782,spending,October
+1317,5509,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,30.27,non-fraud,2023-10-23,12782,spending,October
+1318,3694,Revolut stocks,Investment,Investment,174.49,non-fraud,2023-10-25,12782,spending,October
+1319,6849,Ebay ,Online Shopping,Online Shopping,201.24,non-fraud,2023-10-25,12782,spending,October
+1320,2329,Credit Card Payment - American Express **** 5678,Credit Card Payment,Credit Card Payment,489.39,non-fraud,2023-10-26,12782,spending,October
+1321,2965,Co-op,Groceries,Groceries,70.11,non-fraud,2023-10-26,12782,spending,October
+1322,15669,Harrods - Luxury Shopping,Shopping,Luxury shopping,983.04,non-fraud,2023-10-27,12782,spending,October
+1323,15,MedicSpot Virtual,Healthcare,Healthcare,185.04,non-fraud,2023-10-27,12782,spending,October
+1324,3633,Scotrail ,Transportation,Transportation,37.74,non-fraud,2023-10-27,12782,spending,October
+1325,26598,Grocery Shopping - Supermart,Groceries,Groceries,55.29,non-fraud,2023-10-27,12782,spending,October
+1326,12566,PacSun - Casual Wear,Shopping,Shopping,139.51,non-fraud,2023-10-28,12782,spending,October
+1327,11947,Transfer to Investment Account,Transfers,Transfers,88.8,non-fraud,2023-10-28,12782,spending,October
+1328,5105,Mortgage payments,Housing,Housing,1838.13,non-fraud,2023-11-01,12782,spending,November
+1329,2301,Paycheck Deposit - XYZ Ltd.,Income,Income,13678.156870444662,non-fraud,2023-11-01,12782,income,November
+1330,6290,CuriosityStream,Utilities,TV,15.47,non-fraud,2023-11-01,12782,spending,November
+1331,35,Transfer to Emergency Fund,Transfers,Transfers,613.42,non-fraud,2023-11-01,12782,spending,November
+1332,37494,Grocery Shopping - Supermart,Groceries,Groceries,92.07,non-fraud,2023-11-02,12782,spending,November
+1333,6467,Bathstore,Home Improvement,Home Improvement,912.35,non-fraud,2023-11-02,12782,spending,November
+1334,14028,Target Grocery,Groceries,Groceries,42.43,non-fraud,2023-11-02,12782,spending,November
+1335,745,DesignMyNight ,Entertainment,Entertainment,84.34,non-fraud,2023-11-02,12782,spending,November
+1336,2920,Art Gallery and Museum ,Entertainment,Entertainment,24.66,non-fraud,2023-11-02,12782,spending,November
+1337,8189,Aldi,Groceries,Groceries,68.65,non-fraud,2023-11-02,12782,spending,November
+1338,6900,Piggly Wiggly,Groceries,Groceries,13.15,non-fraud,2023-11-02,12782,spending,November
+1339,10607,Hayu,Utilities,TV,26.61,non-fraud,2023-11-02,12782,spending,November
+1340,1470,Sallys,Personal care,Personal care,12.35,non-fraud,2023-11-03,12782,spending,November
+1341,9881,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,77.22,non-fraud,2023-11-03,12782,spending,November
+1342,9011,ATM Withdrawal - DEF Bank ATM,Cash Withdrawal,Cash Withdrawal,16.88,non-fraud,2023-11-03,12782,spending,November
+1343,8587,Credit Card Payment - American Express **** 3456,Credit Card Payment,Credit Card Payment,36.38,non-fraud,2023-11-03,12782,spending,November
+1344,5892,ITV Hub,Utilities,TV,12.08,non-fraud,2023-11-03,12782,spending,November
+1345,12502,John Lewis & Partners,Home Improvement,Home Improvement,1578.17,non-fraud,2023-11-04,12782,spending,November
+1346,7670,The Blue Oyster,Dining Out,bars,32.17,non-fraud,2023-11-05,12782,spending,November
+1347,3559,Sanctuary spa,Personal care,Personal care,19.07,non-fraud,2023-11-05,12782,spending,November
+1348,10107,Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,146.01,non-fraud,2023-11-05,12782,spending,November
+1349,680,Transfer to Vacation Fund,Transfers,Transfers,314.25,non-fraud,2023-11-05,12782,spending,November
+1350,1143,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,44.34,non-fraud,2023-11-05,12782,spending,November
+1351,6871,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,29.93,non-fraud,2023-11-05,12782,spending,November
+1352,11541,Vita Health Group,Healthcare,Healthcare,62.62,non-fraud,2023-11-06,12782,spending,November
+1353,13259,Transfer to Vacation Fund,Transfers,Transfers,796.36,non-fraud,2023-11-06,12782,spending,November
+1354,2617,Cinemacity,Entertainment,Entertainment,43.0,non-fraud,2023-11-06,12782,spending,November
+1355,9237,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,23.66,non-fraud,2023-11-06,12782,spending,November
+1356,2887,BJ's Wholesale Club,Groceries,Groceries,83.85,non-fraud,2023-11-06,12782,spending,November
+1357,19465,Asos - Men's Clothing,Shopping,Shopping,287.81,non-fraud,2023-11-06,12782,spending,November
+1358,1163,Brewed Awakening,Dining Out,cafes,4.64,non-fraud,2023-11-07,12782,spending,November
+1359,2682,Vue,Entertainment,Entertainment,39.56,non-fraud,2023-11-08,12782,spending,November
+1360,22105,Neiman Marcus - Designer Shopping,Shopping,Luxury shopping,1940.62,non-fraud,2023-11-10,12782,spending,November
+1361,17331,Irish Pub,Dining Out,restaurants,29.5,non-fraud,2023-11-11,12782,spending,November
+1362,773,Savings Account Interest - October,Interest,Interest,8.97,non-fraud,2023-11-12,12782,spending,November
+1363,11832,Forever 21 - Activewear,Online Shopping,Online Shopping,129.01,non-fraud,2023-11-12,12782,spending,November
+1364,7971,Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,282.93,non-fraud,2023-11-15,12782,spending,November
+1365,17458,Tesla Store - Electric Car Purchase,Shopping,Luxury shopping,1419.69,non-fraud,2023-11-15,12782,spending,November
+1366,8487,Orthopedic,Healthcare,Healthcare,111.14,non-fraud,2023-11-15,12782,spending,November
+1367,26655,SuperValu,Groceries,Groceries,17.31,non-fraud,2023-11-16,12782,spending,November
+1368,9374,Transfer to Emergency Fund,Transfers,Transfers,34.84,non-fraud,2023-11-18,12782,spending,November
+1369,1353,Body Shop,Personal care,Personal care,23.04,non-fraud,2023-11-18,12782,spending,November
+1370,4217,Maplin (Online Only),Electronics,Electronics,158.1,non-fraud,2023-11-18,12782,spending,November
+1371,4237,Revolut stocks,Investment,Investment,183.51,non-fraud,2023-11-19,12782,spending,November
+1372,1593,Chase Credit Card Payment - Visa **** 1234,Credit Card Payment,Credit Card Payment,63.13,non-fraud,2023-11-21,12782,spending,November
+1373,2320,ATM Withdrawal - JKL Bank ATM,Cash Withdrawal,Cash Withdrawal,65.13,non-fraud,2023-11-21,12782,spending,November
+1374,6694,In-N-Out Burger,Dining Out,fast_food,7.3,non-fraud,2023-11-22,12782,spending,November
+1375,5881,Transfer to Investment Account,Transfers,Transfers,972.66,non-fraud,2023-11-23,12782,spending,November
+1376,1297,HEB Grocery,Groceries,Groceries,30.35,non-fraud,2023-11-23,12782,spending,November
+1377,10971,Amazon Prime Membership Renewal,Online Shopping,Online Shopping,55.1,non-fraud,2023-11-23,12782,spending,November
+1378,3366,Online Shopping - Amazon,Online Shopping,Online Shopping,66.9,non-fraud,2023-11-23,12782,spending,November
+1379,11004,The Royal British Legion,Charity,Charity,23.34,non-fraud,2023-11-23,12782,spending,November
+1380,9387,Credit Card Payment - Discover **** 9012,Credit Card Payment,Credit Card Payment,310.8,non-fraud,2023-11-23,12782,spending,November
+1381,13705,Transfer from Savings to Current,Transfers,Transfers,1195.3,non-fraud,2023-11-24,12782,spending,November
+1382,9831,Transfer to Emergency Fund,Transfers,Transfers,600.68,non-fraud,2023-11-24,12782,spending,November
+1383,18018,Grocery Shopping - Mega Mart,Groceries,Groceries,80.0,non-fraud,2023-11-25,12782,spending,November
+1384,3738,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,7.96,non-fraud,2023-11-25,12782,spending,November
+1385,10523,Transfer to Emergency Fund,Transfers,Transfers,461.42,non-fraud,2023-11-25,12782,spending,November
+1386,5614,Transfer from Current to Savings,Transfers,Transfers,1040.06,non-fraud,2023-11-25,12782,spending,November
+1387,6762,Fuel Purchase - Gas Station,Transportation,Fuel,103.5,non-fraud,2023-11-25,12782,spending,November
+1388,20126,Peet's Coffee,Dining Out,cafes,3.99,non-fraud,2023-11-25,12782,spending,November
+1389,8621,Credit Card Payment - Visa **** 7890,Credit Card Payment,Credit Card Payment,212.47,non-fraud,2023-11-26,12782,spending,November
+1390,6263,ATM Withdrawal - GHI Bank ATM,Cash Withdrawal,Cash Withdrawal,89.06,non-fraud,2023-11-26,12782,spending,November
+1391,9921,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,47.67,non-fraud,2023-11-28,12782,spending,November
+1392,10804,ATM Withdrawal - ABC Bank ATM,Cash Withdrawal,Cash Withdrawal,67.5,non-fraud,2023-11-28,12782,spending,November
+1393,15208,Transfer to Investment Account,Transfers,Transfers,307.18,non-fraud,2023-11-28,12782,spending,November
+1394,9889,Whole Foods Market,Groceries,Groceries,49.2,non-fraud,2023-11-28,12782,spending,November
+1395,6305,Omnes,Healthcare,Healthcare,167.67,non-fraud,2023-11-28,12782,spending,November
+1396,3655,ATM Withdrawal - PQR Bank ATM,Cash Withdrawal,Cash Withdrawal,103.12,non-fraud,2023-11-29,12782,spending,November
+1397,927,Gas Station - Fuel Purchase,Transportation,Fuel,16.54,non-fraud,2023-11-30,12782,spending,November
+1398,9,Online Retailer - Clothing Purchase,Online Shopping,Online Shopping,95.46,non-fraud,2023-11-30,12782,spending,November
+1399,10327,ATM Withdrawal - XYZ Bank Branch,Cash Withdrawal,Cash Withdrawal,50.35,non-fraud,2023-11-30,12782,spending,November
