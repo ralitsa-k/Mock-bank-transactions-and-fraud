@@ -1,4 +1,3 @@
-
 ## To generate your own data run the scripts in the following order:
 
 1) Generating_bank_transactions.py
@@ -17,9 +16,9 @@ The scripts generate realistic normal transactions and then adds fradulent ones 
 
 ## To generate your own data: 
 
-The structure of you folders and files should be: 
+The structure of your folders and files should be: 
 
-    -- BanksDataGen/
+    -- Banks-Data-Gen (or name of repo)
        - OutputData 
          |- 
        - SourceData 
@@ -37,6 +36,6 @@ The structure of you folders and files should be:
 ## Considerations 
 
 - CEO type of fraud is removed from the original fraud types. 
-- The amounts of fraud are increased from the original fraud data set, because they were small in relation to 
+- The values of fraud are increased from the original fraud data set, because they were small in relation to 
 regular transactions (maybe reconsider). 
 - Maybe need to change the way non-fraud categories are bound to fraud ones. E.g. right now romance can be 'Romance':['Personal care', 'Dining Out', 'Entertainment', 'Home Improvement','Holiday'].
