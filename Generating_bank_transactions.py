@@ -11,12 +11,12 @@ import time
 start_time = time.time()
 
 """ 
-This script is within the folder named 'BanksDataGen'.
-Within BanksDataGen create folder 'OutputData' and 'SourceData'.
+This script is within the folder named 'banks-data-gen'.
+Within banks-data-gen create folder 'OutputData' and 'SourceData'.
 SourceData contains no_fraud_transactions.csv. 
 And this script creates a csv file within SourceData folder as shown below: 
 
-    -- BanksDataGen/
+    -- banks-data-gen/
        - OutputData 
          |- 
        - SourceData 
@@ -27,14 +27,15 @@ And this script creates a csv file within SourceData folder as shown below:
 # Get the path for this current file 
 curr_path = os.path.abspath(__file__)
 # Get the root path by deleting everything after the specified folder 
-curr_abs_path = curr_path.split('BanksDataGen')[0]
+curr_abs_path = curr_path.split('banks-data-gen')[0]
 
 # Define paths for saving files and loading files 
-save_path = curr_abs_path + 'BanksDataGen/OutputData/'
-source_d_path = curr_abs_path + 'BanksDataGen/SourceData/'
+save_path = curr_abs_path + 'banks-data-gen/OutputData/'
+source_d_path = curr_abs_path + 'banks-data-gen/SourceData/'
 
 # Define how many customers you want simulated 
-n_customers_no_Fraud = 10
+n_customers_no_Fraud = 200
+n_months = 10 
 # Define the date you want the data to start from 
 initial_date = '2023-10-01'
 
@@ -209,11 +210,10 @@ def generate_simulation_data(n_months):
     return full_data
 
 # This will take a while as it generates the full dataset 
-full_data = generate_simulation_data(n_months = 2)
+full_data = generate_simulation_data(n_months)
 
 # Add customer id 
 ids = pd.DataFrame(full_data.customer_id.drop_duplicates()).reset_index(drop = True)
-
 # prepare a sequence
 sequence = [i for i in range(10000, 20000)]
 ids_2 = pd.DataFrame(random.sample(sequence, n_customers_no_Fraud))
@@ -221,7 +221,6 @@ ids['customer_id2'] = ids_2[0]
 full_data = pd.merge(full_data,ids,on='customer_id',how='left')
 full_data = full_data.drop('customer_id', axis = 1)
 full_data.rename(columns = {'customer_id2': 'customer_id'}, inplace = True)
-
 len(ids.customer_id2.drop_duplicates())
 
 # Add Category income vs spendings    
@@ -237,3 +236,4 @@ cc = full_data.groupby(['customer_id','month'])['month'].count()
 full_data.to_csv(save_path + '/final_logical_non_fraud.csv')
 
 print("--- %s seconds ---" % (time.time() - start_time))
+

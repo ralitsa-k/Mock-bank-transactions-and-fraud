@@ -20,6 +20,7 @@ import random
 from datetime import date
 import os
 
+
 # Get the path for this current file 
 curr_path = os.path.abspath(__file__)
 # Get the root path by deleting everything after the specified folder 
