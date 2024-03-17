@@ -15,7 +15,6 @@ As the generating_bank_transactions.py, the folder and files should be:
 import time
 st = time.time()
 import numpy as np
-import pandas as pd
 import random
 from datetime import date
 import os
@@ -37,6 +36,8 @@ source_d_path = curr_abs_path + 'banks-data-gen/SourceData/'
 #%% Prep fraud data and define some parameters 
 
 large_non_fraud_data = pl.read_csv(save_path + 'final_logical_non_fraud2.csv')
+
+
 large_non_fraud_data = large_non_fraud_data.rename({'category':'Category'})
 # define how many to be scammed 
 perc_scammes = 18/100
@@ -84,15 +85,18 @@ noromance_per_month = n_of_months*3
     
 # From here on we get the data for each scammed customer and apply scam transactions     
 fraud_and_no = pl.DataFrame()
-for cust in scammed_sample_data.select(pl.col('customer_id')).unique():
+for cust in np.array(scammed_sample_data.select(pl.col('customer_id')).unique()):
+    
     # get the data per customer 
     curr_data = scammed_sample_data.filter(pl.col('customer_id') == cust)
     # add column fraud type 
-    curr_data = curr_data.with_columns(pl.lit('none').alias('fraud_type'))
-    
+    curr_data = curr_data.with_columns(pl.lit('none').alias('fraud_type')).with_row_index()
+    # get the index of the non-fraud data to be removed 
+
     # If the income of this person is in a high quartile, assign Romance to them 
     # If not, assign other types of scam 
-    if curr_data.filter(pl.col('Category') == 'Income').select(pl.col('Amount')) > quartiles[2]:
+    np.array(curr_data.filter(pl.col('Category') == 'Income').select(pl.col('Amount')))
+    if np.array(curr_data.filter(pl.col('Category') == 'Income').select(pl.col('Amount'))) > quartiles[2]:
        nn = random.randint(romance_per_month-2, romance_per_month)
        fraud_d = romance_only.sample(nn)
     else:
@@ -101,47 +105,44 @@ for cust in scammed_sample_data.select(pl.col('customer_id')).unique():
        
     sample_dates = curr_data.select(pl.col('date', 'month', 'customer_id')).sample(nn)  
     # fraud is always spending (for now), so add this column   
-    fraud_d['type'] = 'spending'
+    fraud_d = fraud_d.with_columns(type = pl.lit('spending'))
     # add the dates to fraud transactions 
-    fraud_d[['date', 'month', 'customer_id']] = sample_dates
+    fraud_d.with_columns(date = sample_dates['date'],
+                         month = sample_dates['month'],
+                         customer_id = sample_dates['customer_id']
+                         )
     
     # the dates used for the fraud transactions have to be used to remove some regular transactions 
     # (so that the number of transactions are still the same per customer per month)
     # but making sure income housing and utilities don't get removed 
-    sdates = sample_dates.date
-    shorten_data = curr_data.loc[(~curr_data['Category'].isin(['Income', 'Utilities', 'Housing'])) & (curr_data['date'].isin(sdates)),:]
-    # get the index of the non-fraud data to be removed 
-    remove_d = shorten_data.sample(fraud_d.shape[0]).index
+    sdates = sample_dates.select(pl.col("date"))
+    shorten_data = curr_data.filter((~pl.col('Category').is_in(['Income', 'Utilities', 'Housing'])) & pl.col('date').is_in(sdates))
+    remove_d = shorten_data.sample(fraud_d.shape[0], with_replacement = True).select(pl.col('index'))
     # from the full data remove the random non-fraud transactions given their defined index
-    curr_data.drop(index=remove_d)
-    curr_data = pd.concat([curr_data, fraud_d])
+    curr_data = curr_data.join(remove_d, on = 'index', how = 'anti')    
    
     # add the fraud transactions to the non-fraud data of this customer 
-    fraud_and_no = pd.concat([fraud_and_no, curr_data])
+    fraud_and_no = pl.concat([fraud_and_no, curr_data])
     
 # add a flag indicated that all of the customers in this data set have been scammed at least once     
-fraud_and_no['customer_scammed'] = 1
+fraud_and_no = fraud_and_no.with_columns(customer_scammed = 1)
 
 
 
 #%% Add the non-fraud data to the customers who were scammed 
 
 # remove the scammed customers from the original data
-non_fraud = large_non_fraud_data.loc[~large_non_fraud_data['customer_id'].isin(scammed_ids)].copy(deep = False)
+non_fraud = large_non_fraud_data.filter(~pl.col('customer_id').is_in(scammed_ids))
 # make sure ordinary transaction are of fraud_type none 
-non_fraud['fraud_type'] = 'none'
+non_fraud = non_fraud.with_columns(fraud_type = pl.lit('none'))
 # all of these customers are not scammed, so the flag is 0
-non_fraud['customer_scammed'] = 0
+non_fraud= non_fraud.with_columns(customer_scammed = 0)
 
 # combine the two data sets 
-data_enriched = pd.concat([fraud_and_no,non_fraud])
+fraud_and_no = fraud_and_no.select(non_fraud.columns)
+data_enriched = pl.concat([fraud_and_no,non_fraud])
 
-# Define if a transaction is a deposit or withdrawal 
-deposits_descr = ['Deposit', 'Interest', 'from Savings' ]
 
-# check average Number of fraud transactions per customer per month 
-n_fraud_transactions = len(data_enriched.transaction_id.drop_duplicates())
-n_fraud_transactions/n_scammed/n_of_months
 
 #%%  Assign banks to tranasactions 
 
