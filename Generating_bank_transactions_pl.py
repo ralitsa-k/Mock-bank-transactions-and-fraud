@@ -34,8 +34,8 @@ save_path = curr_abs_path + 'banks-data-gen/OutputData/'
 source_d_path = curr_abs_path + 'banks-data-gen/SourceData/'
 
 # N. customers simulated
-n_customers_no_Fraud = 200
-n_months = 10
+n_customers_no_Fraud = 100
+n_months = 3
 # Data starting date
 initial_date = '2024-02-02' 
 
@@ -162,7 +162,7 @@ def gen_sim_data(n_months):
 
     return full_data
 
-dd = gen_sim_data(1)
+dd = gen_sim_data(n_months)
 
 # Add Category income vs spendings    
 dd = dd.with_columns(type = pl.when(pl.col('category').is_in(['Income','Interest']))

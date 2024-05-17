@@ -12,9 +12,9 @@ import seaborn as sns
 import os
 
 curr_path = os.path.abspath(__file__)
-curr_abs_path = curr_path.split('PlottingScripts')[0]
+curr_abs_path = curr_path.split('Plotting')[0]
 
-full_df = pd.read_csv(curr_abs_path + '/OutputData/data_with_classified_scam_almost_final_Interest_fixed.csv')
+full_df = pd.read_csv(curr_abs_path + '/OutputData/final_bank_data.csv')
 full_df.columns
 
 # Create a DataFrame for the color mapping

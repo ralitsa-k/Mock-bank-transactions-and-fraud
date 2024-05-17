@@ -26,13 +26,14 @@ curr_path = os.path.abspath(__file__)
 curr_abs_path = curr_path.split('BanksDataGen')[0]
 
 # Define paths for saving files and loading files 
-save_path = curr_abs_path + 'BanksDataGen/OutputData/'
-source_d_path = curr_abs_path + 'BanksDataGen/SourceData/'
+save_path = curr_abs_path + 'BanksDataGen/banks-data-gen/OutputData/'
+source_d_path = curr_abs_path + 'BanksDataGen/banks-data-gen/SourceData/'
 
 
 #%% LOAD descriptions of no-fraud data (n_rows = 589)
 # These were created with chat gpt and manually
 non_fraud_data  = pd.read_csv(source_d_path + 'no_fraud_transactions.csv')
+non_fraud_data.iloc[:, 2:4]
 
 #%% Load FRAUD
 
