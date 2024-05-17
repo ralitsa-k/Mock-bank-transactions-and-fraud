@@ -1,3 +1,5 @@
+# This project created mock bank transaction data with fraudulent and regular transactions in Python
+
 ## To generate your own data run the scripts in the following order:
 
 1) Generating_bank_transactions.py
