@@ -1,5 +1,8 @@
 # This project created mock bank transaction data with fraudulent and regular transactions in Python
 
+Results plotted in Tableau
+![image](https://github.com/ralitsa-k/Mock-bank-transactions-and-fraud/assets/44056292/50e26d5c-ddd9-45dc-8bab-b568e808d56d)
+
 ## To generate your own data run the scripts in the following order:
 
 1) Generating_bank_transactions.py
