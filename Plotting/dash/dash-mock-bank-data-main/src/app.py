@@ -57,25 +57,25 @@ header  = html.Div([ html.Div(
 
 
 
-# side = html.Div([
-#     html.Center(
-#         children=html.Div([
-#             html.H3('Filter data:')
-#         ], style = {'padding-bottom': '20px'})
-#     ),
-#     html.Center(dcc.RadioItems(
-#         id='fraud_option',
-#         options=[
-#             {'label': html.Div(['Fraud'], className = 'button-44'), 'value': 'fraud'},
-#             {'label': html.Div(['NonFraud'], className = 'button-44'), 'value': 'non-fraud'}
-#         ],
-#         value='fraud',
-#         labelStyle={'display': 'block',
-#                     'margin-bottom': '20px',
-#                     'position':'center'
-#                     })
+side = html.Div([
+    html.Center(
+        children=html.Div([
+            html.H3('Filter data:')
+        ], style = {'padding-bottom': '20px'})
+    ),
+    html.Center(dcc.RadioItems(
+        id='fraud_option',
+        options=[
+            {'label': html.Div(['Fraud'], className = 'button-44'), 'value': 'fraud'},
+            {'label': html.Div(['NonFraud'], className = 'button-44'), 'value': 'non-fraud'}
+        ],
+        value='fraud',
+        labelStyle={'display': 'block',
+                    'margin-bottom': '20px',
+                    'position':'center'
+                    })
                 
-#     )], style = SIDEBAR_STYLE)
+    )], style = SIDEBAR_STYLE)
 
 side = html.Div([
     dbc.Row(html.Center(
@@ -117,7 +117,14 @@ rows = html.Div([
 
 app.layout = html.Div([header, side, rows])
 
-full_df1 = pd.read_csv(r'C:\Users\Ralitsa\Documents\All Files\DataSci\BanksDataGen\banks-data-gen\OutputData\final_bank_data.csv')
+
+# Get the path for this current file 
+curr_path = os.path.abspath(__file__)
+# Get the root path by deleting everything after the specified folder 
+curr_abs_path = curr_path.split('banks-data-gen')[0]
+# Define paths for saving files and loading files 
+save_path = curr_abs_path + 'banks-data-gen/OutputData/'
+full_df1 = pd.read_csv(save_path + '/final_bank_data.csv')
 
 @app.callback(
     Output("SankeyChart", "children"), 
