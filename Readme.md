@@ -3,6 +3,7 @@
 Results plotted in Tableau
 ![image](https://github.com/ralitsa-k/Mock-bank-transactions-and-fraud/assets/44056292/50e26d5c-ddd9-45dc-8bab-b568e808d56d)
 
+### Note: Generating bank transactions will take some time. Average 4 minutes is selection is 100 customers for 3 months. 
 ## To generate your own data run the scripts in the following order:
 
 1) Generating_bank_transactions.py

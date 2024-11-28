@@ -50,72 +50,32 @@ server = app.server
 header  = html.Div([ html.Div(
         className="app-header",
         children=[
-            html.H2('Bank-Transactions Mock Data',
+            html.H2('UserTesting client data',
                      className="app-header--title")])
         ]
     )
 
-
-
 side = html.Div([
     html.Center(
         children=html.Div([
-            html.H3('Filter data:')
+            html.H3('Statistics')
         ], style = {'padding-bottom': '20px'})
     ),
-    html.Center(dcc.RadioItems(
-        id='fraud_option',
-        options=[
-            {'label': html.Div(['Fraud'], className = 'button-44'), 'value': 'fraud'},
-            {'label': html.Div(['NonFraud'], className = 'button-44'), 'value': 'non-fraud'}
-        ],
-        value='fraud',
-        labelStyle={'display': 'block',
-                    'margin-bottom': '20px',
-                    'position':'center'
-                    })
+    html.Center(
+        children =html.Div([
+            html.H4('')
+        ])
+    )
                 
-    )], style = SIDEBAR_STYLE)
-
-side = html.Div([
-    dbc.Row(html.Center(
-        children=html.Div([
-            html.H3('Filter data:')
-        ], style = {'padding-bottom': '20px'})
-    )),
-
-    dbc.Row(html.Center(dcc.RadioItems(
-        id='fraud_option',
-        options=[
-            {'label': html.Div(['Fraud'], className = 'button-44'), 'value': 'fraud'},
-            {'label': html.Div(['NonFraud'], className = 'button-44'), 'value': 'non-fraud'}
-        ],
-        value='fraud',
-        labelStyle={'display': 'block',
-                    'margin-bottom': '20px',
-                    'position':'center'
-                    }))),
-        dbc.Row(html.Center(
-        children=html.Div([
-            html.H3(id = 'output_KPI')
-        ], style = {'padding-bottom': '20px'})
-    )),
-    
     ], style = SIDEBAR_STYLE)
 
-# APP LAYOUT
-bar = html.Div(id='output_ratio')            
-
-top_row = html.Div([bar], style = CONTENT_STYLE, className='column1')
+# APP LAYOUT         
 
 rows = html.Div([
-    dbc.Row([dbc.Col(top_row)]),
-     dbc.Row([dbc.Col(html.Div(id = 'output2')),
-              dbc.Col(html.Div([html.Div(id='SankeyChart')]))], style = CONTENT_STYLE)
+     dbc.Row([dbc.Col(html.Div(id = 'Wait_Time')),
+              dbc.Col(html.Div(id='Hist_Waiting'))], style = CONTENT_STYLE)
     ]
 )
-
-app.layout = html.Div([header, side, rows])
 
 
 # Get the path for this current file 
@@ -126,8 +86,17 @@ curr_abs_path = curr_path.split('banks-data-gen')[0]
 save_path = curr_abs_path + 'banks-data-gen/OutputData/'
 full_df1 = pd.read_csv(save_path + '/final_bank_data.csv')
 
+
+app.layout = [
+    html.Div(children='My First App with Data and a Graph'),
+    dash_table.DataTable(data=df.to_dict('records'), page_size=10),
+    dcc.Graph(figure=px.histogram(df, x='continent', y='lifeExp', histfunc='avg'))
+]
+
+
+
 @app.callback(
-    Output("SankeyChart", "children"), 
+    Output("Wait_Time", "children"), 
     Input('fraud_option', 'value'))
 
 def display_graph(fraud_option):
@@ -304,7 +273,6 @@ if __name__ == '__main__':
     server = app.server
     
 
-    
     
     
     
